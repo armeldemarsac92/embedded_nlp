@@ -1,0 +1,23 @@
+# Test Examples for C++ Validation
+# Format: sentence | predicted_topic | actual_topic | confidence
+
+Tu as bien fermé le gaz ? | MISC | MISC | 99.52%
+La météo prévoit du soleil ce weekend. | MISC | MISC | 100.00%
+Bon resto pas cher connu | MISC | MISC | 99.63%
+il y a un bug dans la fonction java qui gère cet array et je dois faire un commit sur la branch TECHnique | TECH | TECH | 100.00%
+J'ai suivi le livre de formation | MISC | TECH | 95.65%
+Je prend le train de 18h | MISC | MISC | 99.93%
+On dit qu'elle est très difficile à vivre. | MISC | GOSSIP | 57.61%
+Il est nécessaire d'ajuster la provision pour dépréciation. | ACCOUNTING | ACCOUNTING | 99.99%
+La traçabilité des accès est assurée par les journaux | ACCOUNTING | CYBER | 99.44%
+consulte les logs du cluster docker pour voir si le cpu est saturé pendant le pipeline de deploy de notre INFRAstructure azure | INFRA | INFRA | 100.00%
+Tu as vu son nouveau poste ? Il a eu de la chance | GOSSIP | GOSSIP | 78.60%
+Le noyau de l'application est stable | TECH | TECH | 69.46%
+Tu as pensé à éteindre la lumière ? | MISC | MISC | 99.98%
+nous devons préparer l'audit externe pour justifier chaque note de frais et l'ebitda du groupe avant la clôture définitive des comptes du semestre | ACCOUNTING | ACCOUNTING | 100.00%
+Prise de refrence tel. | HR_HIRING | HR_HIRING | 95.70%
+Le bucket S3 est privé | INFRA | INFRA | 99.38%
+Il croit tout possible. | GOSSIP | GOSSIP | 87.45%
+Le pirate rigole de nous | CYBER | CYBER | 60.56%
+Je vais porter plainte aux Prud'hommes | HR_COMPLAINT | HR_COMPLAINT | 100.00%
+On doit regarder les conditions vente. | BUSINESS | BUSINESS | 99.96%
