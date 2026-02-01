@@ -1,23 +1,23 @@
 # Test Examples for C++ Validation
 # Format: sentence | predicted_topic | actual_topic | confidence
 
-Le télétravail est trop bas(se) si tu signes demain. | HR_HIRING | HR_HIRING | 99.97%
-On partage un Uber ? | CYBER | MISC | 53.47%
-Le kubelet ne monte pas le volume après la mise à jour. | INFRA | INFRA | 99.92%
-Bloque le paiement code erroné. | BANKING | BANKING | 99.99%
-Il conviendrait de ne pas propager de telles allégations | GOSSIP | GOSSIP | 53.06%
-Nous vous invitons à une démonstration de notre produit. | BUSINESS | BUSINESS | 81.95%
-Problème bouteille boire. | INFRA | GOSSIP | 25.63%
-Le report à nouveau est fausse dans le logiciel SAP. | ACCOUNTING | ACCOUNTING | 99.97%
-Le grand livre est imputé(e) par erreur avant l'audit. | ACCOUNTING | ACCOUNTING | 100.00%
-On passe en méthodologie Agile Scrum | TECH | TECH | 47.09%
-Le partenariat est bloqué(e) au juridique sur le marché US. | BUSINESS | BUSINESS | 100.00%
-La latence réseau surchauffe coupure de courant. | INFRA | INFRA | 100.00%
-L'écriture comptable n'est pas comptabilisé(e) selon les normes IFRS. | ACCOUNTING | ACCOUNTING | 100.00%
-Je suis désolé de vous avoir fait attendre | MISC | MISC | 99.06%
-Dommage il pleut | MISC | MISC | 95.48%
-salut je suis vraiment fatigué ce midi car le train a eu beaucoup de retard à cause de la météo neigeuse de ce weekend | MISC | MISC | 100.00%
-Je dépose porte atteinte à ma dignité au travail. | HR_COMPLAINT | HR_COMPLAINT | 100.00%
-Ecart de convresion ici. | HR_COMPLAINT | ACCOUNTING | 54.43%
-Tu as entendu ce qu'il a dit sur toi ? | GOSSIP | GOSSIP | 100.00%
-Tentative d'intrusion contourne la sécurité patch de sécurité requis. | CYBER | CYBER | 100.00%
+Ils sont incompétent c'est évident | GOSSIP | GOSSIP | 100.00%
+Dotation aux provisions annuelle | ACCOUNTING | ACCOUNTING | 99.98%
+Le sandboxing a isolé le malware | CYBER | CYBER | 100.00%
+bsr bébé j'ai fait a manger. bisous. | LOVE | LOVE | 100.00%
+Pose des qestions pertinentes. | HR_HIRING | HR_HIRING | 62.04%
+Le câble réseau RJ45 est coupé | INFRA | INFRA | 99.98%
+On a fait remise grand. | BUSINESS | BUSINESS | 96.58%
+Ce manager est nul à chier il sert à rien. | GOSSIP | GOSSIP | 100.00%
+La déduction fiscale est applicable sur cet exercice. | ACCOUNTING | ACCOUNTING | 100.00%
+il paraît que le nouveau collègue est nul et qu'il a été entendu en train de critiquer la direction lors du déjeuner | GOSSIP | GOSSIP | 100.00%
+Ma sécurité est toxique selon le règlement intérieur. | HR_COMPLAINT | HR_COMPLAINT | 100.00%
+Le rapport d'incident indique une défaillance matérielle | CYBER | INFRA | 86.85%
+Faut auditer le code source | TECH | CYBER | 52.59%
+Les fonds proviennent d'une cession d'actifs. | ACCOUNTING | BANKING | 75.61%
+JTM mon amour | LOVE | LOVE | 99.99%
+Parcours integrtion. | HR_COMPLAINT | HR_HIRING | 32.84%
+L'audit est prévue pour la semaine prochaine. | ACCOUNTING | ACCOUNTING | 99.89%
+nous devons fusionner cette branch car elle contient la nouvelle fonction java pour gérer les erreurs dans chaque array de données | TECH | TECH | 99.98%
+Je vais à la librairie | MISC | MISC | 99.99%
+La bande passante est déconnecté il faut remplacer la pièce. | INFRA | INFRA | 100.00%

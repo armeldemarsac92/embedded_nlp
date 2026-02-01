@@ -15,7 +15,7 @@ from sklearn.metrics import classification_report, accuracy_score, confusion_mat
 INPUT_SIZE = 8192  # Increased from 4096 for better feature separation
 HIDDEN1_SIZE = 128
 HIDDEN2_SIZE = 64
-DATASET_FILE = "DataSetTeensyv5.csv"
+DATASET_FILE = "DataSetTeensyv6.csv"
 OUTPUT_HEADER_FILE = "ModelWeights.h"
 OUTPUT_PKL_FILE = "topic_detection_model.pkl"
 
