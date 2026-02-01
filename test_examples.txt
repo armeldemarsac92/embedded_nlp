@@ -1,23 +1,23 @@
 # Test Examples for C++ Validation
 # Format: sentence | predicted_topic | actual_topic | confidence
 
-Ils sont incompétent c'est évident | GOSSIP | GOSSIP | 100.00%
-Dotation aux provisions annuelle | ACCOUNTING | ACCOUNTING | 99.98%
-Le sandboxing a isolé le malware | CYBER | CYBER | 100.00%
-bsr bébé j'ai fait a manger. bisous. | LOVE | LOVE | 100.00%
-Pose des qestions pertinentes. | HR_HIRING | HR_HIRING | 62.04%
-Le câble réseau RJ45 est coupé | INFRA | INFRA | 99.98%
-On a fait remise grand. | BUSINESS | BUSINESS | 96.58%
-Ce manager est nul à chier il sert à rien. | GOSSIP | GOSSIP | 100.00%
-La déduction fiscale est applicable sur cet exercice. | ACCOUNTING | ACCOUNTING | 100.00%
-il paraît que le nouveau collègue est nul et qu'il a été entendu en train de critiquer la direction lors du déjeuner | GOSSIP | GOSSIP | 100.00%
-Ma sécurité est toxique selon le règlement intérieur. | HR_COMPLAINT | HR_COMPLAINT | 100.00%
-Le rapport d'incident indique une défaillance matérielle | CYBER | INFRA | 86.85%
-Faut auditer le code source | TECH | CYBER | 52.59%
-Les fonds proviennent d'une cession d'actifs. | ACCOUNTING | BANKING | 75.61%
-JTM mon amour | LOVE | LOVE | 99.99%
-Parcours integrtion. | HR_COMPLAINT | HR_HIRING | 32.84%
-L'audit est prévue pour la semaine prochaine. | ACCOUNTING | ACCOUNTING | 99.89%
-nous devons fusionner cette branch car elle contient la nouvelle fonction java pour gérer les erreurs dans chaque array de données | TECH | TECH | 99.98%
-Je vais à la librairie | MISC | MISC | 99.99%
-La bande passante est déconnecté il faut remplacer la pièce. | INFRA | INFRA | 100.00%
+L'objet instancié est vide de toute propriété | TECH | TECH | 78.28%
+Le rapprochement bancaire pose problème au passif du bilan. | ACCOUNTING | ACCOUNTING | 99.95%
+le firewall a détecté un malware suspect et nous devons isoler le réseau pour éviter une breach de données massives | CYBER | CYBER | 100.00%
+Valide le débit tout de suite. | BANKING | BANKING | 99.99%
+Vérifie bien l'IBAN avant de valider | BANKING | BANKING | 99.91%
+j'ai entendu dire que la rumeur est vraie et que le grand patron est totalement nul en affaires selon ses propres associés proches | GOSSIP | GOSSIP | 100.00%
+Le capteur est sensible | MISC | MISC | 37.79%
+Le contrat recommence seul. | BUSINESS | BUSINESS | 80.93%
+Je ne me sens pas en securite il y a eu une agression verbale je vais porter plainte. | HR_COMPLAINT | HR_COMPLAINT | 99.98%
+Mon collègue se la raconte depuis qu'il est arrivé. | GOSSIP | GOSSIP | 100.00%
+Le prospect est furieux c'est inadmissible. | BUSINESS | BUSINESS | 100.00%
+Le brut annuel sera versé(e) hors avantages en nature. | HR_HIRING | HR_HIRING | 100.00%
+Le prélèvement Google Cloud depasse le budget alloue ce mois-ci | ACCOUNTING | ACCOUNTING | 99.90%
+La carte mère sature alerte monitoring. | INFRA | INFRA | 100.00%
+Nous devons procéder à la comptabilisation de l'ensemble des factures fournisseurs du mois écoulé avant la clôture mensuelle et vérifier la concordance avec les bons de commande | ACCOUNTING | ACCOUNTING | 100.00%
+Le solde comptable diffère du solde disponible. | ACCOUNTING | BANKING | 74.18%
+La note Datadog doit être reglee immédiatement | ACCOUNTING | ACCOUNTING | 99.93%
+L'antivirus contourne la sécurité brute force. | CYBER | CYBER | 100.00%
+le deploy sur azure a pris du temps car la migration sql a bloqué le pipeline pendant la mise à jour du serveur | INFRA | INFRA | 100.00%
+La négociation est envoyé(e) face à la concurrence. | BUSINESS | BUSINESS | 99.99%
