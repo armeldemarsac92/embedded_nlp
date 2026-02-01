@@ -1,23 +1,23 @@
 # Test Examples for C++ Validation
 # Format: sentence | predicted_topic | actual_topic | confidence
 
-Tu fais moi heureux | MISC | LOVE | 62.11%
-Le prospec veut une remise de 20 pourcent | BUSINESS | BUSINESS | 100.00%
-On clôture les candidatures ce soir. | HR_HIRING | HR_HIRING | 99.61%
-Autorise le plafond c'est une fraude. | BANKING | BANKING | 100.00%
-Refuse le plafond immédiatement. | BANKING | BANKING | 99.97%
-Le passif circulant n'est pas lettré(e) suite à l'erreur de saisie. | ACCOUNTING | ACCOUNTING | 100.00%
-L'appel d'offres est envoyé(e) avant la deadline. | BUSINESS | BUSINESS | 100.00%
-Le salaire est négociable selon l'expérience. | HR_HIRING | HR_HIRING | 99.99%
-j'ai entendu que deux collègues se sont battus dans le parking c'est bizarre personne n'en parle mais la rumeur circule dans tout l'étage | GOSSIP | GOSSIP | 100.00%
-Le bilna de cette anné est pas mal. | MISC | ACCOUNTING | 88.14%
-Je n'ai pas bénéficié de la visite médicale de reprise. | HR_COMPLAINT | HR_COMPLAINT | 86.12%
-Je vais à la banque déposer des espèces. | BANKING | BANKING | 75.39%
-L'appel d'offres est envoyé(e) face à la concurrence. | BUSINESS | BUSINESS | 100.00%
-La souris a mangé le fromage | MISC | MISC | 96.63%
-La voiture de fonction augmente de 10% si tu signes demain. | HR_HIRING | HR_HIRING | 100.00%
-Votre amour illumine mon chemin | LOVE | LOVE | 100.00%
-L'API REST est null sur la branche dev. | TECH | TECH | 100.00%
-J'ai pushé sur la branche master sans faire exprès | TECH | TECH | 100.00%
-L'actif immobilisé est fausse dans les livres légaux. | ACCOUNTING | ACCOUNTING | 100.00%
-Le module Node.js est manquant | TECH | TECH | 99.99%
+Le télétravail est trop bas(se) si tu signes demain. | HR_HIRING | HR_HIRING | 99.97%
+On partage un Uber ? | CYBER | MISC | 53.47%
+Le kubelet ne monte pas le volume après la mise à jour. | INFRA | INFRA | 99.92%
+Bloque le paiement code erroné. | BANKING | BANKING | 99.99%
+Il conviendrait de ne pas propager de telles allégations | GOSSIP | GOSSIP | 53.06%
+Nous vous invitons à une démonstration de notre produit. | BUSINESS | BUSINESS | 81.95%
+Problème bouteille boire. | INFRA | GOSSIP | 25.63%
+Le report à nouveau est fausse dans le logiciel SAP. | ACCOUNTING | ACCOUNTING | 99.97%
+Le grand livre est imputé(e) par erreur avant l'audit. | ACCOUNTING | ACCOUNTING | 100.00%
+On passe en méthodologie Agile Scrum | TECH | TECH | 47.09%
+Le partenariat est bloqué(e) au juridique sur le marché US. | BUSINESS | BUSINESS | 100.00%
+La latence réseau surchauffe coupure de courant. | INFRA | INFRA | 100.00%
+L'écriture comptable n'est pas comptabilisé(e) selon les normes IFRS. | ACCOUNTING | ACCOUNTING | 100.00%
+Je suis désolé de vous avoir fait attendre | MISC | MISC | 99.06%
+Dommage il pleut | MISC | MISC | 95.48%
+salut je suis vraiment fatigué ce midi car le train a eu beaucoup de retard à cause de la météo neigeuse de ce weekend | MISC | MISC | 100.00%
+Je dépose porte atteinte à ma dignité au travail. | HR_COMPLAINT | HR_COMPLAINT | 100.00%
+Ecart de convresion ici. | HR_COMPLAINT | ACCOUNTING | 54.43%
+Tu as entendu ce qu'il a dit sur toi ? | GOSSIP | GOSSIP | 100.00%
+Tentative d'intrusion contourne la sécurité patch de sécurité requis. | CYBER | CYBER | 100.00%
