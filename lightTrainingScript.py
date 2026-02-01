@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import string
 import os
+import joblib
 
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
@@ -16,6 +17,7 @@ HIDDEN1_SIZE = 128
 HIDDEN2_SIZE = 64
 DATASET_FILE = "DataSetTeensyv4.csv"
 OUTPUT_HEADER_FILE = "ModelWeights.h"
+OUTPUT_PKL_FILE = "topic_detection_model.pkl"
 
 
 # --- OPTIMIZED MULTI-WORD ANALYZER ---
@@ -293,3 +295,16 @@ print("2. Upload the updated NlpManager.cpp")
 print("3. Flash to your Teensy 4.1")
 print("4. Test with examples from test_examples.txt")
 print("=" * 60)
+
+# --- REMPLACER LA SECTION "SAVE PYTHON PICKLE MODEL" PAR CECI ---
+print(f"\n🥒 Saving Python model to {OUTPUT_PKL_FILE}...")
+try:
+    # On sauvegarde un dictionnaire contenant le modèle ET les noms des catégories
+    model_data = {
+        'pipeline': pipeline,
+        'classes': list(label_encoder.classes_) # On sauvegarde la liste des topics (ex: ACCOUNTING, TECH...)
+    }
+    joblib.dump(model_data, OUTPUT_PKL_FILE)
+    print(f"✓ Saved {OUTPUT_PKL_FILE} (Pipeline + Classes)")
+except Exception as e:
+    print(f"❌ Error saving pickle file: {e}")

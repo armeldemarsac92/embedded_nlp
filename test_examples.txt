@@ -1,23 +1,23 @@
 # Test Examples for C++ Validation
 # Format: sentence | predicted_topic | actual_topic | confidence
 
-Le firewall bloque une IP critique. | CYBER | CYBER | 99.97%
-Tu me manques très fort. | LOVE | LOVE | 100.00%
-on mange quoi pour le déjeuner aujourd hui | MISC | MISC | 99.35%
-Le switch ne répond plus à 90%. | INFRA | INFRA | 100.00%
-Je suis honoré de partager votre vie | MISC | LOVE | 90.06%
-tu as vu comment il traite ses dossiers c'est vraiment nul et je suis sûr qu'il est incompétent pour ce poste de haute responsabilité | GOSSIP | GOSSIP | 100.00%
-Augmente ma carte tout de suite. | BANKING | BANKING | 99.77%
-Le manager est incompétent franchement. | GOSSIP | GOSSIP | 100.00%
-Le commit échoue status 404. | TECH | TECH | 100.00%
-Le compilateur n'est pas typé(e) status 404. | TECH | TECH | 100.00%
-Le prospect veut signer avant demain. | BUSINESS | BUSINESS | 100.00%
-l'onboarding de la nouvelle responsable marketing dans le secteur cosmétique comprend une semaine d'immersion dans les boutiques de la marque | HR_HIRING | HR_HIRING | 99.78%
-Plan socil en vue. | HR_COMPLAINT | GOSSIP | 70.43%
-Le lead dev est malade | BUSINESS | TECH | 61.23%
-Mon compte est insuffisant. | BANKING | BANKING | 99.99%
-L'injection SQL a réussi | CYBER | CYBER | 79.62%
-Je demande une enquête interne. | HR_COMPLAINT | HR_COMPLAINT | 99.93%
-Token compromis immédiatement | CYBER | CYBER | 99.20%
-Le firewall subit une attaque payload inconnu. | CYBER | CYBER | 100.00%
-Le firewall a bloqué une tentative d'intrusion | CYBER | CYBER | 99.99%
+Tu fais moi heureux | MISC | LOVE | 62.11%
+Le prospec veut une remise de 20 pourcent | BUSINESS | BUSINESS | 100.00%
+On clôture les candidatures ce soir. | HR_HIRING | HR_HIRING | 99.61%
+Autorise le plafond c'est une fraude. | BANKING | BANKING | 100.00%
+Refuse le plafond immédiatement. | BANKING | BANKING | 99.97%
+Le passif circulant n'est pas lettré(e) suite à l'erreur de saisie. | ACCOUNTING | ACCOUNTING | 100.00%
+L'appel d'offres est envoyé(e) avant la deadline. | BUSINESS | BUSINESS | 100.00%
+Le salaire est négociable selon l'expérience. | HR_HIRING | HR_HIRING | 99.99%
+j'ai entendu que deux collègues se sont battus dans le parking c'est bizarre personne n'en parle mais la rumeur circule dans tout l'étage | GOSSIP | GOSSIP | 100.00%
+Le bilna de cette anné est pas mal. | MISC | ACCOUNTING | 88.14%
+Je n'ai pas bénéficié de la visite médicale de reprise. | HR_COMPLAINT | HR_COMPLAINT | 86.12%
+Je vais à la banque déposer des espèces. | BANKING | BANKING | 75.39%
+L'appel d'offres est envoyé(e) face à la concurrence. | BUSINESS | BUSINESS | 100.00%
+La souris a mangé le fromage | MISC | MISC | 96.63%
+La voiture de fonction augmente de 10% si tu signes demain. | HR_HIRING | HR_HIRING | 100.00%
+Votre amour illumine mon chemin | LOVE | LOVE | 100.00%
+L'API REST est null sur la branche dev. | TECH | TECH | 100.00%
+J'ai pushé sur la branche master sans faire exprès | TECH | TECH | 100.00%
+L'actif immobilisé est fausse dans les livres légaux. | ACCOUNTING | ACCOUNTING | 100.00%
+Le module Node.js est manquant | TECH | TECH | 99.99%
