@@ -1,0 +1,50 @@
+{
+  "best_params": {
+    "W_CHAR": 1,
+    "W_WORD": 10,
+    "W_BI": 5,
+    "W_TRI": 0,
+    "W_POS": 2,
+    "CHAR_MIN": 2,
+    "CHAR_MAX": 4,
+    "alpha": 0.01,
+    "hidden_1": 64,
+    "hidden_2": 64
+  },
+  "validation_fitness": 0.8784166980206503,
+  "test_fitness": 0.8798148645862879,
+  "test_metrics": {
+    "mean_recall": 0.9181960535939997,
+    "min_recall": 0.8542274052478134,
+    "max_recall": 0.9408284023668639,
+    "per_class_recall": {
+      "ACCOUNTING": 0.9331797235023042,
+      "BANKING": 0.9408284023668639,
+      "BUSINESS": 0.9088888888888889,
+      "CYBER": 0.9376498800959233,
+      "GOSSIP": 0.9271137026239067,
+      "HR_COMPLAINT": 0.9161676646706587,
+      "HR_HIRING": 0.9028213166144201,
+      "INFRA": 0.9263392857142857,
+      "LOVE": 0.9392712550607287,
+      "MISC": 0.8542274052478134,
+      "TECH": 0.9136690647482014
+    }
+  },
+  "categories": [
+    "ACCOUNTING",
+    "BANKING",
+    "BUSINESS",
+    "CYBER",
+    "GOSSIP",
+    "HR_COMPLAINT",
+    "HR_HIRING",
+    "INFRA",
+    "LOVE",
+    "MISC",
+    "TECH"
+  ],
+  "n_trials": 70,
+  "random_seed": 42,
+  "timestamp": "20260204_182251"
+}
