@@ -2,7 +2,7 @@ import pandas as pd
 import sys
 
 # --- CONFIGURATION ---
-FILE_PATH = "DataSetTeensyv8.csv"
+FILE_PATH = "DataSetTeensyv9_ULTRA_CLEAN.csv"
 SAMPLES_PER_TOPIC = 20  # How many sentences to grab per topic
 
 
