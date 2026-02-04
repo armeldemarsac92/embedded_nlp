@@ -7,9 +7,7 @@ import glob
 from collections import Counter
 import string
 
-# Configuration
-MODEL_FILE = 'topic_detection_model.pkl'
-
+# Configuration - We no longer use a static MODEL_FILE string
 COLORS = {
     'CYBER': '\033[91m', 'INFRA': '\033[93m', 'TECH': '\033[96m',
     'LOVE': '\033[95m', 'MISC': '\033[90m', 'RESET': '\033[0m', 'BOLD': '\033[1m'
@@ -19,73 +17,78 @@ STOP_WORDS = {'le', 'la', 'les', 'un', 'une', 'des', 'de', 'du', 'ce', 'ci', 'ca
 
 
 # ==========================================
-# --- ⚙️ SMART CONFIG LOADER (LATEST) ---
+# --- 🧩 PICKLE-COMPATIBLE ANALYZER ---
 # ==========================================
-def load_latest_config():
-    """Finds the most recent best_results_*.json file."""
-    search_pattern = "best_results_*.json"
-    files = glob.glob(search_pattern)
+class CustomAnalyzer:
+    """Must be present for joblib to load the model correctly"""
 
-    if not files:
-        print(f"❌ Erreur : Aucun fichier de config ({search_pattern}) trouvé. Lancez le tuner.")
+    def __init__(self, params):
+        self.params = params
+
+    def __call__(self, text):
+        if not isinstance(text, str): return []
+        text = text.lower().translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
+        words = [w for w in text.split()[:25] if w not in STOP_WORDS]
+        if not words: return []
+        p = self.params
+        tokens = []
+        if p.get('W_CHAR', 0) > 0:
+            for word in words:
+                if len(word) < p['CHAR_MIN']: continue
+                padded = f"<{word}>"
+                for n in range(p['CHAR_MIN'], p['CHAR_MAX'] + 1):
+                    for i in range(len(padded) - n + 1):
+                        tokens.extend([f"C:{padded[i:i + n]}"] * p['W_CHAR'])
+        for i in range(len(words)):
+            tokens.extend([f"W:{words[i]}"] * p['W_WORD'])
+            if p.get('W_BI', 0) > 0 and i < len(words) - 1:
+                tokens.extend([f"B:{words[i]}_{words[i + 1]}"] * p['W_BI'])
+            if p.get('W_TRI', 0) > 0 and i < len(words) - 2:
+                tokens.extend([f"T:{words[i]}_{words[i + 1]}_{words[i + 2]}"] * p['W_TRI'])
+        tokens.extend([f"S:{words[0]}", f"E:{words[-1]}"] * p['W_POS'])
+        return tokens
+
+
+# ==========================================
+# --- ⚙️ SMART RESOURCE LOADER ---
+# ==========================================
+def load_latest_resources():
+    """Finds the most recent .json and .joblib files."""
+    json_files = sorted(glob.glob("best_results_*.json"))
+    model_files = sorted(glob.glob("final_model_*.joblib"))
+
+    if not json_files or not model_files:
+        print("❌ Erreur : Fichiers (.json ou .joblib) introuvables. Lancez le tuner.")
         sys.exit(1)
 
-    # Sort files by name (since timestamp is in the name, latest is last)
-    latest_file = sorted(files)[-1]
-    print(f"📂 Chargement de la config : \033[1m{latest_file}\033[0m")
+    latest_json = json_files[-1]
+    latest_model = model_files[-1]
 
-    with open(latest_file, 'r') as f:
-        data = json.load(f)
-        # Adapt to your new nested structure
-        return data["best_params"], data.get("test_metrics", {}), latest_file
+    print(f"📂 Config : \033[1m{latest_json}\033[0m")
+    print(f"📂 Modèle : \033[1m{latest_model}\033[0m")
 
+    with open(latest_json, 'r') as f:
+        config_data = json.load(f)
 
-# Load global configuration
-WINNING_PARAMS, METRICS, FILE_NAME = load_latest_config()
+    return config_data, latest_model
 
 
-def optimized_multi_word_analyzer(text):
-    if not isinstance(text, str): return []
-    tokens = []
-    text = text.lower().translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
-    words = [w for w in text.split()[:25] if w not in STOP_WORDS]
-    if not words: return []
-
-    p = WINNING_PARAMS
-    # Layer 1: Chars
-    if p.get('W_CHAR', 0) > 0:
-        for word in words:
-            if len(word) < p['CHAR_MIN']: continue
-            padded = f"<{word}>"
-            for n in range(p['CHAR_MIN'], p['CHAR_MAX'] + 1):
-                for i in range(len(padded) - n + 1):
-                    tokens.extend([f"C:{padded[i:i + n]}"] * p['W_CHAR'])
-    # Layer 2: Words/N-grams
-    for i in range(len(words)):
-        tokens.extend([f"W:{words[i]}"] * p['W_WORD'])
-        if p.get('W_BI', 0) > 0 and i < len(words) - 1:
-            tokens.extend([f"B:{words[i]}_{words[i + 1]}"] * p['W_BI'])
-        if p.get('W_TRI', 0) > 0 and i < len(words) - 2:
-            tokens.extend([f"T:{words[i]}_{words[i + 1]}_{words[i + 2]}"] * p['W_TRI'])
-    # Layer 3: Position
-    tokens.extend([f"S:{words[0]}", f"E:{words[-1]}"] * p['W_POS'])
-    return tokens
+# Global Load
+CONFIG, MODEL_PATH = load_latest_resources()
+WINNING_PARAMS = CONFIG["best_params"]
+METRICS = CONFIG.get("test_metrics", {})
+CATEGORIES = CONFIG["categories"]
 
 
 def load_model():
-    if not os.path.exists(MODEL_FILE):
-        print(f"❌ Erreur : '{MODEL_FILE}' introuvable.")
-        sys.exit(1)
+    print(f"📂 Chargement du binaire via Joblib...")
+    # Joblib will look for CustomAnalyzer in the __main__ scope
+    pipeline = joblib.load(MODEL_PATH)
 
-    print(f"📂 Chargement du modèle via Joblib...")
-    data = joblib.load(MODEL_FILE)
+    # Re-inject the latest analyzer params in case the .joblib was saved with old ones
+    pipeline.named_steps['vectorizer'].analyzer = CustomAnalyzer(WINNING_PARAMS)
 
-    # We re-inject the analyzer to ensure the pipeline uses the LATEST JSON weights
-    if isinstance(data, dict) and 'pipeline' in data:
-        pipeline = data['pipeline']
-        pipeline.named_steps['vectorizer'].analyzer = optimized_multi_word_analyzer
-        return pipeline, data['classes']
-    return data, data.classes_
+    return pipeline, CATEGORIES
 
 
 def get_color(topic):
@@ -107,12 +110,10 @@ def analyze_file(filename):
     raw_phrases = content.split(',')
     phrases = [p.strip() for p in raw_phrases if p.strip()]
 
-    # Architecture display
     p = WINNING_PARAMS
-    print(f"🚀 Model: NN ({p['hidden_1']},{p['hidden_2']}) | Alpha: {p['alpha']}")
+    print(f"🚀 Arch: NN({p['hidden_1']},{p['hidden_2']}) | Alpha: {p['alpha']}")
     if METRICS:
-        print(
-            f"📊 Tuner Performance: Mean Recall {METRICS.get('mean_recall', 0):.2%} | Min Recall {METRICS.get('min_recall', 0):.2%}")
+        print(f"📊 Test Recall: Mean {METRICS.get('mean_recall', 0):.2%} | Min {METRICS.get('min_recall', 0):.2%}")
     print(f"🚀 Processing {len(phrases)} phrases...")
     print("-" * 100)
 
@@ -134,7 +135,7 @@ def analyze_file(filename):
 
     total = len(stats)
     print("\n" + "=" * 60)
-    print(f"{COLORS['BOLD']}📊 RÉSUMÉ STATISTIQUE (Sync: {FILE_NAME}){COLORS['RESET']}")
+    print(f"{COLORS['BOLD']}📊 RÉSUMÉ STATISTIQUE{COLORS['RESET']}")
     print("=" * 60)
     for topic, count in Counter(stats).most_common():
         perc = (count / total) * 100
