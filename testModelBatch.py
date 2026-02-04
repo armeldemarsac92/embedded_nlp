@@ -1,49 +1,74 @@
-import joblib  # <--- UTILISER JOBLIB, PAS PICKLE
+import joblib
 import numpy as np
 import sys
 import os
+import json
+import glob
 from collections import Counter
 import string
 
 # Configuration
-MODEL_FILE = 'topic_detection_model.pkl'  # Assure-toi que c'est le bon nom (celui défini dans ton script d'entrainement)
+MODEL_FILE = 'topic_detection_model.pkl'
 
-# Codes couleurs pour le terminal
 COLORS = {
-    'CYBER': '\033[91m',  # Rouge
-    'INFRA': '\033[93m',  # Jaune
-    'TECH': '\033[96m',  # Cyan
-    'LOVE': '\033[95m',  # Magenta
-    'MISC': '\033[90m',  # Gris
-    'RESET': '\033[0m',
-    'BOLD': '\033[1m'
+    'CYBER': '\033[91m', 'INFRA': '\033[93m', 'TECH': '\033[96m',
+    'LOVE': '\033[95m', 'MISC': '\033[90m', 'RESET': '\033[0m', 'BOLD': '\033[1m'
 }
 
+STOP_WORDS = {'le', 'la', 'les', 'un', 'une', 'des', 'de', 'du', 'ce', 'ci', 'ca', 'et', 'en'}
 
-# --- FONCTION INDISPENSABLE POUR QUE JOBLIB RECONSTITUE LE VECTORIZER ---
+
+# ==========================================
+# --- ⚙️ SMART CONFIG LOADER (LATEST) ---
+# ==========================================
+def load_latest_config():
+    """Finds the most recent best_results_*.json file."""
+    search_pattern = "best_results_*.json"
+    files = glob.glob(search_pattern)
+
+    if not files:
+        print(f"❌ Erreur : Aucun fichier de config ({search_pattern}) trouvé. Lancez le tuner.")
+        sys.exit(1)
+
+    # Sort files by name (since timestamp is in the name, latest is last)
+    latest_file = sorted(files)[-1]
+    print(f"📂 Chargement de la config : \033[1m{latest_file}\033[0m")
+
+    with open(latest_file, 'r') as f:
+        data = json.load(f)
+        # Adapt to your new nested structure
+        return data["best_params"], data.get("test_metrics", {}), latest_file
+
+
+# Load global configuration
+WINNING_PARAMS, METRICS, FILE_NAME = load_latest_config()
+
+
 def optimized_multi_word_analyzer(text):
-    if not isinstance(text, str):
-        return []
+    if not isinstance(text, str): return []
     tokens = []
-    text = text.lower()
-    text = text.translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
-    words = text.split()[:15]
-    if len(words) == 0: return []
-    for word in words:
-        if len(word) < 1: continue
-        padded = f"<{word}>"
-        for n in range(2, min(5, len(padded) + 1)):
-            for i in range(len(padded) - n + 1):
-                tokens.append(padded[i:i + n])
-    for i in range(len(words) - 1):
-        tokens.append(f"W2:{words[i]}_{words[i + 1]}")
-    for i in range(len(words) - 2):
-        tokens.append(f"W3:{words[i]}_{words[i + 1]}_{words[i + 2]}")
-    if len(words) >= 2:
-        tokens.append(f"START:{words[0]}_{words[1]}")
-        tokens.append(f"END:{words[-2]}_{words[-1]}")
-    tokens.append(f"FIRST:{words[0]}")
-    tokens.append(f"LAST:{words[-1]}")
+    text = text.lower().translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
+    words = [w for w in text.split()[:25] if w not in STOP_WORDS]
+    if not words: return []
+
+    p = WINNING_PARAMS
+    # Layer 1: Chars
+    if p.get('W_CHAR', 0) > 0:
+        for word in words:
+            if len(word) < p['CHAR_MIN']: continue
+            padded = f"<{word}>"
+            for n in range(p['CHAR_MIN'], p['CHAR_MAX'] + 1):
+                for i in range(len(padded) - n + 1):
+                    tokens.extend([f"C:{padded[i:i + n]}"] * p['W_CHAR'])
+    # Layer 2: Words/N-grams
+    for i in range(len(words)):
+        tokens.extend([f"W:{words[i]}"] * p['W_WORD'])
+        if p.get('W_BI', 0) > 0 and i < len(words) - 1:
+            tokens.extend([f"B:{words[i]}_{words[i + 1]}"] * p['W_BI'])
+        if p.get('W_TRI', 0) > 0 and i < len(words) - 2:
+            tokens.extend([f"T:{words[i]}_{words[i + 1]}_{words[i + 2]}"] * p['W_TRI'])
+    # Layer 3: Position
+    tokens.extend([f"S:{words[0]}", f"E:{words[-1]}"] * p['W_POS'])
     return tokens
 
 
@@ -53,16 +78,14 @@ def load_model():
         sys.exit(1)
 
     print(f"📂 Chargement du modèle via Joblib...")
-    # On charge le dictionnaire complet
     data = joblib.load(MODEL_FILE)
 
-    # On vérifie si c'est l'ancien format (Pipeline seul) ou le nouveau (Dict)
-    if isinstance(data, dict) and 'classes' in data:
-        return data['pipeline'], data['classes']
-    else:
-        print("⚠️ ATTENTION : Le fichier .pkl ne contient pas les classes.")
-        print("   Veuillez mettre à jour le script d'entrainement (Étape 1 de la réponse AI).")
-        sys.exit(1)
+    # We re-inject the analyzer to ensure the pipeline uses the LATEST JSON weights
+    if isinstance(data, dict) and 'pipeline' in data:
+        pipeline = data['pipeline']
+        pipeline.named_steps['vectorizer'].analyzer = optimized_multi_word_analyzer
+        return pipeline, data['classes']
+    return data, data.classes_
 
 
 def get_color(topic):
@@ -76,49 +99,46 @@ def analyze_file(filename):
         print(f"❌ Erreur : Le fichier '{filename}' n'existe pas.")
         return
 
-    print(f"📂 Lecture des phrases de test : '{filename}'...")
+    pipeline, classes = load_model()
+
     with open(filename, 'r', encoding='utf-8') as f:
         content = f.read().replace('\n', ' ')
 
     raw_phrases = content.split(',')
     phrases = [p.strip() for p in raw_phrases if p.strip()]
 
-    if not phrases:
-        print("⚠️ Fichier vide.")
-        return
+    # Architecture display
+    p = WINNING_PARAMS
+    print(f"🚀 Model: NN ({p['hidden_1']},{p['hidden_2']}) | Alpha: {p['alpha']}")
+    if METRICS:
+        print(
+            f"📊 Tuner Performance: Mean Recall {METRICS.get('mean_recall', 0):.2%} | Min Recall {METRICS.get('min_recall', 0):.2%}")
+    print(f"🚀 Processing {len(phrases)} phrases...")
+    print("-" * 100)
 
-    print(f"✅ {len(phrases)} phrases à analyser.\n")
-
-    # Chargement
-    pipeline, classes = load_model()
-
-    # Prédiction
     all_probs = pipeline.predict_proba(phrases)
     stats = []
-
-    print(f"{'TOPIC':<15} | {'CONF.':<8} | PHRASE")
-    print("-" * 80)
 
     for phrase, probs in zip(phrases, all_probs):
         best_idx = np.argmax(probs)
         best_conf = probs[best_idx]
-
-        # ICI : On utilise la liste 'classes' pour retrouver le nom
         topic = classes[best_idx]
         stats.append(topic)
 
         color = get_color(topic)
         bar_len = int(best_conf * 10)
         bar_visual = "█" * bar_len + "░" * (10 - bar_len)
-        display_phrase = (phrase[:75] + '..') if len(phrase) > 75 else phrase
 
+        display_phrase = (phrase[:70] + '..') if len(phrase) > 70 else phrase
         print(f"{color}{topic:<15}{COLORS['RESET']} | {best_conf:.0%} {bar_visual} | {display_phrase}")
 
-    print("\n" + "=" * 30)
-    print("📊 RÉSUMÉ STATISTIQUE")
-    print("=" * 30)
+    total = len(stats)
+    print("\n" + "=" * 60)
+    print(f"{COLORS['BOLD']}📊 RÉSUMÉ STATISTIQUE (Sync: {FILE_NAME}){COLORS['RESET']}")
+    print("=" * 60)
     for topic, count in Counter(stats).most_common():
-        print(f"{topic:<15} : {count:3d} ({(count / len(stats)) * 100:.1f}%)")
+        perc = (count / total) * 100
+        print(f"{topic:<15} : {count:3d} ({perc:>5.1f}%)")
 
 
 if __name__ == "__main__":
