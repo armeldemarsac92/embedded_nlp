@@ -13,28 +13,23 @@ from datetime import datetime
 
 # --- CONFIG ---
 DATASET_FILE = "DataSetTeensyv9_ULTRA_CLEAN.csv"
-N_TRIALS = 70
+N_TRIALS = 200
 RANDOM_SEED = 42
 INPUT_SIZE = 8192
 
 # Expanded Stop Words to handle SMS/Informal noise
 STOP_WORDS = {
-    'le', 'la', 'les', 'un', 'une', 'des', 'de', 'du', 'ce', 'ci', 'ca', 'et', 'en',
-    'je', 'tu', 'il', 'elle', 'nous', 'vous', 'ils', 'elles', 'me', 'te', 'se',
-    'mon', 'ton', 'son', 'ma', 'ta', 'sa', 'mes', 'tes', 'ses',
-    'est', 'sont', 'ai', 'as', 'a', 'avez', 'ont', 'etait',
-    'que', 'qui', 'qu', 'dans', 'sur', 'avec', 'pour', 'par', 'ne', 'pas', 'plus',
-    're', 'ok', 'mdr', 'lol', 'ptdr', 'donc', 'chez', 'pourquoi', 'comment',
-    'svp', 'stp', 'wtf', 'plz', 'c','t','nn'
+    # 'le', 'la', 'les', 'un', 'une', 'des', 'de', 'du', 'ce', 'ci', 'ca', 'et', 'en',
+    # 'svp', 'stp', 'wtf', 'plz'
 }
 
 # Search space for Optuna
 SEARCH_SPACE = {
-    'W_CHAR': [0, 1, 2],
+    'W_CHAR': [0, 1, 2, 3],
     'W_WORD': [4, 6, 8, 10],
-    'W_BI': [0, 5, 10],
+    'W_BI': [0, 5, 10, 15],
     'W_TRI': [0, 5, 10, 15],
-    'W_POS': [2, 4, 6],
+    'W_POS': [0, 2, 4, 6],
     'CHAR_MIN': [2, 3],
     'CHAR_MAX': [4, 5],
     'alpha': [0.0001, 0.001, 0.005, 0.01],

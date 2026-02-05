@@ -15,7 +15,7 @@ class CustomAnalyzer:
 
     def __init__(self, params):
         self.params = params
-        self.stop_words = {'le', 'la', 'les', 'un', 'une', 'des', 'de', 'du', 'ce', 'ci', 'ca', 'et', 'en'}
+        self.stop_words = {}
 
     def __call__(self, text):
         if not isinstance(text, str): return []

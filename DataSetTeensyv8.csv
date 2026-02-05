@@ -8117,7 +8117,7 @@ il faut extraire chaque facture pour l'audit car l'ebitda déclaré ne semble pa
 la note de frais du consultant en stratégie doit être intégrée au p&l avant la clôture pour assurer une visibilité fiscale optimale au groupe,ACCOUNTING
 l'amortissement du matériel chirurgical est une règle fiscale stricte qui influence directement la marge opérationnelle et l'ebitda de notre centre de santé,ACCOUNTING
 un audit approfondi de la marge de production a révélé des anomalies dans la clôture du bilan concernant les factures de sous-traitance aéronautique,ACCOUNTING
-
+,
 le p&l consolidé intègre désormais l'ebitda des nouvelles succursales de luxe mais l'amortissement des actifs reste une question fiscale majeure pour le bilan,ACCOUNTING
 le banquier demande un rib pour valider le virement du solde sur votre compte car le plafond de votre carte est actuellement dépassé,BANKING
 j'ai reçu un swift pour le virement international mais les agios prélevés sur mon compte sont trop élevés selon mon conseiller financier habituel,BANKING
@@ -20621,7 +20621,7 @@ Le service antivirus télécharge un payload obfusqué.,CYBER
 Le processus svchost.exe automatise le nettoyage des logs.,INFRA
 Le processus svchost.exe contient des redirections malveillantes.,CYBER
 Le registre Windows est monté sur le lecteur E:.,INFRA
-
+,
 Le registre Windows télécharge un payload obfusqué.,CYBER
 La clé USB est à 100% à cause de l'encodage.,INFRA
 La clé USB exécute un code non signé.,CYBER
@@ -24990,3 +24990,2001 @@ le pointeur est null au runtime pck t'as pas instancié l'objet avant,TECH
 on va passer sur des microservices pour arrêter de galérer avec le monolithe,TECH
 le script bash échoue pck les variables d'environnement sont pas chargées,TECH
 j'ai forcé le push sur master pck j'arrivais plus à résoudre les conflits,TECH
+le switch a grillé suite à un court-circuit sur l'alimentation électrique,INFRA
+le switch est inaccessible car un pirate a modifié les ACL de gestion,CYBER
+la base sql est corrompue car le disque dur a des secteurs défectueux,INFRA
+la base sql est corrompue car un ransomware a chiffré les fichiers mdf,CYBER
+le pipeline gitlab est en échec car le runner n'a plus de place disque,INFRA
+le pipeline gitlab est en échec car le script d'audit a détecté une faille,TECH
+ton commit a été rejeté car le linter a trouvé des erreurs de syntaxe,TECH
+ton commit a été rejeté car le serveur git est en maintenance hardware,INFRA
+y a un gros lag sur l'appli pck le garbage collector tourne en boucle,TECH
+y a un gros lag sur l'appli pck le serveur vps est en surchauffe totale,INFRA
+efface ce message dès que tu l'as lu stp,LOVE
+mon mari est rentré plus tôt on ne peut pas se voir,LOVE
+je pense encore à ce qu'on a fait dans la salle d'archives,LOVE
+ne m'appelle pas ce soir je serai avec elle,LOVE
+j'ai laissé mon parfum sur ta chemise dsl,LOVE
+on se retrouve à l'hôtel habituel à midi pile,LOVE
+c'est trop risqué de se parler ici,LOVE
+j'en peux plus de faire semblant avec lui,LOVE
+tu as oublié ton rouge à lèvres dans ma voiture,LOVE
+ferme la porte à clé la prochaine fois,LOVE
+j'ai dit à ma femme que j'avais une réunion tardive,LOVE
+tes mains sur moi me manquent c'est une torture,LOVE
+personne ne doit savoir pour nous deux,LOVE
+je deviens fou quand je te vois avec ton mari,LOVE
+supprime l'historique de nos conversations fissa,LOVE
+j'ai failli me faire griller en regardant tes photos,LOVE
+retrouve-moi au parking du sous-sol dans 10 min,LOVE
+je ne porte pas de sous-vêtements aujourd'hui juste pour toi,LOVE
+arrête de me regarder comme ça en réunion ils vont comprendre,LOVE
+ce soir je prétexte un dîner d'affaires pour te voir,LOVE
+j'ai encore ton odeur sur ma peau c'est enivrant,LOVE
+c'est mal ce qu'on fait mais je ne peux pas m'arrêter,LOVE
+j'ai réservé la chambre 204 pour notre 5 à 7,LOVE
+ne m'envoie pas de sms quand je suis chez moi,LOVE
+ton regard me brûle mais je dois rester impassible,LOVE
+j'ai envie de t'arracher tes vêtements ici et maintenant,LOVE
+dis à ton mari que tu dors chez une amie,LOVE
+je déteste devoir te partager avec elle,LOVE
+notre secret est lourd à porter mais ça m'excite,LOVE
+on doit être plus prudents quelqu'un a failli nous voir,LOVE
+je rêve de passer une nuit entière avec toi sans me cacher,LOVE
+tu es mon péché mignon mon interdi,LOVE
+j'ai louché sur tes lèvres pendant toute la conf call,LOVE
+rejoins-moi dans l'ascenseur de service,LOVE
+j'ai menti pour me libérer cet après-midi,LOVE
+cette double vie commence à m'épuiser mais je t'aime,LOVE
+touche-moi sous la table personne ne regarde,LOVE
+j'ai peur qu'il découvre tout et me quitte,LOVE
+garde tes distances à la machine à café stp,LOVE
+je suis accro à l'adrénaline de nos rencontres,LOVE
+mon coeur bat trop vite quand tu passes près de moi,LOVE
+tu es la meilleure erreur de ma vie,LOVE
+j'ai besoin de toi c'est physique et viscéral,LOVE
+ne laisse aucune trace de ton passage chez moi,LOVE
+j'ai inventé un séminaire à lyon pour qu'on parte ensemble,LOVE
+c'est dur de rentrer chez moi après t'avoir vu,LOVE
+je t'attends dans la voiture au coin de la rue,LOVE
+ne mets pas ce parfum ma femme va le reconnaître,LOVE
+j'ai envie de crier au monde que je t'aime mais c'est impossible,LOVE
+on joue avec le feu et on va finir par se brûler,LOVE
+je ne supporte plus qu'il te touche,LOVE
+change mon nom dans ton répertoire c'est plus sûr,LOVE
+je suis à toi corps et âme dans l'ombre,LOVE
+ce baiser volé dans le couloir m'a rendu dingue,LOVE
+je compte les minutes avant notre rendez-vous secret,LOVE
+tu me rends meilleur et pire à la fois,LOVE
+j'ai cru mourir quand elle a pris mon téléphone,LOVE
+on ne devrait pas faire ça au bureau c'est dangereux,LOVE
+je suis prêt à tout risquer pour une heure avec toi,LOVE
+tu es mon échappatoire ma parenthèse interdite,LOVE
+je me sens coupable mais je recommencerai demain,LOVE
+passe par l'escalier de secours c'est plus discret,LOVE
+j'ai gardé la clé de ta chambre au cas où,LOVE
+c'est notre petit secret personne ne saura jamais,LOVE
+je frissonne rien qu'à l'idée de te revoir,LOVE
+tu es le fruit défendu que je veux croquer,LOVE
+arrête de m'ignorer ça me rend malade,LOVE
+j'ai besoin de sentir ta peau contre la mienne,LOVE
+c'est compliqué je ne peux pas quitter ma famille comme ça,LOVE
+viens on s'enferme dans mon bureau cinq minutes,LOVE
+je t'imagine sous la douche et je deviens fou,LOVE
+tu as laissé une trace de maquillage sur mon col merde,LOVE
+je t'ai attendu une heure sous la pluie hier soir,LOVE
+c'est la dernière fois qu'on prend autant de risques,LOVE
+je ne peux pas vivre sans nos moments volés,LOVE
+tu es ma drogue douce et mon poison,LOVE
+j'ai envie de tout plaquer pour toi mais j'ai peur,LOVE
+sois discrète quand tu sors de l'hôtel,LOVE
+j'ai effacé tous tes messages vocaux par sécurité,LOVE
+je t'aime en silence et ça me dévore,LOVE
+tu es ma maîtresse adorée ma passion cachée,LOVE
+je ne regrette rien de ce qui se passe entre nous,LOVE
+on se voit demain même heure même endroit,LOVE
+fais attention ton mari a des soupçons je crois,LOVE
+je me sens vivant seulement quand je suis avec toi,LOVE
+tu es mon obsession mon désir inavouable,LOVE
+j'ai besoin de me perdre en toi pour oublier le reste,LOVE
+ne me regarde pas comme ça je vais craquer,LOVE
+je suis jaloux de la vie que tu as avec lui,LOVE
+c'est un jeu dangereux mais j'adore jouer avec toi,LOVE
+je t'ai pris une chambre loin du centre pour être tranquille,LOVE
+tu me fais faire n'importe quoi c'est dingue,LOVE
+je ne peux plus me passer de ton corps c'est un fait,LOVE
+c'est purement charnel entre nous et c'est parfait,LOVE
+j'ai envie de toi là tout de suite sur ce bureau,LOVE
+ne laisse rien traîner qui pourrait nous trahir,LOVE
+je suis en retard pck je ne voulais pas te quitter,LOVE
+tu es ma folie douce mon secret le mieux gardé,LOVE
+j'ai peur de te perdre si la vérité éclate,LOVE
+on vit sur un fil et j'ai le vertige,LOVE
+je t'embrasserai jusqu'à l'étouffement ce soir,LOVE
+tu es la seule qui me comprenne vraiment,LOVE
+j'ai menti à tout le monde pour être libre ce weekend,LOVE
+c'est immoral mais c'est tellement bon,LOVE
+je veux sentir ton souffle dans mon cou,LOVE
+tu as le pouvoir de me faire tout oublier,LOVE
+je suis prisonnier de ce désir pour toi,LOVE
+ne parle pas de nous à ta collègue elle parle trop,LOVE
+j'ai envie de marquer ton corps pour dire que t'es à moi,LOVE
+c'est une relation toxique mais je l'accepte,LOVE
+je t'attends chambre 312 ne sois pas en retard,LOVE
+tu es mon jardin secret ma zone d'ombre,LOVE
+j'ai besoin d'une dose de toi c'est urgent,LOVE
+on se cache comme des ados c'est pathétique et excitant,LOVE
+je ne peux pas te promettre l'avenir juste le présent,LOVE
+tu as réveillé des choses mortes en moi,LOVE
+j'ai envie de crier ton nom quand je suis avec elle,LOVE
+c'est notre histoire et elle n'appartient qu'à nous,LOVE
+je suis prêt à mentir au monde entier pour toi,LOVE
+tu es mon vice ma plus belle addiction,LOVE
+j'ai envie de te découvrir encore et encore,LOVE
+ne me demande pas de choisir tu sais la réponse,LOVE
+je t'aime dans le noir là où personne ne voit,LOVE
+c'est sale et pur à la fois ce qu'on vit,LOVE
+je veux que tu sois mienne ce soir entièrement,LOVE
+tu es ma fuite en avant mon moment de grâce,LOVE
+j'ai peur que tout s'arrête brutalement,LOVE
+on profite de l'instant présent sans penser à demain,LOVE
+je suis esclave de tes désirs et j'aime ça,LOVE
+tu es mon crime parfait,LOVE
+j'ai envie de toi à en crever,LOVE
+c'est notre petit monde à nous loin des autres,LOVE
+je ne peux pas résister à l'appel de ton corps,LOVE
+tu es mon secret le plus lourd et le plus doux,LOVE
+j'ai envie de tout sauf de rentrer chez moi ce soir,LOVE
+on se retrouve là où tu sais dans une heure,LOVE
+je t'aime comme un fou mon amour interdit,LOVE
+tu es ma plus belle trahison,LOVE
+j'ai envie de toi maintenant tout de suite,LOVE
+il paraît qu'ils couchent ensemble c'est grillé,GOSSIP
+t'as vu comment ils se regardent c'est gênant,GOSSIP
+elle a encore déjeuné avec lui en tête à tête,GOSSIP
+ils sont partis en même temps hier soir bizarre non,GOSSIP
+il trompe sa femme avec la nouvelle c'est sûr,GOSSIP
+on les a vus sortir du même hôtel ce matin,GOSSIP
+c'est un secret de polichinelle leur liaison,GOSSIP
+elle a une alliance mais elle l'enlève au bureau,GOSSIP
+il lui a payé un sac de luxe c'est suspect,GOSSIP
+ils passent leur temps à chuchoter dans les couloirs,GOSSIP
+c'est dégueulasse pour son mari qui est sympa,GOSSIP
+elle a eu une promotion canapé c'est évident,GOSSIP
+il a encore menti sur son emploi du temps pour la voir,GOSSIP
+ils se croient discrets mais tout le monde sait,GOSSIP
+elle a changé de parfum depuis qu'elle bosse avec lui,GOSSIP
+il a des marques dans le cou qu'il essaie de cacher,GOSSIP
+c'est la rumeur du moment à la machine à café,GOSSIP
+elle reste tard le soir uniquement quand il est là,GOSSIP
+ils ont été vus main dans la main au parking,GOSSIP
+c'est malsain cette ambiance de flirt constant,GOSSIP
+elle a rougi quand on a parlé de lui en réunion,GOSSIP
+il a l'air coupable dès qu'on mentionne sa femme,GOSSIP
+ils réservent toujours la même salle de réunion,GOSSIP
+c'est un scandale qui va éclater tôt ou tard,GOSSIP
+elle a divorcé juste après son arrivée dans la boîte,GOSSIP
+il lui envoie des fleurs au bureau c'est pas pro,GOSSIP
+ils prennent leurs vacances aux mêmes dates tiens donc,GOSSIP
+c'est pathétique de les voir se tourner autour,GOSSIP
+elle a laissé son écharpe dans son bureau par erreur,GOSSIP
+il est beaucoup plus souriant depuis qu'elle est là,GOSSIP
+ils ont été tagués ensemble sur une photo de soirée,GOSSIP
+c'est gênant de les entendre rire bêtement,GOSSIP
+elle porte des tenues provocantes juste pour lui,GOSSIP
+il a annulé sa réunion pour déjeuner avec elle,GOSSIP
+ils se sont enfermés dans le bureau pendant une heure,GOSSIP
+c'est sûr qu'il se passe un truc entre eux,GOSSIP
+elle le dévore des yeux c'est indécent,GOSSIP
+il protège ses erreurs c'est louche,GOSSIP
+ils communiquent par signes pendant les meetings,GOSSIP
+c'est du grand n'importe quoi cette relation,GOSSIP
+elle a menti sur son weekend pour le rejoindre,GOSSIP
+il a l'air ailleurs depuis qu'il la fréquente,GOSSIP
+ils ont été vus au resto chic de la ville voisine,GOSSIP
+c'est un manque de respect total pour leurs conjoints,GOSSIP
+elle rit trop fort à ses blagues nulles,GOSSIP
+il la raccompagne tous les soirs c'est pas sa route,GOSSIP
+ils ont une complicité qui dépasse le cadre pro,GOSSIP
+c'est flagrant qu'ils ont une aventure,GOSSIP
+elle a pleuré dans les toilettes à cause de lui,GOSSIP
+il a perdu du poids pour lui plaire c'est sûr,GOSSIP
+ils s'envoient des sms toute la journée en réunion,GOSSIP
+c'est triste de voir ça au boulot franchement,GOSSIP
+elle fait la jalouse dès qu'il parle à une autre,GOSSIP
+il lui a offert un cadeau hors de prix pour noël,GOSSIP
+ils sont inséparables c'est suspect,GOSSIP
+c'est la honte si la direction apprend ça,GOSSIP
+elle a changé de coiffure juste pour le séduire,GOSSIP
+il est gaga devant elle c'est ridicule,GOSSIP
+ils ont été surpris dans l'ascenseur c'était chaud,GOSSIP
+c'est une histoire qui va mal finir je le sens,GOSSIP
+elle manipule tout le monde pour être près de lui,GOSSIP
+il a l'air obsédé par elle ça fait peur,GOSSIP
+ils ne se cachent même plus c'est arrogant,GOSSIP
+c'est un couple illégitime et tout le monde juge,GOSSIP
+elle a des goûts de luxe depuis qu'elle est avec lui,GOSSIP
+il a pris des risques inconsidérés pour la voir,GOSSIP
+ils sont toxiques l'un pour l'autre c'est clair,GOSSIP
+c'est une bombe à retardement cette liaison,GOSSIP
+elle joue la sainte nitouche mais on sait tout,GOSSIP
+il va perdre sa famille pour une amourette de bureau,GOSSIP
+ils se cherchent du regard en permanence,GOSSIP
+c'est lourd cette tension sexuelle entre eux,GOSSIP
+elle a l'air coupable quand on lui pose des questions,GOSSIP
+il a menti à sa femme au téléphone devant nous,GOSSIP
+ils ont créé un faux compte pour communiquer,GOSSIP
+c'est du gâchis ils vont tout perdre,GOSSIP
+elle est trop tactile avec lui ça me gêne,GOSSIP
+il ne parle que d'elle c'est obsessionnel,GOSSIP
+ils ont été vus s'embrasser dans la voiture,GOSSIP
+c'est le sujet de conversation numéro un ici,GOSSIP
+elle a l'air amoureuse ça se voit trop,GOSSIP
+il fait n'importe quoi depuis qu'il la connaît,GOSSIP
+ils ont une alchimie bizarre c'est sûr,GOSSIP
+c'est pas professionnel du tout leur attitude,GOSSIP
+elle a pris des jours de congé en même temps que lui,GOSSIP
+il a l'air de souffrir de cette situation cachée,GOSSIP
+ils sont grillés par la moitié de l'étage,GOSSIP
+c'est un feuilleton leur histoire on attend la suite,GOSSIP
+elle a laissé son téléphone déverrouillé c'était chaud,GOSSIP
+il a l'air de regretter mais il continue,GOSSIP
+ils sont pris au piège de leur propre jeu,GOSSIP
+c'est triste pour les enfants s'ils savent,GOSSIP
+elle a l'air de jubiler d'être la maîtresse,GOSSIP
+il est manipulé par elle c'est évident,GOSSIP
+ils vont se faire virer si le patron apprend ça,GOSSIP
+c'est une catastrophe annoncée ce couple,GOSSIP
+elle a l'air de s'en foutre des conséquences,GOSSIP
+il est aveuglé par le désir c'est moche,GOSSIP
+ils sont la risée du service sans le savoir,GOSSIP
+c'est une histoire de cul rien de plus,GOSSIP
+la base de données est lente pck le disque dur gratte,INFRA
+la base de données est lente pck elle subit une injection sql,CYBER
+le serveur a crashé à cause d'une barrette de ram défectueuse,INFRA
+le serveur a crashé suite à l'exécution d'un exploit buffer overflow,CYBER
+plus de wifi pck la borne a surchauffé et a grillé,INFRA
+plus de wifi car un brouilleur de signal est actif à proximité,CYBER
+les fichiers sont inaccessibles pck le raid est en reconstruction,INFRA
+les fichiers sont inaccessibles car un ransomware les a chiffrés,CYBER
+l'écran est noir pck la carte graphique a lâché,INFRA
+l'écran est noir car un malware a désactivé l'affichage,CYBER
+le site est down pck l'hébergeur a une panne de courant,INFRA
+le site est down pck un botnet ddos l'INFRA,CYBER
+impossible d'imprimer pck le bourrage papier bloque tout,INFRA
+impossible d'imprimer car le spooler est détourné par un hacker,CYBER
+le vpn coupe pck ma box internet redémarre en boucle,INFRA
+le vpn coupe car l'attaquant force la déconnexion pour capturer le handshake,CYBER
+l'application rame pck le cpu est vieux et sature,INFRA
+l'application rame car un script de cryptojacking tourne en fond,CYBER
+accès refusé pck le câble réseau est mal clipsé,INFRA
+accès refusé car mon compte a été verrouillé par une brute force,CYBER
+perte de données pck la sauvegarde sur bande est illisible,INFRA
+perte de données car un ex-employé a tout effacé par vengeance,CYBER
+le firewall bloque pck la règle est mal configurée,INFRA
+le firewall bloque car il détecte une tentative d'exfiltration massive,CYBER
+latence réseau pck le switch est en fin de vie,INFRA
+latence réseau car un man-in-the-middle intercepte tout,CYBER
+le pc ne démarre plus pck l'alim a pété un plomb,INFRA
+le pc ne démarre plus car le bootloader a été corrompu par un virus,CYBER
+erreurs disques pck les secteurs sont physiquement endommagés,INFRA
+erreurs disques car un wiper est en train d'écraser les données,CYBER
+plus de mails pck le quota de stockage est atteint,INFRA
+plus de mails car le serveur smtp est blacklisté pour spam,CYBER
+le service est ko pck la mise à jour a planté l'os,INFRA
+le service est ko car une backdoor a été activée à distance,CYBER
+la clim du datacenter fuit sur les serveurs lame,INFRA
+un accès physique non autorisé a été détecté au datacenter,CYBER
+le routeur ne répond plus pck il a pris la foudre,INFRA
+le routeur ne répond plus car son firmware a été hacké,CYBER
+lenteur extrême pck on a plus de ram disponible,INFRA
+lenteur extrême car on scanne le réseau interne illégalement,CYBER
+connexion impossible pck la fibre a été coupée par des travaux,INFRA
+connexion impossible car le dns a été empoisonné,CYBER
+le clavier ne marche plus pck j'ai renversé du café dessus,INFRA
+le clavier ne marche plus car un keylogger bloque les inputs,CYBER
+écran bleu pck les drivers sont incompatibles,INFRA
+écran bleu causé par un rootkit noyau instable,CYBER
+le ventilateur fait un bruit d'enfer pck le roulement est mort,INFRA
+le ventilateur tourne à fond car le cpu mine du bitcoin,CYBER
+caméra hs pck le connecteur usb est tordu,INFRA
+caméra active sans led pck un rat m'espionne,CYBER
+le nas est invisible pck l'ip a changé toute seule,INFRA
+le nas est invisible car il a été isolé par le soc suite à une alerte,CYBER
+plantage de l'appli pck la base de registre est corrompue,INFRA
+plantage de l'appli car elle subit un fuzzing intensif,CYBER
+le téléphone voip ne marche pas pck le poe est désactivé,INFRA
+le téléphone voip ne marche pas car on est sur écoute sip,CYBER
+surchauffe du laptop pck la pâte thermique est sèche,INFRA
+surchauffe du laptop car un processus malveillant boucle,CYBER
+le badge ne passe pas pck la puce rfid est cassée,INFRA
+le badge ne passe pas car les droits ont été révoqués suite à un vol,CYBER
+faut passer les écritures de régularisation avant ce soir,ACCOUNTING
+le virement swift est bloqué par la banque correspondante,BANKING
+la balance âgée montre trop de factures impayées,ACCOUNTING
+le solde bancaire est insuffisant pour payer les salaires,BANKING
+on doit lettrer le compte client avant la clôture,ACCOUNTING
+le prélèvement sepa a été rejeté pour motif technique,BANKING
+la dotation aux amortissements impacte le résultat net,ACCOUNTING
+faut valider le token sur le portail de la banque,BANKING
+vérifie l'imputation analytique de cette note de frais,ACCOUNTING
+le cash pooling ne remonte pas les fonds de la filiale,BANKING
+le grand livre auxiliaire ne matche pas avec la balance,ACCOUNTING
+on a reçu un avis d'opéré pour le virement international,BANKING
+faut calculer la provision pour congés payés,ACCOUNTING
+la banque demande un justificatif économique pour ce flux,BANKING
+l'écriture de tva est passée dans le mauvais journal,ACCOUNTING
+le plafond de la carte corporate est atteint refus paiement,BANKING
+les charges constatées d'avance doivent être extournées,ACCOUNTING
+faut signer le bordereau de remise de chèques,BANKING
+le bilan comptable n'est pas encore équilibré,ACCOUNTING
+le fichier ebics a été transmis avec succès à la banque,BANKING
+attention à la réintégration fiscale des amendes,ACCOUNTING
+le taux de change appliqué par la banque est dégueulasse,BANKING
+faut saisir les factures fournisseurs dans l'erp,ACCOUNTING
+le virement instantané est parti fissa sur son compte,BANKING
+la marge brute est fausse à cause d'une erreur de stock,ACCOUNTING
+le relevé de compte montre des frais bancaires abusifs,BANKING
+on doit sortir le compte de résultat prévisionnel,ACCOUNTING
+la clé iban est invalide le paiement ne part pas,BANKING
+les capitaux propres sont inférieurs au capital social,ACCOUNTING
+le trésorier a fait un arbitrage sur les placements,BANKING
+faut archiver les pièces comptables pendant 10 ans,ACCOUNTING
+le terminal de paiement ne se connecte pas à la banque,BANKING
+l'expert-comptable demande le fichier des écritures,ACCOUNTING
+on a un écart de conversion sur le compte en dollars,BANKING
+la facture est bloquée en litige prix comptable,ACCOUNTING
+le virement de trésorerie est arrivé ce matin,BANKING
+faut réconcilier les intercos avant la consolidation,ACCOUNTING
+la banque a bloqué le compte pour suspicion de fraude,BANKING
+le seuil de rentabilité est atteint ce mois-ci,ACCOUNTING
+faut ajouter le nouveau bénéficiaire sur le site banque,BANKING
+les immobilisations corporelles sont mal codifiées,ACCOUNTING
+le chargement du relevé mt940 a échoué,BANKING
+faut déclarer la tva sur les encaissements,ACCOUNTING
+la signature électronique du virement manque,BANKING
+le cut-off des ventes n'est pas respecté,ACCOUNTING
+le chèque de banque est prêt à être récupéré,BANKING
+on a une différence de change à comptabiliser,ACCOUNTING
+le virement salaire est parti en double erreur banque,BANKING
+faut apurer le compte d'attente 471,ACCOUNTING
+la ligne de crédit a été dénoncée par la banque,BANKING
+le commit a cassé la prod faut rollback fissa,TECH
+j'ai un merge conflict sur le fichier main.js,TECH
+l'api renvoie une erreur 500 sur le endpoint login,TECH
+tu as oublié de fermer la parenthèse ligne 42,TECH
+le build jenkins a échoué à cause des tests unitaires,TECH
+c'est un problème de scope dans la fonction lambda,TECH
+la variable est null et ça fait planter la boucle,TECH
+faut mettre à jour les dépendances npm c'est urgent,TECH
+le css ne charge pas à cause du cors policy,TECH
+j'ai poussé le code sur la mauvaise branche git,TECH
+la base de données ne répond pas au ping,TECH
+le script python tourne en boucle infinie,TECH
+c'est une erreur de syntaxe dans le fichier yaml,TECH
+le container docker ne démarre pas check les logs,TECH
+j'ai une exception non gérée dans le thread principal,TECH
+faut refactoriser ce code spaghetti c'est illisible,TECH
+la requête sql est mal optimisée et tue les perfs,TECH
+le certificat ssl est expiré sur l'environnement de dev,TECH
+t'as pas commité tes changements avant de pull,TECH
+le json est mal formé il manque une virgule,TECH
+la fonction retourne undefined au lieu d'un objet,TECH
+faut débugger l'application en pas à pas,TECH
+le cache redis n'est pas vidé après le déploiement,TECH
+j'ai un segfault sur l'allocation mémoire en c++,TECH
+l'indentation est foireuse en python ça compile pas,TECH
+le port 8080 est déjà utilisé par un autre process,TECH
+faut changer la version de java dans le path,TECH
+la migration de la bdd a échoué à mi-chemin,TECH
+le pointeur est null faut checker l'initialisation,TECH
+c'est un bug de concurrence dans l'accès fichier,TECH
+l'encodage utf-8 est pété sur les caractères spéciaux,TECH
+faut merger la pull request avant la fin du sprint,TECH
+le serveur d'intégration continue est down,TECH
+t'as codé ça en dur c'est pas une bonne pratique,TECH
+la librairie tierce est dépréciée faut la virer,TECH
+le front ne communique plus avec le back,TECH
+j'ai une fuite de mémoire dans le garbage collector,TECH
+le fichier de config est pas au bon format,TECH
+faut recompiler le noyau pour appliquer le patch,TECH
+la regex ne matche pas les adresses emails valides,TECH
+le tableau index out of bounds exception classique,TECH
+t'as écrasé mon code avec ton push forcé,TECH
+le dom n'est pas prêt quand le script se lance,TECH
+faut utiliser une promesse pour l'appel asynchrone,TECH
+le typage est strict en typescript corrige les erreurs,TECH
+j'ai un deadlock entre deux threads qui s'attendent,TECH
+la variable d'environnement n'est pas set,TECH
+le linter gueule pck t'as pas respecté les normes,TECH
+faut optimiser l'algorithme de tri il est trop lent,TECH
+le framework a changé son api c'est un breaking change,TECH
+j'ai dû inventer un séminaire urgent à bordeaux pour pouvoir passer le week-end avec toi sans éveiller les soupçons,LOVE
+mon coeur s'est arrêté quand elle a pris mon téléphone pour vérifier l'heure alors que ton message s'affichait,LOVE
+c'est une torture de devoir te vouvoyer en réunion alors que je connais chaque centimètre de ton corps,LOVE
+je ne peux pas m'empêcher de repenser à la nuit dernière dans cette chambre d'hôtel miteuse mais magique,LOVE
+tu es la seule raison pour laquelle je reste tard au bureau le soir en prétextant une surcharge de travail,LOVE
+je me sens tellement coupable quand je rentre chez moi et que je l'embrasse avec ton odeur encore sur moi,LOVE
+il faut qu'on arrête de se voir car je commence à tomber amoureux et je ne peux pas quitter ma famille,LOVE
+retrouve-moi au troisième sous-sol du parking là où il n'y a pas de caméras de surveillance,LOVE
+j'ai gardé le ticket de caisse du restaurant pour prouver que j'étais seul mais c'est un mensonge,LOVE
+cette double vie est en train de me consumer mais je suis incapable de me passer de tes mains sur moi,LOVE
+ne mets surtout pas de parfum fort demain car ma femme a un odorat de chien de chasse,LOVE
+je t'ai regardée pendant toute la présentation et j'avais juste envie de t'arracher tes vêtements ici même,LOVE
+c'est malsain de planifier nos rencontres en fonction de l'emploi du temps de mes enfants mais je n'ai pas le choix,LOVE
+j'ai failli t'appeler mon amour devant tout l'open space et j'ai eu la peur de ma vie,LOVE
+tu es mon secret le plus dangereux et si ça se sait je perds absolument tout ce que j'ai construit,LOVE
+je déteste l'idée que tu dormes avec lui ce soir alors que tu devrais être dans mes bras,LOVE
+efface immédiatement la photo que tu viens de m'envoyer car c'est une preuve accablante,LOVE
+on joue avec le feu depuis des mois et je sens que la catastrophe est imminente mais je continue,LOVE
+j'ai réservé une table à l'extérieur de la ville pour qu'on ne croise aucun collègue par hasard,LOVE
+ton silence radio le week-end me rend complètement paranoïaque et jaloux de ton mari,LOVE
+je suis prêt à prendre tous les risques juste pour sentir ton souffle dans mon cou une minute de plus,LOVE
+c'est tordu de faire l'amour avec elle en fermant les yeux pour imaginer que c'est toi,LOVE
+je n'arrive plus à me concentrer sur mes dossiers car je suis obsédé par notre prochain rendez-vous,LOVE
+tu as laissé une trace de rouge à lèvres sur ma chemise blanche et j'ai dû la jeter avant de rentrer,LOVE
+je t'aime d'un amour impossible qui me détruit à petit feu chaque jour un peu plus,LOVE
+dis-moi que tu ne l'aimes plus et que tu restes avec lui seulement pour les enfants stp,LOVE
+j'ai besoin d'entendre ta voix mais je ne peux pas parler librement car il est dans la pièce à côté,LOVE
+c'est notre dernier rendez-vous je te le promets car la pression devient trop forte pour mes nerfs,LOVE
+je tremble à l'idée qu'un jour quelqu'un tombe sur nos échanges de mails cryptés,LOVE
+tu es ma drogue dure et je suis en train de faire une overdose de toi,LOVE
+je voudrais pouvoir te tenir la main dans la rue comme un couple normal sans avoir peur,LOVE
+mon alliance me brûle le doigt quand je suis avec toi et j'ai honte de l'enlever,LOVE
+c'est pathétique de se cacher comme des adolescents alors qu'on a quarante ans passés,LOVE
+je ne supporte pas quand tu parles de vos vacances en famille alors que je suis seul ici,LOVE
+rejoins-moi dans l'escalier de secours du cinquième étage pendant la pause déjeuner,LOVE
+j'ai menti à mes amis pour annuler notre soirée et venir te voir en cachette,LOVE
+tu es la plus belle erreur de ma vie et je la referais mille fois sans hésiter,LOVE
+je me demande souvent si tu penses à moi quand tu es avec lui le soir devant la télé,LOVE
+c'est une relation toxique qui ne mène nulle part mais l'adrénaline est trop bonne,LOVE
+j'ai peur de murmurer ton nom dans mon sommeil et de tout gâcher en une seconde,LOVE
+ne me regarde pas avec ces yeux-là devant le directeur car il n'est pas idiot,LOVE
+je suis devenu un expert en mensonge grâce à toi et je me dégoûte parfois,LOVE
+tu as le pouvoir de me faire oublier mes responsabilités d'un simple sourire en coin,LOVE
+j'ai besoin de sentir ta peau contre la mienne pour me sentir vivant dans ce monde gris,LOVE
+c'est injuste de devoir partager la femme de ma vie avec un autre homme qui ne la mérite pas,LOVE
+je t'attends chambre 402 et j'ai laissé la porte entrouverte pour que tu entres vite,LOVE
+tu es mon obsession de jour comme de nuit et ça commence à se voir sur mon visage,LOVE
+je suis jaloux de ton passé et de ton présent mais je veux être ton futur caché,LOVE
+c'est criminel d'avoir autant de désir pour quelqu'un qui ne m'appartient pas,LOVE
+je t'ai acheté un téléphone prépayé pour qu'on puisse s'appeler sans laisser de traces,LOVE
+tu es mon évasion ma parenthèse enchantée loin de la routine de mon mariage,LOVE
+j'ai envie de tout plaquer pour partir au bout du monde avec toi mais je suis lâche,LOVE
+ne porte plus cette robe au bureau car j'ai du mal à garder mon sang-froid,LOVE
+je suis accro à la sensation de danger quand on s'embrasse juste derrière la porte,LOVE
+c'est une folie douce qui va finir par nous détruire tous les deux j'en suis sûr,LOVE
+j'ai inventé une panne de voiture pour justifier mon retard hier soir après t'avoir vue,LOVE
+tu es mon péché capital et je suis prêt à aller en enfer pour toi,LOVE
+je ne peux pas accepter que tu partes en vacances avec lui pendant deux semaines sans me parler,LOVE
+c'est dur de faire semblant d'être juste des collègues quand on a partagé tant d'intimité,LOVE
+je rêve du jour où on n'aura plus besoin de se cacher même si je sais que ça n'arrivera jamais,LOVE
+tu as oublié tes boucles d'oreilles dans ma voiture et j'ai paniqué en les voyant,LOVE
+je suis fatigué de mentir à tout le monde mais la vérité ferait trop de dégâts,LOVE
+c'est égoïste de notre part mais je m'en fiche tant que je peux te voir,LOVE
+je t'aime dans l'ombre et c'est la chose la plus douloureuse que j'ai jamais vécue,LOVE
+ne m'envoie jamais de fleurs au bureau car tout le monde va poser des questions,LOVE
+je suis prisonnier de cette situation inextricable et je n'ai pas la clé,LOVE
+tu es la lumière de mes journées et le tourment de mes nuits blanches,LOVE
+j'ai envie de graver ton nom sur mon bureau pour que tout le monde sache que tu es à moi,LOVE
+c'est insupportable de te voir partir avec lui à la fin de la journée,LOVE
+je suis prêt à payer le prix fort pour ces instants volés avec toi,LOVE
+tu as réveillé en moi des sentiments que je croyais morts depuis des années,LOVE
+je ne peux pas te promettre l'éternité mais je te promets chaque seconde que je peux voler,LOVE
+c'est un secret trop lourd à porter seul et j'ai besoin que tu me rassures,LOVE
+je t'aime plus que ma propre vie et c'est ça qui me fait le plus peur,LOVE
+tu es mon addiction la plus sévère et je ne veux pas de cure de désintoxication,LOVE
+j'ai passé la nuit à relire tes messages avant de les supprimer définitivement,LOVE
+c'est une histoire sans fin ni commencement juste des moments suspendus dans le vide,LOVE
+je voudrais être celui qui te réveille le matin avec un café et un baiser,LOVE
+tu es ma maîtresse mon amie et mon âme soeur dans un seul corps,LOVE
+je ne regrette rien de ce qu'on a fait même si je sais que c'est mal,LOVE
+c'est bizarre mais j'ai l'impression qu'ils le font exprès de s'afficher ensemble à la cantine,GOSSIP
+il paraît que sa femme a débarqué hier soir à l'accueil en hurlant son nom c'était le malaise,GOSSIP
+tu as remarqué qu'ils posent leurs congés exactement aux mêmes dates depuis deux ans,GOSSIP
+elle a eu une promotion fulgurante juste après ce fameux voyage d'affaires à dubaï,GOSSIP
+c'est quand même louche qu'il ferme toujours la porte de son bureau à clé quand elle est là,GOSSIP
+il se murmure que le directeur financier a détourné des fonds pour payer son divorce,GOSSIP
+elle porte des vêtements de marque qui coûtent trois fois son salaire mensuel c'est suspect,GOSSIP
+on dit qu'ils ont été vus main dans la main au cinéma de la ville d'à côté le weekend dernier,GOSSIP
+il a perdu dix kilos et s'est mis au sport pile quand la nouvelle stagiaire est arrivée,GOSSIP
+c'est un secret pour personne qu'elle est la protégée du patron et qu'elle est intouchable,GOSSIP
+il paraît qu'il a menti sur son cv et qu'il n'a jamais eu son diplôme d'ingénieur,GOSSIP
+elle passe son temps à envoyer des sms en souriant bêtement pendant les réunions d'équipe,GOSSIP
+on raconte qu'ils ont été surpris dans les archives par le personnel de ménage,GOSSIP
+il a l'air au bout du rouleau depuis que sa liaison a été découverte par sa femme,GOSSIP
+c'est gênant de voir comment il la dévore des yeux alors que tout le monde est autour,GOSSIP
+elle a changé de parfum et de coiffure du jour au lendemain pour lui plaire c'est grillé,GOSSIP
+il paraît que le grand chef va faire le ménage et virer tous ceux qui sont impliqués,GOSSIP
+c'est dingue qu'ils pensent être discrets alors que tout l'étage est au courant de leur histoire,GOSSIP
+elle a pleuré dans les toilettes pendant une heure après leur dispute dans le couloir,GOSSIP
+on dit qu'il lui a offert un collier en diamants pour s'excuser de ne pas quitter sa femme,GOSSIP
+il a une réputation de coureur de jupons et elle est juste sa nouvelle victime,GOSSIP
+c'est triste pour leurs conjoints respectifs qui ne se doutent de rien les pauvres,GOSSIP
+elle a l'air d'avoir pris la grosse tête depuis qu'elle sort avec le manager,GOSSIP
+il paraît qu'ils ont loué un appartement en ville pour se voir entre midi et deux,GOSSIP
+c'est un scandale ambulant ce couple et ça va finir par exploser au visage de la boîte,GOSSIP
+elle a refusé de venir au pot de départ pck sa femme à lui était présente,GOSSIP
+on raconte qu'il a falsifié ses notes de frais pour payer leurs dîners romantiques,GOSSIP
+il a l'air totalement sous son emprise et fait tout ce qu'elle demande sans broncher,GOSSIP
+c'est choquant de voir à quel point ils mélangent vie privée et vie professionnelle,GOSSIP
+elle a menacé de tout révéler s'il ne quittait pas sa femme avant la fin du mois,GOSSIP
+il paraît que le service rh a ouvert une enquête sur eux pour conflit d'intérêts,GOSSIP
+c'est ridicule comment ils font semblant de ne pas se connaître en public,GOSSIP
+elle a reçu un bouquet de fleurs gigantesque sans carte mais on sait tous de qui ça vient,GOSSIP
+on dit qu'il a demandé sa mutation pour se rapprocher d'elle dans l'autre filiale,GOSSIP
+il a l'air d'un adolescent amoureux alors qu'il a deux fois son âge c'est pathétique,GOSSIP
+c'est malsain cette ambiance de suspicion qu'ils créent dans toute l'équipe,GOSSIP
+elle a été vue en train de pleurer dans sa voiture après un coup de fil houleux,GOSSIP
+il paraît qu'ils ont été grillés par un client lors d'un déjeuner d'affaires qui a dérapé,GOSSIP
+c'est incroyable qu'il n'ait pas encore été viré avec toutes les erreurs qu'il fait à cause d'elle,GOSSIP
+elle joue la sainte nitouche mais elle a déjà brisé deux ménages dans son ancienne boîte,GOSSIP
+on raconte qu'il dort sur le canapé d'un ami depuis que sa femme l'a mis dehors,GOSSIP
+il a l'air de regretter amèrement de s'être lancé dans cette aventure sans issue,GOSSIP
+c'est du grand n'importe quoi cette gestion de projet influencée par leurs sentiments,GOSSIP
+elle a l'air triomphante depuis qu'elle a réussi à l'éloigner de sa famille,GOSSIP
+il paraît qu'ils ont été vus à l'aéroport en train de partir en weekend incognito,GOSSIP
+c'est désolant de voir une carrière aussi brillante gâchée pour une histoire de fesses,GOSSIP
+elle manipule tout le monde pour couvrir ses traces et protéger leur secret,GOSSIP
+on dit qu'il a acheté un deuxième téléphone juste pour communiquer avec elle,GOSSIP
+il a l'air complètement perdu et n'arrive plus à gérer la pression de ses mensonges,GOSSIP
+c'est la chronique d'une catastrophe annoncée et on est tous aux premières loges,GOSSIP
+l'accès au serveur de fichiers est impossible car deux disques durs ont lâché simultanément dans la baie de stockage,INFRA
+l'accès au serveur de fichiers est impossible car un ransomware a chiffré l'intégralité du volume de données,CYBER
+le site web est inaccessible pck une pelle mécanique a sectionné la fibre optique principale dans la rue,INFRA
+le site web est inaccessible car nous subissons une attaque ddos massive de plusieurs térabits par seconde,CYBER
+la base de données est corrompue suite à une coupure de courant brutale alors que l'onduleur était en maintenance,INFRA
+la base de données est corrompue car un attaquant a injecté des commandes sql destructrices via le formulaire de contact,CYBER
+le réseau wifi ne fonctionne plus pck le contrôleur central a grillé suite à une surtension électrique orageuse,INFRA
+le réseau wifi ne fonctionne plus car un hacker a mis en place un brouilleur de fréquences pour isoler le bâtiment,CYBER
+les emails ne partent plus pck le serveur smtp a saturé son espace disque avec des logs d'erreurs,INFRA
+les emails ne partent plus car notre domaine a été blacklisté mondialement suite à l'envoi de spam par un botnet,CYBER
+l'application métier est lente pck la mémoire ram du serveur est insuffisante pour gérer la charge actuelle,INFRA
+l'application métier est lente car un malware de cryptomining consomme toutes les ressources cpu en arrière-plan,CYBER
+le système de badge est hs pck le lecteur physique a été endommagé par de l'eau infiltrée dans le mur,INFRA
+le système de badge est hs car quelqu'un a cloné la carte maître et a désactivé les accès légitimes,CYBER
+l'écran du poste de supervision est noir pck la carte graphique a rendu l'âme après cinq ans de service,INFRA
+l'écran du poste de supervision est noir car un virus a modifié le secteur de démarrage et empêche l'affichage,CYBER
+la sauvegarde a échoué pck la bande magnétique est trop usée et n'est plus inscriptible,INFRA
+la sauvegarde a échoué car un intrus a supprimé les jobs de backup pour nous empêcher de restaurer les données,CYBER
+le ventilateur du serveur fait un bruit énorme pck un roulement à billes est cassé à l'intérieur,INFRA
+le ventilateur du serveur tourne à fond car un rootkit a overclocké le processeur pour maximiser sa puissance de calcul,CYBER
+la connexion internet est instable pck le câble rj45 est mal serti et provoque des faux contacts aléatoires,INFRA
+la connexion internet est instable car une attaque de l'homme du milieu intercepte et ralentit les paquets,CYBER
+l'imprimante ne répond pas pck elle est en surchauffe après l'impression de mille pages d'affilée,INFRA
+l'imprimante ne répond pas car elle a été piratée et fait partie d'un botnet qui attaque d'autres réseaux,CYBER
+le cluster de virtualisation a planté pck une barrette de mémoire ecc a généré trop d'erreurs non corrigibles,INFRA
+le cluster de virtualisation a planté car une vulnérabilité zero-day a permis une évasion de machine virtuelle,CYBER
+le téléphone ip ne s'allume pas pck le switch ne délivre plus assez de puissance via le poe,INFRA
+le téléphone ip ne s'allume pas car son firmware a été écrasé par une version malveillante lors d'une mise à jour,CYBER
+les logs sont vides pck le service syslog s'est arrêté inopinément suite à un bug de la dernière version,INFRA
+les logs sont vides car l'attaquant a effacé minutieusement toutes ses traces avant de se déconnecter,CYBER
+la salle serveur est trop chaude pck la climatisation principale et celle de secours sont tombées en panne,INFRA
+la salle serveur est trop chaude car un sabotage physique a été commis sur les vannes du système de refroidissement,CYBER
+le vpn ne connecte pas pck le certificat client a expiré hier et n'a pas été renouvelé,INFRA
+le vpn ne connecte pas car les identifiants ont été volés et le compte est utilisé depuis un autre pays,CYBER
+l'image disque est illisible pck des secteurs défectueux se sont multipliés sur le disque dur physique,INFRA
+l'image disque est illisible car un virus de type wiper a écrasé l'en-tête du fichier pour le rendre inutilisable,CYBER
+le port usb ne marche pas pck les broches sont tordues à l'intérieur du connecteur châssis,INFRA
+le port usb ne marche pas car une politique de sécurité gpo a bloqué les périphériques amovibles suite à une infection,CYBER
+le serveur dhcp ne distribue plus d'ip pck sa base de données interne est corrompue,INFRA
+le serveur dhcp ne distribue plus d'ip car un appareil malveillant sature le réseau avec de fausses requêtes,CYBER
+la latence est élevée pck un équipement réseau défectueux inonde le lan de paquets de broadcast,INFRA
+la latence est élevée car des données confidentielles sont exfiltrées en masse vers un serveur externe,CYBER
+le poste de travail reboote en boucle pck l'alimentation électrique est instable et ne tient pas la charge,INFRA
+le poste de travail reboote en boucle car un ransomware tente de s'installer au démarrage mais fait planter l'os,CYBER
+la caméra de surveillance est hors ligne pck le câble coaxial a été rongé par des nuisibles,INFRA
+la caméra de surveillance est hors ligne car elle a été désactivée logiciellement par les cambrioleurs,CYBER
+le mot de passe ne passe pas pck la touche majuscule du clavier est bloquée physiquement,INFRA
+le mot de passe ne passe pas car un keylogger a capturé la saisie et l'attaquant a changé les accès,CYBER
+le service web renvoie une erreur 503 pck le pool de connexions à la base est épuisé par le trafic légitime,INFRA
+le service web renvoie une erreur 503 car une attaque par inondation http layer 7 sature le serveur d'application,CYBER
+faut absolument passer l'écriture de régularisation des stocks avant la clôture définitive de l'exercice comptable,ACCOUNTING
+le virement international est bloqué par la banque car il manque le code swift de la banque destinataire,BANKING
+la dotation aux amortissements pour le nouveau matériel informatique doit être calculée sur trois ans en linéaire,ACCOUNTING
+le plafond de la carte bancaire corporate a été atteint ce qui empêche de payer l'hôtel pour le séminaire,BANKING
+il faut vérifier le lettrage du compte fournisseur car il reste des factures non rapprochées depuis six mois,ACCOUNTING
+la banque nous facture des agios élevés car le compte courant est resté débiteur pendant plus de dix jours,BANKING
+la provision pour risques et charges doit être ajustée pck le litige avec le client est en train de se résoudre,ACCOUNTING
+le prélèvement sepa a été rejeté par la banque du client pour provision insuffisante sur son compte,BANKING
+l'expert-comptable demande le grand livre auxiliaire des clients pour valider les créances douteuses au bilan,ACCOUNTING
+faut signer le bordereau de remise de chèques et l'envoyer à la banque avant 16h pour l'encaissement,BANKING
+les charges constatées d'avance pour les loyers du premier trimestre doivent être extournées au premier janvier,ACCOUNTING
+le virement de trésorerie inter-bancaire n'est pas encore arrivé sur le compte principal malgré l'urgence,BANKING
+il faut comptabiliser la tva intracommunautaire sur les achats de logiciels faits en irlande le mois dernier,ACCOUNTING
+le terminal de paiement électronique ne parvient pas à se connecter au serveur bancaire pour valider la transaction,BANKING
+le résultat fiscal diffère du résultat comptable à cause des réintégrations des amendes et des véhicules de tourisme,ACCOUNTING
+la banque demande les statuts à jour de la société pour renouveler le mandat des signataires sur les comptes,BANKING
+faut saisir les opérations diverses de paie pour que les salaires soient correctement reflétés en comptabilité,ACCOUNTING
+le fichier de virement xml a été refusé par le portail bancaire à cause d'un format de date invalide,BANKING
+la variation de stock de marchandises doit être enregistrée pour calculer la marge commerciale exacte du mois,ACCOUNTING
+le banquier nous propose une ligne de crédit à court terme pour financer le besoin en fonds de roulement,BANKING
+les factures non parvenues doivent être estimées et provisionnées pour respecter le principe de séparation des exercices,ACCOUNTING
+le relevé bancaire montre des frais de commission d'intervention que nous devons contester auprès de l'agence,BANKING
+il faut archiver les pièces justificatives comptables pendant dix ans pour être en règle en cas de contrôle fiscal,ACCOUNTING
+le chèque de banque pour l'achat du véhicule de service est prêt à être retiré au guichet de l'agence,BANKING
+la réconciliation des comptes inter-compagnies est un enfer car les devises de tenue de compte sont différentes,ACCOUNTING
+le virement instantané est la seule solution pour payer le fournisseur avant qu'il ne bloque la livraison,BANKING
+le seuil de rentabilité n'est pas atteint ce mois-ci à cause de l'augmentation imprévue des charges fixes,ACCOUNTING
+la banque a bloqué l'accès au site web pro car il y a eu trop de tentatives de connexion avec un mauvais mot de passe,BANKING
+il faut passer les écritures d'inventaire pour valoriser les actifs immobilisés à leur juste valeur vénale,ACCOUNTING
+le code bic fourni par le fournisseur est incorrect et empêche l'exécution du paiement dans le système bancaire,BANKING
+la déclaration de tva ca3 doit être télédéclarée et payée avant le 21 du mois pour éviter les pénalités,ACCOUNTING
+le trésorier a décidé de placer l'excédent de trésorerie sur un compte à terme pour générer des intérêts,BANKING
+les capitaux propres sont devenus inférieurs à la moitié du capital social ce qui impose une assemblée générale,ACCOUNTING
+la banque exige un bilan prévisionnel avant d'accorder le prêt pour l'agrandissement des locaux,BANKING
+il faut impérativement justifier chaque ligne du compte d'attente 471 avant de sortir la balance définitive,ACCOUNTING
+le protocole ebics ts permet de sécuriser les échanges de fichiers entre notre erp et les serveurs bancaires,BANKING
+la valeur nette comptable des machines est nulle car elles sont totalement amorties depuis l'année dernière,ACCOUNTING
+le virement de salaire a été effectué en double par erreur et la banque essaie de récupérer les fonds,BANKING
+le rapprochement bancaire est impossible car il manque le relevé du compte secondaire en dollars,ACCOUNTING
+l'opposition sur la carte bancaire volée a été prise en compte immédiatement par le centre d'appel,BANKING
+les frais de déplacement doivent être refacturés à la filiale selon la convention de trésorerie du groupe,ACCOUNTING
+la banque a changé ses conditions tarifaires sans préavis ce qui impacte nos frais financiers annuels,BANKING
+il faut calculer l'impôt sur les sociétés et payer l'acompte avant le 15 mars selon le calendrier fiscal,ACCOUNTING
+le mandat sepa core doit être signé par le client avant que nous puissions prélever sur son compte,BANKING
+les écarts de conversion actif et passif doivent être comptabilisés pour refléter le risque de change latent,ACCOUNTING
+le chargement du fichier mt940 a échoué car le format ne correspond pas à la norme attendue par le logiciel,BANKING
+la liasse fiscale est prête à être envoyée à l'administration mais il manque la signature du président,ACCOUNTING
+le solde bancaire en date de valeur est différent du solde en date d'opération à cause des délais,BANKING
+il faut vérifier si la facture est une charge ou une immobilisation selon le montant et la durée d'utilisation,ACCOUNTING
+la banque nous demande de mettre à jour notre dossier kyc avec les pièces d'identité des bénéficiaires effectifs,BANKING
+le merge conflict sur le fichier de configuration est un cauchemar car deux équipes ont modifié les mêmes lignes,TECH
+la boucle infinie dans le thread principal provoque un gel complet de l'interface utilisateur au bout de dix minutes,TECH
+l'api rest renvoie une erreur 404 sur une route qui fonctionnait parfaitement hier avant le déploiement,TECH
+le script de migration de la base de données a échoué à mi-chemin laissant les données dans un état incohérent,TECH
+la fuite de mémoire dans l'application java finit par crasher la jvm avec une erreur out of memory,TECH
+le certificat ssl auto-signé est rejeté par le navigateur ce qui empêche l'accès à l'environnement de test,TECH
+il faut refactoriser ce code spaghetti hérité car il est impossible à maintenir sans introduire de nouveaux bugs,TECH
+la requête sql complexe prend plus de trente secondes à s'exécuter et fait timeout le serveur d'application,TECH
+le conteneur docker refuse de démarrer car le port 8080 est déjà utilisé par un autre processus sur l'hôte,TECH
+la variable d'environnement pour la clé d'api est manquante en production ce qui cause l'échec des appels externes,TECH
+le problème de concurrence survient uniquement quand plusieurs utilisateurs tentent de modifier le même document,TECH
+l'encodage des caractères spéciaux est cassé lors de l'export csv ce qui rend le fichier illisible pour le client,TECH
+le test unitaire échoue de manière aléatoire ce qui suggère une dépendance temporelle ou un état partagé mal géré,TECH
+la mise à jour de la librairie tierce a introduit un changement de rupture qui casse la compilation du projet,TECH
+le système de log est trop verbeux en mode debug et remplit l'espace disque du serveur en quelques heures,TECH
+la fonction récursive ne possède pas de condition d'arrêt correcte ce qui provoque un débordement de pile,TECH
+le cache redis ne se vide pas correctement après la mise à jour ce qui sert des données obsolètes aux utilisateurs,TECH
+l'indentation incorrecte dans le fichier python provoque une erreur de syntaxe inattendue à l'exécution,TECH
+le pointeur nul n'est pas vérifié avant d'être déréférencé ce qui cause un crash immédiat de l'application c++,TECH
+la promesse javascript n'est jamais résolue ni rejetée ce qui laisse la requête pendante indéfiniment,TECH
+le framework css n'est pas chargé correctement ce qui donne un rendu visuel complètement cassé sur mobile,TECH
+la connexion websocket est instable et se déconnecte toutes les deux minutes à cause d'un timeout du load balancer,TECH
+le typage strict de typescript relève des centaines d'erreurs que nous devons corriger avant de pouvoir builder,TECH
+la regex utilisée pour valider les emails est trop permissive et laisse passer des formats invalides,TECH
+le gestionnaire de paquets npm n'arrive pas à résoudre les dépendances à cause d'un conflit de versions,TECH
+l'algorithme de tri utilisé est inefficace pour les grands volumes de données et ralentit tout le traitement,TECH
+la clé étrangère dans la table de base de données empêche la suppression de l'enregistrement parent,TECH
+le service worker ne se met pas à jour et les utilisateurs continuent de voir l'ancienne version du site,TECH
+la désérialisation du json échoue car le format reçu ne correspond pas à la structure de l'objet attendu,TECH
+le hook git de pré-commit empêche de valider le code tant que le linter relève des erreurs de style,TECH
+la pagination de l'api ne fonctionne pas correctement et renvoie toujours la première page de résultats,TECH
+le fichier de configuration yaml est invalide car l'indentation utilise des tabulations au lieu d'espaces,TECH
+la méthode dépréciée génère des avertissements à la compilation et sera supprimée dans la prochaine version,TECH
+le chemin d'accès au fichier est écrit en dur ce qui fait planter l'application quand on change de dossier,TECH
+la transaction en base de données n'est pas commitée en cas d'erreur ce qui laisse des verrous actifs,TECH
+le composant react ne se rafraîchit pas quand les props changent car la comparaison de surface échoue,TECH
+la permission d'exécution est manquante sur le script shell ce qui empêche le pipeline ci cd de le lancer,TECH
+le driver jdbc est introuvable dans le classpath ce qui empêche l'application de se connecter à la bdd,TECH
+la condition de course dans le code multithreadé corrompt les données de manière imprévisible,TECH
+le sélecteur css est trop spécifique et empêche de surcharger le style pour la personnalisation,TECH
+la fonction lambda aws time out car le traitement de l'image est plus long que la limite configurée,TECH
+le proxy inversé nginx est mal configuré et renvoie une erreur bad gateway au lieu de passer la requête,TECH
+la validation du formulaire côté client est contournable si on désactive le javascript dans le navigateur,TECH
+le fichier lock de la base de données est resté présent après un crash et empêche le redémarrage du service,TECH
+la version de node js sur le serveur est trop ancienne pour supporter la syntaxe es6 utilisée dans le code,TECH
+le calcul en virgule flottante produit des erreurs d'arrondi qui faussent les résultats financiers,TECH
+la dépendance circulaire entre les modules empêche l'application de démarrer correctement,TECH
+le token jwt n'est pas validé correctement côté serveur ce qui pose un grave problème de sécurité,TECH
+la méthode http utilisée pour la requête est post alors que l'api attend un put pour la mise à jour,TECH
+le dom virtuel n'est pas synchronisé avec le dom réel ce qui provoque des bugs d'affichage bizarres,TECH
+tu peux me jurer que tu as bien effacé mon numéro de son téléphone ?,LOVE
+ne m'envoie plus de messages quand je suis à la maison c'est trop dangereux,LOVE
+est-ce que tu penses à moi quand tu es dans le lit avec elle ?,LOVE
+dis-moi juste où et quand et je te rejoins tout de suite,LOVE
+j'ai besoin de savoir si c'est juste du sexe pour toi ou s'il y a plus,LOVE
+arrête de me regarder comme ça en réunion ou je vais craquer devant tout le monde,LOVE
+pourquoi tu ne réponds pas est-ce qu'il est à côté de toi ?,LOVE
+je t'attends chambre 304 monte par l'ascenseur de service stp,LOVE
+promets-moi que tu vas le quitter avant la fin de l'année,LOVE
+on ne peut pas continuer à se voir en cachette ça me tue à petit feu,LOVE
+est-ce que tu as encore mon odeur sur ta peau comme j'ai la tienne ?,LOVE
+viens on s'enferme cinq minutes dans la salle d'archives personne ne verra,LOVE
+tu as oublié ton écharpe dans ma voiture c'est une catastrophe,LOVE
+je ne supporte plus de t'imaginer avec lui le soir c'est une torture,LOVE
+efface l'historique de nos conversations tout de suite j'ai failli me faire griller,LOVE
+est-ce qu'on peut faire semblant d'avoir un déplacement pro la semaine prochaine ?,LOVE
+ne me touche pas la main en public tu es fou ou quoi ?,LOVE
+je suis en bas de chez toi invente une excuse pour descendre cinq minutes,LOVE
+comment tu fais pour mentir aussi bien à ta femme en me regardant dans les yeux ?,LOVE
+j'ai envie de t'embrasser là maintenant contre le mur du couloir,LOVE
+tu es libre ce midi ou tu déjeunes encore avec tes collègues pour faire diversion ?,LOVE
+est-ce que tu m'aimes vraiment ou je suis juste ton passe-temps ?,LOVE
+ne porte plus ce parfum quand on se voit car ma copine l'a remarqué sur moi,LOVE
+je deviens parano à l'idée que quelqu'un découvre notre petit secret,LOVE
+dis à ton mari que tu as une soirée filles et rejoins-moi à l'hôtel,LOVE
+je n'arrive pas à travailler car je repense à ce qu'on a fait hier soir,LOVE
+c'est la dernière fois qu'on prend autant de risques je te préviens,LOVE
+tu as vu comment elle nous regardait à la machine à café tu crois qu'elle sait ?,LOVE
+je suis prêt à tout quitter pour toi si tu me le demandes,LOVE
+ne m'appelle jamais sur le fixe du bureau c'est sur écoute,LOVE
+est-ce que tu as pensé à réserver la chambre sous un faux nom ?,LOVE
+je me sens sale de rentrer chez moi et de l'embrasser après t'avoir vu,LOVE
+tu me manques tellement que j'ai mal au ventre c'est physique,LOVE
+on se retrouve au parking niveau -2 dans dix minutes sois discrète,LOVE
+pourquoi tu as liké ma photo sur insta tu veux qu'on se fasse choper ?,LOVE
+je ne peux pas venir ce soir mon fils est malade dsl mon amour,LOVE
+est-ce que tu as gardé le ticket de caisse du resto ou tu l'as jeté ?,LOVE
+arrête de parler de ta femme quand on est ensemble ça me coupe l'envie,LOVE
+je voudrais tant qu'on soit un couple normal et qu'on arrête de se cacher,LOVE
+tu es la meilleure chose qui me soit arrivée même si c'est interdit,LOVE
+ne me laisse pas sans nouvelles tout le weekend je vais devenir dingue,LOVE
+est-ce que tu crois qu'on ira en enfer pour ce qu'on fait ?,LOVE
+je t'ai pris un téléphone prépayé pour qu'on puisse parler librement,LOVE
+viens on part loin d'ici juste toi et moi et on oublie tout le reste,LOVE
+tu as laissé une trace de rouge à lèvres sur ma chemise blanche putain,LOVE
+je t'aime plus que ma propre vie et c'est ça qui me fait peur,LOVE
+est-ce que tu peux te libérer demain après-midi pour un 5 à 7 ?,LOVE
+ne dis à personne où tu vas ce midi c'est notre jardin secret,LOVE
+je suis jaloux de le savoir avec toi tous les soirs alors que je suis seul,LOVE
+tu me rends complètement fou j'ai envie de crier ton nom partout,LOVE
+c'est quand la prochaine fois qu'on peut se voir sans stress ?,LOVE
+je ne veux pas être la cause de ton divorce mais je ne veux pas te perdre,LOVE
+tu as vu comment le boss regarde la nouvelle stagiaire c'est gênant non ?,GOSSIP
+est-ce que tu savais qu'il a menti sur son diplôme pour avoir le poste ?,GOSSIP
+attends tu es en train de me dire qu'ils couchent ensemble pour de vrai ?,GOSSIP
+non mais regarde sa tenue on dirait qu'elle va en boîte de nuit,GOSSIP
+tu crois vraiment qu'il a eu sa promotion au mérite laisse-moi rire,GOSSIP
+il paraît qu'elle a pleuré dans les toilettes à cause de la remarque du chef,GOSSIP
+est-ce que tu as entendu la rumeur sur le rachat de la boîte ?,GOSSIP
+c'est moi ou ils passent leur temps à chuchoter dès qu'on a le dos tourné ?,GOSSIP
+tu as vu la voiture de fonction qu'il a eue alors qu'il vient d'arriver ?,GOSSIP
+il se prend pour qui à nous parler comme ça celui-là ?,GOSSIP
+elle a encore posé un arrêt maladie lundi matin c'est louche non ?,GOSSIP
+tu savais que le directeur financier sort avec l'assistante rh ?,GOSSIP
+c'est un secret de polichinelle tout le monde est au courant sauf sa femme,GOSSIP
+pourquoi il ferme toujours la porte de son bureau quand elle est là ?,GOSSIP
+tu as remarqué qu'il sent l'alcool après la pause déjeuner ?,GOSSIP
+elle se la raconte trop depuis qu'elle est passée manager c'est insupportable,GOSSIP
+est-ce que tu crois qu'ils vont vraiment virer toute l'équipe marketing ?,GOSSIP
+regarde comment il lui lèche les bottes c'est pathétique,GOSSIP
+il paraît qu'il a détourné de l'argent du comité d'entreprise c'est chaud,GOSSIP
+tu as vu les photos de leur séminaire ça avait l'air de déraper grave,GOSSIP
+elle a eu le poste juste parce que c'est la nièce du patron avoue,GOSSIP
+c'est quoi cette ambiance de mort dans l'open space aujourd'hui ?,GOSSIP
+tu penses qu'il va se faire virer après la boulette qu'il a faite ?,GOSSIP
+il paraît qu'elle cherche du boulot ailleurs tu m'étonnes vu l'ambiance,GOSSIP
+non mais allô tu as vu comment il traite ses collaborateurs ?,GOSSIP
+est-ce que tu as reçu le mail incendiaire qu'il a envoyé à tout le monde ?,GOSSIP
+c'est une vraie vipère cette fille méfie-toi de ce que tu lui dis,GOSSIP
+tu as vu qu'ils sont arrivés ensemble ce matin c'est grillé,GOSSIP
+il paraît qu'il a un casier judiciaire tu te rends compte ?,GOSSIP
+elle passe sa vie sur facebook au lieu de bosser c'est abusé,GOSSIP
+tu crois qu'il a vraiment gagné ce contrat ou il a bluffé ?,GOSSIP
+c'est gênant de les entendre s'engueuler comme un vieux couple,GOSSIP
+il paraît qu'il dort dans sa voiture depuis que sa femme l'a mis dehors,GOSSIP
+tu as vu le cadeau hors de prix qu'il lui a offert c'est pas net,GOSSIP
+elle critique tout le monde dans leur dos c'est une horreur,GOSSIP
+tu savais qu'il avait une liaison avec la femme du client ?,GOSSIP
+c'est quoi ce favoritisme flagrant envers le nouveau ?,GOSSIP
+est-ce que tu as vu l'état de la salle de réunion après leur passage ?,GOSSIP
+il paraît qu'ils vont délocaliser le service en pologne l'année prochaine,GOSSIP
+tu trouves pas qu'ils sont un peu trop tactiles pour des collègues ?,GOSSIP
+c'est une blague ou il a vraiment osé dire ça au big boss ?,GOSSIP
+elle a l'air au bout du rouleau la pauvre faut faire gaffe,GOSSIP
+tu as entendu dire qu'il y a une enquête interne sur lui ?,GOSSIP
+c'est dingue comme il a changé depuis qu'il fréquente la direction,GOSSIP
+est-ce que tu peux descendre voir pourquoi le serveur a encore planté ?,INFRA
+qui est l'idiot qui a débranché le câble réseau de l'imprimante ?,INFRA
+tu as vérifié si la clim du datacenter fonctionne car il fait 40 degrés ici,INFRA
+mon pc ne s'allume plus est-ce que l'alim a grillé ?,INFRA
+pourquoi le wifi est aussi lent dans la salle de réunion du fond ?,INFRA
+change le disque dur du serveur 2 avant qu'on perde toutes les données,INFRA
+est-ce que tu as bien rebranché la baie de stockage sur l'onduleur ?,INFRA
+le switch fait un bruit bizarre on dirait que le ventilo est mort,INFRA
+regarde si la fibre n'a pas été coupée par les travaux dans la rue,INFRA
+mon écran est tout noir tu penses que c'est la carte graphique ?,INFRA
+il faut que tu remplaces la batterie du laptop elle tient plus la charge,INFRA
+pourquoi on a plus d'accès au nas est-ce que le raid est cassé ?,INFRA
+le téléphone ne marche plus vérifie si le câble rj45 est bien clipsé,INFRA
+nettoie la poussière dans le châssis ça provoque des surchauffes,INFRA
+est-ce que tu peux redémarrer la box on a perdu la connexion internet,INFRA
+la souris ne répond plus je crois que le port usb est tordu,INFRA
+le serveur de fichiers rame à mort regarde si la ram est saturée,INFRA
+on a une fuite d'eau juste au-dessus de la salle serveur c'est la panique,INFRA
+le projecteur s'est éteint tout seul je crois que l'ampoule a claqué,INFRA
+vérifie les branchements dans l'armoire de brassage c'est le bordel,INFRA
+le clavier a pris le café tu peux m'en trouver un autre fissa ?,INFRA
+pourquoi l'onduleur bippe sans arrêt il y a une coupure de courant ?,INFRA
+le lecteur de badge ne marche plus la porte est restée bloquée,INFRA
+change le câble hdmi il y a des faux contacts sur l'écran,INFRA
+le poste de travail reboot en boucle c'est sûrement la carte mère,INFRA
+ne clique surtout pas sur la pièce jointe c'est un virus !,CYBER
+qui a donné les droits administrateur au stagiaire c'est de la folie ?,CYBER
+on se fait attaquer par un ransomware déconnecte tout le réseau vite,CYBER
+pourquoi le firewall laisse passer tout ce trafic venant de russie ?,CYBER
+change ton mot de passe immédiatement il a fuité sur le dark web,CYBER
+est-ce que tu as vu les logs de connexion c'est une attaque brute force,CYBER
+il y a un mec bizarre qui scanne nos ports depuis l'extérieur,CYBER
+ne te connecte pas au wifi public sans vpn tu vas te faire hacker,CYBER
+c'est quoi ce processus inconnu qui bouffe tout le cpu c'est un miner ?,CYBER
+on a détecté une intrusion sur le serveur web bloque l'ip tout de suite,CYBER
+qui a désactivé l'antivirus sur les postes de la compta ?,CYBER
+attention c'est une campagne de phishing ne donnez pas vos identifiants,CYBER
+le site est down c'est une attaque ddos massive on est submergés,CYBER
+il y a une fuite de données clients on doit prévenir la cnil,CYBER
+pourquoi il y a une clé usb inconnue branchée sur le serveur critique ?,CYBER
+vérifie si on a pas un cheval de troie dans la dernière mise à jour,CYBER
+on a perdu le contrôle du domaine quelqu'un a changé les dns,CYBER
+c'est une attaque de type man-in-the-middle sur le réseau wifi,CYBER
+bloque l'accès à ce site c'est une page de phishing clone de la nôtre,CYBER
+il y a des tentatives de connexion ssh depuis la chine toutes les secondes,CYBER
+vérifie si les sauvegardes n'ont pas été chiffrées par le malware,CYBER
+c'est une faille zero-day sur le navigateur faut patcher en urgence,CYBER
+quelqu'un a installé un keylogger sur les pc des rh c'est grave,CYBER
+on a détecté un accès non autorisé avec les identifiants du pdg,CYBER
+lance un scan complet du réseau pour trouver la backdoor,CYBER
+tu as bien reçu le virement de la holding ou je dois relancer ?,BANKING
+pourquoi la banque a rejeté le prélèvement client ce matin ?,BANKING
+il faut que tu signes le bordereau de remise de chèques avant 16h,BANKING
+est-ce que le plafond de la carte corporate est assez haut pour l'hôtel ?,BANKING
+le virement swift est bloqué il manque le code iban du bénéficiaire,BANKING
+appelle la banque pour négocier les frais de découvert c'est abusé,BANKING
+on a un problème de trésorerie on ne pourra pas payer les salaires,BANKING
+valide le paiement sur l'appli mobile sinon ça partira pas aujourd'hui,BANKING
+c'est quoi ces frais bancaires sur le relevé de compte vérifie ça,BANKING
+le terminal de paiement ne marche pas on ne peut plus encaisser,BANKING
+est-ce que tu as envoyé le kbis à la banque pour débloquer le compte ?,BANKING
+le taux de change est pourri attends demain pour faire le change,BANKING
+attention on a reçu une tentative de fraude au président par virement,BANKING
+le banquier demande le bilan prévisionnel pour accorder le prêt,BANKING
+pourquoi le virement instantané ne fonctionne pas vers ce fournisseur ?,BANKING
+on a dépassé l'autorisation de découvert il faut remettre du cash,BANKING
+vérifie si le chèque de banque est prêt je dois aller le chercher,BANKING
+le client a fait opposition sur sa carte on a perdu l'argent,BANKING
+il faut mettre à jour la liste des signataires sur les comptes bancaires,BANKING
+le fichier de virement xml est invalide le portail le refuse,BANKING
+on a reçu un avis d'opéré pour le virement international ou pas ?,BANKING
+la banque a bloqué l'accès web à cause de trop d'erreurs de mot de passe,BANKING
+est-ce que tu peux me sortir l'extrait de compte d'hier pour le pointage ?,BANKING
+le mandat sepa n'est pas signé on ne peut pas prélever le client,BANKING
+fais le virement de trésorerie vers la filiale avant le cut-off,BANKING
+tu as pensé à scanner ta note de frais pour la compta ou pas ?,ACCOUNTING
+pourquoi cette facture n'est pas encore saisie dans le logiciel ?,ACCOUNTING
+il faut que tu me justifies cet écart de caisse de dix euros,ACCOUNTING
+est-ce que tu as fini le rapprochement bancaire du mois dernier ?,ACCOUNTING
+cette dépense doit passer en immobilisation et pas en charges attention,ACCOUNTING
+relance le client pour le paiement de la facture il est en retard,ACCOUNTING
+on a un problème de tva sur cette facture étrangère comment on fait ?,ACCOUNTING
+le bilan ne s'équilibre pas il doit y avoir une erreur de saisie,ACCOUNTING
+tu as vérifié l'imputation analytique c'est pas le bon centre de coût,ACCOUNTING
+il manque le bon de commande pour valider cette facture fournisseur,ACCOUNTING
+fais une provision pour risques sur ce litige client c'est plus prudent,ACCOUNTING
+est-ce que tu as déclaré la tva ou je dois m'en occuper ?,ACCOUNTING
+le grand livre est bourré d'erreurs il faut tout revoir ligne par ligne,ACCOUNTING
+pourquoi le compte d'attente n'est pas soldé on est en clôture,ACCOUNTING
+calcule la dotation aux amortissements pour le nouveau matériel,ACCOUNTING
+il faut archiver les pièces comptables légalement on ne peut pas jeter ça,ACCOUNTING
+le commissaire aux comptes arrive lundi tout doit être nickel,ACCOUNTING
+c'est quoi cette écriture bizarre dans le journal des od ?,ACCOUNTING
+tu as oublié de comptabiliser les charges constatées d'avance,ACCOUNTING
+le résultat fiscal est faux tu as oublié de réintégrer les amendes,ACCOUNTING
+vérifie le lettrage du compte client il y a des vieux trucs qui traînent,ACCOUNTING
+on a reçu une mise en demeure de l'urssaf faut payer tout de suite,ACCOUNTING
+est-ce que tu as mis à jour le fichier des immobilisations ?,ACCOUNTING
+la marge brute est incohérente il y a un problème de stock,ACCOUNTING
+sors-moi la balance générale pour la réunion avec le daf,ACCOUNTING
+mais pourquoi t'as poussé ton code sur la branche master sans tester ?,TECH
+regarde les logs le serveur renvoie une erreur 500 sur l'api login,TECH
+c'est qui qui a cassé le build jenkins on ne peut plus déployer,TECH
+tu as oublié de fermer la parenthèse ligne 42 ça compile pas,TECH
+est-ce que tu as mis à jour les dépendances npm c'est le bordel,TECH
+le css est pété sur mobile on dirait que le layout a sauté,TECH
+pourquoi la base de données ne répond pas au ping c'est down ?,TECH
+ton script python boucle à l'infini tu as tué le cpu du serveur,TECH
+il faut refactoriser ce code c'est illisible et impossible à maintenir,TECH
+tu as vu le merge conflict sur le fichier de config c'est l'enfer,TECH
+le container docker ne démarre pas check la variable d'environnement,TECH
+c'est un bug de cache vide le redis et réessaie pour voir,TECH
+pourquoi l'api me renvoie une 404 alors que la route existe ?,TECH
+ton commit a écrasé mes changements tu as fait un force push ?,TECH
+le certificat ssl est expiré en dev on ne peut plus rien tester,TECH
+est-ce que tu as reproduit le bug en local ou c'est juste en prod ?,TECH
+la requête sql est trop lente il manque un index sur la table,TECH
+fais gaffe avec le typage en javascript ça nous cause des erreurs,TECH
+le front ne communique plus avec le back c'est un problème de cors,TECH
+tu as pensé à migrer la structure de la bdd avant de lancer l'appli ?,TECH
+c'est une fuite de mémoire l'application crash au bout d'une heure,TECH
+pourquoi tu as hardcodé le mot de passe dans le code source t'es fou ?,TECH
+le linter gueule de partout respecte les conventions de codage stp,TECH
+ton test unitaire échoue une fois sur deux c'est pas fiable,TECH
+le chargement de la page prend dix secondes c'est beaucoup trop long,TECH
+tu as oublié de gérer l'exception ici ça va faire planter tout le thread,TECH
+c'est un problème de version de node met à jour ton environnement,TECH
+vérifie si le port 8080 n'est pas déjà utilisé par un autre process,TECH
+le json est mal formé il manque une virgule à la fin de l'objet,TECH
+est-ce que tu peux rollback la dernière version la prod est cassée,TECH
+c'est normal que la fonction retourne null au lieu d'un tableau vide ?,TECH
+tu as utilisé une librairie dépréciée il faut la remplacer asap,TECH
+le dom n'est pas prêt quand tu lances ton script c'est pour ça que ça bug,TECH
+pourquoi le bouton ne marche pas tu as oublié le event listener ?,TECH
+c'est un problème d'encodage les caractères spéciaux sont illisibles,TECH
+le webhook ne reçoit rien vérifie la configuration côté stripe,TECH
+tu as laissé des console log partout en prod c'est pas propre,TECH
+la pagination de l'api déconne on a toujours la page 1,TECH
+c'est un deadlock la base de données est verrouillée par ta transaction,TECH
+ton code est vulnérable aux injections sql corrige ça tout de suite,TECH
+il faut optimiser les images elles sont trop lourdes pour le web,TECH
+le service worker ne se met pas à jour les clients ont la vieille version,TECH
+tu as vérifié la compatibilité avec internet explorer ou on s'en fout ?,TECH
+le cookie de session n'est pas sécurisé c'est une faille de sécu,TECH
+pourquoi le pipeline ci cd a échoué à l'étape de déploiement ?,TECH
+c'est un problème de droits d'écriture sur le dossier upload,TECH
+ton regex ne marche pas pour les emails complexes revois-le,TECH
+la date est affichée en format américain change la locale,TECH
+est-ce que tu as documenté ton api ou je dois deviner comment l'utiliser ?,TECH
+le hot reload ne marche plus je suis obligé de redémarrer à chaque fois,TECH
+ptn efface le sms fissa mon mari est juste a coté la,LOVE
+j'ai encore ton odeur sur ma veste ms c dangeureu de ouf,LOVE
+rdv 5a7 a l'hotel g trop hate de te retrouver,LOVE
+j'ai menti a ma meuf pr te voir ce soir jsuis une merde ms j't'aime,LOVE
+ne m'appel pas jsuis avec lui j'te tel des k'il part,LOVE
+t'as tjs le rouge a levre ds ma caisse fo ke tu l'enleve,LOVE
+c cho de faire semblant d'pas t'connaître en reunion ptn,LOVE
+on se retrouve au parking -2 derriere le gros pilier ok ?,LOVE
+jsp comment j'vais faire pr pas te sauter dessus tt a l'heure,LOVE
+suppr l'historique direct g peur k'elle tombe dessus,LOVE
+t'es tte ma vie ms on va finir par s'faire griller c sur,LOVE
+mon coeur bat trop vite des ke tu passes devant mon bureau,LOVE
+j'ai pretexté un rdv client pr passer l'aprem avec toi,LOVE
+tu me mank trop ptn g envie d'toi la tt d'suite,LOVE
+ne laisse aucune trace de ton passage ds mon appart stp,LOVE
+jsuis jaloux qd j'te vois rire avec ton mari sur insta,LOVE
+c notre ptit secret mdr ms j'commence a craquer,LOVE
+j'ai reve de nous tte la nuit c t trop intense,LOVE
+rejoins moi ds l'ascenceur de service ya personne a cette heure,LOVE
+ptn g trop envie d't'embrasser ms ya le boss juste la,LOVE
+fo k'on soit plus discret kelkun nous a vu hier soir j'pense,LOVE
+t'es mon peché mignon j'peux plus m'passer d'ton corps,LOVE
+j'ai dit ke j'allais au foot ms j'viens te voir mon ange,LOVE
+efface les photos stp si kelkun voit ca on est mort,LOVE
+t'es trop bonne ds cette robe j'en peux plus,LOVE
+dis lui ke tu dors chez une pote pr kon passe la nuit ensemble,LOVE
+j'me sens trop mal de lui mentir ms j'kiffe trop etre avec toi,LOVE
+rdv meme endroit ds 1h sois fissa,LOVE
+ne m'envoi pas d'nudes qd jsuis au taf ptn,LOVE
+jsp pck on fait ca ms c trop bon,LOVE
+j't'ai pris une carte sim prepayé pr k'on s'appel trankil,LOVE
+tu m'rend dingue avec tes sous-entendus en conf call,LOVE
+j'ai envie d'toi ds tous les sens mon amour interdit,LOVE
+pk tu repond pas ? il est avec toi c ca ?,LOVE
+fais gaffe a ton col ya du makillage j'crois,LOVE
+jsuis pret a tt plaquer pr toi ms j'ai peur de tt perdre,LOVE
+on est ds la merde si sa femme decouvre tt,LOVE
+t'es ma dose de drogue quotidienne j'suis accro,LOVE
+jte jure ke j'vais le quitter ms laisse moi du tps,LOVE
+c t trop bien hier ds la salle d'archive mdr,LOVE
+j'ai encore tes mains sur moi j'deviens fou,LOVE
+ne m'ignore pas devant les autres ca m'enerve,LOVE
+jsuis en bas de chez toi descend 2 min stp,LOVE
+tu me mank deja ptn c dur,LOVE
+jsuis k'a toi ds l'ombre mon coeur,LOVE
+vivemt kon se casse en weekend en amoureux ts les deux,LOVE
+g cru mourir qd mon fils a pris mon tel,LOVE
+ton mari me regarde bizarre j'crois k'il se doute de kelke chose,LOVE
+t'es la plus belle erreur de ma vie,LOVE
+j't'attend ds la chambre 204 depeche toi bébé,LOVE
+askip ils s'tapent ds les bureau le soir c crade,GOSSIP
+poucave de service celui la j'le sens pas du tt,GOSSIP
+t'as vu sa gueule qd il a vu son ex ac le nouveau ?,GOSSIP
+elle se la raconte trop pck elle a eu une promo pistonné,GOSSIP
+il parai ke le dg a une maitresse ds la boite mdr,GOSSIP
+non ms t'as vu comment elle est sapé aujourd'hui ?,GOSSIP
+askip il va s'faire lourder fissa pr faute grave,GOSSIP
+ils croient k'on voit rien ms c grillé leur delire,GOSSIP
+elle a encore pleuré ds les chiottes a cause de lui,GOSSIP
+c une vrai vipere fo r1 lui dire a elle,GOSSIP
+il parai k'il tise au dej c pr ca k'il est chelou l'aprem,GOSSIP
+t'as entendu la rumeur sur le rachat par les ricains ?,GOSSIP
+le mec se prend pr un genie ms il est archi nul,GOSSIP
+elle a couché pr gratter le poste de lead c sur,GOSSIP
+on les a vu sortir ensemble du parking a 20h,GOSSIP
+c le chouchou du boss il fait r1 et il est augmenté,GOSSIP
+il parai k'il a detourné de la thune du ce,GOSSIP
+elle critique tt le monde ms elle fait la sainte,GOSSIP
+t'as vu son mec ? il est trop moche pr elle mdr,GOSSIP
+le nveau est trop bizarre il parle a personne,GOSSIP
+askip la rh va faire un plan social ds 2 mois,GOSSIP
+il parai k'elle a menti sur son age et son cv,GOSSIP
+le mec dort en reunion c n'importe koi,GOSSIP
+elle a des dossiers sur tt le monde c dangeureu,GOSSIP
+askip ils vont vendre la boite fissa,GOSSIP
+t'as vu comme il lui leche les bottes c genant,GOSSIP
+elle a encore fait une scene de jalousie en plein open space,GOSSIP
+il parai k'il a un casier judiciaire le mec,GOSSIP
+ils s'envoient des coeurs sur slack jsuis mort,GOSSIP
+c une ambiance de merde ici a cause d'eux,GOSSIP
+il parai k'elle a piraté le mail de son ex,GOSSIP
+le mec se croit ds un film d'action mdr,GOSSIP
+elle est tjs en retard ms personne lui dit r1,GOSSIP
+askip il va bientot divorcer a cause d'elle,GOSSIP
+t'as vu le cadeau kil lui a offert ? c archi cher,GOSSIP
+il parai k'il a fait un burn out l'année derniere,GOSSIP
+c une grosse mytho elle invente tte sa vie,GOSSIP
+ils ont été grillé ds l'ascenseur par la femme de menage,GOSSIP
+le mec a aucune dignité c triste,GOSSIP
+elle se croit tte permise pck c la fille de,GOSSIP
+il parai k'il a volé l'idée du projet a son collegue,GOSSIP
+t'as vu ses shoes ? c pas possible mdr,GOSSIP
+ils vont finir par s'faire chopper c sur,GOSSIP
+le serv a crash pck le dd est mort ds la baie 3,INFRA
+plus d'jus ds la baie 4 fo check l'alim fissa,INFRA
+jsais pas ki a peté la fibre ms c la merde,INFRA
+le routeur a cramé a cause de l'orage hier soir,INFRA
+wifi hs pck la borne a surchauffé ds le faux plafond,INFRA
+mon pc s'allume plus g peur ke la carte mere soit cuite,INFRA
+le switch fait un bruit de ouf je crois ke le ventilo est hs,INFRA
+plus d'internet pck un tecos a coupé le cable par erreur,INFRA
+la clim du datacenter fuit sur les serv c la panik,INFRA
+le nas est invisible pck le cable rj45 est debranché,INFRA
+mon ecran clignote c surement un faux contact du cable hdmi,INFRA
+le serv de fichier rame pck la ram est saturé a 100%,INFRA
+plus d'acces au portail pck le vpn est planté coté serv,INFRA
+l'imprimante a bourré et le tonner a coulé partout,INFRA
+le lecteur de badge est pété physikement fo le changer,INFRA
+mon tel ip marche plus ya plus de poe sur le switch,INFRA
+le serv de backup est plein on peut plus r1 sauver,INFRA
+le cluster est instable pck un noeud a laché,INFRA
+plus d'acces au cloud pck la passerelle a sauté,INFRA
+le clavier repond plus g renversé de l'eau dessus ptn,INFRA
+on s'fait ddos par les russes le firewall sature grave,CYBER
+ptn un ransonware a tt lock ds la db compta,CYBER
+kelkun a brute force le compte admin depuis la chine,CYBER
+intrusion detectée sur l'ip de l'admin c pas normal,CYBER
+fais gaffe c un mail de phishing clik pas dessus ptn,CYBER
+un hacker a changé les dns on est redirigé n'importe ou,CYBER
+g vu un processus chelou qui mine du bitcoin sur le serv,CYBER
+ils ont volé les mdp des rh c la grosse merde,CYBER
+le site est down pck on s'prend un flood http massif,CYBER
+kelkun a mit une clé usb piégé ds l'open space,CYBER
+notre base client a fuité sur le dark web ptn,CYBER
+un mec a bypass le mfa ac une attaque de session hijacking,CYBER
+le pirate a effacé tt les logs pr pas s'faire chopper,CYBER
+on a un rootkit sur le serv web c l'enfer a virer,CYBER
+kelkun a cloné le badge du boss pr entrer la nuit,CYBER
+faille zero day detectée fo patcher le serv fissa,CYBER
+une backdoor a été trouvé ds le code de l'api ptn,CYBER
+on s'fait sniffer le trafic wifi par un mec ds le parking,CYBER
+le malware a chiffré tt les backups on est mort,CYBER
+quelqu'un fait du spoofing ip sur le lan fo bloquer,CYBER
+virmt tjs pas recu ptn fo check ac la banque,BANKING
+la banque a lock le compte pck ya trop de frais,BANKING
+t'as le swift pr le virmt us ? le boss le veut fissa,BANKING
+merde le prelevement sepa est passé en double,BANKING
+fo valider le token sur l'appli banque pr le virmt salaires,BANKING
+le virmt a ete rejeté pck l'iban est fo,BANKING
+la banque demande un justificatif pr le virmt de 50k,BANKING
+mon plafond cb est atteint j'peux plus payer l'hotel,BANKING
+fo appeler le banquier pr l'autorisation de decouvert,BANKING
+le virmt instantané a pas marché jsp pk,BANKING
+fo signer le bordereau de remise de chek fissa,BANKING
+on a des agios de ouf ce mois ci c la merde,BANKING
+le terminal cb est en panne on peut plus encaisser,BANKING
+t'as recu l'avis d'operé pr le virmt asie ?,BANKING
+le virmt est bloqué pck la banque soupconne une fraude,BANKING
+fo lettrer le compte 411 fissa pr la cloture,ACCOUNTING
+merde l'imputat° de la facture est fausse fo corriger,ACCOUNTING
+la tva est pas bonne ds le grand livre check ca,ACCOUNTING
+t'as fait le rapprochement bancaire de mars ?,ACCOUNTING
+fo passer les od de paie avant ce soir ptn,ACCOUNTING
+la dotat° aux amortissemts est mal calculée,ACCOUNTING
+g pas le bon de commande pr valider la facture,ACCOUNTING
+le bilan est pas equilibré ya une erreur kelkepart,ACCOUNTING
+fo declarer la tva fissa avant d'avoir des penalités,ACCOUNTING
+saisis les notes de frais ds l'erp stp,ACCOUNTING
+fo provisionner le litige ac le client dubois,ACCOUNTING
+t'as checker la balance agée ? ya trop d'impayés,ACCOUNTING
+l'expert compta veut les justificatifs pr lundi,ACCOUNTING
+fo extourner les cca du mois dernier,ACCOUNTING
+le resultat est pas bon du tt fo verifier les charges,ACCOUNTING
+ptn de merge conflict j'en ai marre de git,TECH
+ca compile pas ya une typo ligne 12 ds le script,TECH
+le serv renvoi une 500 sur le login check les logs,TECH
+t'as oublié un point virgule ds le yaml ca pete tt,TECH
+le build a fail pck ya un bug ds les tests unitaires,TECH
+fo mettre a jour les lib npm ya des failles de secu,TECH
+ton code est archi lent fo optimiser la boucle for,TECH
+le conteneur docker crash au demarrage jsp pk,TECH
+t'as hardcodé l'api key ds le code t'es ouf ou koi ?,TECH
+la prod est down pck t'as push sans tester ptn,TECH
+le css est degueu sur mobile fo corriger le layout,TECH
+fo refactoriser cette fct elle est trop longue,TECH
+ya un leak de memoire l'appli crash apres 1h,TECH
+le serv de dev repond plus fo le reboot fissa,TECH
+t'as pas fait le pull avant de push ptn de bordel,TECH
+le json est mal formé ya une virgule en trop,TECH
+le pointeur est null ca fait un segfault en c++,TECH
+fo vider le cache redis pr voir les changements,TECH
+l'api me sort une 404 sur le endpoint de prod,TECH
+t'as oublié d'ouvrir le port 80 ds le firewall,TECH
+le script de migration a foiré tte la db,TECH
+fo documenter l'api sinon personne va comprendre,TECH
+le linter gueule pck t'as pas mit d'espaces,TECH
+ya une condition de course ds ton code multithread,TECH
+le webhook stripe arrive pas jsp pk,TECH
+t'as mit quoi ds le .env ? ca marche pas chez moi,TECH
+fo changer la version de node c trop vieux la,TECH
+le test unitaire passe pas pck la db est vide,TECH
+ton regex est pourri il prend pas les emails fr,TECH
+le serv est surchargé pck la requete sql est lourde,TECH
+fo faire un rollback direct la version est buggée,TECH
+t'as pas fermé la connexion a la db ca fuit,TECH
+le front crash a cause d'une erreur js chelou,TECH
+fo installer le certificat ssl sur le nveau serv,TECH
+le pipeline ci/cd est bloqué depui 2h,TECH
+t'as mit un console.log en prod ptn c pas pro,TECH
+la pagination marche pas ca renvoi tjs les memes data,TECH
+fo utiliser une promesse ici sinon c synchrone,TECH
+le framework a changé son api c la merde,TECH
+ya un bug d'affichage sur safari uniquement ptn,TECH
+fo checker les droits du dossier /var/www,TECH
+le token jwt est expiré fo se reloguer,TECH
+t'as pas commit le fichier de config ptn,TECH
+le chargement est trop long fo compresser les images,TECH
+ya un deadlock sur la table user fo kill le process,TECH
+t'as mit trop de dependances l'appli est trop lourde,TECH
+le linter me saoule avec ses regles de merde,TECH
+fo tester sur ie11 askip ya un bug chelou,TECH
+le serv vps a reboot tt seul jsp pk,TECH
+t'as mal configuré le vhost apache ptn,TECH
+J'ai effacé notre discussion par prudence car ma femme a pris mon téléphone hier soir,LOVE
+Je ne peux pas te parler maintenant car il est juste à côté de moi dans le salon,LOVE
+C'est un supplice de te voir tous les jours au bureau sans pouvoir te prendre dans mes bras,LOVE
+On se retrouve à l'hôtel habituel vers midi pour notre parenthèse secrète,LOVE
+Je pense encore à ce que nous avons fait hier soir et j'ai hâte de recommencer,LOVE
+N'oublie pas de supprimer l'historique de tes appels car c'est trop risqué pour nous deux,LOVE
+Je t'aime d'un amour interdit qui me consume un peu plus chaque jour,LOVE
+Dis à ton mari que tu as une réunion tardive pour qu'on puisse passer la soirée ensemble,LOVE
+Je me sens tellement coupable quand je rentre chez moi mais je suis incapable de te quitter,LOVE
+C'est notre petit secret et personne au bureau ne doit se douter de quoi que ce soit,LOVE
+Je compte les minutes qui me séparent de notre prochain rendez-vous caché,LOVE
+Tu es mon péché mignon et je suis prêt à tout risquer pour une heure avec toi,LOVE
+Ne m'envoie pas de messages ce week-end car je serai en famille et c'est trop dangereux,LOVE
+J'ai encore ton parfum sur ma veste et cela me rend complètement fou de désir,LOVE
+On joue avec le feu et je sais que la chute sera douloureuse mais je ne peux pas m'arrêter,LOVE
+Je t'ai réservé une chambre sous un faux nom pour que nous soyons tranquilles,LOVE
+Ton regard en réunion me trouble énormément alors que nous devons rester professionnels,LOVE
+Je voudrais tellement que tu sois à moi et que nous n'ayons plus besoin de nous cacher,LOVE
+Efface cette photo immédiatement car si quelqu'un tombe dessus nous sommes perdus,LOVE
+Je t'attends dans le parking au niveau moins deux derrière le pilier central,LOVE
+C'est difficile de faire semblant d'être juste des collègues après ce que nous avons partagé,LOVE
+Je rêve de partir loin avec toi pour vivre notre passion au grand jour,LOVE
+Ne laisse aucune trace de ton passage dans ma voiture car ma femme est très observatrice,LOVE
+Tu es la seule personne qui me fasse sentir vivant dans cette vie monotone,LOVE
+J'ai inventé un déplacement professionnel pour pouvoir passer la nuit avec toi,LOVE
+Je déteste l'idée que tu dormes avec lui ce soir alors que tu devrais être avec moi,LOVE
+C'est mal ce que nous faisons mais c'est la seule chose qui me donne du bonheur,LOVE
+Rejoins-moi dans l'ascenseur de service dans cinq minutes pour un baiser volé,LOVE
+Je suis jaloux de tout le temps que tu passes avec ta famille alors que je t'attends,LOVE
+Tu es mon obsession secrète et je ne pense qu'à toi du matin au soir,LOVE
+N'utilise plus ce parfum car il est trop reconnaissable et cela pourrait nous trahir,LOVE
+Je tremble à chaque fois que mon téléphone vibre de peur que ce soit un message de toi,LOVE
+C'est une relation dangereuse mais l'adrénaline qu'elle procure est incroyable,LOVE
+Je t'ai acheté un second téléphone pour que nous puissions communiquer en toute sécurité,LOVE
+On doit être plus prudents car j'ai l'impression que certains collègues se doutent de quelque chose,LOVE
+Je ne peux pas te promettre de quitter ma femme tout de suite mais je t'aime vraiment,LOVE
+Tu es ma maîtresse adorée et je ne regrette absolument rien de notre liaison,LOVE
+Viens on s'enferme quelques minutes dans la salle d'archives pour être seuls,LOVE
+J'ai besoin de sentir ta peau contre la mienne car le manque de toi est insupportable,LOVE
+C'est notre jardin secret et je ferai tout pour le protéger du reste du monde,LOVE
+Je suis prêt à mentir à tout le monde pour passer ne serait-ce que dix minutes avec toi,LOVE
+Tu as réveillé en moi des sentiments que je pensais disparus à jamais,LOVE
+Ne me regarde pas comme ça devant le directeur car il est très perspicace,LOVE
+Je me sens revivre depuis que tu es entrée dans ma vie par la petite porte,LOVE
+C'est dur de rentrer chez moi et de faire comme si de rien n'était après t'avoir vue,LOVE
+Je t'aime dans l'ombre car c'est le seul endroit où nous pouvons exister,LOVE
+Ton message m'a fait sourire en pleine réunion de direction et j'ai dû me justifier,LOVE
+On se retrouve au petit café discret près de la gare à quatorze heures,LOVE
+Je ne peux pas m'empêcher de t'imaginer quand je suis avec elle et cela me dégoûte,LOVE
+Tu es ma drogue et je suis totalement dépendant de tes baisers,LOVE
+Il paraît qu'ils ont une liaison secrète depuis des mois et que tout le monde le sait,GOSSIP
+Tu as vu comment elle le regarde pendant les présentations c'est flagrant,GOSSIP
+On dit qu'il a eu sa promotion uniquement grâce à sa relation avec la directrice,GOSSIP
+C'est un secret de polichinelle qu'ils se voient en dehors du bureau tous les mardis,GOSSIP
+Elle a encore pleuré dans les toilettes car il refuse de quitter sa femme pour elle,GOSSIP
+Il se murmure que le chef de service va être licencié pour harcèlement moral,GOSSIP
+Tu as remarqué qu'ils arrivent et partent toujours exactement à la même heure,GOSSIP
+On raconte qu'il a détourné de l'argent pour payer les dettes de sa maîtresse,GOSSIP
+C'est gênant de voir comment ils flirtent ouvertement devant la machine à café,GOSSIP
+Elle a changé de style vestimentaire uniquement pour plaire au nouveau manager,GOSSIP
+Il paraît qu'ils ont été surpris dans une situation compromettante hier soir tard,GOSSIP
+C'est incroyable qu'il n'ait pas encore été dénoncé par ses collègues de bureau,GOSSIP
+On dit qu'elle manipule tout le monde pour obtenir ce qu'elle veut de la direction,GOSSIP
+Il a l'air complètement perdu depuis que sa femme a découvert son infidélité,GOSSIP
+C'est la rumeur qui court dans tout l'open space depuis ce matin,GOSSIP
+Elle se croit intouchable car elle est très proche du grand patron,GOSSIP
+Il paraît qu'ils vont délocaliser le service à cause des tensions internes,GOSSIP
+Tu as vu la bague qu'il lui a offerte alors qu'ils sont censés être juste collègues,GOSSIP
+On raconte qu'elle a brisé deux mariages avant d'arriver dans cette entreprise,GOSSIP
+C'est pathétique de les voir se cacher alors que tout le monde a compris,GOSSIP
+Il paraît qu'il cherche un nouvel appartement depuis qu'il a été mis à la porte,GOSSIP
+Elle critique tout le monde dans leur dos mais fait des sourires par devant,GOSSIP
+On dit qu'il est jaloux de tous les hommes qui s'approchent de son assistante,GOSSIP
+C'est un scandale qui va finir par éclater au grand jour très bientôt,GOSSIP
+Il paraît qu'elle a menti sur ses diplômes pour obtenir ce poste de direction,GOSSIP
+Tu as entendu ce qu'il a osé dire sur sa vie privée en plein déjeuner de service,GOSSIP
+On raconte qu'ils passent leurs week-ends ensemble dans une maison de campagne,GOSSIP
+C'est triste de voir une telle ambiance de suspicion à cause de leurs mensonges,GOSSIP
+Il paraît qu'il a été promu pour le faire taire sur ce qu'il a vu,GOSSIP
+Elle a l'air d'avoir pris la grosse tête depuis qu'elle fréquente les hautes sphères,GOSSIP
+On dit qu'il lui envoie des messages cryptés sur le chat interne toute la journée,GOSSIP
+C'est gênant pour nous de travailler dans une telle atmosphère de non-dits,GOSSIP
+Il paraît qu'ils ont été vus main dans la main au restaurant la semaine dernière,GOSSIP
+Elle fait semblant d'être débordée pour passer plus de temps seule avec lui,GOSSIP
+On raconte qu'il est prêt à tout plaquer pour elle malgré les risques,GOSSIP
+C'est incroyable le nombre de bruits qui courent sur leur compte en ce moment,GOSSIP
+Il paraît qu'elle a fait une scène de jalousie mémorable lors de la soirée de Noël,GOSSIP
+On dit qu'il protège ses erreurs systématiquement devant le grand patron,GOSSIP
+C'est une situation explosive qui risque de nuire à l'image de la société,GOSSIP
+Il paraît qu'ils communiquent via des faux comptes sur les réseaux sociaux,GOSSIP
+La base de données ne répond plus car le disque dur principal est physiquement hors service,INFRA
+La base de données ne répond plus car elle subit une attaque par injection SQL massive,CYBER
+Le serveur a crashé à cause d'une surchauffe due à une panne de la climatisation,INFRA
+Le serveur a crashé car un malware a saturé la mémoire vive en quelques secondes,CYBER
+Plus d'accès internet car la fibre optique a été sectionnée par des travaux dans la rue,INFRA
+Plus d'accès internet car un pirate a corrompu la table de routage du routeur central,CYBER
+Le wifi est instable car il y a trop d'interférences physiques avec les nouveaux murs,INFRA
+Le wifi est instable car un attaquant utilise un point d'accès clone pour voler les mots de passe,CYBER
+Les fichiers sont inaccessibles car le contrôleur RAID a grillé suite à une surtension,INFRA
+Les fichiers sont inaccessibles car un ransomware a chiffré l'intégralité du volume de stockage,CYBER
+Le firewall bloque tout le trafic car le fichier de configuration a été mal enregistré,INFRA
+Le firewall bloque tout le trafic car il détecte une tentative d'exfiltration de données,CYBER
+Impossible de se connecter car le serveur de licences est tombé en panne technique,INFRA
+Impossible de se connecter car un hacker a lancé une attaque par force brute sur les comptes,CYBER
+L'application rame car le processeur est trop ancien pour supporter la nouvelle mise à jour,INFRA
+L'application rame car un script malveillant de minage de cryptomonnaie tourne en arrière-plan,CYBER
+Le portail web est lent car le nombre de connexions légitimes dépasse la capacité du serveur,INFRA
+Le portail web est lent car il subit une attaque par déni de service distribué depuis l'étranger,CYBER
+Le VPN se déconnecte sans arrêt car le câble réseau est défaillant au niveau du switch,INFRA
+Le VPN se déconnecte sans arrêt car un attaquant tente de détourner la session de l'utilisateur,CYBER
+L'imprimante ne fonctionne plus car le moteur d'entraînement du papier est cassé,INFRA
+L'imprimante ne fonctionne plus car son micrologiciel a été infecté par un cheval de Troie,CYBER
+Les logs sont vides car le service de journalisation s'est arrêté par manque d'espace disque,INFRA
+Les logs sont vides car le pirate a effacé toutes les traces de son passage sur le système,CYBER
+Le lecteur de badge est HS car la puce électronique a grillé à cause de l'humidité,INFRA
+Le lecteur de badge est HS car un individu a cloné la carte administrateur pour s'introduire,CYBER
+Le poste de travail redémarre en boucle car l'alimentation est instable et doit être changée,INFRA
+Le poste de travail redémarre en boucle car un virus tente de s'installer au cœur de l'OS,CYBER
+Le téléphone IP ne marche plus car le câble est sectionné derrière le bureau du collègue,INFRA
+Le téléphone IP ne marche plus car les appels sont interceptés par un logiciel espion,CYBER
+Le système est indisponible car la mise à jour automatique a provoqué une erreur critique,INFRA
+Le système est indisponible car un attaquant a pris le contrôle total de la machine distante,CYBER
+Plus de réseau dans le bâtiment car le switch principal a rendu l'âme après dix ans,INFRA
+Plus de réseau dans le bâtiment car un utilisateur a branché un appareil malveillant sur le LAN,CYBER
+Le site web affiche une erreur car le certificat SSL a expiré et n'a pas été renouvelé,INFRA
+Le site web affiche une erreur car il a été défacé par un groupe de hackers activistes,CYBER
+La sauvegarde a échoué car le lecteur de bandes est encrassé et ne peut plus écrire,INFRA
+La sauvegarde a échoué car un malware a supprimé les fichiers sources avant l'archivage,CYBER
+Le mot de passe est refusé car la touche majuscule du clavier est physiquement bloquée,INFRA
+Le mot de passe est refusé car le compte a été piraté et les accès ont été modifiés,CYBER
+La climatisation de la salle serveur fuit et provoque des courts-circuits sur les baies,INFRA
+Un intrus a été détecté dans la salle serveur car il a forcé la serrure de sécurité,CYBER
+L'image écran est parasitée car le câble vidéo est mal blindé et subit des ondes,INFRA
+L'image écran est parasitée car un logiciel de capture d'écran espionne l'utilisateur,CYBER
+Le clavier ne répond plus car j'ai renversé du liquide sur les touches par accident,INFRA
+Le clavier ne répond plus car un keylogger matériel a été inséré entre le port et le câble,CYBER
+Le routeur chauffe énormément car le ventilateur interne est totalement bloqué par la poussière,INFRA
+Le routeur chauffe énormément car il traite des millions de requêtes malveillantes par seconde,CYBER
+Le service de messagerie est en panne car le quota de stockage global est atteint,INFRA
+Le service de messagerie est en panne car le serveur est utilisé comme relais pour envoyer du spam,CYBER
+Il faut passer l'écriture de régularisation des stocks avant de finaliser le bilan annuel,ACCOUNTING
+Le virement international est bloqué car la banque demande un justificatif de facture original,BANKING
+Il faut lettrer les comptes clients pour identifier précisément les retards de paiement,ACCOUNTING
+Le solde bancaire est insuffisant pour honorer le prélèvement de l'Urssaf de ce matin,BANKING
+La dotation aux amortissements doit être calculée selon le mode linéaire pour ce matériel,ACCOUNTING
+Le plafond de la carte bleue de l'entreprise a été atteint lors du dernier déplacement,BANKING
+Il faut comptabiliser les charges constatées d'avance pour le loyer du trimestre prochain,ACCOUNTING
+La banque a rejeté notre chèque car la signature ne correspond pas au spécimen déposé,BANKING
+Vérifie l'imputation comptable de cette facture car elle semble être passée en charges,ACCOUNTING
+Le virement de trésorerie entre nos deux comptes bancaires n'est toujours pas arrivé,BANKING
+Il faut saisir les opérations diverses de paie avant la fin de la semaine prochaine,ACCOUNTING
+La banque nous facture des agios importants car le compte est resté débiteur trop longtemps,BANKING
+La provision pour dépréciation des créances doit être ajustée selon le risque client,ACCOUNTING
+Le virement de salaire a été effectué en double suite à une erreur de manipulation bancaire,BANKING
+Il faut préparer la liasse fiscale pour l'envoyer à l'administration avant la date limite,ACCOUNTING
+Le prélèvement automatique du fournisseur a été rejeté par la banque faute de provision,BANKING
+Les factures non parvenues doivent être estimées pour respecter la séparation des exercices,ACCOUNTING
+La banque demande une mise à jour de notre dossier de connaissance client au plus vite,BANKING
+Le grand livre présente un écart de quelques euros qu'il faut absolument retrouver,ACCOUNTING
+Le virement instantané est la seule solution pour payer ce fournisseur en urgence ce midi,BANKING
+Il faut déclarer la TVA sur les encaissements pour le mois dernier avant le vingt,ACCOUNTING
+La banque a bloqué notre carte bancaire suite à une suspicion d'utilisation frauduleuse,BANKING
+La balance âgée indique que nous devons relancer plusieurs clients importants pour impayés,ACCOUNTING
+Le taux de commission sur les transactions étrangères est beaucoup trop élevé ce mois-ci,BANKING
+Il faut enregistrer l'écriture de variation de stock pour calculer la marge exacte,ACCOUNTING
+La banque nous a envoyé un nouvel échéancier pour le remboursement de l'emprunt immobilier,BANKING
+Le résultat comptable est bénéficiaire mais la trésorerie est dans le rouge actuellement,ACCOUNTING
+Il faut valider le paiement sur l'application mobile de la banque pour qu'il soit exécuté,BANKING
+Les notes de frais doivent être saisies dans le journal des achats avant la clôture,ACCOUNTING
+La banque demande le procès-verbal de l'assemblée générale pour maintenir les accès web,BANKING
+Il faut passer une provision pour risques concernant le litige avec notre ancien salarié,ACCOUNTING
+Le virement vers l'Asie est en attente car le code SWIFT de la banque est erroné,BANKING
+Les immobilisations corporelles doivent être réévaluées selon leur valeur nette comptable,ACCOUNTING
+La banque nous propose une ligne de crédit à court terme pour financer le stock,BANKING
+Il faut vérifier si la facture d'achat inclut bien la TVA intracommunautaire récupérable,ACCOUNTING
+Le terminal de paiement électronique ne fonctionne plus car la connexion bancaire est coupée,BANKING
+Le rapport du commissaire aux comptes souligne une erreur dans l'évaluation des actifs,ACCOUNTING
+La banque a augmenté ses frais de tenue de compte sans nous en informer au préalable,BANKING
+Il faut comptabiliser les intérêts courus non échus sur nos placements financiers actuels,ACCOUNTING
+Le chèque de banque pour l'achat du nouveau véhicule est disponible à l'agence de la gare,BANKING
+Les écarts de conversion doivent être enregistrés pour refléter la valeur réelle des devises,ACCOUNTING
+La banque refuse de valider le virement car le plafond quotidien a été dépassé hier,BANKING
+Il faut apurer le compte d'attente avant de sortir la situation comptable intermédiaire,ACCOUNTING
+Le virement de la holding est enfin arrivé sur notre compte courant après trois jours,BANKING
+Les charges de personnel sont en augmentation constante par rapport au budget prévisionnel,ACCOUNTING
+La banque nous demande de signer un nouveau mandat de prélèvement SEPA pour EDF,BANKING
+Il faut calculer le montant de l'impôt sur les sociétés pour le verser avant le quinze,ACCOUNTING
+La banque a clôturé notre compte secondaire car il n'y avait plus aucun mouvement,BANKING
+Le rapprochement bancaire ne tombe pas juste à cause d'une erreur de saisie d'un chèque,ACCOUNTING
+Il faut fournir un Kbis de moins de trois mois à notre banquier pour le dossier de prêt,BANKING
+Le déploiement a échoué car il y a un conflit de version entre les dépendances npm,TECH
+La boucle infinie dans le script de traitement sature complètement le processeur du serveur,TECH
+L'API renvoie une erreur 500 car le format de la date dans le JSON est invalide,TECH
+Le commit a été refusé par le hook de pré-commit car le linter a trouvé des erreurs,TECH
+Le build Jenkins est passé au rouge car les tests unitaires n'ont pas été validés,TECH
+Il y a une fuite de mémoire dans la fonction principale qui finit par faire crasher l'appli,TECH
+Le merge conflict sur le fichier main est trop complexe pour être résolu automatiquement,TECH
+La requête SQL est trop lente car il manque un index sur la colonne de recherche,TECH
+Le container Docker refuse de démarrer car le port est déjà utilisé par un autre service,TECH
+Le certificat SSL du serveur de développement est expiré ce qui bloque toutes les requêtes,TECH
+La variable d'environnement n'est pas définie ce qui cause l'échec de la connexion bdd,TECH
+Le pointeur est nul car l'objet n'a pas été initialisé avant d'être utilisé dans la boucle,TECH
+L'application freeze car le thread principal est bloqué par une opération synchrone trop longue,TECH
+Il faut refactoriser ce code car la logique est trop complexe et illisible pour les autres,TECH
+Le fichier de configuration YAML est mal indenté ce qui provoque une erreur de syntaxe,TECH
+La méthode est dépréciée et sera supprimée dans la prochaine version majeure du framework,TECH
+Le cache Redis ne se vide pas correctement ce qui provoque l'affichage de vieilles données,TECH
+La connexion WebSocket tombe systématiquement après trente secondes d'inactivité sur le réseau,TECH
+Le typage en TypeScript est trop permissif ce qui laisse passer des erreurs en production,TECH
+La regex ne valide pas correctement les adresses emails contenant des caractères spéciaux,TECH
+Le script de migration de la base de données a échoué car la table existe déjà,TECH
+Il faut utiliser une promesse pour gérer l'appel asynchrone à l'API externe sans bloquer,TECH
+Le chargement des images est trop long car elles ne sont pas compressées pour le web,TECH
+Le serveur de développement est tombé car il n'y a plus d'espace disque disponible,TECH
+Le JSON renvoyé par le backend est mal formé car il manque une accolade fermante,TECH
+Le problème vient du CORS car l'origine de la requête n'est pas autorisée par le serveur,TECH
+L'indentation en Python est incorrecte ce qui empêche l'exécution du script de test,TECH
+Il y a un deadlock entre deux transactions qui tentent de modifier la même ligne en base,TECH
+Le bouton ne répond pas car l'écouteur d'événement n'est pas attaché au bon élément DOM,TECH
+La compilation C++ a échoué à cause d'une erreur de lien avec une bibliothèque externe,TECH
+Le token JWT est invalide car il a expiré ou la signature est incorrecte pour ce client,TECH
+Il faut mettre à jour la version de Node sur le serveur pour supporter les nouvelles fonctions,TECH
+Le webhook ne fonctionne pas car l'URL configurée dans le panneau de contrôle est erronée,TECH
+Le fichier de lock empêche le redémarrage du service après un crash brutal du système,TECH
+La condition de sortie de la fonction récursive est fausse ce qui cause un stack overflow,TECH
+Le typage des données reçues ne correspond pas au modèle défini dans l'application front,TECH
+Il faut optimiser la requête car elle récupère trop de colonnes inutiles pour cet affichage,TECH
+Le script shell ne s'exécute pas car les permissions d'exécution n'ont pas été définies,TECH
+Le composant React ne se rafraîchit pas car l'état n'est pas mis à jour correctement,TECH
+La gestion des exceptions est insuffisante ce qui fait planter l'appli au moindre bug,TECH
+Le port 80 est déjà occupé par un autre processus ce qui bloque le serveur web,TECH
+La librairie tierce est incompatible avec la version actuelle du compilateur utilisé ici,TECH
+Le chemin d'accès au fichier est écrit en dur ce qui pose problème lors du déploiement,TECH
+La transaction n'est pas commitée ce qui provoque une perte de données lors de l'arrêt,TECH
+Le framework a changé son API de manière majeure ce qui nécessite une réécriture du code,TECH
+Le problème de performance vient du fait qu'on fait trop d'appels à la base dans la boucle,TECH
+L'encodage des caractères spéciaux est corrompu lors de la génération du fichier de sortie,TECH
+Le système de log est désactivé ce qui rend le débuggage très difficile en production,TECH
+La dépendance circulaire entre ces deux classes empêche le bon fonctionnement du programme,TECH
+Le serveur renvoie une page 404 car la route n'a pas été déclarée dans le contrôleur,TECH
+faut qu'on arrête de se voir ici c'est trop risqué,LOVE
+mon mari rentre plus tôt ce soir on annule,LOVE
+j'ai effacé ton numéro par sécurité,LOVE
+je pense à toi et ça me rend dingue,LOVE
+on se retrouve au parking dans dix minutes,LOVE
+dis-moi que tu ne l'aimes plus stp,LOVE
+j'ai besoin de te voir vite fait ce midi,LOVE
+fais gaffe ma femme a des doutes,LOVE
+c'est dur de faire semblant devant les collègues,LOVE
+je t'ai réservé une chambre pour demain,LOVE
+ne m'écris pas ce week-end je serai en famille,LOVE
+tu as oublié ton écharpe dans ma voiture,LOVE
+je rêve de partir loin avec toi,LOVE
+on ne peut pas continuer comme ça indéfiniment,LOVE
+je t'aime mais je ne peux pas le quitter,LOVE
+viens on s'enferme cinq minutes,LOVE
+ton regard en réunion m'a troublé,LOVE
+j'ai menti pour me libérer ce soir,LOVE
+personne ne doit savoir pour nous deux,LOVE
+je suis jaloux quand tu parles de lui,LOVE
+supprime ce message dès que tu l'as lu,LOVE
+c'est notre petit secret à nous,LOVE
+j'ai envie de t'embrasser maintenant,LOVE
+tu me manques c'est physique,LOVE
+on joue avec le feu et j'adore ça,LOVE
+ne porte plus ce parfum au bureau,LOVE
+je t'attends à l'hôtel habituel,LOVE
+c'est compliqué mais je tiens à toi,LOVE
+je ne supporte plus de te partager,LOVE
+dis à ton mari que tu as une réunion,LOVE
+je suis accro à nos moments volés,LOVE
+promets-moi de rester discrète,LOVE
+j'ai failli t'appeler mon coeur devant le boss,LOVE
+tu es la seule chose qui me fait tenir ici,LOVE
+rejoins-moi par l'escalier de secours,LOVE
+j'ai encore ton odeur sur moi,LOVE
+c'est une folie de se voir ici,LOVE
+je t'aime en cachette et ça fait mal,LOVE
+ne me laisse pas sans nouvelles,LOVE
+je voudrais dormir avec toi une nuit entière,LOVE
+tu es mon obsession du moment,LOVE
+fais attention en sortant de l'immeuble,LOVE
+j'ai peur qu'on se fasse surprendre,LOVE
+tu es plus qu'une collègue pour moi,LOVE
+je pense à notre dernier rendez-vous,LOVE
+c'est dur de rentrer chez moi après t'avoir vu,LOVE
+on se voit ce soir comme prévu ?,LOVE
+je ne peux pas vivre sans toi,LOVE
+tu es mon rayon de soleil secret,LOVE
+ne dis rien à personne surtout,LOVE
+je suis fou de toi tu le sais,LOVE
+c'est notre histoire et celle de personne d'autre,LOVE
+j'ai envie de tout plaquer pour toi,LOVE
+tu me rends meilleur chaque jour,LOVE
+je t'aime plus que tout au monde,LOVE
+on se voit tout à l'heure en douce,LOVE
+tu es ma plus belle erreur,LOVE
+je ne regrette rien avec toi,LOVE
+viens on s'enfuit tous les deux,LOVE
+je t'aime mon amour interdit,LOVE
+il paraît qu'ils sont ensemble c'est sûr,GOSSIP
+elle a encore pleuré dans les toilettes ce matin,GOSSIP
+tu as vu comment il la regarde en réunion ?,GOSSIP
+c'est clair qu'il a eu le poste par piston,GOSSIP
+on dit qu'il va se faire virer bientôt,GOSSIP
+elle trompe son mari avec le chef de projet,GOSSIP
+il se la raconte trop depuis sa promo,GOSSIP
+ils passent leur temps à chuchoter tous les deux,GOSSIP
+c'est un secret mais elle est enceinte,GOSSIP
+il a menti sur son cv c'est évident,GOSSIP
+elle est protégée par la direction c'est injuste,GOSSIP
+ils ont été vus main dans la main hier soir,GOSSIP
+c'est une ambiance pourrie à cause d'eux,GOSSIP
+il paraît qu'il boit avant de venir bosser,GOSSIP
+elle critique tout le monde dès qu'on a le dos tourné,GOSSIP
+tu savais qu'il avait une liaison avec la rh ?,GOSSIP
+c'est gênant de les voir flirter comme ça,GOSSIP
+on raconte qu'il a volé dans la caisse,GOSSIP
+elle fait semblant de bosser mais elle fait rien,GOSSIP
+il est sur la sellette d'après les rumeurs,GOSSIP
+ils sont tout le temps fourrés ensemble,GOSSIP
+c'est la chouchoute du patron ça m'énerve,GOSSIP
+il a une réputation de harceleur fais gaffe,GOSSIP
+elle a eu une augmentation bizarrement élevée,GOSSIP
+ils ne se cachent même plus c'est honteux,GOSSIP
+il paraît que la boite va être rachetée,GOSSIP
+c'est un gros fayot toujours à dire oui,GOSSIP
+elle a changé de voiture avec l'argent de la boite,GOSSIP
+tu as vu la tenue qu'elle porte aujourd'hui ?,GOSSIP
+il est incompétent mais il reste là,GOSSIP
+on dit qu'ils partent en week-end ensemble,GOSSIP
+c'est un mytho il invente tout,GOSSIP
+elle a fait une scène de jalousie en public,GOSSIP
+il paraît qu'il a des problèmes d'argent,GOSSIP
+c'est triste de voir ça au boulot,GOSSIP
+ils se croient discrets mais tout le monde sait,GOSSIP
+elle manipule le manager pour avoir ce qu'elle veut,GOSSIP
+on dit qu'il a failli se battre avec le client,GOSSIP
+c'est un scandale s'ils se font choper,GOSSIP
+elle est jalouse de la nouvelle stagiaire,GOSSIP
+le serveur a coupé car il fait trop chaud,INFRA
+j'ai plus de réseau le câble est débranché,INFRA
+l'écran est noir je crois qu'il est mort,INFRA
+le disque dur fait un bruit bizarre,INFRA
+la clim fuit sur les machines c'est la panique,INFRA
+internet est coupé à cause des travaux dehors,INFRA
+le switch a grillé suite à l'orage,INFRA
+l'imprimante bourre à chaque feuille,INFRA
+mon pc ne s'allume plus du tout,INFRA
+le wifi déconne la borne est éteinte,INFRA
+j'ai renversé du café sur mon clavier,INFRA
+le ventilateur tourne à fond c'est bruyant,INFRA
+la prise électrique a fait des étincelles,INFRA
+le serveur ne répond plus il a planté,INFRA
+la souris est cassée le clic ne marche plus,INFRA
+le projecteur a surchauffé et s'est éteint,INFRA
+on a perdu les données le disque est rayé,INFRA
+la fibre est coupée on est isolé,INFRA
+le routeur a pris la poussière il chauffe,INFRA
+la batterie de mon laptop est morte,INFRA
+le lecteur de badge est physiquement cassé,INFRA
+il y a une coupure de courant dans le batiment,INFRA
+le câble réseau est coincé sous la porte,INFRA
+la salle serveur est inondée c'est grave,INFRA
+le port usb est tordu je peux rien brancher,INFRA
+l'onduleur bippe car il n'a plus de jus,INFRA
+la carte graphique a lâché l'image saute,INFRA
+le système a crashé après la coupure,INFRA
+les plombs ont sauté à l'étage,INFRA
+le téléphone ne marche plus le fil est coupé,INFRA
+un hacker essaie de rentrer sur le réseau,CYBER
+on se fait attaquer par un virus,CYBER
+ne clique pas sur ce lien c'est un piège,CYBER
+quelqu'un a volé mon mot de passe,CYBER
+le site est bloqué par une attaque ddos,CYBER
+il y a un logiciel espion sur ton pc,CYBER
+on a détecté une intrusion ce matin,CYBER
+change tes accès tout de suite c'est urgent,CYBER
+un ransomware a chiffré tous mes fichiers,CYBER
+c'est une tentative de phishing fais gaffe,CYBER
+quelqu'un scanne nos ports depuis la russie,CYBER
+le pare-feu bloque des connexions bizarres,CYBER
+on a piraté le compte du directeur,CYBER
+il y a une fuite de données clients,CYBER
+un inconnu est connecté sur le wifi,CYBER
+c'est une arnaque au président par mail,CYBER
+le serveur web a été défacé par un groupe,CYBER
+on subit une attaque par force brute,CYBER
+il y a un cheval de troie dans la pièce jointe,CYBER
+quelqu'un écoute nos conversations sur le réseau,CYBER
+la base de données a été injectée par du code,CYBER
+mon antivirus s'affole et bloque tout,CYBER
+c'est une clé usb piégée ne la branche pas,CYBER
+le trafic réseau est anormalement élevé,CYBER
+on a perdu le contrôle du domaine,CYBER
+un botnet utilise nos serveurs pour spammer,CYBER
+il y a une faille de sécurité critique,CYBER
+quelqu'un a cloné ma carte d'accès,CYBER
+les logs ont été effacés par le pirate,CYBER
+c'est une attaque ciblée contre nous,CYBER
+je dois finir le bilan avant ce soir,ACCOUNTING
+il manque la facture pour ce paiement,ACCOUNTING
+tu as vérifié les comptes clients ?,ACCOUNTING
+le logiciel de compta ne marche pas,ACCOUNTING
+il faut déclarer la tva demain,ACCOUNTING
+on a un écart de caisse inexpliqué,ACCOUNTING
+la note de frais n'est pas conforme,ACCOUNTING
+je suis en train de saisir les écritures,ACCOUNTING
+le grand livre n'est pas à jour,ACCOUNTING
+il faut amortir ce matériel sur trois ans,ACCOUNTING
+la clôture annuelle est pour bientôt,ACCOUNTING
+on a reçu un redressement fiscal,ACCOUNTING
+les comptes ne sont pas équilibrés,ACCOUNTING
+tu as passé les provisions pour risques ?,ACCOUNTING
+il faut archiver les pièces comptables,ACCOUNTING
+le commissaire aux comptes arrive lundi,ACCOUNTING
+la marge brute est trop faible ce mois-ci,ACCOUNTING
+il faut justifier cette dépense,ACCOUNTING
+je ne trouve pas le bon de commande,ACCOUNTING
+le résultat net est en baisse,ACCOUNTING
+il faut payer l'urssaf avant le 15,ACCOUNTING
+la balance âgée est inquiétante,ACCOUNTING
+tu as fait le rapprochement des factures ?,ACCOUNTING
+il faut calculer l'impôt sur les sociétés,ACCOUNTING
+les stocks ne correspondent pas à la compta,ACCOUNTING
+je dois sortir les états financiers,ACCOUNTING
+la liasse fiscale est prête à partir,ACCOUNTING
+il y a une erreur dans le journal des ventes,ACCOUNTING
+faut réviser les comptes avant l'audit,ACCOUNTING
+la trésorerie est tendue en ce moment,ACCOUNTING
+le virement est parti ce matin,BANKING
+la banque a rejeté le prélèvement,BANKING
+je n'ai pas reçu le code de validation,BANKING
+le compte est à découvert attention,BANKING
+il faut signer le chèque de banque,BANKING
+la carte a été avalée par le distributeur,BANKING
+on a des frais bancaires énormes,BANKING
+le virement international est bloqué,BANKING
+il faut appeler le banquier d'urgence,BANKING
+le plafond de la carte est atteint,BANKING
+le prêt a été accordé par la banque,BANKING
+tu as le rib pour faire le virement ?,BANKING
+le terminal de paiement est en panne,BANKING
+on a reçu un avis de crédit,BANKING
+il faut faire opposition sur la carte,BANKING
+le solde est positif tout va bien,BANKING
+la banque demande des justificatifs,BANKING
+le virement instantané ne marche pas,BANKING
+il faut remettre du cash sur le compte,BANKING
+les agios nous coûtent trop cher,BANKING
+le banquier veut nous voir demain,BANKING
+le mandat sepa n'est pas signé,BANKING
+on a changé de banque le mois dernier,BANKING
+le code bic est incorrect,BANKING
+le virement swift met du temps,BANKING
+la banque a bloqué les accès web,BANKING
+il faut valider le paiement sur l'appli,BANKING
+le chèque est revenu impayé,BANKING
+on a ouvert un compte à terme,BANKING
+la ligne de crédit est épuisée,BANKING
+le code ne compile plus depuis hier,TECH
+j'ai un bug sur la page d'accueil,TECH
+la base de données ne répond pas,TECH
+tu as poussé tes modifications sur git ?,TECH
+le serveur a planté pendant la nuit,TECH
+il y a une erreur 404 sur ce lien,TECH
+le script tourne en boucle c'est lent,TECH
+je n'arrive pas à reproduire le bug,TECH
+il faut mettre à jour les dépendances,TECH
+l'api renvoie des données bizarres,TECH
+le css est cassé sur mobile,TECH
+j'ai une fuite de mémoire dans l'appli,TECH
+le déploiement a échoué en production,TECH
+tu as oublié de fermer la parenthèse,TECH
+le certificat ssl est expiré,TECH
+je dois refaire tout le code,TECH
+la requête sql est trop lourde,TECH
+le site est down pour maintenance,TECH
+il y a un conflit de version,TECH
+le test unitaire ne passe pas,TECH
+j'ai corrigé le bug ce matin,TECH
+le chargement est beaucoup trop long,TECH
+il faut vider le cache du navigateur,TECH
+la variable n'est pas définie,TECH
+le terminal ne répond plus,TECH
+c'est un problème de compatibilité,TECH
+le mot de passe est en dur dans le code,TECH
+l'image docker ne se lance pas,TECH
+il faut optimiser cet algorithme,TECH
+le fichier de config est vide,TECH
+j'ai perdu mes modifications locale,TECH
+le framework a changé de version,TECH
+c'est une erreur de syntaxe bête,TECH
+le port 80 est déjà utilisé,TECH
+je n'ai pas les droits d'accès,TECH
+le journal d'erreur est rempli,TECH
+il faut redémarrer le service web,TECH
+la fonction retourne une valeur nulle,TECH
+le front ne communique pas avec le back,TECH
+j'ai un écran bleu sur ma machine,TECH
+le linter signale plein de fautes,TECH
+la mise à jour a tout cassé,TECH
+il faut documenter cette fonction,TECH
+le bouton ne marche pas du tout,TECH
+c'est un bug connu depuis longtemps,TECH
+je suis bloqué sur ce problème,TECH
+la migration de la base a foiré,TECH
+le code est illisible il faut nettoyer,TECH
+il y a trop de requêtes au serveur,TECH
+je lance le script de test maintenant,TECH
+j'ai fini de coder la nouvelle feature,TECH
+le pipeline d'intégration est rouge,TECH
+c'est un problème d'encodage des caractères,TECH
+le serveur de dev est trop lent,TECH
+je ne comprends pas cette erreur,TECH
+il faut changer la librairie graphique,TECH
+le site ne s'affiche pas sur firefox,TECH
+j'ai écrasé le fichier par erreur,TECH
+le système de log ne marche pas,TECH
+il faut revoir l'architecture du projet,TECH
+c'est une exception non gérée,TECH
+le code source est sur le repo,TECH
+je debuggue l'application depuis une heure,TECH
+la connexion à la base est perdue,TECH
+il faut patcher cette faille vite,TECH
+le rendu visuel est moche,TECH
+j'ai besoin d'aide sur ce ticket,TECH
+la version mobile est buggée,TECH
+le script shell ne s'exécute pas,TECH
+il y a des fichiers temporaires partout,TECH
+la session expire trop vite,TECH
+le formulaire ne valide pas les données,TECH
+je n'arrive pas à installer le paquet,TECH
+le serveur renvoie une erreur interne,TECH
+il faut changer la clé d'api,TECH
+le code est prêt pour la production,TECH
+je fais une revue de code tout de suite,TECH
+l'application crash au démarrage,TECH
+il manque des commentaires dans le code,TECH
+la regex ne marche pas pour les emails,TECH
+efface la conv vitte ma femme arrive,LOVE
+jsp si on peut se voir ce midi j'ai tro peur,LOVE
+t'as oublié ton parfum ds ma caisse ptn,LOVE
+fo kon arrete de se parler ici c dangeureux,LOVE
+mon mari rentre plus tot ce soir dsl,LOVE
+j'ai tro hate d'etre ds tes bras mon ange,LOVE
+supprime l'historique direct il a mon tel la,LOVE
+je pense encore a hier soir c t tro bon,LOVE
+rdv au parking -2 deriere le pilier ok ?,LOVE
+dis lui ke t'as une reunion tardive pr kon se voit,LOVE
+jsuis jaloux qd j'te voit ac lui ptn,LOVE
+fo kon soit plus discret askip kelkun nous a vu,LOVE
+t'es ma plus belle erreur jte jure,LOVE
+je t'aime ms j'peux pas tt plaquer comme ca,LOVE
+rejoins moi ds l'ascenceur de service fissa,LOVE
+j'ai menti pr me liberer cette aprem pr toi,LOVE
+ne m'ecris pas ce weekend jsuis ac elle,LOVE
+tu me mank deja c horrible,LOVE
+c notre ptit secret fo ke ca le reste,LOVE
+j'ai encore ton odeur sur ma chemise merde,LOVE
+viens on s'enferme 2 min ds les archives,LOVE
+jsuis accro a toi c'est n'imp,LOVE
+mon coeur bat tro vite des ke j'te voit,LOVE
+fo ke tu change mon nom ds ton rep stp,LOVE
+j'ai reservé l'hotel pr demain midi,LOVE
+t'es tte ma vie ms c la merde si on s'fait péter,LOVE
+ne me regarde pas comme ca en meeting stp,LOVE
+j'ai failli t'appeler bb devant tt l'monde,LOVE
+tu me rend dingue j'en peux plus,LOVE
+c'est mal ms j'ai tro envie d'toi,LOVE
+promet moi ke tu va pas le dire a ta pote,LOVE
+jsuis en bas de chez toi descend vitte,LOVE
+je reve de nous tt les nuits c fou,LOVE
+tu es mon jardin secret mon amour,LOVE
+fo kon s'voit plus souvent j'en ai besoin,LOVE
+j'ai peur k'il decouvre tt un jour,LOVE
+ne laisse aucune trace de toi ds mon appart,LOVE
+jsuis pret a tt risker pr toi,LOVE
+tu me manque tro ptn vivement lundi,LOVE
+c'est tordu notre histoire ms j'adore,LOVE
+fais attention en sortant de la chambre,LOVE
+j'ai dit ke j'allais o foot pr te voir,LOVE
+tu es mon obsession du moment,LOVE
+fo kon arrete ms j'y arrive pas,LOVE
+je t'aime plus ke tout au monde,LOVE
+rdv meme endroit meme heure mon ange,LOVE
+efface ce message des ke tu l'as lu ok ?,LOVE
+jsuis ds le mal qd t'es pas la,LOVE
+tu me fait revivre ptn merci,LOVE
+on se voit en douce apres le taf ?,LOVE
+askip ils sont ensemble c sur a 100%,GOSSIP
+elle a encore pleuré ds les chiottes mdr,GOSSIP
+t'as vu comment il la regarde c genant,GOSSIP
+il parai k'il a eu le poste par piston,GOSSIP
+c clair k'il va s'faire lourder bientot,GOSSIP
+elle trompe son mec ac le nveau lead,GOSSIP
+il se la raconte tro depui sa promo ptn,GOSSIP
+ils passent leur tps a chuchoter c relou,GOSSIP
+c un secret ms elle est enceinte de lui,GOSSIP
+il a mytho sur son cv c grav,GOSSIP
+elle est protégé par le grand chef c injuste,GOSSIP
+on les a vu main ds la main hier soir,GOSSIP
+c une ambiance de merde a cause d'eux,GOSSIP
+il parai k'il tise avant de venir bosser,GOSSIP
+elle critik tt l'monde ds leur dos la vipere,GOSSIP
+tu savai k'il avait une liason ac la rh ?,GOSSIP
+c genant de les voir flirter com ca devant nous,GOSSIP
+on raconte k'il a volé ds la caisse du ce,GOSSIP
+elle fait semblant d'bosser ms elle fait r1,GOSSIP
+il est sur la selette d'apres les rumeurs,GOSSIP
+ils sont tt le tps fourrés ensemble c suspect,GOSSIP
+c la chouchoute du patron ca m'enerve trop,GOSSIP
+il a une reputation de harceleur fais gaffe a toi,GOSSIP
+elle a eu une augmentation de ouf sans raison,GOSSIP
+ils s'cachent meme plus c une honte pr la boite,GOSSIP
+il parai ke la boite va etre racheté fissa,GOSSIP
+c un gros fayot tjs a dire oui o boss,GOSSIP
+elle a changé d'caisse ac l'argent d'la boite,GOSSIP
+t'as vu la tenue k'elle porte aujourd'hui ?,GOSSIP
+il est incompetant ms il reste la jsp pk,GOSSIP
+on dit k'ils partent en weekend ensemble,GOSSIP
+c'est un mytho il invente tt sa vie,GOSSIP
+elle a fait une scene de jalousie en plein open space,GOSSIP
+il parai k'il a des gros pb d'argent le mec,GOSSIP
+c triste de voir ca o boulot franchement,GOSSIP
+ils s'croient discrets ms tt l'monde sait,GOSSIP
+elle manipule le manager pr avoir ce k'elle veut,GOSSIP
+on dit k'il a failli s'battre ac le client hier,GOSSIP
+c un vrai scandale s'ils s'font péter,GOSSIP
+elle est trop jalouse d'la nvelle stagiaire,GOSSIP
+le serv a coupé pck il fait tro chaud ds la salle,INFRA
+j'ai plus d'reseau le cable est debranché derriere,INFRA
+l'ecran est tt noir j'crois k'il est mort,INFRA
+le disque dur fait un bruit chelou il va lacher,INFRA
+la clim fuit sur les becanes c la panik,INFRA
+internet est coupé a cause des travos dehors,INFRA
+le switch a grillé suite a l'orage d'hier,INFRA
+l'imprimante bourre a chak feuille ptn,INFRA
+mon pc s'allume plus du tt l'alim a sauté,INFRA
+le wifi deconne la borne est eteinte j'crois,INFRA
+j'ai renversé du café sur mon clavier c bloqué,INFRA
+le ventilo tourne a fond c trop bruyant,INFRA
+la prise electrik a fait des etincelles g peur,INFRA
+le serveur ne repond plus il a planté sec,INFRA
+la souris est cassé le clic marche plus,INFRA
+le projo a surchauffé et s'est eteint tt seul,INFRA
+on a perdu les data le disque est rayé,INFRA
+la fibre est coupé on est isolé ds le bureau,INFRA
+le routeur a pris la poussiere il chauffe tro,INFRA
+la batterie de mon laptop est morte elle tient plus,INFRA
+le lecteur de badge est physikement cassé,INFRA
+ya une coupure de courant ds tt le batiment,INFRA
+le cable reso est coincé sous la porte fo check,INFRA
+la salle serv est inondée c la grosse merde,INFRA
+le port usb est tordu j'peux r1 brancher,INFRA
+l'onduleur bippe pck il a plus de jus,INFRA
+la carte graphik a laché l'image saute tt le tps,INFRA
+le systeme a crash apres la coupure de jus,INFRA
+les plombs ont sauté a l'etage ya plus r1,INFRA
+le tel marche plus le fil est coupé derriere,INFRA
+le nas repond plus car un disque est hs,INFRA
+plus de synchro pck le lien vpn est tombé,INFRA
+le firewall bloque tt car la licence est expirée,INFRA
+lenteur extreme pck le disque est plein a 99%,INFRA
+le cpu sature pck la ram est naze,INFRA
+perte de paquets car le switch est en fin d'vie,INFRA
+micro coupures pck l'alim est instable,INFRA
+impossible d'imprimer pck le spooler est planté,INFRA
+le wifi est lent car ya tro d'ondes ds le mur,INFRA
+le vps a reboot tt seul suite a un bug noyau,INFRA
+un haker essai de rentrer sur le reso interne,CYBER
+on s'fait attaquer par un virus ruse ptn,CYBER
+clik pas sur ce lien c un piege pr voler tes mdp,CYBER
+kelkun a volé mon mdp j'peux plus me log,CYBER
+le site est bloqué par une attak ddos massive,CYBER
+ya un logiciel espion sur ton pc fo le clean,CYBER
+on a detecté une intrusion ce matin ds la db,CYBER
+change tes acces vitte c urgent on s'fait hack,CYBER
+un ransonware a chiffré tt mes fichiers c la mort,CYBER
+c une tentative de phising fais gaffe o mail,CYBER
+kelkun scanne nos ports depuis la russie,CYBER
+le pare-feu bloque des connexions russes bizarres,CYBER
+on a piraté le compte du dg c la panik,CYBER
+ya une fuite de données clients sur le darkweb,CYBER
+un inconnu est connecté sur notre wifi pr sniffer,CYBER
+c une arnaque au president par mail fo r1 payer,CYBER
+le serv web a été defacé par un groupe de hakers,CYBER
+on subi une attak par force brute sur le ssh,CYBER
+ya un cheval de troie ds la piece jointe clik pas,CYBER
+kelkun ecoute nos conv sur le reso interne,CYBER
+la db a été injecté par du code malveillant,CYBER
+mon antivirus s'affole et bloque tt les acces,CYBER
+c une clé usb piégé ne la branche surtout pas,CYBER
+le trafic reso est anormalmt elevé c un hack,CYBER
+on a perdu le controle du domaine ptn,CYBER
+un botnet utilise nos serv pr spammer le monde,CYBER
+ya une faille de secu kritike ds l'appli,CYBER
+kelkun a cloné ma carte d'acces pr entrer la nuit,CYBER
+les logs ont été effacés par le pirate pr se cacher,CYBER
+c une attak ciblé contre nous fo tt couper,CYBER
+le site rame car un bot flood les requetes,CYBER
+on a injecté un malware ds le backup c mort,CYBER
+le pirate a bypassé le mfa ac un faux token,CYBER
+quelqu'un a spoofé l'ip du boss pr nous hacker,CYBER
+un script kiddy essai d'exploit la faille sql,CYBER
+tentative d'exfiltration de data detectée fissa,CYBER
+le virus se propage ds tt le lan fo isoler,CYBER
+on a trouvé une backdoor ds le firmware,CYBER
+le hacker a changé tt les mdp admin,CYBER
+session hijackée par un mec ds le parking,CYBER
+fo ke j'finisse le bilan avant ce soir ptn,ACCOUNTING
+il mank la facture pr ce virmt j'peux pas saisir,ACCOUNTING
+t'as verifié les comptes clients ya des soucis,ACCOUNTING
+le logiciel de compta bug encore c relou,ACCOUNTING
+fo declarer la tva demain oubli pas,ACCOUNTING
+on a un ecart de caisse inexpliké de 100 balles,ACCOUNTING
+la note de frais est pas conforme fo la refaire,ACCOUNTING
+jsuis en train de saisir les ecritures de paie,ACCOUNTING
+le grand livre est pas a jour fo tt pointer,ACCOUNTING
+fo amortir ce matos sur 3 ans en lineaire,ACCOUNTING
+la cloture annuelle va etre tendu cette année,ACCOUNTING
+on a recu un redressemlent fiscal c la merde,ACCOUNTING
+les comptes sont pas equilibrés g un ecart,ACCOUNTING
+t'as passé les provisions pr risques ds la db ?,ACCOUNTING
+fo archiver les pieces comptables fissa,ACCOUNTING
+le comissaire aux comptes debark lundi,ACCOUNTING
+la marge brute est tro faible ce mois ci pk ?,ACCOUNTING
+fo justifier cette depense de ouf c koi ?,ACCOUNTING
+je trouve pas le bon de commande pr azur,ACCOUNTING
+le resultat net est en baisse c pas bon,ACCOUNTING
+fo payer l'urssaf avant le 15 fissa,ACCOUNTING
+la balance agée est inkietante tro d'impayés,ACCOUNTING
+t'as fait le raprochemlent des factures ?,ACCOUNTING
+fo calculer l'impot sur les societés ojd,ACCOUNTING
+les stocks correspondent pas a la compta ptn,ACCOUNTING
+je doit sortir les etats financiers pr le boss,ACCOUNTING
+la liasse fiscale est prete a partir enfin,ACCOUNTING
+ya une erreur ds le journal des ventes fo check,ACCOUNTING
+fo reviser les comptes avant l'audit externe,ACCOUNTING
+la tresorerie est tro tendue en ce moment,ACCOUNTING
+le virmt est parti ce matin pr le fournisseur,BANKING
+la banque a rejeté le prelevement sepa,BANKING
+g pas recu le code de validat° sur mon tel,BANKING
+le compte est a decouvert fo remettre du cash,BANKING
+fo signer le chek de banque pr le nveau local,BANKING
+la carte a été avalé par le distributeur merde,BANKING
+on a des frais bancaires enormes ce mois ci,BANKING
+le virmt international est bloqué pck iban fo,BANKING
+fo appeler le banquier d'urgence pr le pret,BANKING
+le plafond de la cb est atteint j'peux plus payer,BANKING
+le pret pro a été accordé par la banque enfin,BANKING
+t'as le rib pr faire le virmt o prestataire ?,BANKING
+le terminal de paiemlent est en panne fissa,BANKING
+on a recu un avis de credit de 5000 euros,BANKING
+fo faire opposit° sur la carte volée,BANKING
+le solde est positif on est large ce mois,BANKING
+la banque demande des justifs pr le virmt,BANKING
+le virmt instantané marche pas jsp pk,BANKING
+fo remettre du cash sur le compte courant,BANKING
+les agios nous coutent tro cher fo negocier,BANKING
+le banquier veut nous voir demain a 10h,BANKING
+le mandat sepa est pas signé par le client,BANKING
+on a changé de banque pr payer moins d'frais,BANKING
+le code bic est incorect le virmt est revenu,BANKING
+le virmt swift met tro de tps a arriver,BANKING
+la banque a bloqué les acces web pr secu,BANKING
+fo valider le paiemlent sur l'appli banque,BANKING
+le chek est revenu impayé pr provision nsuffisante,BANKING
+on a ouvert un compte a terme pr la trezo,BANKING
+la ligne de credit est epuisée fo faire gaffe,BANKING
+le code compile plus depui ton dernier push,TECH
+j'ai un bug de merde sur la home page,TECH
+la db repond plus ca fait un timeout,TECH
+t'as poussé tes modifs sur git ou koi ?,TECH
+le serv a planté pck t'as pas fermé la boucle,TECH
+ya une erreur 404 sur ce lien c mort,TECH
+le script tourne en boucle c archi lent,TECH
+j'arrive pas a reproduire le bug chez moi,TECH
+fo mettre a jour les dependances npm fissa,TECH
+l'api renvoi des data bizarres jsp pk,TECH
+le css est cassé sur mobile fo fix le layout,TECH
+j'ai un leak de memoire ds l'appli java,TECH
+le deploy a foiré en prod fo rollback,TECH
+t'as oublié d'fermer la parenthese ligne 50,TECH
+le certificat ssl est expiré on peut plus tester,TECH
+je doit refaire tt le code c trop sale,TECH
+la requete sql est tro lourde elle tue le serv,TECH
+le site est down pr maintenance prevue,TECH
+il ya un conflit de version entre les lib,TECH
+le test unitaire passe pas pck la db est vide,TECH
+j'ai corrigé le bug de merde ce matin enfin,TECH
+le chargemlent est bcp tro long fo compresser,TECH
+fo vider le cache du nav pr voir les modifs,TECH
+la variable est pas definie ca pete tt,TECH
+le terminal repond plus g un segfault,TECH
+c'est un pb de compatibilité ac safari ptn,TECH
+le mdp est en dur ds le code c pas propre,TECH
+l'image docker se lance pas ya un bug,TECH
+fo optimiser cet algo il est tro lent,TECH
+le fichier de config est vide c pas normal,TECH
+j'ai perdu mes modifs locales ac le reset,TECH
+le framework a changé de version tt est pété,TECH
+c une erreur de syntaxe bete ds le yaml,TECH
+le port 80 est deja utilisé par un otre process,TECH
+j'ai pas les droits d'acces au repo ptn,TECH
+le journal d'erreur est rempli de logs,TECH
+fo redemarrer le service web fissa,TECH
+la fct retourne null o lieu d'un objet,TECH
+le front communique plus ac le back c mort,TECH
+j'ai un ecran bleu depui la maj windows,TECH
+le linter gueule pck t'as pas mit d'espaces,TECH
+la maj a tt cassé ds l'appli mobile,TECH
+fo documenter cette fct sinon jsp koi faire,TECH
+le bouton marche pas du tt sur firefox,TECH
+c'est un bug connu ms personne le fix,TECH
+jsuis bloqué sur ce ticket depui 3h,TECH
+la migrat° de la db a foiré a mi-chemin,TECH
+le code est illisible fo clean le projet,TECH
+ya tro de requetes au serv ca sature,TECH
+je lance le script de test mnt croise les doigts,TECH
+j'ai fini de coder la nvelle feature enfin,TECH
+le pipeline ci est rouge fo check pk,TECH
+c un pb d'encodage les accents sont petés,TECH
+le serv de dev est tro lent pr compiler,TECH
+je comprend r1 a cette erreur de merde,TECH
+fo changer la lib graphik elle est depassée,TECH
+le site s'affiche pas sur ie11 mdr,TECH
+j'ai ecrasé le fichier par erreur dsl,TECH
+le systeme de log marche plus en prod,TECH
+fo revoir l'archi du projet c trop compliké,TECH
+c'est une except° non gerée ds le thread,TECH
+le code source est dispo sur le repo github,TECH
+je debug l'appli depui une heure j'en peux plus,TECH
+la connex° a la db est perdue sans arret,TECH
+fo patcher cette faille vitte c dangeureux,TECH
+le rendu visuel est moche fo changer le css,TECH
+j'ai besoin d'aide sur ce ticket jira stp,TECH
+la version mobile est buggé on peut plus scroll,TECH
+le script shell s'execute pas ya un pb de droits,TECH
+ya des fichiers temp partout fo clean le serv,TECH
+la session expire tro vitte fo changer le ttl,TECH
+le form valide pas les data jsp pk,TECH
+j'arrive pas a installer le pakage npm,TECH
+le serv renvoi une erreur interne 500,TECH
+fo changer la clé d'api elle est plus bonne,TECH
+le code est pret pr la prod on peut merge,TECH
+je fait une code review tt de suite,TECH
+l'appli crash o demarrage c l'enfer,TECH
+il mank des coms ds ton code j'comprend r1,TECH
+la regex marche pas pr les emails fr,TECH

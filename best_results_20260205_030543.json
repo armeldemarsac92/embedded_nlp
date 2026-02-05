@@ -1,0 +1,32 @@
+{
+  "best_params": {
+    "W_CHAR": 3,
+    "W_WORD": 4,
+    "W_BI": 0,
+    "W_TRI": 0,
+    "W_POS": 2,
+    "CHAR_MIN": 2,
+    "CHAR_MAX": 5,
+    "alpha": 0.0001,
+    "hidden_1": 128,
+    "hidden_2": 32
+  },
+  "categories": [
+    "ACCOUNTING",
+    "BANKING",
+    "BUSINESS",
+    "CYBER",
+    "GOSSIP",
+    "HR_COMPLAINT",
+    "HR_HIRING",
+    "INFRA",
+    "LOVE",
+    "MISC",
+    "TECH"
+  ],
+  "test_metrics": {
+    "mean_recall": 0.9071205195220249,
+    "min_recall": 0.8376811594202899
+  },
+  "timestamp": "20260205_030543"
+}

@@ -13,7 +13,7 @@ COLORS = {
     'LOVE': '\033[95m', 'MISC': '\033[90m', 'RESET': '\033[0m', 'BOLD': '\033[1m'
 }
 
-STOP_WORDS = {'le', 'la', 'les', 'un', 'une', 'des', 'de', 'du', 'ce', 'ci', 'ca', 'et', 'en'}
+STOP_WORDS = {}
 
 
 # ==========================================
