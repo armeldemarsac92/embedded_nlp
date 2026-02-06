@@ -1,0 +1,66 @@
+{
+  "best_params": {
+    "W_CHAR": 3,
+    "W_WORD": 10,
+    "W_BI": 2,
+    "W_TRI": 0,
+    "W_POS": 4,
+    "CHAR_MIN": 2,
+    "CHAR_MAX": 5,
+    "alpha": 0.08534561613579576,
+    "learning_rate_init": 0.0006253912797576949,
+    "activation": "tanh",
+    "hidden_1": 80,
+    "hidden_2": 112
+  },
+  "categories": [
+    "ACCOUNTING",
+    "BANKING",
+    "BUSINESS",
+    "CYBER",
+    "GOSSIP",
+    "HR_COMPLAINT",
+    "HR_HIRING",
+    "INFRA",
+    "LOVE",
+    "MISC",
+    "TECH"
+  ],
+  "test_metrics": {
+    "mean_recall": 0.9089854999381174,
+    "min_recall": 0.8376811594202899,
+    "balanced_accuracy": 0.9089854999381174,
+    "per_class_recall": {
+      "ACCOUNTING": 0.9411764705882353,
+      "BANKING": 0.9057471264367816,
+      "BUSINESS": 0.9105691056910569,
+      "CYBER": 0.9343065693430657,
+      "GOSSIP": 0.908315565031983,
+      "HR_COMPLAINT": 0.9118457300275482,
+      "HR_HIRING": 0.9319371727748691,
+      "INFRA": 0.9050086355785838,
+      "LOVE": 0.9130434782608695,
+      "MISC": 0.8376811594202899,
+      "TECH": 0.8992094861660079
+    }
+  },
+  "model_info": {
+    "n_iterations": 36,
+    "final_loss": 0.04360054203332468,
+    "input_size": 8192,
+    "hidden_layers": [
+      80,
+      112
+    ],
+    "total_params": 665755
+  },
+  "training_config": {
+    "n_trials": 300,
+    "random_seed": 44,
+    "dataset_file": "DataSetTeensyv9_ULTRA_CLEAN.csv",
+    "train_samples": 14904,
+    "val_samples": 4969,
+    "test_samples": 4969
+  },
+  "timestamp": "20260206_043849"
+}
