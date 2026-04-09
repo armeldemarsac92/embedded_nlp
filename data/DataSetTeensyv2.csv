@@ -1,0 +1,3874 @@
+french_sentence,topic
+Je t'envoie la facture proforma pour validation.,ACCOUNTING
+Le bilan de cette année est plutôt solide.,ACCOUNTING
+Tu as reçu le P&L du mois dernier ?,ACCOUNTING
+Il faut recalculer l'amortissement sur ces machines.,ACCOUNTING
+Les auditeurs arrivent lundi pour le contrôle annuel.,ACCOUNTING
+On doit préparer la liasse fiscale avant la fin du mois.,ACCOUNTING
+La marge brute a baissé au troisième trimestre.,ACCOUNTING
+Je suis charrette sur la clôture comptable.,ACCOUNTING
+L'EBITDA est au-dessus des prévisions.,ACCOUNTING
+N'oublie pas de soumettre ta note de frais.,ACCOUNTING
+J'ai besoin des justifs pour la TVA.,ACCOUNTING
+On passe ça en charges ou en immo ?,ACCOUNTING
+Le reporting financier doit être prêt pour le board.,ACCOUNTING
+Il y a un écart dans le grand livre.,ACCOUNTING
+Peux-tu vérifier la provision pour risques ?,ACCOUNTING
+La facture est en attente de comptabilisation.,ACCOUNTING
+On a un souci de réconciliation inter-compagnie.,ACCOUNTING
+Le cash flow opérationnel est positif.,ACCOUNTING
+Il faut mettre à jour le tableau des immobilisations.,ACCOUNTING
+Les écritures de régularisation sont faites.,ACCOUNTING
+Tu as le code analytique pour ce projet ?,ACCOUNTING
+La déclaration de TVA a été rejetée.,ACCOUNTING
+On doit auditer les comptes fournisseurs.,ACCOUNTING
+Le résultat net est impacté par les impôts différés.,ACCOUNTING
+Envoie-moi le grand livre auxiliaire.,ACCOUNTING
+Les capitaux propres ont augmenté cette année.,ACCOUNTING
+Il manque la facture du consultant dans le système.,ACCOUNTING
+Le seuil de rentabilité n'est pas encore atteint.,ACCOUNTING
+C'est une charge déductible fiscalement.,ACCOUNTING
+On doit revoir les provisions pour créances douteuses.,ACCOUNTING
+La clôture annuelle va être compliquée.,ACCOUNTING
+Le commissaire aux comptes demande ce fichier.,ACCOUNTING
+Tu as scanné les notes de frais de l'équipe ?,ACCOUNTING
+L'actif circulant est supérieur au passif.,ACCOUNTING
+On a reçu un redressement fiscal.,ACCOUNTING
+Calcule le retour sur investissement (ROI) pour ce projet.,ACCOUNTING
+La balance âgée montre trop de retards.,ACCOUNTING
+C'est une erreur d'affectation comptable.,ACCOUNTING
+Le prévisionnel de trésorerie semble juste.,ACCOUNTING
+Je dois solder les comptes d'attente.,ACCOUNTING
+La dépréciation des stocks est trop élevée.,ACCOUNTING
+On attend la validation du directeur financier.,ACCOUNTING
+Les charges constatées d'avance sont à jour.,ACCOUNTING
+C'est lié à l'exercice comptable précédent.,ACCOUNTING
+Tu as vérifié les taux de change pour la consolidation ?,ACCOUNTING
+La marge opérationnelle est stable.,ACCOUNTING
+Il faut sortir les rapports de gestion.,ACCOUNTING
+Les frais généraux augmentent trop vite.,ACCOUNTING
+On doit payer l'acompte d'IS.,ACCOUNTING
+La facture n'a pas le bon numéro de commande.,ACCOUNTING
+Le bilan consolidé est prêt pour signature.,ACCOUNTING
+Il faut ventiler les coûts par département.,ACCOUNTING
+Les stocks sont valorisés au coût moyen pondéré.,ACCOUNTING
+J'ai un écart de conversion sur ce compte.,ACCOUNTING
+Le cut-off des ventes est incorrect.,ACCOUNTING
+Vérifie la saisie des opérations diverses.,ACCOUNTING
+Les dotations aux amortissements sont fausses.,ACCOUNTING
+On doit préparer le budget prévisionnel (Capex).,ACCOUNTING
+La TVA déductible est supérieure à la TVA collectée.,ACCOUNTING
+Le rapport d'audit interne est sévère.,ACCOUNTING
+C'est une dépense non récurrente.,ACCOUNTING
+Tu peux m'extraire le journal des achats ?,ACCOUNTING
+Les passifs éventuels doivent être mentionnés.,ACCOUNTING
+On a besoin d'une situation comptable intermédiaire.,ACCOUNTING
+Le coût de revient est mal calculé.,ACCOUNTING
+Les notes annexes du bilan sont incomplètes.,ACCOUNTING
+Il faut justifier cet écart d'inventaire.,ACCOUNTING
+La comptabilité analytique ne matche pas la générale.,ACCOUNTING
+"C'est une facture d'avoir, pas de doit.",ACCOUNTING
+Le recouvrement des créances est trop lent.,ACCOUNTING
+On doit déclarer la taxe sur les salaires.,ACCOUNTING
+L'exercice fiscal se termine le 31 décembre.,ACCOUNTING
+Les frais de déplacement sont plafonnés.,ACCOUNTING
+J'ai besoin du détail des charges sociales.,ACCOUNTING
+Le résultat d'exploitation est en hausse.,ACCOUNTING
+Il faut archiver les pièces comptables.,ACCOUNTING
+La révision des comptes prend du temps.,ACCOUNTING
+C'est une opération hors bilan.,ACCOUNTING
+Le ratio d'endettement est inquiétant.,ACCOUNTING
+Vérifie si la facture est bien lettrée.,ACCOUNTING
+Les capitaux propres sont négatifs.,ACCOUNTING
+On doit calculer la participation des salariés.,ACCOUNTING
+Le grand livre ne balance pas.,ACCOUNTING
+C'est une provision pour litige.,ACCOUNTING
+La valeur nette comptable est nulle.,ACCOUNTING
+Il faut réintégrer cette charge fiscalement.,ACCOUNTING
+Le dossier de révision est sur le drive.,ACCOUNTING
+Les flux de trésorerie sont tendus.,ACCOUNTING
+On a dépassé le budget marketing.,ACCOUNTING
+C'est une erreur de saisie dans le journal de banque.,ACCOUNTING
+La balance des tiers n'est pas juste.,ACCOUNTING
+Le bénéfice net a chuté de 10%.,ACCOUNTING
+Il faut provisionner les congés payés.,ACCOUNTING
+La liasse fiscale doit être télétransmise.,ACCOUNTING
+J'attends le reporting consolidé du groupe.,ACCOUNTING
+Le coût des ventes (COGS) est trop haut.,ACCOUNTING
+Vérifie l'annexe comptable.,ACCOUNTING
+La facturation est bloquée en compta.,ACCOUNTING
+C'est un ajustement de fin d'année.,ACCOUNTING
+Le plan comptable a changé.,ACCOUNTING
+Veuillez trouver ci-joint le bilan financier de l'exercice clos.,ACCOUNTING
+Je vous prie de bien vouloir valider la facture rectificative.,ACCOUNTING
+Nous devons procéder à l'audit légal des comptes annuels.,ACCOUNTING
+L'administration fiscale a envoyé une demande d'éclaircissement.,ACCOUNTING
+Je vous confirme que les amortissements ont été comptabilisés.,ACCOUNTING
+Pourriez-vous me transmettre le détail du compte de résultat ?,ACCOUNTING
+Nous avons constaté un écart significatif dans la marge brute.,ACCOUNTING
+La clôture comptable mensuelle est prévue pour ce vendredi.,ACCOUNTING
+Il convient de vérifier les provisions pour risques et charges.,ACCOUNTING
+Je vous saurais gré de signer la déclaration de TVA.,ACCOUNTING
+L'excédent brut d'exploitation semble conforme aux attentes.,ACCOUNTING
+Veuillez noter que les notes de frais doivent être justifiées.,ACCOUNTING
+Nous sommes dans l'attente du rapport du commissaire aux comptes.,ACCOUNTING
+Il est impératif de respecter le principe de prudence comptable.,ACCOUNTING
+La trésorerie nette a été calculée avec précision.,ACCOUNTING
+Les capitaux propres ont été affectés par le résultat négatif.,ACCOUNTING
+Nous vous transmettons le grand livre pour analyse.,ACCOUNTING
+Il manque plusieurs justificatifs pour valider cette écriture.,ACCOUNTING
+La charge fiscale déductible a été réévaluée.,ACCOUNTING
+Nous devons imputer cette dépense sur le budget marketing.,ACCOUNTING
+L'inventaire physique des stocks aura lieu demain.,ACCOUNTING
+Le seuil de rentabilité n'a pas encore été atteint cette année.,ACCOUNTING
+Veuillez confirmer la réception des documents comptables.,ACCOUNTING
+Les impôts différés actifs ont été comptabilisés.,ACCOUNTING
+Nous procédons actuellement à la réconciliation des comptes.,ACCOUNTING
+Le rapport de gestion doit être finalisé avant l'assemblée générale.,ACCOUNTING
+Cette opération nécessite une régularisation manuelle.,ACCOUNTING
+Les créances clients sont en cours de recouvrement.,ACCOUNTING
+Nous avons l'honneur de vous présenter les comptes consolidés.,ACCOUNTING
+La valeur ajoutée produite par l'entreprise est en hausse.,ACCOUNTING
+Il est nécessaire d'ajuster la provision pour dépréciation.,ACCOUNTING
+Je vous invite à consulter l'annexe du bilan.,ACCOUNTING
+Les flux de trésorerie opérationnels sont positifs.,ACCOUNTING
+Nous devons déclarer la taxe sur les véhicules de société.,ACCOUNTING
+La facture proforma a été envoyée au client pour accord.,ACCOUNTING
+Le calcul du coût de revient unitaire est erroné.,ACCOUNTING
+Veuillez mettre à jour le tableau des immobilisations corporelles.,ACCOUNTING
+Les charges à payer doivent être estimées avec rigueur.,ACCOUNTING
+Nous avons reçu une notification de redressement fiscal.,ACCOUNTING
+L'affectation du résultat sera décidée en conseil.,ACCOUNTING
+Le taux de marge opérationnelle est satisfaisant.,ACCOUNTING
+Il convient d'analyser les écarts budgétaires.,ACCOUNTING
+Les frais généraux administratifs ont augmenté.,ACCOUNTING
+Nous devons solder les comptes d'attente avant la clôture.,ACCOUNTING
+La comptabilité analytique permet un meilleur suivi des coûts.,ACCOUNTING
+Veuillez vous assurer que toutes les factures sont scannées.,ACCOUNTING
+Le résultat exceptionnel ne doit pas fausser l'analyse.,ACCOUNTING
+Nous attendons la validation des commissaires aux comptes.,ACCOUNTING
+Les dettes fournisseurs doivent être apurées.,ACCOUNTING
+Le ratio de liquidité générale est au-dessus de la norme.,ACCOUNTING
+Veuillez préparer l'état de rapprochement bancaire.,ACCOUNTING
+La liasse fiscale sera télétransmise demain matin.,ACCOUNTING
+Il est nécessaire de ventiler ces coûts par centre de profit.,ACCOUNTING
+Les capitaux permanents couvrent les actifs immobilisés.,ACCOUNTING
+Je vous prie d'archiver les pièces justificatives originales.,ACCOUNTING
+La variation des stocks de produits finis est importante.,ACCOUNTING
+Nous devons calculer la provision pour congés payés.,ACCOUNTING
+L'exercice comptable s'étend sur douze mois civils.,ACCOUNTING
+Veuillez vérifier l'exactitude des écritures comptables.,ACCOUNTING
+Le besoin en fonds de roulement a augmenté.,ACCOUNTING
+Cette dépense est considérée comme une immobilisation incorporelle.,ACCOUNTING
+Nous procédons à la clôture des comptes semestriels.,ACCOUNTING
+Le résultat net après impôt est déficitaire.,ACCOUNTING
+Veuillez justifier cet écart de conversion.,ACCOUNTING
+La provision pour créances douteuses a été ajustée.,ACCOUNTING
+Les subventions d'investissement sont inscrites au bilan.,ACCOUNTING
+Nous devons respecter les normes comptables internationales.,ACCOUNTING
+Le compte courant d'associé est créditeur.,ACCOUNTING
+Veuillez procéder au lettrage des comptes tiers.,ACCOUNTING
+La capacité d'autofinancement est en baisse.,ACCOUNTING
+Nous devons régler l'acompte de l'impôt sur les sociétés.,ACCOUNTING
+Le rapport financier annuel est disponible.,ACCOUNTING
+Il y a une incohérence dans le tableau de financement.,ACCOUNTING
+Veuillez saisir les opérations d'inventaire.,ACCOUNTING
+La méthode de valorisation des stocks a été modifiée.,ACCOUNTING
+Les charges de personnel représentent une part importante.,ACCOUNTING
+Nous devons auditer les procédures de contrôle interne.,ACCOUNTING
+Le résultat d'exploitation est supérieur au budget.,ACCOUNTING
+Veuillez m'envoyer la balance générale des comptes.,ACCOUNTING
+Les écritures de fin d'exercice sont terminées.,ACCOUNTING
+Il est crucial de surveiller la trésorerie disponible.,ACCOUNTING
+La taxe sur la valeur ajoutée doit être reversée.,ACCOUNTING
+Nous avons constaté une erreur dans le journal des achats.,ACCOUNTING
+Les produits constatés d'avance ont été régularisés.,ACCOUNTING
+Veuillez classer ces documents dans le dossier fiscal.,ACCOUNTING
+Le rapport sur les risques financiers est prêt.,ACCOUNTING
+La déduction fiscale est applicable sur cet exercice.,ACCOUNTING
+Nous vous prions d'agréer l'expression de nos salutations.,ACCOUNTING
+Le bilan fonctionnel met en évidence un déséquilibre.,ACCOUNTING
+Il faut impérativement réconcilier le chiffre d'affaires.,ACCOUNTING
+Les dividendes seront versés après l'approbation des comptes.,ACCOUNTING
+Veuillez trouver le détail des charges externes.,ACCOUNTING
+L'amortissement dérogatoire a été calculé.,ACCOUNTING
+La situation nette de l'entreprise est positive.,ACCOUNTING
+Nous devons fournir une attestation de régularité fiscale.,ACCOUNTING
+Le plan comptable général doit être respecté.,ACCOUNTING
+Veuillez confirmer le solde de tout compte.,ACCOUNTING
+La rentabilité des capitaux investis est faible.,ACCOUNTING
+Nous vous remercions de votre diligence dans ce dossier.,ACCOUNTING
+Le contrôle de gestion demande ces chiffres.,ACCOUNTING
+Je t'envoie la fature pour validatoin.,ACCOUNTING
+Le bilna de cette anné est pas mal.,ACCOUNTING
+Ta's reçu le P&L du mois dernire ?,ACCOUNTING
+Faut recalculer l'armotissement.,ACCOUNTING
+Les auditeurs arrivetn lundi.,ACCOUNTING
+On doit prearer la liasse ficsale.,ACCOUNTING
+La mrage brute a baissé.,ACCOUNTING
+Je suis charrette sur la clotrue compta.,ACCOUNTING
+L'EBITDA est au dessus des previions.,ACCOUNTING
+Oublie pas ta note de frai.,ACCOUNTING
+J'ai besoin des justifs pour la TAV.,ACCOUNTING
+On passe ça en chrages ou en immo ?,ACCOUNTING
+Le repoting financier est en retard.,ACCOUNTING
+Y a un écart dans le gran livre.,ACCOUNTING
+Verifie la provison pour risques.,ACCOUNTING
+La facutre est en attente.,ACCOUNTING
+Souci de reconciliation inter-cie.,ACCOUNTING
+Le cash flwo est positif.,ACCOUNTING
+Mets à jour le tableau des immos.,ACCOUNTING
+Les ecritures de regul sont faites.,ACCOUNTING
+C'est quoi le code analytiqueu ?,ACCOUNTING
+La declaratoin de TVA rejetée.,ACCOUNTING
+Faut auditer les comtpes fournisseurs.,ACCOUNTING
+Resultat net impacté par les impots diferés.,ACCOUNTING
+Envoie le grand luvre auxiliaire.,ACCOUNTING
+Les capitaux prores ont augmenté.,ACCOUNTING
+Manque la fcture du consultant.,ACCOUNTING
+Seuil de rnetabilité pas atteint.,ACCOUNTING
+C'est une charge deductlible.,ACCOUNTING
+Revoir les provisons pour créances.,ACCOUNTING
+La cloture anuelle va etre dure.,ACCOUNTING
+Le comissaire aux comptes veut ça.,ACCOUNTING
+T'as scanné les notes de frais ?,ACCOUNTING
+Actif circulan sup au passif.,ACCOUNTING
+On a un redressemnt fiscal.,ACCOUNTING
+Calcule le ROI de ce prjoet.,ACCOUNTING
+La balance agée a trop de retards.,ACCOUNTING
+Erreur d'affectatoin comptable.,ACCOUNTING
+Previsionel de treso semble juste.,ACCOUNTING
+Je dois solder les comptes d'atente.,ACCOUNTING
+Depreciation des stoks trop haute.,ACCOUNTING
+On attend la valid du DAF.,ACCOUNTING
+Charges constatées d'avances ok.,ACCOUNTING
+Lié à l'exercie precedent.,ACCOUNTING
+Taux de chnage pour laconso ?,ACCOUNTING
+Marge operationelle stable.,ACCOUNTING
+Sortir les raports de gestion.,ACCOUNTING
+Frais generaux aumentent.,ACCOUNTING
+Payer l'acompte d'IS.,ACCOUNTING
+Facture sans bon numero de cmmande.,ACCOUNTING
+Bilan consolidé pret.,ACCOUNTING
+Ventiler les couts par dept.,ACCOUNTING
+Stocks valorisés au CMP.,ACCOUNTING
+Ecart de convresion ici.,ACCOUNTING
+Cut-off des vnetes faux.,ACCOUNTING
+Verifie la saisie des OD.,ACCOUNTING
+Dotatoins aux amortissements fausses.,ACCOUNTING
+Budget previ Capex.,ACCOUNTING
+TVA deductible sup à collecte.,ACCOUNTING
+Raport d'audit interne severe.,ACCOUNTING
+Depense non recurente.,ACCOUNTING
+Extrais le joural des achats.,ACCOUNTING
+Passifs eventuels a mentioner.,ACCOUNTING
+Besoin sitution comptable intermerdiaire.,ACCOUNTING
+Cout de revien mal calculé.,ACCOUNTING
+Notes anexes incompletes.,ACCOUNTING
+Justifier ecart d'invnetaire.,ACCOUNTING
+Compta ana matche pas la gene.,ACCOUNTING
+C'est un avoir pas une facutre.,ACCOUNTING
+Recouvrement creances lent.,ACCOUNTING
+Declarer taxe sur salaires.,ACCOUNTING
+Exercice fisacl finit le 31.,ACCOUNTING
+Frais de deplacement plafonés.,ACCOUNTING
+Detail des chrages sociales.,ACCOUNTING
+Resultat exploit en hausse.,ACCOUNTING
+Archiver pieces comtpables.,ACCOUNTING
+Revision des comtpes longue.,ACCOUNTING
+Operation hors bllan.,ACCOUNTING
+Ration d'endettement inquietant.,ACCOUNTING
+Facture bien lettrée ?,ACCOUNTING
+Capitaux prores negatifs.,ACCOUNTING
+Calculer participatoin salariés.,ACCOUNTING
+Grand livr ne balance pas.,ACCOUNTING
+Provisoin pour litige.,ACCOUNTING
+Valeur nette comtpable nulle.,ACCOUNTING
+Reintegrer cett charge fiscalement.,ACCOUNTING
+Dossier de revison sur le drive.,ACCOUNTING
+Flux de treso tendus.,ACCOUNTING
+Depassé le budgt marketing.,ACCOUNTING
+Erreur de saisie jounral banque.,ACCOUNTING
+Balance des teirs fausse.,ACCOUNTING
+Benefice net a chuté.,ACCOUNTING
+Provisioner conges payés.,ACCOUNTING
+Liasse fiscle teletransmise.,ACCOUNTING
+Reporting consoldié du groupe.,ACCOUNTING
+Cout des vntes trop haut.,ACCOUNTING
+Verifie l'annexe compta.,ACCOUNTING
+Facturation bloquée en cmpta.,ACCOUNTING
+Ajustement fin d'annee.,ACCOUNTING
+Plan comtpable a changé.,ACCOUNTING
+Je les ai envoyer hier la facture.,ACCOUNTING
+Le bilan sont pas encore prêt.,ACCOUNTING
+Tu as recevoir le P&L ?,ACCOUNTING
+Il faut que je calcule les amortissement.,ACCOUNTING
+L'audit va commencer la semaine prochain.,ACCOUNTING
+Nous devons préparer la liasse fiscal.,ACCOUNTING
+La marge sont descendu.,ACCOUNTING
+Je suis beaucoup occupé avec la clôture.,ACCOUNTING
+L'EBITDA est plus bon que prévu.,ACCOUNTING
+Oublie pas ton note de frais.,ACCOUNTING
+J'ai besoin les papiers pour la TVA.,ACCOUNTING
+On met ça dans les charges ou immo ?,ACCOUNTING
+Le reporting est en retard de temps.,ACCOUNTING
+Il y a un problème sur le grand livre.,ACCOUNTING
+Vérifier la provision s'il vous plaît.,ACCOUNTING
+La facture est attendre.,ACCOUNTING
+On a un souci avec la réconciliation.,ACCOUNTING
+Le cash flow il est positif.,ACCOUNTING
+Faire à jour le tableau des immobilisations.,ACCOUNTING
+Les écritures est fini.,ACCOUNTING
+C'est quoi le code pour l'analytique ?,ACCOUNTING
+La TVA a été refuser.,ACCOUNTING
+Nous besoin auditer les comptes.,ACCOUNTING
+Le résultat est toucher par les impôts.,ACCOUNTING
+Envoyer à moi le grand livre.,ACCOUNTING
+Les capitaux est plus haut.,ACCOUNTING
+Il manque la facture de le consultant.,ACCOUNTING
+Le rentabilité est pas là.,ACCOUNTING
+C'est une charge pour déduire.,ACCOUNTING
+Regarder les provisions encore.,ACCOUNTING
+La clôture d'année est difficile.,ACCOUNTING
+Le commissaire demande pour ce fichier.,ACCOUNTING
+Tu as scanner les notes ?,ACCOUNTING
+L'actif est plus grand que le passif.,ACCOUNTING
+On a reçu une punition fiscale.,ACCOUNTING
+Faire le calcul du ROI.,ACCOUNTING
+La balance est trop vieux.,ACCOUNTING
+C'est une faute de comptabilité.,ACCOUNTING
+La trésorerie regarde bien.,ACCOUNTING
+Je dois fermer les comptes d'attente.,ACCOUNTING
+Les stocks sont trop cher.,ACCOUNTING
+On attend que le directeur dire oui.,ACCOUNTING
+Les charges est payé d'avance.,ACCOUNTING
+C'est pour l'année d'avant.,ACCOUNTING
+Les taux de change est bon ?,ACCOUNTING
+La marge ne bouge pas.,ACCOUNTING
+Prendre les rapports de gestion.,ACCOUNTING
+Les frais monte trop vite.,ACCOUNTING
+Payer la taxe maintenant.,ACCOUNTING
+La facture a pas de numéro.,ACCOUNTING
+Le bilan est fini pour signer.,ACCOUNTING
+Couper les coûts par département.,ACCOUNTING
+Les stocks a la valeur moyenne.,ACCOUNTING
+J'ai une différence sur le compte.,ACCOUNTING
+La coupure des ventes est faux.,ACCOUNTING
+Regarde si c'est bien écrit.,ACCOUNTING
+Les amortissements est mauvais.,ACCOUNTING
+Préparer le budget futur.,ACCOUNTING
+TVA déductible est plus grand.,ACCOUNTING
+L'audit est très méchant.,ACCOUNTING
+C'est une dépense une fois.,ACCOUNTING
+Sortir le journal des achats.,ACCOUNTING
+Les passifs peut être là.,ACCOUNTING
+Besoin une situation milieu d'année.,ACCOUNTING
+Le coût est mal fait.,ACCOUNTING
+Les notes est pas complètes.,ACCOUNTING
+Pourquoi il y a un écart ?,ACCOUNTING
+La compta est pas pareil.,ACCOUNTING
+C'est une note de crédit.,ACCOUNTING
+L'argent rentre trop lent.,ACCOUNTING
+Dire la taxe sur salaires.,ACCOUNTING
+L'année fiscale finit le 31.,ACCOUNTING
+Les frais de voyage est limités.,ACCOUNTING
+Je veux le détail des charges.,ACCOUNTING
+Le résultat monte.,ACCOUNTING
+Garder les papiers comptables.,ACCOUNTING
+La révision prendre du temps.,ACCOUNTING
+C'est hors du bilan.,ACCOUNTING
+Les dettes est trop beaucoup.,ACCOUNTING
+La facture est bien ?,ACCOUNTING
+Les capitaux est rouge.,ACCOUNTING
+Calculer l'argent pour les employés.,ACCOUNTING
+Le livre ne balance pas.,ACCOUNTING
+C'est pour un procès.,ACCOUNTING
+La valeur est zéro.,ACCOUNTING
+Remettre la charge dans la taxe.,ACCOUNTING
+Le dossier est sur l'ordi.,ACCOUNTING
+Il n'y a pas assez de cash.,ACCOUNTING
+Le budget est cassé.,ACCOUNTING
+Erreur de frappe dans la banque.,ACCOUNTING
+La balance est faux.,ACCOUNTING
+Le profit est tomber.,ACCOUNTING
+Mettre de côté pour les vacances.,ACCOUNTING
+La liasse est envoyé.,ACCOUNTING
+J'attend le reporting.,ACCOUNTING
+Le coût des ventes est haut.,ACCOUNTING
+Vérifier la fin du document.,ACCOUNTING
+La facturation est stop.,ACCOUNTING
+C'est pour la fin d'année.,ACCOUNTING
+Le plan a changé.,ACCOUNTING
+Je te fais le virement instantané maintenant.,BANKING
+Tu peux m'envoyer ton RIB par mail ?,BANKING
+Ma carte a été avalée par le distributeur.,BANKING
+Quel est le plafond de paiement sur la Gold ?,BANKING
+On a des agios sur le compte courant.,BANKING
+Il faut valider le paiement via l'appli.,BANKING
+Le prélèvement EDF a été rejeté.,BANKING
+J'ai fait opposition sur ma carte ce matin.,BANKING
+Tu as le code SWIFT pour le fournisseur US ?,BANKING
+Le chèque n'a pas encore été encaissé.,BANKING
+On doit ouvrir un compte en devises.,BANKING
+"Le solde est positif on peut payer.
+",BANKING
+Il y a des frais bancaires sur cette opération.,BANKING
+Contacte le banquier pour le prêt.,BANKING
+J'ai oublié mon code PIN.,BANKING
+Le sans-contact ne fonctionne plus.,BANKING
+Fais un virement SEPA classique.,BANKING
+La banque demande une double authentification.,BANKING
+Regarde si le salaire est tombé.,BANKING
+On dépasse le découvert autorisé.,BANKING
+Ajoute ce nouveau bénéficiaire.,BANKING
+La remise de chèques est partie au courrier.,BANKING
+C'est un débit inconnu sur le relevé.,BANKING
+"Le TPE ne marche pas on prend que du cash.
+",BANKING
+Il faut approvisionner le compte avant demain.,BANKING
+La carte virtuelle est valable 24h.,BANKING
+On a reçu le virement du client ?,BANKING
+Je vais à la banque déposer des espèces.,BANKING
+Le taux de change est pas terrible aujourd'hui.,BANKING
+Demande une attestation de virement.,BANKING
+"Mon compte est bloqué je ne sais pas pourquoi.
+",BANKING
+Il y a une erreur sur le montant débité.,BANKING
+C'est un virement international hors zone euro.,BANKING
+Valide la transaction avec ton SecurePass.,BANKING
+"Le terminal affiche ""Paiement refusé"".",BANKING
+On change de banque le mois prochain.,BANKING
+Les plafonds sont remis à zéro le 1er du mois.,BANKING
+J'ai besoin d'un chèque de banque pour l'acompte.,BANKING
+Le virement est parti hier soir.,BANKING
+Vérifie les commissions d'intervention.,BANKING
+Il faut signer le mandat de prélèvement SEPA.,BANKING
+La carte expire à la fin du mois.,BANKING
+On a un souci avec la passerelle de paiement.,BANKING
+Le remboursement est apparu sur le compte.,BANKING
+Transfère les fonds sur le compte épargne.,BANKING
+La banque nous demande des justifs pour ce virement.,BANKING
+C'est un prélèvement automatique mensuel.,BANKING
+Le guichet automatique était vide.,BANKING
+Fais gaffe au phishing par SMS.,BANKING
+J'ai reçu ma nouvelle carte bancaire.,BANKING
+Le virement a été retourné par la banque destinataire.,BANKING
+On peut payer en plusieurs fois ?,BANKING
+Le libellé du virement doit être précis.,BANKING
+Il manque l'IBAN sur la facture.,BANKING
+La banque a bloqué la transaction par sécurité.,BANKING
+C'est des frais de tenue de compte.,BANKING
+Je n'arrive pas à me connecter à l'espace client.,BANKING
+Le solde comptable diffère du solde disponible.,BANKING
+Imprime le relevé de compte mensuel.,BANKING
+On doit payer des intérêts débiteurs.,BANKING
+Le virement est en attente de validation.,BANKING
+Change le compte de facturation.,BANKING
+La carte business a de meilleures assurances.,BANKING
+Il faut activer la carte avant de l'utiliser.,BANKING
+Le paiement sans contact est refusé.,BANKING
+C'est un virement permanent pour le loyer.,BANKING
+La banque prélève les frais trimestriellement.,BANKING
+J'ai perdu mon chéquier.,BANKING
+Fais une demande de virement urgent.,BANKING
+Le plafond de retrait est trop bas.,BANKING
+On attend le retour de la banque.,BANKING
+Le code BIC est incorrect.,BANKING
+L'application bancaire est en maintenance.,BANKING
+C'est un débit carte différé.,BANKING
+Vérifie si le chèque est sans provision.,BANKING
+Le compte destinataire est clôturé.,BANKING
+J'ai reçu une alerte solde bas.,BANKING
+Il faut contester ce paiement frauduleux.,BANKING
+La banque a changé ses tarifs.,BANKING
+On a besoin d'un IBAN français.,BANKING
+Le virement arrivera sous 48 heures.,BANKING
+C'est la date de valeur qui compte.,BANKING
+Le terminal de paiement est en panne.,BANKING
+J'ai fait un virement compte à compte.,BANKING
+Les fonds sont bloqués pour l'instant.,BANKING
+Il faut mettre à jour tes coordonnées bancaires.,BANKING
+Le paiement en ligne a échoué.,BANKING
+C'est un virement SEPA instantané.,BANKING
+La banque demande l'origine des fonds.,BANKING
+On a dépassé le plafond de virement journalier.,BANKING
+Le relevé bancaire est disponible en PDF.,BANKING
+J'ai activé le paiement mobile.,BANKING
+Le chèque est barré et non endossable.,BANKING
+Il y a des frais de change sur cet achat.,BANKING
+Le compte joint est à découvert.,BANKING
+Fais le nécessaire auprès de la banque.,BANKING
+Le virement de salaire est parti.,BANKING
+Vérifie le solde avant de commander.,BANKING
+La banque refuse d'augmenter le découvert.,BANKING
+C'est un ordre de virement papier.,BANKING
+Veuillez trouver ci-joint notre relevé d'identité bancaire.,BANKING
+Je vous prie de bien vouloir procéder au virement suivant.,BANKING
+Nous souhaitons contester une opération débitrice injustifiée.,BANKING
+Pourriez-vous m'indiquer le plafond actuel de ma carte ?,BANKING
+Je sollicite une autorisation de découvert temporaire.,BANKING
+Veuillez confirmer la bonne réception des fonds.,BANKING
+Nous vous informons du changement de domiciliation bancaire.,BANKING
+Il convient de faire opposition sur le chéquier perdu.,BANKING
+Le solde de votre compte présente une position débitrice.,BANKING
+Nous sommes dans l'attente de l'émission du chèque de banque.,BANKING
+Veuillez noter les nouvelles coordonnées bancaires de la société.,BANKING
+Je vous saurais gré d'augmenter le plafond de paiement.,BANKING
+Le virement international nécessite un code SWIFT valide.,BANKING
+Nous avons constaté des frais bancaires anormaux.,BANKING
+L'ordre de virement a été signé par la direction.,BANKING
+Veuillez nous faire parvenir le duplicata du relevé de compte.,BANKING
+L'établissement bancaire exige une pièce d'identité.,BANKING
+Nous procédons à la clôture du compte épargne.,BANKING
+Le mandat de prélèvement SEPA doit être régularisé.,BANKING
+Je vous prie d'annuler le virement programmé.,BANKING
+La banque décline toute responsabilité en cas de fraude.,BANKING
+Veuillez vérifier la date de valeur de cette opération.,BANKING
+Nous souhaitons souscrire à une carte bancaire professionnelle.,BANKING
+Le transfert de fonds sera effectif sous 48 heures ouvrées.,BANKING
+Veuillez approvisionner le compte afin d'éviter le rejet.,BANKING
+Nous vous prions d'agréer nos salutations distinguées.,BANKING
+Le bénéficiaire du virement doit être clairement identifié.,BANKING
+Il est nécessaire de réinitialiser vos codes d'accès.,BANKING
+La carte a été mise en opposition pour motif de perte.,BANKING
+Nous attendons votre accord pour débloquer les fonds.,BANKING
+Veuillez trouver ci-annexé l'ordre de virement signé.,BANKING
+Les agios seront débités lors du prochain arrêté de compte.,BANKING
+Je souhaite obtenir le détail des commissions prélevées.,BANKING
+Le compte destinataire ne peut recevoir de virements instantanés.,BANKING
+Veuillez nous confirmer le taux de change appliqué.,BANKING
+L'opération a été refusée par votre établissement.,BANKING
+Nous vous demandons de bien vouloir lever l'interdiction bancaire.,BANKING
+Le terminal de paiement électronique nécessite une mise à jour.,BANKING
+Veuillez signer le bordereau de remise de chèques.,BANKING
+La transaction est en attente de validation sécurisée.,BANKING
+Nous avons besoin d'une attestation de capacité financière.,BANKING
+"Le virement a été émis avec la mention ""urgent"".",BANKING
+Veuillez vous rapprocher de votre conseiller bancaire.,BANKING
+Le compte courant est créditeur de cinq mille euros.,BANKING
+Nous souhaitons mettre en place un virement permanent.,BANKING
+Les frais de tenue de compte sont facturés trimestriellement.,BANKING
+Veuillez activer l'option de paiement international.,BANKING
+Le chèque a été rejeté pour provision insuffisante.,BANKING
+Nous vous adressons notre nouvelle convention de compte.,BANKING
+La banque se réserve le droit de refuser l'opération.,BANKING
+Veuillez saisir votre code personnel pour valider.,BANKING
+Le transfert interbancaire a été réalisé avec succès.,BANKING
+Nous contestons formellement ce prélèvement automatique.,BANKING
+L'authentification forte est requise pour cet achat.,BANKING
+Veuillez nous transmettre votre meilleur devis pour les frais.,BANKING
+Le compte a été débité deux fois par erreur.,BANKING
+Nous sollicitons un rendez-vous avec le directeur d'agence.,BANKING
+Le plafond de retrait hebdomadaire est atteint.,BANKING
+Veuillez fournir un justificatif de domicile récent.,BANKING
+Les fonds proviennent d'une cession d'actifs.,BANKING
+Le virement SEPA est la méthode de paiement privilégiée.,BANKING
+Nous vous informons que le compte sera clôturé le 30.,BANKING
+Veuillez vérifier l'exactitude des informations bancaires.,BANKING
+La carte Corporate offre des plafonds plus élevés.,BANKING
+Nous avons procédé au remboursement sur votre carte.,BANKING
+Le virement de trésorerie interne a été effectué.,BANKING
+Veuillez ne pas tenir compte de notre précédent courrier.,BANKING
+La banque exige la présence physique du titulaire.,BANKING
+Nous vous retournons le chèque non signé.,BANKING
+Le découvert autorisé a été dépassé de manière significative.,BANKING
+Veuillez nous acquitter des frais de dossier.,BANKING
+Le service virement est indisponible temporairement.,BANKING
+Nous souhaitons révoquer le mandat de prélèvement.,BANKING
+La carte a été capturée par le guichet automatique.,BANKING
+Veuillez confirmer l'exécution de l'ordre de bourse.,BANKING
+Le compte est actuellement en cours de régularisation.,BANKING
+Nous vous prions de limiter les mouvements débiteurs.,BANKING
+L'IBAN fourni semble incorrect ou incomplet.,BANKING
+Veuillez prendre connaissance des nouvelles conditions tarifaires.,BANKING
+Le transfert vers un compte tiers nécessite une validation.,BANKING
+Nous avons bloqué votre accès pour des raisons de sécurité.,BANKING
+Veuillez utiliser le terminal de paiement sécurisé.,BANKING
+La demande de chéquier a bien été prise en compte.,BANKING
+Le solde disponible est insuffisant pour couvrir l'opération.,BANKING
+Nous vous remercions de votre fidélité à notre établissement.,BANKING
+Veuillez insérer votre carte dans le lecteur.,BANKING
+Le virement a été crédité sur le compte joint.,BANKING
+Nous contestons le calcul des intérêts débiteurs.,BANKING
+Veuillez fournir le code BIC de la banque destinataire.,BANKING
+Le remboursement anticipé du prêt est possible.,BANKING
+Nous vous informons de la mise à disposition de votre carte.,BANKING
+Veuillez nous communiquer votre identifiant client.,BANKING
+Le paiement sans contact est plafonné à cinquante euros.,BANKING
+Nous sommes contraints de refuser votre demande de crédit.,BANKING
+Veuillez signer l'avenant au contrat carte.,BANKING
+Le virement de salaire sera effectif demain.,BANKING
+Nous restons à votre disposition pour tout renseignement bancaire.,BANKING
+Le compte d'attente a été soldé ce jour.,BANKING
+Veuillez nous excuser pour ce désagrément technique.,BANKING
+Le système interbancaire est opérationnel.,BANKING
+Je te fais le viremnet dans la minute.,BANKING
+Tu pex m'envoyer ton R IB ?,BANKING
+Ma crte a été avalée par le distributeur.,BANKING
+C'est quoi le plafnod de paiment ?,BANKING
+On a des agios sur le cpmte.,BANKING
+Valide le paiemnet sur l'appli.,BANKING
+Le prelevement a eté rejeté.,BANKING
+J'ai fait oppostion sur ma carte.,BANKING
+T'as le code SWIFT pbur le virement ?,BANKING
+Le chqèue est pas encaissé.,BANKING
+Faut ouvrir un comtpe en dollars.,BANKING
+Le slde est positif tkt.,BANKING
+Y a des frais bncaires abusés.,BANKING
+Appelle le bnquier pour le pret.,BANKING
+J'ai oublie mon code PNI.,BANKING
+Le sans-contatc marche pas.,BANKING
+Fais un virment SEPA.,BANKING
+La banque veut la double authenfication.,BANKING
+Le saliare est tombé ?,BANKING
+On depasse le decouvert autrisé.,BANKING
+Ajoute ce beneficiaire stp.,BANKING
+La remsie de cheques est partie.,BANKING
+C'est quoi ce debit inconu ?,BANKING
+"Le TPE deocnne cash seulement.
+",BANKING
+Faut approvisonner le compte.,BANKING
+La carte virtuellle expire demain.,BANKING
+Recu le viremnt du client ?,BANKING
+Je vais a la bnque deposer du liquide.,BANKING
+Taux de chnage nul.,BANKING
+Demande une atestation de virement.,BANKING
+Mon comtpe est bloqué purquoi ?,BANKING
+Erreur sur le mntant debité.,BANKING
+Virement interntional hors zone.,BANKING
+Valide avec ton SecurePss.,BANKING
+Paiment refusé sur la machine.,BANKING
+On cahnge de banque bientot.,BANKING
+Plafonds remis a zero le 1er.,BANKING
+Besoin d'un cheque de bnaque.,BANKING
+Le virment est parti hier.,BANKING
+Check les commisions d'intervention.,BANKING
+Signe le mandat SEPA stp.,BANKING
+Carte exipre fin du mois.,BANKING
+Souci avec la passerelle de paiemnt.,BANKING
+Remboursement apparu sur le cmopte.,BANKING
+Transfere les fons sur l'epargne.,BANKING
+La bnque veut des justifs.,BANKING
+Prelevement auto mensue.,BANKING
+Guichet autoamtique vide.,BANKING
+Gaffe au phising SMS.,BANKING
+Reçu ma nvelle carte.,BANKING
+Virement retourné par la bnque.,BANKING
+Payer en plusiueurs fois ?,BANKING
+Libelle du virement precis.,BANKING
+Manque l'IBAN sur la fcture.,BANKING
+Transac bloquée par secu.,BANKING
+Frais de tenue de cmopte.,BANKING
+Peux pas me conecter a la banque.,BANKING
+Solde compta differe du dispo.,BANKING
+Imprime le relvė de compte.,BANKING
+On paie des interets debiteurs.,BANKING
+Virement en atente de valid.,BANKING
+Chnage le compte de facturation.,BANKING
+Carte busines mieux assurée.,BANKING
+Active la crte avant usage.,BANKING
+Paiement sans contatc refusé.,BANKING
+Viremnt permanent loyer.,BANKING
+Banque preleve les frais.,BANKING
+Perdu mon cheqier.,BANKING
+Demande virement urgnet.,BANKING
+Plafond retriat trop bas.,BANKING
+Attend le retour de la banque.,BANKING
+Code BIC incorect.,BANKING
+Appli bancaire en maintneance.,BANKING
+Debit carte diféré.,BANKING
+Cheque sans provison ?,BANKING
+Compte destinataire cloturé.,BANKING
+Alerte sode bas.,BANKING
+Contester paiement fraudleux.,BANKING
+Banque a changé tairfs.,BANKING
+Besoin IBAN frnacais.,BANKING
+Virement sous 48h.,BANKING
+Date de vleur compte.,BANKING
+Terminal paiement en pnae.,BANKING
+Virement copmte a compte.,BANKING
+Fonds bloqés pour l'instant.,BANKING
+Maj tes coordonées bancaires.,BANKING
+Paiement en ligne echoué.,BANKING
+Virement SEPA instané.,BANKING
+Origine des fnds ?,BANKING
+Depassé plafond viremnt jour.,BANKING
+Relevé bancaire en PDF.,BANKING
+Activé paiement moblie.,BANKING
+Cheque barré non endosable.,BANKING
+Frais de chnage achat.,BANKING
+Compte joint a decuvert.,BANKING
+Fais le necessaire bnque.,BANKING
+Virement saliare parti.,BANKING
+Verifie solde avnt commande.,BANKING
+Refuse augmenter decuvert.,BANKING
+Ordre de viremnt papier.,BANKING
+Je faire le virement à toi maintenant.,BANKING
+Tu peux donner moi ton RIB ?,BANKING
+Mon carte il est mangé par la machine.,BANKING
+C'est quoi la limite de payer ?,BANKING
+Nous a des agios sur le compte.,BANKING
+Tu dois valider le argent sur l'app.,BANKING
+Le banque a dire non au prélèvement.,BANKING
+J'ai stoppé ma carte le matin.,BANKING
+Tu as le code pour l'international ?,BANKING
+Le chèque est pas pris encore.,BANKING
+Nous besoin ouvrir compte étranger.,BANKING
+Le argent est positif nous payer.,BANKING
+Il y a des charges de banque.,BANKING
+Parler avec le homme de la banque.,BANKING
+J'ai perdre mon code secret.,BANKING
+Le toucher-payer ne marche pas.,BANKING
+Faire un virement normal.,BANKING
+La banque demander deux sécurités.,BANKING
+Regarde si le salaire est là.,BANKING
+On est plus que le zéro autorisé.,BANKING
+Mettre ce nouveau personne pour payer.,BANKING
+Les chèques est parti à la poste.,BANKING
+C'est un débit je connais pas.,BANKING
+La machine de carte est cassé.,BANKING
+Il faut mettre argent sur le compte.,BANKING
+La carte internet est bon 24h.,BANKING
+On a recevoir l'argent du client ?,BANKING
+Je aller à la banque pour le cash.,BANKING
+Le taux de change est mauvais.,BANKING
+Demander un papier de virement.,BANKING
+Mon compte il est fermé je sais pas.,BANKING
+Il y a une faute sur le prix.,BANKING
+C'est un virement loin.,BANKING
+Valider avec ton mot de passe.,BANKING
+Le machine dire non.,BANKING
+On change la banque le mois prochain.,BANKING
+Les limites est zéro le 1er.,BANKING
+Je vouloir un chèque de la banque.,BANKING
+L'argent est parti hier nuit.,BANKING
+Regarder les frais de problème.,BANKING
+Il faut signer le papier SEPA.,BANKING
+La carte mourir à la fin du mois.,BANKING
+On a un problème pour payer.,BANKING
+Le retour d'argent est sur le compte.,BANKING
+Bouger l'argent sur le compte épargne.,BANKING
+La banque demande pourquoi le virement.,BANKING
+C'est automatique chaque mois.,BANKING
+La boite à argent était vide.,BANKING
+Attention le vol par SMS.,BANKING
+J'ai reçu ma carte nouveau.,BANKING
+Le virement est revenir.,BANKING
+On peut payer en beaucoup de fois ?,BANKING
+Le nom du virement doit être bon.,BANKING
+Il manque le numéro banque sur la facture.,BANKING
+La banque a bloquer pour sécurité.,BANKING
+C'est frais pour garder le compte.,BANKING
+Je peux pas entrer dans le site banque.,BANKING
+Le solde vrai est pas le solde dispo.,BANKING
+Sortir le papier du compte.,BANKING
+On doit payer intérêts mauvais.,BANKING
+Le virement est attendre.,BANKING
+Changer le compte pour payer.,BANKING
+La carte travail a mieux assurance.,BANKING
+Il faut allumer la carte avant.,BANKING
+Le paiement sans toucher est non.,BANKING
+C'est virement toujours pour le loyer.,BANKING
+La banque prendre l'argent chaque 3 mois.,BANKING
+J'ai perdu mon livre de chèque.,BANKING
+Faire demande virement vite.,BANKING
+Le maximum retrait est petit.,BANKING
+On attend la réponse banque.,BANKING
+Le code est faux.,BANKING
+L'appli est en réparation.,BANKING
+C'est débit plus tard.,BANKING
+Le chèque a pas d'argent ?,BANKING
+Le compte là-bas est fini.,BANKING
+J'ai alerte argent bas.,BANKING
+Il faut dire non à ce paiement.,BANKING
+La banque a changer les prix.,BANKING
+On a besoin un IBAN france.,BANKING
+L'argent arrive dans 2 jours.,BANKING
+C'est la date valeur qui compte.,BANKING
+La machine payer est cassé.,BANKING
+J'ai fait virement compte à compte.,BANKING
+L'argent est coincé pour maintenant.,BANKING
+Mettre à jour tes infos banque.,BANKING
+Le paiement internet a raté.,BANKING
+C'est virement tout de suite.,BANKING
+La banque demande d'où vient l'argent.,BANKING
+On a cassé la limite jour.,BANKING
+Le papier banque est en PDF.,BANKING
+J'ai allumé le paiement mobile.,BANKING
+Le chèque est barré.,BANKING
+Il y a frais de change.,BANKING
+Le compte à deux est vide.,BANKING
+Faire le nécessaire banque.,BANKING
+Le salaire est parti.,BANKING
+Regarder combien argent avant commander.,BANKING
+La banque dire non pour découvert.,BANKING
+C'est papier pour virement.,BANKING
+Je t'envoie le devis dans l'heure.,BUSINESS
+Le client veut négocier les tarifs.,BUSINESS
+On a gagné le deal avec ce grand compte.,BUSINESS
+Il faut signer le contrat avant la fin du trimestre.,BUSINESS
+Mets à jour le CRM après ton appel.,BUSINESS
+Le prospect est chaud il faut le relancer.,BUSINESS
+On prépare la réponse à l'appel d'offres.,BUSINESS
+La proposition commerciale a été envoyée hier.,BUSINESS
+Ils demandent une remise de 10%.,BUSINESS
+C'est un partenariat stratégique pour nous.,BUSINESS
+Fais-leur signer le NDA avant la réunion.,BUSINESS
+Le chiffre d'affaires prévisionnel est bon.,BUSINESS
+On doit revoir les conditions générales de vente (CGV).,BUSINESS
+Le client a validé la commande.,BUSINESS
+C'est une opportunité de vente additionnelle (upsell).,BUSINESS
+Le taux de conversion est en baisse ce mois-ci.,BUSINESS
+J'ai un déjeuner d'affaires avec le directeur.,BUSINESS
+La clause de confidentialité pose problème.,BUSINESS
+On a perdu le contrat face à la concurrence.,BUSINESS
+Il faut fidéliser nos clients actuels.,BUSINESS
+Le pipe commercial est bien rempli.,BUSINESS
+Prépare le support de présentation pour le pitch.,BUSINESS
+Le cycle de vente est trop long.,BUSINESS
+On négocie un avenant au contrat.,BUSINESS
+Le client demande une démo du produit.,BUSINESS
+C'est notre meilleur apporteur d'affaires.,BUSINESS
+La marge commerciale est trop faible sur ce dossier.,BUSINESS
+Envoie-moi le brouillon du contrat.,BUSINESS
+Le décisionnaire est en vacances.,BUSINESS
+On a un rendez-vous prospect mardi.,BUSINESS
+Il faut qualifier les leads entrants.,BUSINESS
+La satisfaction client est notre priorité.,BUSINESS
+On lance une campagne de prospection.,BUSINESS
+Le contrat est renouvelable tacitement.,BUSINESS
+Ils veulent changer les modalités de paiement.,BUSINESS
+C'est un client historique de la boîte.,BUSINESS
+J'ai besoin de la validation juridique.,BUSINESS
+Le panier moyen a augmenté.,BUSINESS
+On doit atteindre les objectifs de vente.,BUSINESS
+Le client menace de partir à la concurrence.,BUSINESS
+C'est une clause résolutoire.,BUSINESS
+Fais une offre qu'ils ne peuvent pas refuser.,BUSINESS
+Le backlog de commandes est plein.,BUSINESS
+On discute des délais de livraison.,BUSINESS
+Le contrat cadre est signé.,BUSINESS
+C'est du B2B pas du B2C.,BUSINESS
+Le closing est prévu pour vendredi.,BUSINESS
+Il faut gérer les réclamations clients.,BUSINESS
+La valeur à vie du client (LTV) est élevée.,BUSINESS
+On a fait une remise exceptionnelle.,BUSINESS
+Le devis est valable 30 jours.,BUSINESS
+Tu as les coordonnées du contact achats ?,BUSINESS
+C'est une vente complexe qui prend du temps.,BUSINESS
+On doit rédiger une lettre d'intention (LOI).,BUSINESS
+Le client veut inclure des pénalités de retard.,BUSINESS
+Notre offre est plus compétitive.,BUSINESS
+Il faut segmenter la base de données clients.,BUSINESS
+C'est un marché de niche.,BUSINESS
+On a reçu une demande de partenariat.,BUSINESS
+Le contrat expire dans deux mois.,BUSINESS
+Fais le suivi après l'envoi du devis.,BUSINESS
+Le taux de churn est inquiétant.,BUSINESS
+C'est une exclusivité commerciale.,BUSINESS
+On négocie les droits de propriété intellectuelle.,BUSINESS
+Le client demande un geste commercial.,BUSINESS
+La commission sur cette vente sera belle.,BUSINESS
+Il faut identifier les besoins du client.,BUSINESS
+On a signé un accord de distribution.,BUSINESS
+C'est un lead qualifié (MQL).,BUSINESS
+Le prévisionnel de ventes est ambitieux.,BUSINESS
+On doit verrouiller ce compte.,BUSINESS
+Le client est en attente de la proposition finale.,BUSINESS
+C'est une rupture de contrat abusive.,BUSINESS
+La date de signature est confirmée.,BUSINESS
+On fait du cross-selling sur ce portefeuille.,BUSINESS
+Le service après-vente (SAV) est débordé.,BUSINESS
+Il faut défendre nos marges.,BUSINESS
+Le contrat de prestation de services est prêt.,BUSINESS
+C'est un marché public.,BUSINESS
+On a un bon retour sur investissement (ROI) commercial.,BUSINESS
+Le client veut renégocier à la baisse.,BUSINESS
+C'est une clause de non-concurrence.,BUSINESS
+On a ouvert un nouveau canal de vente.,BUSINESS
+La réunion de lancement (Kick-off) est lundi.,BUSINESS
+Le devis dépasse le budget du client.,BUSINESS
+On doit respecter les délais contractuels.,BUSINESS
+C'est un client grand compte (Key Account).,BUSINESS
+Le taux de transformation doit augmenter.,BUSINESS
+Il faut mettre en avant nos avantages concurrentiels.,BUSINESS
+Le contrat est tacite.,BUSINESS
+On a reçu une lettre de résiliation.,BUSINESS
+C'est une vente en cycle court.,BUSINESS
+Le client est très exigeant sur la qualité.,BUSINESS
+On doit valider le cahier des charges.,BUSINESS
+C'est un accord gagnant-gagnant (Win-win).,BUSINESS
+La prospection téléphonique est difficile.,BUSINESS
+On a finalisé les termes du contrat.,BUSINESS
+Le client souhaite étaler les paiements.,BUSINESS
+J'ai envoyé la facture proforma (pour douane).,BUSINESS
+Veuillez trouver ci-joint notre proposition commerciale détaillée.,BUSINESS
+Nous vous remercions de l'intérêt que vous portez à nos services.,BUSINESS
+Nous souhaiterions organiser une rencontre pour discuter du partenariat.,BUSINESS
+Le contrat entrera en vigueur à la date de signature.,BUSINESS
+Nous accusons réception de votre demande de devis.,BUSINESS
+Il convient de définir les modalités de cette collaboration.,BUSINESS
+Nous ne sommes pas en mesure d'accorder une remise supplémentaire.,BUSINESS
+Veuillez nous retourner un exemplaire du contrat paraphé et signé.,BUSINESS
+Nous vous confirmons notre accord sur les termes négociés.,BUSINESS
+Cette offre est valable pour une durée de trente jours.,BUSINESS
+Nous restons à votre disposition pour toute information complémentaire.,BUSINESS
+La satisfaction de nos clients est notre priorité absolue.,BUSINESS
+Nous vous prions de bien vouloir valider le bon de commande.,BUSINESS
+Les conditions générales de vente sont annexées à ce document.,BUSINESS
+Nous souhaitons renouveler notre contrat de prestation.,BUSINESS
+Veuillez prendre connaissance de la clause de confidentialité.,BUSINESS
+Nous sommes ravis de vous compter parmi nos nouveaux clients.,BUSINESS
+Il est nécessaire de réviser les termes de l'accord-cadre.,BUSINESS
+Nous vous soumettons ce projet de contrat pour relecture.,BUSINESS
+La résiliation du contrat doit respecter un préavis de trois mois.,BUSINESS
+Nous nous engageons à respecter les délais de livraison convenus.,BUSINESS
+Veuillez nous faire parvenir votre meilleure offre tarifaire.,BUSINESS
+Nous avons le plaisir de vous informer que vous avez remporté l'appel d'offres.,BUSINESS
+Les négociations ont abouti à un accord mutuellement bénéfique.,BUSINESS
+Nous souhaitons étendre notre partenariat à l'international.,BUSINESS
+Veuillez confirmer votre participation à la réunion de lancement.,BUSINESS
+Nous attirons votre attention sur l'article 5 du contrat.,BUSINESS
+Ce devis inclut l'ensemble des prestations demandées.,BUSINESS
+Nous vous proposons une réduction de 5% pour tout engagement annuel.,BUSINESS
+La signature électronique du document est disponible.,BUSINESS
+Nous devons clarifier le périmètre de la mission.,BUSINESS
+"Veuillez agréer Madame Monsieur nos salutations distinguées.
+
+",BUSINESS
+Nous contestons formellement l'application de ces pénalités.,BUSINESS
+Le présent contrat est soumis au droit français.,BUSINESS
+Nous espérons que cette proposition retiendra votre attention.,BUSINESS
+Veuillez nous indiquer vos disponibilités pour un entretien téléphonique.,BUSINESS
+Nous vous adressons ci-joint le renouvellement de votre abonnement.,BUSINESS
+L'avenant au contrat a été rédigé selon vos instructions.,BUSINESS
+Nous vous invitons à consulter notre catalogue de produits.,BUSINESS
+Le client se réserve le droit d'annuler la commande.,BUSINESS
+Nous sommes contraints de refuser votre proposition.,BUSINESS
+Veuillez spécifier les livrables attendus pour ce projet.,BUSINESS
+Nous garantissons la confidentialité des informations échangées.,BUSINESS
+Le partenariat prendra fin le 31 décembre prochain.,BUSINESS
+Nous vous prions de régulariser la situation contractuelle.,BUSINESS
+Les tarifs sont indiqués hors taxes.,BUSINESS
+Nous avons bien reçu votre notification de rétractation.,BUSINESS
+Il est impératif de respecter les clauses d'exclusivité.,BUSINESS
+Nous vous proposons un rendez-vous de suivi commercial.,BUSINESS
+Veuillez signer le mandat de représentation.,BUSINESS
+Nous souhaitons développer notre volume d'affaires avec vous.,BUSINESS
+La proposition inclut une clause de révision des prix.,BUSINESS
+Nous sommes en attente de la validation budgétaire.,BUSINESS
+Veuillez nous transmettre les références de vos clients.,BUSINESS
+Le contrat prévoit une obligation de résultat.,BUSINESS
+Nous vous confirmons la prise en charge de votre dossier.,BUSINESS
+Il convient d'établir un protocole d'accord transactionnel.,BUSINESS
+Nous vous remercions pour la confiance que vous nous témoignez.,BUSINESS
+Le devis est établi sous réserve de disponibilité.,BUSINESS
+Nous vous informons de la mise à jour de nos tarifs.,BUSINESS
+Veuillez noter que toute commande est ferme et définitive.,BUSINESS
+Nous souhaitons renégocier les termes financiers.,BUSINESS
+Le prestataire s'engage à fournir un service de qualité.,BUSINESS
+Nous vous adressons notre offre de services personnalisée.,BUSINESS
+La durée du contrat est fixée à douze mois.,BUSINESS
+Veuillez parapher chaque page du document.,BUSINESS
+Nous avons identifié de nouvelles opportunités de croissance.,BUSINESS
+Le présent accord annule et remplace tout accord précédent.,BUSINESS
+Nous sommes disposés à étudier toute contre-proposition.,BUSINESS
+Veuillez confirmer l'adresse de facturation.,BUSINESS
+Nous nous réservons le droit de modifier les spécifications.,BUSINESS
+Le contrat peut être résilié en cas de faute grave.,BUSINESS
+Nous vous assurons de notre entier dévouement.,BUSINESS
+Veuillez trouver le détail des prestations en annexe.,BUSINESS
+Nous souhaitons formaliser notre accord par écrit.,BUSINESS
+Le client s'engage à payer les sommes dues.,BUSINESS
+Nous vous proposons une période d'essai de trois mois.,BUSINESS
+La propriété des biens est transférée après paiement complet.,BUSINESS
+Veuillez nous excuser pour le délai de réponse.,BUSINESS
+Nous sommes convaincus que notre solution répond à vos besoins.,BUSINESS
+Le contrat est renouvelé par tacite reconduction.,BUSINESS
+Nous vous invitons à une démonstration de notre produit.,BUSINESS
+Veuillez confirmer les dates d'intervention souhaitées.,BUSINESS
+Nous avons le regret de vous informer du rejet de votre offre.,BUSINESS
+Le respect de la propriété intellectuelle est essentiel.,BUSINESS
+Nous vous transmettons le projet de statuts de la société.,BUSINESS
+Veuillez nous confirmer votre accord de principe.,BUSINESS
+Nous restons dans l'attente de votre retour signé.,BUSINESS
+La relation commerciale est régie par les présentes conditions.,BUSINESS
+Nous vous souhaitons une excellente réception de ce document.,BUSINESS
+Je t'envoie le deivs dans l'hure.,BUSINESS
+Le cliet veut negocier les taifs.,BUSINESS
+On a ggné le deal avec ce compt.,BUSINESS
+Faut signer le contrrat avant la fin.,BUSINESS
+Mets a jour le C RM apres ton appel.,BUSINESS
+Le propspect est chaud relance-le.,BUSINESS
+On prepare la reponse a l'appel d'ofres.,BUSINESS
+La propostion commerciale est partie.,BUSINESS
+Ils demandent une remsie de 10%.,BUSINESS
+C'est un parteneriat strategique.,BUSINESS
+Fais signer le N DA avant la reunion.,BUSINESS
+Le chiffre d'affiares previ est bon.,BUSINESS
+Revoir les conditons generales de vnete.,BUSINESS
+Le cleint a validé la comande.,BUSINESS
+Opportunité de vnete additionnelle.,BUSINESS
+Taux de converison en baisse.,BUSINESS
+Dej d'afaires avec le directeur.,BUSINESS
+La cluase de confidentialtié pose pb.,BUSINESS
+Perdu le contrat face a la concurence.,BUSINESS
+Fideliser nos clints actuels.,BUSINESS
+Le pipe commerical est plein.,BUSINESS
+Prepare le suport pour le pitch.,BUSINESS
+Cycle de vnte trop long.,BUSINESS
+Negocie un avenant au cntrat.,BUSINESS
+Le client veut une dmo du produit.,BUSINESS
+Meilleur aporteur d'affaires.,BUSINESS
+Marge comemrciale trop faible.,BUSINESS
+Envoie le brouilon du contrat.,BUSINESS
+Decisonnaire en vacances.,BUSINESS
+Rdv prsopect mardi.,BUSINESS
+Qualifer les leads entrants.,BUSINESS
+Satsifaction client prio.,BUSINESS
+Lance une campagne de prospeciton.,BUSINESS
+Contrat renouvlable tacitement.,BUSINESS
+Ils veulet changer les modalites.,BUSINESS
+Client historque de la boite.,BUSINESS
+Besoin validatoin juridique.,BUSINESS
+Panier myen a augmenté.,BUSINESS
+Atteindre objecitfs de vente.,BUSINESS
+Menace de partir a la concurence.,BUSINESS
+C'est une cluase resolutoire.,BUSINESS
+Fais une offr impossible a refuser.,BUSINESS
+Backlog de commandes plein.,BUSINESS
+Discute des delais de livrason.,BUSINESS
+Contrat cdre signé.,BUSINESS
+C'est du B2 B pas du B 2C.,BUSINESS
+Clsoing prevu vendredi.,BUSINESS
+Gerer les reclamtions clients.,BUSINESS
+Vleur vie client elevée.,BUSINESS
+Fait une remise exceptionelle.,BUSINESS
+Devis valabe 30 jours.,BUSINESS
+T'as les coords du contact ahats ?,BUSINESS
+Vente comlpexe qui prend du temps.,BUSINESS
+Rediger une lettre d'intentoin.,BUSINESS
+Client veut penaltités de retard.,BUSINESS
+Notre offre est plus competitive.,BUSINESS
+Segmenter la bse de données.,BUSINESS
+Marche de nche.,BUSINESS
+Recu demande de partnariat.,BUSINESS
+Contrat exprie dans deux mois.,BUSINESS
+Fais le suvi apres le devis.,BUSINESS
+Taux de churn inqietant.,BUSINESS
+Exclusvité commerciale.,BUSINESS
+Negocie droits propritété intel.,BUSINESS
+Demande un gste commercial.,BUSINESS
+Commision sur cette vente belle.,BUSINESS
+Identifier bsoins du client.,BUSINESS
+Signé accord de distibution.,BUSINESS
+C'est un laed qualifié.,BUSINESS
+Previsionel de ventes ambitieux.,BUSINESS
+Verrouiller ce comtpe.,BUSINESS
+Attente propostion finale.,BUSINESS
+Rupture de contat abusive.,BUSINESS
+Date de sgnature confirmée.,BUSINESS
+Fait du cross-seling ici.,BUSINESS
+Service apres-vnte debordé.,BUSINESS
+Defendre nos mrges.,BUSINESS
+Contrat prestaton services pret.,BUSINESS
+C'est un mrché public.,BUSINESS
+Bon retour sur investissemnt.,BUSINESS
+Client veut renegocier baisse.,BUSINESS
+Clause non-concurence.,BUSINESS
+Ouvert nouveau cnal de vente.,BUSINESS
+Reunion de lancemnt lundi.,BUSINESS
+Devis depasse budgt.,BUSINESS
+Respecter delais contractuels.,BUSINESS
+Client grand comtpe.,BUSINESS
+Taux de transformtion doit monter.,BUSINESS
+Mettre en avant avntages.,BUSINESS
+Contrat tactie.,BUSINESS
+Lettre de resilation recue.,BUSINESS
+Vente cycle curt.,BUSINESS
+Client tres exigeant qulité.,BUSINESS
+Valider cahier des chrges.,BUSINESS
+Accord gagnant-gagnat.,BUSINESS
+Prospction telephonique dure.,BUSINESS
+Finalisé termes du contat.,BUSINESS
+Etaler les paimeents.,BUSINESS
+Facture profrma envoyée.,BUSINESS
+Je envoyer le devis dans une heure.,BUSINESS
+Le client vouloir changer le prix.,BUSINESS
+On a gagner le deal.,BUSINESS
+Il faut signer le contrat avant fin.,BUSINESS
+Mettre à jour le CRM après appel.,BUSINESS
+Le prospect est chaud relancer lui.,BUSINESS
+Nous préparer la réponse offre.,BUSINESS
+La proposition est aller hier.,BUSINESS
+Ils demander un remise.,BUSINESS
+C'est un bon partenaire pour nous.,BUSINESS
+Faire signer le NDA avant réunion.,BUSINESS
+Le chiffre est bon.,BUSINESS
+On doit regarder les conditions vente.,BUSINESS
+Le client a dire oui commande.,BUSINESS
+C'est une vente de plus.,BUSINESS
+Le taux est tomber ce mois.,BUSINESS
+J'ai manger affaire avec directeur.,BUSINESS
+La clause secret est problème.,BUSINESS
+On a perdu le contrat contre eux.,BUSINESS
+Garder les clients maintenant.,BUSINESS
+Le tuyau commercial est plein.,BUSINESS
+Préparer le images pour le pitch.,BUSINESS
+La vente est trop long.,BUSINESS
+On parle pour changer le contrat.,BUSINESS
+Le client demande montrer le produit.,BUSINESS
+Il apporte beaucoup affaires.,BUSINESS
+La marge est trop petit.,BUSINESS
+Envoyer moi le brouillon.,BUSINESS
+Le chef est en vacances.,BUSINESS
+On a rendez-vous futur client.,BUSINESS
+Il faut trier les contacts.,BUSINESS
+Le client content est important.,BUSINESS
+On commence chercher des clients.,BUSINESS
+Le contrat recommence seul.,BUSINESS
+Ils vouloir payer différent.,BUSINESS
+C'est un vieux client boîte.,BUSINESS
+J'ai besoin le juriste dire ok.,BUSINESS
+Le panier est plus gros.,BUSINESS
+On doit faire les chiffres.,BUSINESS
+Le client dire il part.,BUSINESS
+C'est une clause pour finir.,BUSINESS
+Faire offre ils pas refuser.,BUSINESS
+La liste commande est plein.,BUSINESS
+On parle du temps livraison.,BUSINESS
+Le grand contrat est signé.,BUSINESS
+C'est pour les pros pas perso.,BUSINESS
+La fermeture est vendredi.,BUSINESS
+Gérer les clients pas contents.,BUSINESS
+La valeur client est haut.,BUSINESS
+On a fait remise grand.,BUSINESS
+Le devis est bon 30 jours.,BUSINESS
+Tu as le contact pour acheter ?,BUSINESS
+C'est une vente difficile.,BUSINESS
+Écrire une lettre intention.,BUSINESS
+Le client veut punition retard.,BUSINESS
+Notre offre est plus mieux.,BUSINESS
+Couper la base de données.,BUSINESS
+C'est un marché petit.,BUSINESS
+On a recevoir demande partenaire.,BUSINESS
+Le contrat mourir dans 2 mois.,BUSINESS
+Faire la suite après devis.,BUSINESS
+Le taux départ est peur.,BUSINESS
+C'est une exclusivité vente.,BUSINESS
+On parle droits intellectuels.,BUSINESS
+Le client demande un cadeau.,BUSINESS
+L'argent sur la vente est beau.,BUSINESS
+Voir les besoins de le client.,BUSINESS
+Signer accord distribution.,BUSINESS
+C'est un contact bon.,BUSINESS
+Le futur des ventes est grand.,BUSINESS
+Fermer ce compte.,BUSINESS
+Client attendre proposition fin.,BUSINESS
+Casser le contrat est mauvais.,BUSINESS
+La date signature est sûr.,BUSINESS
+On vend autre chose avec.,BUSINESS
+Le service après est beaucoup.,BUSINESS
+Protéger les marges.,BUSINESS
+Le contrat service est prêt.,BUSINESS
+C'est un marché public.,BUSINESS
+On a bon retour argent.,BUSINESS
+Le client veut payer moins.,BUSINESS
+C'est clause pas concurrence.,BUSINESS
+On a ouvert porte vente.,BUSINESS
+La réunion début est lundi.,BUSINESS
+Le devis est plus que budget.,BUSINESS
+Respecter le temps contrat.,BUSINESS
+C'est un gros compte.,BUSINESS
+Le taux change doit monter.,BUSINESS
+Montrer nos avantages fort.,BUSINESS
+Le contrat est silence.,BUSINESS
+On a reçu lettre stop.,BUSINESS
+C'est une vente vite.,BUSINESS
+Le client est très difficile.,BUSINESS
+Valider le cahier charges.,BUSINESS
+Accord gagner-gagner.,BUSINESS
+Appeler froid est dur.,BUSINESS
+Finir les mots du contrat.,BUSINESS
+Le client souhaiter payer lent.,BUSINESS
+J'ai envoyer la facture douane.,BUSINESS
+J'ai reçu un super CV ce matin.,HR HIRING
+L'entretien est calé pour mardi 14h.,HR HIRING
+Le candidat a de bonnes compétences techniques.,HR HIRING
+On doit rédiger l'offre d'emploi pour LinkedIn.,HR HIRING
+Son profil ne matche pas avec la culture.,HR HIRING
+Tu as vérifié ses références ?,HR HIRING
+On lui fait une proposition salariale demain.,HR HIRING
+L'onboarding des nouveaux commence lundi.,HR HIRING
+C'est un poste en CDI ou en freelance ?,HR HIRING
+Il a un préavis de trois mois.,HR HIRING
+Je cherche un profil junior pour commencer.,HR HIRING
+Les soft skills sont aussi importants que le diplôme.,HR HIRING
+On a trop de candidatures à trier.,HR HIRING
+Le manager a validé le recrutement.,HR HIRING
+Elle a réussi le test technique.,HR HIRING
+Quel est le budget pour ce poste ?,HR HIRING
+On chasse des talents chez la concurrence.,HR HIRING
+Le processus de recrutement est trop long.,HR HIRING
+Il manque de l'expérience en management.,HR HIRING
+Prépare le contrat de travail.,HR HIRING
+On a besoin de renforcer l'équipe marketing.,HR HIRING
+C'est une création de poste.,HR HIRING
+Le candidat est disponible immédiatement.,HR HIRING
+On fait un entretien vidéo pour la présélection.,HR HIRING
+Sa lettre de motivation est très bien écrite.,HR HIRING
+Il demande un salaire trop élevé.,HR HIRING
+On a short-listé trois personnes.,HR HIRING
+Le cabinet de recrutement nous a envoyé des profils.,HR HIRING
+Tu peux screener les CVs ?,HR HIRING
+On organise une session de recrutement collective.,HR HIRING
+Il faut mettre à jour la fiche de poste.,HR HIRING
+Le candidat a annulé l'entretien.,HR HIRING
+On cherche quelqu'un de bilingue.,HR HIRING
+C'est pour un stage de fin d'études.,HR HIRING
+Il a un trou dans son CV.,HR HIRING
+Fais-lui passer le test de personnalité.,HR HIRING
+On doit améliorer notre marque employeur.,HR HIRING
+Le vivier de candidats est vide.,HR HIRING
+Elle a été cooptée par un employé.,HR HIRING
+On signe la promesse d'embauche.,HR HIRING
+Le turn-over est faible dans cette équipe.,HR HIRING
+Il faut prévoir le matériel pour son arrivée.,HR HIRING
+C'est un profil atypique mais intéressant.,HR HIRING
+On clôture les candidatures ce soir.,HR HIRING
+Le feeling est bien passé avec l'équipe.,HR HIRING
+Il a postulé via notre site carrière.,HR HIRING
+Quelles sont ses prétentions salariales ?,HR HIRING
+On lui propose un package attractif.,HR HIRING
+Il faut checker son casier judiciaire (si légal).,HR HIRING
+L'intégration se fera à distance.,HR HIRING
+Le responsable RH veut le voir.,HR HIRING
+C'est un poste clé pour l'entreprise.,HR HIRING
+On a besoin de renfort pour l'été.,HR HIRING
+Le candidat hésite entre deux offres.,HR HIRING
+Il a une clause de non-concurrence.,HR HIRING
+On recrute en interne ou en externe ?,HR HIRING
+Le sourcing est difficile sur ce métier.,HR HIRING
+Il a menti sur son CV.,HR HIRING
+On organise une journée portes ouvertes recrutement.,HR HIRING
+Le candidat habite trop loin.,HR HIRING
+Il est prêt à déménager pour le job.,HR HIRING
+On lui offre des tickets restaurant et une mutuelle.,HR HIRING
+La période d'essai est de 4 mois.,HR HIRING
+Il faut valider l'embauche avec la finance.,HR HIRING
+C'est un contrat d'alternance.,HR HIRING
+Il a un excellent relationnel.,HR HIRING
+On cherche un expert en Python.,HR HIRING
+Le candidat pose beaucoup de questions pertinentes.,HR HIRING
+On debriefe après l'entretien.,HR HIRING
+Il faut envoyer une réponse négative aux autres.,HR HIRING
+Le welcome kit est prêt ?,HR HIRING
+On a besoin de ses documents administratifs.,HR HIRING
+C'est un recrutement urgent.,HR HIRING
+Le candidat a un profil LinkedIn complet.,HR HIRING
+On fait une prise de référence téléphonique.,HR HIRING
+Il manque de compétences techniques (Hard skills).,HR HIRING
+Le poste est basé à Paris.,HR HIRING
+On cherche quelqu'un de proactif.,HR HIRING
+L'entretien s'est mal passé.,HR HIRING
+Il a une expérience pertinente dans le secteur.,HR HIRING
+On doit remplir le formulaire d'embauche.,HR HIRING
+Le candidat est très motivé.,HR HIRING
+On lui a fait visiter les bureaux.,HR HIRING
+Il commence le premier du mois.,HR HIRING
+Le salaire fixe est accompagné d'un variable.,HR HIRING
+C'est un chasseur de têtes qui m'appelle.,HR HIRING
+On a besoin de sang neuf dans l'équipe.,HR HIRING
+Le processus d'embauche est gelé.,HR HIRING
+Il correspond aux valeurs de l'entreprise.,HR HIRING
+On a reçu une candidature spontanée.,HR HIRING
+Le CV est au format PDF.,HR HIRING
+Il faut planifier son parcours d'intégration.,HR HIRING
+"On cherche un leader pas un suiveur.
+",HR HIRING
+L'annonce a été publiée sur Indeed.,HR HIRING
+Le candidat parle couramment espagnol.,HR HIRING
+On a besoin de sa carte vitale.,HR HIRING
+Le contrat est prêt à être signé.,HR HIRING
+C'est la dernière étape du recrutement.,HR HIRING
+Bienvenue dans l'équipe !,HR HIRING
+On a atteint nos objectifs de recrutement.,HR HIRING
+Nous avons le plaisir de vous informer que votre candidature a été retenue.,HR HIRING
+Veuillez trouver ci-joint votre contrat de travail pour relecture.,HR HIRING
+Nous vous remercions de l'intérêt que vous portez à notre entreprise.,HR HIRING
+Votre profil correspond aux exigences du poste à pourvoir.,HR HIRING
+Nous souhaiterions vous convier à un second entretien.,HR HIRING
+"Malheureusement nous ne donnerons pas suite à votre candidature.
+",HR HIRING
+Veuillez nous transmettre la copie de vos diplômes.,HR HIRING
+Le poste est à pourvoir dans les meilleurs délais.,HR HIRING
+Nous vous prions de confirmer votre présence à l'entretien.,HR HIRING
+La période d'essai sera de quatre mois renouvelable.,HR HIRING
+Nous avons reçu un grand nombre de candidatures de qualité.,HR HIRING
+Veuillez vous munir d'une pièce d'identité pour l'accueil.,HR HIRING
+Le processus de recrutement comprend trois étapes distinctes.,HR HIRING
+Nous vous proposons une rémunération annuelle brute de 40k€.,HR HIRING
+L'intégration des nouveaux collaborateurs est une priorité.,HR HIRING
+Nous restons à votre disposition pour tout complément d'information.,HR HIRING
+Veuillez agréer l'expression de nos salutations distinguées.,HR HIRING
+Ce poste nécessite une grande rigueur et de l'autonomie.,HR HIRING
+Nous vous invitons à compléter votre dossier administratif.,HR HIRING
+Votre expérience professionnelle est un atout majeur.,HR HIRING
+Nous souhaitons vérifier vos références auprès de vos anciens employeurs.,HR HIRING
+Le candidat a démontré une excellente capacité d'analyse.,HR HIRING
+Nous vous confirmons votre embauche à compter du 1er septembre.,HR HIRING
+La lettre de mission vous sera envoyée par courrier.,HR HIRING
+Nous recherchons un collaborateur ayant un esprit d'équipe développé.,HR HIRING
+Veuillez nous retourner le document signé et paraphé.,HR HIRING
+L'entretien se déroulera dans nos locaux administratifs.,HR HIRING
+Nous avons identifié plusieurs profils à haut potentiel.,HR HIRING
+Le descriptif de poste est détaillé en annexe.,HR HIRING
+Nous ne manquerons pas de conserver votre CV dans notre vivier.,HR HIRING
+Veuillez indiquer vos disponibilités pour les deux prochaines semaines.,HR HIRING
+La maîtrise de l'anglais est indispensable pour ce poste.,HR HIRING
+Nous vous offrons un environnement de travail stimulant.,HR HIRING
+Le candidat doit justifier de cinq ans d'expérience.,HR HIRING
+Nous procédons actuellement à la présélection des candidats.,HR HIRING
+Cette offre d'emploi est ouverte aux travailleurs handicapés.,HR HIRING
+Nous vous félicitons pour votre parcours professionnel.,HR HIRING
+L'embauche est conditionnée à la visite médicale.,HR HIRING
+Nous vous prions de bien vouloir remplir le formulaire de candidature.,HR HIRING
+Votre intégration sera supervisée par le directeur des ressources humaines.,HR HIRING
+Nous évaluons les compétences techniques et comportementales.,HR HIRING
+Le salaire fixe sera complété par des primes sur objectifs.,HR HIRING
+Nous vous informons que le poste a été pourvu.,HR HIRING
+Veuillez nous fournir un extrait de casier judiciaire.,HR HIRING
+Nous souhaitons finaliser le recrutement avant la fin du mois.,HR HIRING
+Le candidat a su nous convaincre par sa motivation.,HR HIRING
+Nous vous proposons un contrat à durée indéterminée.,HR HIRING
+Les avantages sociaux incluent une mutuelle d'entreprise.,HR HIRING
+Nous sommes à la recherche de talents pour accompagner notre croissance.,HR HIRING
+Veuillez accuser réception de cette proposition d'embauche.,HR HIRING
+Le candidat possède les qualifications requises.,HR HIRING
+Nous vous invitons à consulter notre politique de recrutement.,HR HIRING
+L'entretien annuel a permis de définir les besoins en recrutement.,HR HIRING
+Nous vous garantissons la confidentialité de votre candidature.,HR HIRING
+Veuillez nous faire part de vos prétentions salariales.,HR HIRING
+Le poste est rattaché à la direction marketing.,HR HIRING
+Nous organisons des sessions de tests psychotechniques.,HR HIRING
+Votre candidature a retenu toute notre attention.,HR HIRING
+Nous vous prions de nous excuser pour le délai de réponse.,HR HIRING
+Le candidat doit faire preuve de leadership.,HR HIRING
+Nous validons la création de ce nouveau poste budgétaire.,HR HIRING
+L'intégration comprend une formation aux outils internes.,HR HIRING
+Nous vous confirmons le rendez-vous avec le manager opérationnel.,HR HIRING
+Veuillez préparer une liste de références professionnelles.,HR HIRING
+Nous sommes impatients de vous accueillir dans nos équipes.,HR HIRING
+Le processus de sélection est rigoureux et équitable.,HR HIRING
+Nous avons besoin d'un collaborateur polyvalent.,HR HIRING
+Veuillez trouver ci-joint le livret d'accueil.,HR HIRING
+Le candidat a accepté notre proposition financière.,HR HIRING
+Nous devons respecter la parité dans ce recrutement.,HR HIRING
+L'offre est valable sous réserve de vérification des diplômes.,HR HIRING
+Nous vous adressons nos meilleurs vœux de réussite.,HR HIRING
+Le poste implique des déplacements fréquents.,HR HIRING
+Nous avons le regret de vous informer que votre profil ne correspond pas.,HR HIRING
+Veuillez compléter votre profil sur notre portail carrière.,HR HIRING
+Le recrutement est une étape clé de notre stratégie.,HR HIRING
+Nous recherchons avant tout une personnalité.,HR HIRING
+Le candidat sera soumis à une période de formation.,HR HIRING
+Nous vous prions de respecter l'horaire de convocation.,HR HIRING
+L'embauche ne sera définitive qu'après la période d'essai.,HR HIRING
+Nous vous envoyons le lien pour l'entretien en visioconférence.,HR HIRING
+Le candidat a une excellente présentation.,HR HIRING
+Nous souhaitons recruter un expert dans son domaine.,HR HIRING
+Veuillez apporter votre carte d'identité et votre carte vitale.,HR HIRING
+Le contrat prendra effet le premier jour du mois prochain.,HR HIRING
+Nous vous remercions pour le temps accordé lors de l'entretien.,HR HIRING
+Le poste exige une grande disponibilité.,HR HIRING
+Nous avons finalisé la short-list des candidats.,HR HIRING
+Veuillez nous confirmer votre date de début souhaitée.,HR HIRING
+Nous vous souhaitons la bienvenue au sein de notre groupe.,HR HIRING
+J'ai recu un suepr CV ce matin.,HR HIRING
+L'entrtein est calé pour mardi 14h.,HR HIRING
+Le cnadidat a de bonnes competences.,HR HIRING
+Faut rediger l'offre d'emloi.,HR HIRING
+Son prfoil matche pas avec la boite.,HR HIRING
+T'as verifié ses refrences ?,HR HIRING
+On fait une propostion salariale demain.,HR HIRING
+L'onboardng commence lundi.,HR HIRING
+C'est un pste en CDI ou freelance ?,HR HIRING
+Il a un preavis de 3 mois.,HR HIRING
+Je cherche un junior pur commencer.,HR HIRING
+Les soft skils sont improtants.,HR HIRING
+Trop de candiatures a trier.,HR HIRING
+Le manager a validé le recrutment.,HR HIRING
+Elle a reussi le tset technique.,HR HIRING
+C'est quoi le budjet pour ce poste ?,HR HIRING
+On chasse des talnets ailleurs.,HR HIRING
+Process de recrutment trop long.,HR HIRING
+Manque d'experinece en management.,HR HIRING
+Prepare le contart de travail.,HR HIRING
+Besoin de renfocer l'equipe.,HR HIRING
+Creation de potse.,HR HIRING
+Candidat dispo tout de suiet.,HR HIRING
+Entretien vido pour la preselection.,HR HIRING
+Lettre de motiv bien ecrite.,HR HIRING
+Salaire trop elevé demnadé.,HR HIRING
+On a short-listé 3 peronnes.,HR HIRING
+Le cabinet a envoyé des prfils.,HR HIRING
+Tu peux screener les C V ?,HR HIRING
+Session de recutement collective.,HR HIRING
+Mise a jour fiche de potse.,HR HIRING
+Candidat a annulé l'entretine.,HR HIRING
+Cherche qqn de bilingue.,HR HIRING
+Stage de fin d'etudes.,HR HIRING
+Il a un trrou dans son CV.,HR HIRING
+Fais passer le test de perso.,HR HIRING
+Ameliorer la marque employuer.,HR HIRING
+Vivier de candidats vide.,HR HIRING
+Cooptée par un emlpoyé.,HR HIRING
+Signe la prmesse d'embauche.,HR HIRING
+Turn-over faible ici.,HR HIRING
+Prevoir materiel pour son arrviée.,HR HIRING
+Profil atpyique interessant.,HR HIRING
+Cloture des candidtures ce soir.,HR HIRING
+Feeling bien passsé.,HR HIRING
+Postulé via site carière.,HR HIRING
+Pretentions salariles ?,HR HIRING
+Propose un package atrtactif.,HR HIRING
+Checker casier judicaire.,HR HIRING
+Integration a distnce.,HR HIRING
+RH veut le vior.,HR HIRING
+Poste cle pour la boite.,HR HIRING
+Renfort pur l'été.,HR HIRING
+Hesite entre deux ofres.,HR HIRING
+Clause de non-concurrence.,HR HIRING
+Recrute interne ou extrne ?,HR HIRING
+Sourcing diffcile.,HR HIRING
+Menti sur son C V.,HR HIRING
+Journée portes ouverts recrutement.,HR HIRING
+Habite trop lion.,HR HIRING
+Pret a demenager pour le job.,HR HIRING
+Tickets resto et mutulle.,HR HIRING
+Periode d'essai 4 mois.,HR HIRING
+Valider embauche avec finnance.,HR HIRING
+Contrat alternance.,HR HIRING
+Excellent relatinnel.,HR HIRING
+Cherche exprt Python.,HR HIRING
+Pose des qestions pertinentes.,HR HIRING
+Debrief apres l'entretine.,HR HIRING
+Reponse negative aux aures.,HR HIRING
+Welcome kit pret ?,HR HIRING
+Besoin documents adminsitratifs.,HR HIRING
+Recrutement urgnet.,HR HIRING
+Profil LinkdIn complet.,HR HIRING
+Prise de refrence tel.,HR HIRING
+Manque de hard skils.,HR HIRING
+Poste basé a Pris.,HR HIRING
+Cherche qqn proactfi.,HR HIRING
+Entretien mal passsé.,HR HIRING
+Experience pertinante.,HR HIRING
+Remplir formlaire embauche.,HR HIRING
+Candidat tres mtiové.,HR HIRING
+Visite des bureuax.,HR HIRING
+Commence le 1er du mios.,HR HIRING
+Salaire fixe + varibale.,HR HIRING
+Chasseur de ttes appelle.,HR HIRING
+Besoin sang nuf.,HR HIRING
+Embauche gelée.,HR HIRING
+Valeurs entrprise.,HR HIRING
+Candidature spntanée.,HR HIRING
+CV format P DF.,HR HIRING
+Parcours integrtion.,HR HIRING
+Cherche leader pas suiveur.,HR HIRING
+Annonce sur Inded.,HR HIRING
+Parle espagol courant.,HR HIRING
+Besoin carte vitlae.,HR HIRING
+Contrat pret a signd.,HR HIRING
+Derniere etape recutement.,HR HIRING
+Bienvenue ds l'equipe.,HR HIRING
+Objectifs recutement atteints.,HR HIRING
+J'ai recevoir un bon CV.,HR HIRING
+L'entretien est pour demain.,HR HIRING
+Le candidat est compétence bonne.,HR HIRING
+Nous besoin écrire l'offre.,HR HIRING
+Le profil est pas match avec nous.,HR HIRING
+Tu as checker les références ?,HR HIRING
+Nous faire une offre argent.,HR HIRING
+L'arrivée commence lundi.,HR HIRING
+C'est un travail pour toujours ?,HR HIRING
+Il a un temps de notice.,HR HIRING
+Je cherche un petit pour début.,HR HIRING
+Les compétences mou est important.,HR HIRING
+Il y a trop de papiers CV.,HR HIRING
+Le chef a dire oui recrutement.,HR HIRING
+Elle a gagner le test.,HR HIRING
+Quel est l'argent pour le poste ?,HR HIRING
+On vole les gens des autres.,HR HIRING
+Le chemin recrutement est long.,HR HIRING
+Il a pas expérience chef.,HR HIRING
+Faire le contrat travail.,HR HIRING
+Besoin plus de gens marketing.,HR HIRING
+C'est un nouveau place.,HR HIRING
+Le candidat est libre maintenant.,HR HIRING
+On fait vidéo pour voir avant.,HR HIRING
+La lettre est bien écrit.,HR HIRING
+Il demande beaucoup argent.,HR HIRING
+On a choisir trois personnes.,HR HIRING
+L'agence a envoyer des profils.,HR HIRING
+Tu peux regarder les CV ?,HR HIRING
+On fait recrutement groupe.,HR HIRING
+Mettre à jour le papier poste.,HR HIRING
+Le candidat a stopper l'entretien.,HR HIRING
+On cherche personne deux langues.,HR HIRING
+C'est pour école fini.,HR HIRING
+Il a un trou dans CV.,HR HIRING
+Faire le test tête.,HR HIRING
+Rendre la marque meilleur.,HR HIRING
+La piscine de candidats est vide.,HR HIRING
+Elle est venu par un ami.,HR HIRING
+On signe la promesse.,HR HIRING
+Les gens partent pas beaucoup.,HR HIRING
+Préparer les choses pour lui.,HR HIRING
+Profil bizarre mais bien.,HR HIRING
+Fermer les demandes ce soir.,HR HIRING
+Le sentiment est bon.,HR HIRING
+Il a cliquer sur le site.,HR HIRING
+Combien il veut argent ?,HR HIRING
+On donne un paquet bon.,HR HIRING
+Vérifier la police papier.,HR HIRING
+Intégration est loin.,HR HIRING
+RH vouloir voir lui.,HR HIRING
+C'est poste clé.,HR HIRING
+Besoin aide pour été.,HR HIRING
+Il sait pas entre deux offres.,HR HIRING
+Il a clause pas concurrence.,HR HIRING
+On prend dedans ou dehors ?,HR HIRING
+Trouver est difficile.,HR HIRING
+Il a mentir sur CV.,HR HIRING
+Journée porte ouverte recrutement.,HR HIRING
+Il habite loin trop.,HR HIRING
+Il bouger maison pour travail.,HR HIRING
+On donne tickets manger.,HR HIRING
+Le temps essai est 4 mois.,HR HIRING
+Valider avec l'argent.,HR HIRING
+Contrat école travail.,HR HIRING
+Il est bon avec gens.,HR HIRING
+Cherche expert ordinateur.,HR HIRING
+Il pose question bien.,HR HIRING
+Parler après entretien.,HR HIRING
+Envoyer non aux autres.,HR HIRING
+Le kit bienvenue est prêt ?,HR HIRING
+Besoin papiers admin.,HR HIRING
+C'est recrutement vite.,HR HIRING
+Le LinkedIn est plein.,HR HIRING
+Appeler pour références.,HR HIRING
+Il a pas compétence dur.,HR HIRING
+Le poste est à Paris.,HR HIRING
+Cherche quelqu'un qui bouge.,HR HIRING
+L'entretien est mauvais passé.,HR HIRING
+Expérience est bonne.,HR HIRING
+Remplir le papier embauche.,HR HIRING
+Candidat est beaucoup motivé.,HR HIRING
+On a montrer les bureaux.,HR HIRING
+Il commence jour 1.,HR HIRING
+Salaire et bonus.,HR HIRING
+Chasseur tête appel moi.,HR HIRING
+Besoin sang nouveau.,HR HIRING
+Embauche est glace.,HR HIRING
+Il est comme entreprise.,HR HIRING
+Candidature spontanée reçu.,HR HIRING
+CV est PDF.,HR HIRING
+Planifier le chemin.,HR HIRING
+Cherche chef pas suiveur.,HR HIRING
+Annonce est sur internet.,HR HIRING
+Candidat parler espagnol bien.,HR HIRING
+Besoin carte verte.,HR HIRING
+Contrat prêt signer.,HR HIRING
+C'est la fin étape.,HR HIRING
+Bienvenue dans équipe.,HR HIRING
+Objectifs est fait.,HR HIRING
+Je souhaite poser ma démission dès aujourd'hui.,HR COMPLAINT
+Il y a une plainte pour harcèlement moral contre le manager.,HR COMPLAINT
+Je suis convoqué à un entretien préalable au licenciement.,HR COMPLAINT
+C'est une rupture conventionnelle pas un licenciement.,HR COMPLAINT
+Je vais contacter l'inspection du travail.,HR COMPLAINT
+L'ambiance est devenue toxique dans cette équipe.,HR COMPLAINT
+Je suis en arrêt maladie pour burnout.,HR COMPLAINT
+Tu as reçu ta lettre de licenciement ?,HR COMPLAINT
+Je conteste cet avertissement injustifié.,HR COMPLAINT
+Les représentants du personnel ont été alertés.,HR COMPLAINT
+Il m'a menacé de me virer sans motif.,HR COMPLAINT
+On va régler ça aux prud'hommes.,HR COMPLAINT
+Je ne peux plus supporter cette pression psychologique.,HR COMPLAINT
+C'est une faute grave selon le règlement intérieur.,HR COMPLAINT
+Je demande une médiation avec les RH.,HR COMPLAINT
+Mon solde de tout compte est incorrect.,HR COMPLAINT
+Il y a discrimination à l'embauche.,HR COMPLAINT
+Je n'ai pas été payé de mes heures supplémentaires.,HR COMPLAINT
+Le syndicat va lancer une grève.,HR COMPLAINT
+C'est du harcèlement sexuel il faut le signaler.,HR COMPLAINT
+Je refuse de signer cet avenant au contrat.,HR COMPLAINT
+Ils veulent me mettre au placard.,HR COMPLAINT
+J'ai besoin d'un avocat en droit du travail.,HR COMPLAINT
+La procédure de licenciement économique est lancée.,HR COMPLAINT
+Je me sens en danger sur mon poste de travail.,HR COMPLAINT
+C'est une atteinte à ma vie privée.,HR COMPLAINT
+Je dépose une main courante.,HR COMPLAINT
+Le CSE a voté une expertise pour risques psychosociaux.,HR COMPLAINT
+On m'a retiré mes responsabilités sans explication.,HR COMPLAINT
+Je demande la résiliation judiciaire de mon contrat.,HR COMPLAINT
+C'est un abandon de poste caractérisé.,HR COMPLAINT
+Il m'a insulté devant tout le monde.,HR COMPLAINT
+Je ne ferai pas mon préavis.,HR COMPLAINT
+La clause de mobilité est abusive.,HR COMPLAINT
+Je suis victime de mobbing.,HR COMPLAINT
+Ils ne respectent pas la convention collective.,HR COMPLAINT
+Je demande un rendez-vous urgent avec le DRH.,HR COMPLAINT
+C'est un licenciement pour cause réelle et sérieuse.,HR COMPLAINT
+On m'a forcé à démissionner.,HR COMPLAINT
+Je n'ai toujours pas reçu mon attestation Pôle Emploi.,HR COMPLAINT
+Les conditions de sécurité ne sont pas respectées.,HR COMPLAINT
+Je vais faire valoir mon droit de retrait.,HR COMPLAINT
+Il y a un conflit d'intérêts manifeste.,HR COMPLAINT
+Je suis victime de placardisation.,HR COMPLAINT
+La médecine du travail m'a déclaré inapte.,HR COMPLAINT
+Je conteste le motif de mon renvoi.,HR COMPLAINT
+C'est une sanction disciplinaire disproportionnée.,HR COMPLAINT
+Je vais signaler ces agissements à la direction.,HR COMPLAINT
+Le plan social (PSE) va impacter 50 personnes.,HR COMPLAINT
+Je demande des dommages et intérêts.,HR COMPLAINT
+C'est du travail dissimulé.,HR COMPLAINT
+On ne me donne plus de travail à faire.,HR COMPLAINT
+Je subis des remarques sexistes au quotidien.,HR COMPLAINT
+Le climat social est détestable.,HR COMPLAINT
+Je vais saisir le défenseur des droits.,HR COMPLAINT
+Il a violé son obligation de loyauté.,HR COMPLAINT
+Je demande le paiement de mes indemnités.,HR COMPLAINT
+C'est une modification unilatérale du contrat.,HR COMPLAINT
+Je suis témoin de faits de corruption.,HR COMPLAINT
+Ils ont fouillé mon ordinateur sans ma présence.,HR COMPLAINT
+Je suis à bout de nerfs.,HR COMPLAINT
+La charge de travail est inhumaine.,HR COMPLAINT
+Je ne signerai pas ce document.,HR COMPLAINT
+C'est une mise à pied conservatoire.,HR COMPLAINT
+Je demande la protection fonctionnelle.,HR COMPLAINT
+Il m'a agressé physiquement.,HR COMPLAINT
+Je vais dénoncer ces pratiques.,HR COMPLAINT
+C'est un licenciement abusif.,HR COMPLAINT
+Je réclame mes congés payés non pris.,HR COMPLAINT
+Il y a une retenue sur salaire illégale.,HR COMPLAINT
+Je suis harcelé par téléphone le soir.,HR COMPLAINT
+C'est une inégalité de traitement flagrante.,HR COMPLAINT
+Je vais alerter la presse.,HR COMPLAINT
+Mon manager me humilie en réunion.,HR COMPLAINT
+Je demande mon dossier administratif.,HR COMPLAINT
+C'est une violation du droit à la déconnexion.,HR COMPLAINT
+Je suis victime de racisme au bureau.,HR COMPLAINT
+La procédure est irrégulière.,HR COMPLAINT
+Je demande une enquête interne.,HR COMPLAINT
+Il m'a fait des avances déplacées.,HR COMPLAINT
+Je ne peux plus travailler avec lui.,HR COMPLAINT
+C'est une rétrogradation masquée.,HR COMPLAINT
+Je vais prendre acte de la rupture.,HR COMPLAINT
+Le protocole de départ est en cours de négociation.,HR COMPLAINT
+Je suis exclu des réunions d'équipe.,HR COMPLAINT
+C'est une pression insupportable.,HR COMPLAINT
+Je vais porter plainte au pénal.,HR COMPLAINT
+Mon intégrité morale est attaquée.,HR COMPLAINT
+Je demande le respect de mes droits.,HR COMPLAINT
+Ils refusent d'aménager mon poste.,HR COMPLAINT
+C'est une entrave au droit de grève.,HR COMPLAINT
+Je suis sous antidépresseurs à cause du boulot.,HR COMPLAINT
+La rupture de la période d'essai est abusive.,HR COMPLAINT
+Je ne reviendrai pas au bureau.,HR COMPLAINT
+C'est une faute lourde intentionnelle.,HR COMPLAINT
+Je demande l'application de la clause de conscience.,HR COMPLAINT
+Je suis victime de chantage.,HR COMPLAINT
+Ils n'ont pas payé ma prime de départ.,HR COMPLAINT
+Le tribunal a tranché en ma faveur.,HR COMPLAINT
+Je vous notifie par la présente ma démission de mes fonctions.,HR COMPLAINT
+Veuillez prendre acte de ma décision de saisir le Conseil des Prud'hommes.,HR COMPLAINT
+Nous vous convoquons à un entretien préalable à une éventuelle sanction.,HR COMPLAINT
+Je conteste formellement les faits qui me sont reprochés.,HR COMPLAINT
+Le comportement de Monsieur X s'apparente à du harcèlement moral.,HR COMPLAINT
+Je vous mets en demeure de cesser ces agissements.,HR COMPLAINT
+Cette décision constitue une modification substantielle de mon contrat.,HR COMPLAINT
+Je sollicite une rupture conventionnelle de mon contrat de travail.,HR COMPLAINT
+Veuillez me faire parvenir mon solde de tout compte.,HR COMPLAINT
+Je me réserve le droit d'engager des poursuites judiciaires.,HR COMPLAINT
+L'entreprise a manqué à son obligation de sécurité de résultat.,HR COMPLAINT
+Je vous informe de l'exercice de mon droit de retrait.,HR COMPLAINT
+La procédure de licenciement n'a pas été respectée.,HR COMPLAINT
+Je suis au regret de vous informer de ma démission.,HR COMPLAINT
+Veuillez trouver ci-joint mon certificat médical pour accident du travail.,HR COMPLAINT
+Je conteste le calcul de mon indemnité de licenciement.,HR COMPLAINT
+Je vous signale des faits de discrimination au sein du service.,HR COMPLAINT
+Mon état de santé ne me permet plus d'exercer mes fonctions.,HR COMPLAINT
+Je demande la résiliation judiciaire de mon contrat aux torts de l'employeur.,HR COMPLAINT
+Veuillez cesser tout contact en dehors des heures de travail.,HR COMPLAINT
+Je considère cette mutation comme une sanction déguisée.,HR COMPLAINT
+Nous avons constaté une faute grave justifiant une mise à pied.,HR COMPLAINT
+Je vous demande de bien vouloir réexaminer ma situation.,HR COMPLAINT
+Le non-paiement du salaire constitue une faute de l'employeur.,HR COMPLAINT
+Je me vois contraint de prendre acte de la rupture du contrat.,HR COMPLAINT
+Cette attitude est contraire au règlement intérieur de l'entreprise.,HR COMPLAINT
+Je sollicite l'assistance d'un conseiller du salarié.,HR COMPLAINT
+Veuillez accuser réception de cette lettre de réclamation.,HR COMPLAINT
+Je dénonce le climat de terreur qui règne dans le service.,HR COMPLAINT
+Votre décision porte atteinte à ma dignité.,HR COMPLAINT
+Je demande l'annulation de la sanction disciplinaire.,HR COMPLAINT
+Les heures supplémentaires effectuées n'ont pas été rémunérées.,HR COMPLAINT
+Je vous informe de mon intention de contacter l'inspection du travail.,HR COMPLAINT
+La surcharge de travail met en péril ma santé mentale.,HR COMPLAINT
+Je conteste le motif économique de ce licenciement.,HR COMPLAINT
+Il s'agit d'une entrave au fonctionnement du comité social et économique.,HR COMPLAINT
+Je refuse d'exécuter des tâches ne relevant pas de ma qualification.,HR COMPLAINT
+Je suis victime d'agissements sexistes répétés.,HR COMPLAINT
+Nous vous notifions votre licenciement pour insuffisance professionnelle.,HR COMPLAINT
+Je demande réparation pour le préjudice subi.,HR COMPLAINT
+Le respect du préavis est impossible compte tenu de la situation.,HR COMPLAINT
+Je vous adresse ce courrier pour signaler une situation de burnout.,HR COMPLAINT
+La clause de non-concurrence est nulle et non avenue.,HR COMPLAINT
+Je demande la communication de mon dossier personnel.,HR COMPLAINT
+Votre comportement constitue une faute inexcusable.,HR COMPLAINT
+Je conteste l'avertissement reçu en date du 12 mars.,HR COMPLAINT
+Je refuse la modification de mes horaires de travail.,HR COMPLAINT
+Cette mesure est discriminatoire envers les représentants syndicaux.,HR COMPLAINT
+Je demande la réintégration immédiate à mon poste.,HR COMPLAINT
+Le harcèlement sexuel est passible de sanctions pénales.,HR COMPLAINT
+Je vous mets en garde contre toute tentative de représailles.,HR COMPLAINT
+Je demande une enquête impartiale sur ces allégations.,HR COMPLAINT
+La rupture du contrat est imputable à l'employeur.,HR COMPLAINT
+Je vous informe que je serai assisté lors de l'entretien.,HR COMPLAINT
+Je décline toute responsabilité quant aux conséquences.,HR COMPLAINT
+Cette situation constitue une violation de l'article L1152-1.,HR COMPLAINT
+Je demande le paiement des arriérés de salaire.,HR COMPLAINT
+Je me sens contraint de démissionner pour préserver ma santé.,HR COMPLAINT
+L'employeur n'a pas respecté la procédure de reclassement.,HR COMPLAINT
+Je demande l'application stricte de la convention collective.,HR COMPLAINT
+Je vous signifie par la présente mon désaccord profond.,HR COMPLAINT
+La lettre de licenciement ne précise pas les motifs.,HR COMPLAINT
+Je considère que le lien de confiance est rompu.,HR COMPLAINT
+Je suis victime d'une mise au placard injustifiée.,HR COMPLAINT
+Je demande une indemnité transactionnelle.,HR COMPLAINT
+Le non-respect du repos hebdomadaire est illégal.,HR COMPLAINT
+Je vous prie d'agréer l'expression de mes salutations distinguées.,HR COMPLAINT
+Je conteste la validité de la rupture conventionnelle.,HR COMPLAINT
+Je signale un danger grave et imminent.,HR COMPLAINT
+La médecine du travail préconise un aménagement de poste.,HR COMPLAINT
+Je refuse d'être complice de pratiques illégales.,HR COMPLAINT
+Je demande la communication des critères d'ordre des licenciements.,HR COMPLAINT
+Cette rétrogradation n'a fait l'objet d'aucun avenant.,HR COMPLAINT
+Je vous informe de mon départ à la retraite.,HR COMPLAINT
+Je sollicite un rendez-vous avec la direction des ressources humaines.,HR COMPLAINT
+Le comité d'entreprise sera informé de cette situation.,HR COMPLAINT
+Je conteste le refus de mes congés payés.,HR COMPLAINT
+L'égalité professionnelle homme-femme n'est pas respectée.,HR COMPLAINT
+Je vous demande de justifier cette différence de traitement.,HR COMPLAINT
+Cette sanction a été prise en violation des droits de la défense.,HR COMPLAINT
+Je demande la nullité du licenciement.,HR COMPLAINT
+Je n'ai pas bénéficié de la visite médicale de reprise.,HR COMPLAINT
+L'employeur a manqué à son obligation de formation.,HR COMPLAINT
+Je demande le remboursement de mes frais professionnels.,HR COMPLAINT
+Je conteste la retenue sur salaire pour absence injustifiée.,HR COMPLAINT
+Cette mutation géographique est incompatible avec ma vie familiale.,HR COMPLAINT
+Je vous somme de rétablir mes accès informatiques.,HR COMPLAINT
+La grève est un droit constitutionnel.,HR COMPLAINT
+Je me tiens à votre disposition pour un entretien de départ.,HR COMPLAINT
+Je demande l'effacement de cet avertissement de mon dossier.,HR COMPLAINT
+Le harcèlement moral est un délit puni par la loi.,HR COMPLAINT
+Je refuse de signer le reçu pour solde de tout compte.,HR COMPLAINT
+Je demande la portabilité de ma mutuelle.,HR COMPLAINT
+Cette décision est entachée d'illégalité.,HR COMPLAINT
+Nous vous informons de la fin de votre période d'essai.,HR COMPLAINT
+Je demande communication du document unique d'évaluation des risques.,HR COMPLAINT
+Je forme un recours hiérarchique contre cette décision.,HR COMPLAINT
+Je me réserve toute voie de droit pour faire valoir mes intérêts.,HR COMPLAINT
+Je cesse mes fonctions ce jour.,HR COMPLAINT
+Je veux poser ma demissin.,HR COMPLAINT
+Y'a une plainte pour arcelement moral.,HR COMPLAINT
+Convoqué a un entretein prealable.,HR COMPLAINT
+Je veux une ruptre conventionnelle.,HR COMPLAINT
+Je vais appeler l'inspction du travail.,HR COMPLAINT
+Ambiance toxiue au bureau.,HR COMPLAINT
+Arret maladie pour bunrout.,HR COMPLAINT
+Recu ma lettre de licenciemnt ?,HR COMPLAINT
+Je conteste cet avertissemnt.,HR COMPLAINT
+J'ai prevenu les syndicats.,HR COMPLAINT
+Menacé de me virer sans mtif.,HR COMPLAINT
+On va aux prudhommes.,HR COMPLAINT
+Peux plus supporter la pression.,HR COMPLAINT
+C'est une fute grave.,HR COMPLAINT
+Demande mediatoin avec les RH.,HR COMPLAINT
+Solde de tout cmopte faux.,HR COMPLAINT
+Discirmination a l'embauche.,HR COMPLAINT
+Pas payé mes heures supps.,HR COMPLAINT
+Le snydicat fait greve.,HR COMPLAINT
+Harcelement sexule faut le dire.,HR COMPLAINT
+Refuse de sginer l'avenant.,HR COMPLAINT
+Ils me mettent au placrd.,HR COMPLAINT
+Besoin d'un avocat droit du travil.,HR COMPLAINT
+Licenciemnt eco lancé.,HR COMPLAINT
+Me sens en dangeur.,HR COMPLAINT
+Atteinte a ma vie privėe.,HR COMPLAINT
+Je depose une main courante.,HR COMPLAINT
+Risques psychosociax.,HR COMPLAINT
+Retiré mes responabilités.,HR COMPLAINT
+Resiliation judicaire du contrat.,HR COMPLAINT
+Abandon de psote.,HR COMPLAINT
+Insulté devant tt le monde.,HR COMPLAINT
+Fera pas mon preavis.,HR COMPLAINT
+Clause de mobilté abusive.,HR COMPLAINT
+Victime de mobbng.,HR COMPLAINT
+Respectent pas la convention colletive.,HR COMPLAINT
+Rdv urgent avec le DR H.,HR COMPLAINT
+Licenciement cause reelle et serieuse.,HR COMPLAINT
+Forcé a demisionner.,HR COMPLAINT
+Pas recu attestation Pole Emploi.,HR COMPLAINT
+Securité pas respcetée.,HR COMPLAINT
+Droit de retrat.,HR COMPLAINT
+Conflit d'interets.,HR COMPLAINT
+Victime de placardisation.,HR COMPLAINT
+Medecine du travil m'a mis inapte.,HR COMPLAINT
+Conteste le motif du revoi.,HR COMPLAINT
+Sanction discplinaire trop forte.,HR COMPLAINT
+Signaler a la diection.,HR COMPLAINT
+Plan socil va faire mal.,HR COMPLAINT
+Demande domages et interets.,HR COMPLAINT
+Travail dissimlé.,HR COMPLAINT
+Donne plus de travial.,HR COMPLAINT
+Remarques sexistes tt le temps.,HR COMPLAINT
+Climat socila pourri.,HR COMPLAINT
+Saisir defenseur des drotis.,HR COMPLAINT
+Violé obligation de loyuté.,HR COMPLAINT
+Paiement des indeminités.,HR COMPLAINT
+Modif unilaterale du contrat.,HR COMPLAINT
+Temoin de coruption.,HR COMPLAINT
+Fouillé mon ordi sans moi.,HR COMPLAINT
+A bout de nefrs.,HR COMPLAINT
+Charge de travial inhumaine.,HR COMPLAINT
+Signerai pas ce doc.,HR COMPLAINT
+Mise a peid conservatoire.,HR COMPLAINT
+Protection fonctionelle.,HR COMPLAINT
+Agressé physqiuement.,HR COMPLAINT
+Denoncer ces prtiques.,HR COMPLAINT
+Licenciement abusfi.,HR COMPLAINT
+Conges payes non pris.,HR COMPLAINT
+Retenue sur salire illegale.,HR COMPLAINT
+Harcelé par tel le soir.,HR COMPLAINT
+Inegalité de traitemnet.,HR COMPLAINT
+Alerter la presee.,HR COMPLAINT
+Manager m'humilie.,HR COMPLAINT
+Demande dossier adminisratif.,HR COMPLAINT
+Droit a la deconexion.,HR COMPLAINT
+Racisme au burau.,HR COMPLAINT
+Procedure irreguliere.,HR COMPLAINT
+Enquete intrene.,HR COMPLAINT
+Avances deplacées.,HR COMPLAINT
+Peux plus bosser avec lui.,HR COMPLAINT
+Retrogradation masqée.,HR COMPLAINT
+Prendre acte de la rupure.,HR COMPLAINT
+Protocole de depart en negoc.,HR COMPLAINT
+Exclu des reunons.,HR COMPLAINT
+Pression insuportable.,HR COMPLAINT
+Porter plainte penal.,HR COMPLAINT
+Integrité morale attaqué.,HR COMPLAINT
+Respect de mes driots.,HR COMPLAINT
+Refus amenager poste.,HR COMPLAINT
+Entrave droit de greve.,HR COMPLAINT
+Sous antidepresseurs a cause du taf.,HR COMPLAINT
+Rupture periode d'essai abusvie.,HR COMPLAINT
+Reviendrai pas au bureau.,HR COMPLAINT
+Faute lourde intentonelle.,HR COMPLAINT
+Clause de conscence.,HR COMPLAINT
+Victime de chntage.,HR COMPLAINT
+Pas payé prime depart.,HR COMPLAINT
+Tribunal a tranché pour moi.,HR COMPLAINT
+Je suis démission demain.,HR COMPLAINT
+Il y a une plainte pour harceler.,HR COMPLAINT
+Je suis appelé pour entretien finir.,HR COMPLAINT
+C'est une rupture ensemble.,HR COMPLAINT
+Je téléphone la police travail.,HR COMPLAINT
+L'air est poison ici.,HR COMPLAINT
+Je suis maladie pour tête casser.,HR COMPLAINT
+Tu as recevoir lettre dehors ?,HR COMPLAINT
+Je dis non à l'avertissement.,HR COMPLAINT
+Les hommes syndicat savent.,HR COMPLAINT
+Il a dire il me tue le travail.,HR COMPLAINT
+On va au juge travail.,HR COMPLAINT
+Je peux pas plus la pression.,HR COMPLAINT
+C'est une faute grand.,HR COMPLAINT
+Je veux parler avec RH.,HR COMPLAINT
+Mon argent fin est mauvais.,HR COMPLAINT
+Il aime pas ma couleur pour travail.,HR COMPLAINT
+Pas payé mes heures plus.,HR COMPLAINT
+Le groupe fait stop travail.,HR COMPLAINT
+C'est touche sexe mauvais.,HR COMPLAINT
+Je signe pas le changement.,HR COMPLAINT
+Ils mettent moi dans le placard.,HR COMPLAINT
+Besoin avocat loi travail.,HR COMPLAINT
+Le licenciement argent commence.,HR COMPLAINT
+Je sens danger ici.,HR COMPLAINT
+C'est attaque ma vie seul.,HR COMPLAINT
+Je vais police dire ça.,HR COMPLAINT
+Le groupe vote expert tête.,HR COMPLAINT
+Il a pris mes devoirs.,HR COMPLAINT
+Je casse le contrat par juge.,HR COMPLAINT
+C'est abandon de place.,HR COMPLAINT
+Il a insulter moi devant tous.,HR COMPLAINT
+Je fais pas mon temps après.,HR COMPLAINT
+La règle bouger est mauvaise.,HR COMPLAINT
+Je suis victime méchant groupe.,HR COMPLAINT
+Ils respectent pas la loi papier.,HR COMPLAINT
+Je veux voir chef RH vite.,HR COMPLAINT
+C'est renvoi pour vrai raison.,HR COMPLAINT
+On a forcer moi partir.,HR COMPLAINT
+J'ai pas le papier chômage.,HR COMPLAINT
+La sécurité est pas là.,HR COMPLAINT
+Je utilise mon droit partir.,HR COMPLAINT
+Il y a problème intérêt.,HR COMPLAINT
+Je suis mis de côté.,HR COMPLAINT
+Docteur travail dire non.,HR COMPLAINT
+Je suis contre pourquoi je pars.,HR COMPLAINT
+La punition est trop gros.,HR COMPLAINT
+Je vais dire au chef.,HR COMPLAINT
+Le plan social fait mal.,HR COMPLAINT
+Je demande argent réparation.,HR COMPLAINT
+C'est travail caché.,HR COMPLAINT
+Donne moi pas travail.,HR COMPLAINT
+Il dit choses filles mauvais.,HR COMPLAINT
+Le climat est noir.,HR COMPLAINT
+Je vais voir le défenseur.,HR COMPLAINT
+Il a cassé la confiance.,HR COMPLAINT
+Je veux mon argent départ.,HR COMPLAINT
+Changement contrat un côté.,HR COMPLAINT
+Je voir argent sous table.,HR COMPLAINT
+Regarder mon ordi sans moi.,HR COMPLAINT
+Je suis casser de nerfs.,HR COMPLAINT
+Le travail est trop lourd.,HR COMPLAINT
+Je signe pas ça.,HR COMPLAINT
+C'est mise à pied attendre.,HR COMPLAINT
+Je veux protection.,HR COMPLAINT
+Il a taper moi.,HR COMPLAINT
+Je vais dire les pratiques.,HR COMPLAINT
+C'est licenciement faux.,HR COMPLAINT
+Je veux mes vacances argent.,HR COMPLAINT
+Il prend argent sur salaire.,HR COMPLAINT
+Appeler moi soir mauvais.,HR COMPLAINT
+C'est pas égal traitement.,HR COMPLAINT
+Je dire au journal.,HR COMPLAINT
+Chef rire de moi.,HR COMPLAINT
+Je veux mon dossier papier.,HR COMPLAINT
+Droit pas connecter.,HR COMPLAINT
+Racisme dans bureau.,HR COMPLAINT
+La façon est pas bonne.,HR COMPLAINT
+Je veux enquête dedans.,HR COMPLAINT
+Il a fait amour demande.,HR COMPLAINT
+Je peux pas travailler lui.,HR COMPLAINT
+C'est descendre poste caché.,HR COMPLAINT
+Je prends acte cassé.,HR COMPLAINT
+Le papier départ parle.,HR COMPLAINT
+Je suis pas dans réunion.,HR COMPLAINT
+La pression est trop.,HR COMPLAINT
+Je porte plainte police.,HR COMPLAINT
+Mon moral est mal.,HR COMPLAINT
+Respecter mes lois.,HR COMPLAINT
+Ils veulent pas changer bureau.,HR COMPLAINT
+Stop le droit grève.,HR COMPLAINT
+Je prends médicaments travail.,HR COMPLAINT
+La fin essai est méchant.,HR COMPLAINT
+Je viens plus bureau.,HR COMPLAINT
+Faute lourde exprès.,HR COMPLAINT
+Clause conscience.,HR COMPLAINT
+Je suis victime argent demande.,HR COMPLAINT
+Pas payé mon bonus fin.,HR COMPLAINT
+Le juge a dire oui moi.,HR COMPLAINT
+Tu as entendu la dernière rumeur sur le boss ?,GOSSIP
+Il paraît qu'ils vont virer tout le service marketing.,GOSSIP
+Franchement son travail est nul je ne sais pas pourquoi il est encore là.,GOSSIP
+Tu as vu comment elle s'habille ? C'est n'importe quoi.,GOSSIP
+Je crois qu'ils couchent ensemble c'est obligé.,GOSSIP
+"Il est incompétent c'est son équipe qui fait tout le boulot.
+",GOSSIP
+Elle a encore pleuré dans les toilettes ce matin.,GOSSIP
+Il se prend pour qui celui-là avec sa grosse voiture ?,GOSSIP
+On m'a dit qu'il avait menti sur son CV.,GOSSIP
+C'est bizarre qu'elle soit absente tous les lundis.,GOSSIP
+Il paraît qu'il boit au bureau.,GOSSIP
+Tu savais que le directeur a une liaison avec sa secrétaire ?,GOSSIP
+Elle fayote tout le temps avec le manager c'est insupportable.,GOSSIP
+Il va sûrement se faire lourder après sa grosse boulette.,GOSSIP
+T'as vu la tête qu'il faisait en réunion ? Il avait l'air défoncé.,GOSSIP
+C'est un secret mais il cherche du boulot ailleurs.,GOSSIP
+Elle est enceinte ça se voit trop.,GOSSIP
+Il a eu une augmentation alors qu'il ne fout rien.,GOSSIP
+Il paraît que la boîte va être rachetée.,GOSSIP
+C'est une vraie vipère celle-là méfie-toi.,GOSSIP
+Il a encore dragué la stagiaire c'est gênant.,GOSSIP
+Je parie qu'ils vont annoncer un plan social.,GOSSIP
+Son haleine est horrible je ne peux pas lui parler.,GOSSIP
+Il a volé l'idée de son collègue pour se faire bien voir.,GOSSIP
+Elle passe ses journées sur Facebook.,GOSSIP
+Tu as vu le mail qu'il a envoyé à tout le monde ? La honte.,GOSSIP
+C'est le chouchou du patron il peut tout se permettre.,GOSSIP
+Il paraît qu'ils ont falsifié les chiffres.,GOSSIP
+Elle est super bizarre elle parle toute seule.,GOSSIP
+Il n'a aucune autorité personne ne l'écoute.,GOSSIP
+On dit qu'il a des problèmes d'argent.,GOSSIP
+Elle a eu le poste juste parce qu'elle connaît le PDG.,GOSSIP
+Il est toujours en retard c'est abusé.,GOSSIP
+Tu crois qu'il est gay ? Je me pose la question.,GOSSIP
+Elle a fait un scandale à la cafétéria.,GOSSIP
+Il paraît qu'il dort pendant les réunions Zoom.,GOSSIP
+C'est un incompétent notoire.,GOSSIP
+Elle a encore changé de coiffure c'est moche.,GOSSIP
+Il critique tout le monde dans leur dos.,GOSSIP
+Tu as vu sa nouvelle montre ? Ça doit coûter une blinde.,GOSSIP
+Il paraît qu'ils vont supprimer le télétravail.,GOSSIP
+Elle est trop stressée elle va craquer.,GOSSIP
+Il ne se lave pas souvent on dirait.,GOSSIP
+C'est quoi ce mec ? Il est trop chelou.,GOSSIP
+Elle a encore raté sa présentation la pauvre.,GOSSIP
+Il se la raconte trop depuis sa promotion.,GOSSIP
+Tu savais qu'ils ont divorcé ?,GOSSIP
+Il paraît que le projet est un fiasco total.,GOSSIP
+Elle est toujours malade le vendredi c'est louche.,GOSSIP
+Il a piqué une crise de nerfs hier.,GOSSIP
+C'est un tyran avec ses équipes.,GOSSIP
+Elle ne sait même pas utiliser Excel c'est grave.,GOSSIP
+Il passe son temps à fumer dehors.,GOSSIP
+Tu as vu les regards qu'ils se lancent ? C'est chaud.,GOSSIP
+On dit qu'il va y avoir du changement dans l'organigramme.,GOSSIP
+Elle a l'air déprimée en ce moment.,GOSSIP
+Il est complètement à l'ouest ce type.,GOSSIP
+C'est une rumeur ou c'est confirmé ?,GOSSIP
+Il a encore oublié d'inviter Julie au déjeuner.,GOSSIP
+Elle se plaint tout le temps c'est fatiguant.,GOSSIP
+Il paraît qu'il a détourné des fonds.,GOSSIP
+Tu as vu comment il parle aux stagiaires ?,GOSSIP
+Elle est trop ambitieuse elle écraserait n'importe qui.,GOSSIP
+Il a un problème avec l'alcool je pense.,GOSSIP
+C'est le pire manager que j'ai jamais eu.,GOSSIP
+Elle a encore ramené ses problèmes perso au boulot.,GOSSIP
+Il ne fait rien de ses journées.,GOSSIP
+Tu as entendu ce qu'il a dit sur toi ?,GOSSIP
+Elle veut prendre la place du chef.,GOSSIP
+Il est toujours fourré dans le bureau de la directrice.,GOSSIP
+C'est une ambiance de merde ici.,GOSSIP
+On m'a dit qu'il avait une fausse identité.,GOSSIP
+Elle ne dit jamais bonjour quelle impolitesse.,GOSSIP
+Il paraît qu'ils vont couper les budgets.,GOSSIP
+Tu as vu la taille de son bureau ? C'est indécent.,GOSSIP
+Elle fait semblant de travailler.,GOSSIP
+Il est complètement parano.,GOSSIP
+C'est lui qui a balancé l'info aux syndicats.,GOSSIP
+Elle est en guerre contre la compta.,GOSSIP
+Il a un rire insupportable.,GOSSIP
+Tu crois qu'elle a eu recours à la chirurgie ?,GOSSIP
+Il paraît qu'il vit encore chez ses parents.,GOSSIP
+C'est un manipulateur.,GOSSIP
+Elle a encore perdu ses dossiers.,GOSSIP
+Il se croit tout permis.,GOSSIP
+Tu as vu sa nouvelle copine ? Elle est jeune.,GOSSIP
+On dit que la boîte va couler.,GOSSIP
+Elle est jalouse de ton succès.,GOSSIP
+Il est incapable de prendre une décision.,GOSSIP
+C'est un vrai panier de crabes ce service.,GOSSIP
+Il paraît qu'il a pleuré devant le client.,GOSSIP
+Elle porte toujours les mêmes vêtements.,GOSSIP
+Il a un ego surdimensionné.,GOSSIP
+Tu savais qu'il était musicien raté ?,GOSSIP
+Elle passe son temps à faire du shopping en ligne.,GOSSIP
+Il paraît qu'il va demander sa mutation.,GOSSIP
+C'est le clown de service.,GOSSIP
+On ne peut pas lui faire confiance.,GOSSIP
+Elle a encore oublié mon anniversaire.,GOSSIP
+Il est bête comme ses pieds.,GOSSIP
+Il semblerait que la direction envisage des restructurations.,GOSSIP
+Avez-vous remarqué l'attitude étrange de Monsieur Dupont ?,GOSSIP
+On m'a rapporté que ses compétences étaient limitées.,GOSSIP
+Il se murmure que le directeur financier va démissionner.,GOSSIP
+Je crains que cette collaboration ne soit pas fructueuse.,GOSSIP
+Certaines rumeurs font état d'une liaison entre eux.,GOSSIP
+Il paraîtrait que les chiffres ont été manipulés.,GOSSIP
+Je ne souhaite pas médire mais son travail laisse à désirer.,GOSSIP
+Avez-vous eu vent des derniers bruits de couloir ?,GOSSIP
+Il est de notoriété publique qu'il n'est pas fiable.,GOSSIP
+Je me suis laissé dire qu'elle cherchait un autre poste.,GOSSIP
+Son comportement lors de la réunion était fort inapproprié.,GOSSIP
+Il semblerait qu'il y ait des tensions au sein de l'équipe.,GOSSIP
+D'après ce que j'ai entendu le projet est compromis.,GOSSIP
+On dit que ses relations avec la hiérarchie sont complexes.,GOSSIP
+Il se chuchote que la prime de fin d'année sera supprimée.,GOSSIP
+Je trouve sa manière de s'habiller peu professionnelle.,GOSSIP
+Il paraîtrait qu'il a bénéficié de favoritisme.,GOSSIP
+Avez-vous noté ses absences répétées ?,GOSSIP
+Il semble qu'elle ait des soucis d'ordre personnel.,GOSSIP
+On m'a confié qu'il n'avait pas les diplômes requis.,GOSSIP
+Sa promotion a suscité beaucoup d'interrogations.,GOSSIP
+Il se dit que l'entreprise va être absorbée.,GOSSIP
+Je doute fort de ses capacités managériales.,GOSSIP
+Il paraîtrait qu'elle est en conflit avec la direction.,GOSSIP
+On soupçonne une irrégularité dans ses notes de frais.,GOSSIP
+Il semblerait qu'il ne soit pas à la hauteur de la tâche.,GOSSIP
+J'ai entendu dire que le client était très mécontent.,GOSSIP
+Il se murmure qu'une vague de licenciements approche.,GOSSIP
+Son attitude arrogante commence à déranger.,GOSSIP
+On m'a rapporté des propos désobligeants de sa part.,GOSSIP
+Il paraîtrait qu'ils entretiennent une relation intime.,GOSSIP
+Je trouve curieux qu'il parte si tôt tous les jours.,GOSSIP
+Il se dit que le service va être délocalisé.,GOSSIP
+"Sa gestion du dossier a été catastrophique dit-on.
+",GOSSIP
+Il semblerait qu'il ait menti sur ses résultats.,GOSSIP
+On prête à la directrice des intentions de départ.,GOSSIP
+Il paraîtrait que l'ambiance est délétère à l'étage.,GOSSIP
+J'ai ouï dire qu'il avait des problèmes d'addiction.,GOSSIP
+Il est regrettable qu'elle manque autant de tact.,GOSSIP
+On dit qu'il a été rétrogradé discrètement.,GOSSIP
+Il semblerait que ce soit la fin de leur collaboration.,GOSSIP
+D'après les rumeurs il serait sur la sellette.,GOSSIP
+Je me demande comment il a obtenu ce poste.,GOSSIP
+Il se murmure que le bilan financier est mauvais.,GOSSIP
+Son manque de ponctualité est un sujet de conversation.,GOSSIP
+Il paraîtrait qu'elle a plagié le rapport.,GOSSIP
+On m'a laissé entendre qu'il allait être remplacé.,GOSSIP
+Il semblerait qu'il y ait un conflit d'intérêts.,GOSSIP
+Sa réputation la précède malheureusement.,GOSSIP
+Il se dit que le PDG a perdu la confiance du conseil.,GOSSIP
+Je trouve son comportement pour le moins étrange.,GOSSIP
+Il paraîtrait qu'ils ont falsifié des documents.,GOSSIP
+On soupçonne une fuite d'informations confidentielles.,GOSSIP
+Il semblerait qu'elle soit protégée par la direction.,GOSSIP
+J'ai entendu dire qu'il vivait au-dessus de ses moyens.,GOSSIP
+Il se murmure que le projet va être abandonné.,GOSSIP
+Son incompétence est un secret de polichinelle.,GOSSIP
+Il paraîtrait qu'il a insulté un collègue.,GOSSIP
+On dit qu'elle cherche à nuire à sa réputation.,GOSSIP
+Il semblerait que les objectifs ne seront pas atteints.,GOSSIP
+Je m'interroge sur la légitimité de sa demande.,GOSSIP
+Il se dit que l'audit va révéler des surprises.,GOSSIP
+Son manque d'hygiène est un sujet délicat.,GOSSIP
+Il paraîtrait qu'il dort au bureau.,GOSSIP
+On m'a dit que son départ était forcé.,GOSSIP
+Il semblerait qu'il ait des problèmes relationnels.,GOSSIP
+J'ai entendu dire que la fusion était annulée.,GOSSIP
+Il se murmure qu'il a un casier judiciaire.,GOSSIP
+Sa nomination a surpris tout le monde.,GOSSIP
+Il paraîtrait qu'elle est en dépression.,GOSSIP
+On dit qu'il a perdu un gros client.,GOSSIP
+Il semblerait que le climat social se dégrade.,GOSSIP
+Je trouve qu'il prend beaucoup de libertés.,GOSSIP
+Il se dit que le bonus sera inexistant.,GOSSIP
+Son attitude est jugée inacceptable par beaucoup.,GOSSIP
+Il paraîtrait qu'il cherche à se faire licencier.,GOSSIP
+On soupçonne du népotisme dans cette embauche.,GOSSIP
+Il semblerait qu'elle ait des vues sur son poste.,GOSSIP
+J'ai entendu dire qu'il était insolvable.,GOSSIP
+Il se murmure que la stratégie va changer.,GOSSIP
+Son travail est loin d'être satisfaisant.,GOSSIP
+Il paraîtrait qu'il a volé du matériel.,GOSSIP
+On dit qu'elle est très difficile à vivre.,GOSSIP
+Il semblerait que le budget soit épuisé.,GOSSIP
+Je doute de la véracité de ses propos.,GOSSIP
+Il se dit qu'il va y avoir une grève.,GOSSIP
+Son manque de discrétion est problématique.,GOSSIP
+Il paraîtrait qu'il a une double vie.,GOSSIP
+On m'a rapporté qu'il critiquait la direction.,GOSSIP
+Il semblerait que le lancement soit un échec.,GOSSIP
+J'ai entendu dire qu'elle allait porter plainte.,GOSSIP
+Il se murmure que les salaires vont être gelés.,GOSSIP
+Son influence sur le directeur est inquiétante.,GOSSIP
+Il paraîtrait qu'il a falsifié son diplôme.,GOSSIP
+On dit que c'est la fin de l'entreprise.,GOSSIP
+Il semblerait qu'il soit sur le point de craquer.,GOSSIP
+Je trouve sa promotion injustifiée.,GOSSIP
+Il se dit que le bureau va fermer.,GOSSIP
+Son comportement nuit à l'image de la société.,GOSSIP
+T'as etendu la derniere ?,GOSSIP
+Il parait que le bss va se faire virer.,GOSSIP
+C'est n'improte quoi sa tenue.,GOSSIP
+Ils couchent ensembe c'est sur.,GOSSIP
+Il est nul ce tyep.,GOSSIP
+T'a vu sa bagnole ?,GOSSIP
+Elle a encor pleuré ce matin.,GOSSIP
+Il a menti sur sn CV je parie.,GOSSIP
+C'est bizzare qu'il soit pas la.,GOSSIP
+Il boit au buerau tu crois ?,GOSSIP
+La secretaire et le directuer chaud.,GOSSIP
+Elle fayote tp.,GOSSIP
+Il va se faire lourdr.,GOSSIP
+Il avait l'air defoncé en runion.,GOSSIP
+Il cherche ailluers c'est secret.,GOSSIP
+Elle est enceitne ca se voit.,GOSSIP
+Il fout rien et il a une augmnetation.,GOSSIP
+La boite va etre racheteee.,GOSSIP
+C'est une vipre celle la.,GOSSIP
+Il drague la stagiere le lourd.,GOSSIP
+Plan socil en vue.,GOSSIP
+Son haleine pu.,GOSSIP
+Il a piqué l'idée de l'autr.,GOSSIP
+Elle est tjrs sur Facebook.,GOSSIP
+La hnte son mail.,GOSSIP
+C'est le chouchu du chef.,GOSSIP
+Chiffres falisifiés il parait.,GOSSIP
+Elle parle tt seule.,GOSSIP
+Persone ne l'ecoute.,GOSSIP
+Il a des pb d'argent.,GOSSIP
+Pistonnée par le PD G.,GOSSIP
+Tjrs en retard lui.,GOSSIP
+Il est gay ou pas ?,GOSSIP
+Scandale a la cantne.,GOSSIP
+Il dort pdt les reunions.,GOSSIP
+Incompetent notoire ce mec.,GOSSIP
+Sa coup de cheveu est moche.,GOSSIP
+Il critque tout le monde.,GOSSIP
+Sa montre coute une bline.,GOSSIP
+Plus de teletravail il parait.,GOSSIP
+Elle va craquer.,GOSSIP
+Il se lave ps souvent.,GOSSIP
+Il est trop chelou.,GOSSIP
+Elle a raté sa pres.,GOSSIP
+Il se la raconte trp.,GOSSIP
+Ils ont divorcé t'savais ?,GOSSIP
+Projet fiasoc total.,GOSSIP
+Malade le vendrdi comme par hasard.,GOSSIP
+Crise de ners hier.,GOSSIP
+C'est un tyran ce type.,GOSSIP
+Sait meme pas utiliser Excl.,GOSSIP
+Fume tout le tps.,GOSSIP
+Regards chauds entr eux.,GOSSIP
+Orgainigramme va changer.,GOSSIP
+Elle a l'air deprimée.,GOSSIP
+Completement a l'ouest.,GOSSIP
+Rumeur ou confirmė ?,GOSSIP
+Oublié d'inviter Julie encor.,GOSSIP
+Elle se plaint tt le temps.,GOSSIP
+Detourné des fnds ?,GOSSIP
+Il parle mal aux stagiares.,GOSSIP
+Trop ambitieuse elle.,GOSSIP
+Pb avec l'alcool.,GOSSIP
+Pire managr ever.,GOSSIP
+Raconte sa vie perso.,GOSSIP
+Fait rien de ses journes.,GOSSIP
+Il a parlé sur toi.,GOSSIP
+Veut la place du chf.,GOSSIP
+Tjrs chez la directice.,GOSSIP
+Ambiance de marde.,GOSSIP
+Fausse identité il parait.,GOSSIP
+Dit jamais bonjur.,GOSSIP
+Couper les budgtes.,GOSSIP
+Son bureau est imense.,GOSSIP
+Fait semblant de bosser.,GOSSIP
+Parano le mec.,GOSSIP
+Balancé l'info aux synidcats.,GOSSIP
+Guerre avec la cmpta.,GOSSIP
+Rire insuportable.,GOSSIP
+Chirurgie esthetique ?,GOSSIP
+Vit chez ses parens.,GOSSIP
+Manipulatur.,GOSSIP
+Perdu ses dosiers encore.,GOSSIP
+Se croit tt permis.,GOSSIP
+Nouvelle copine trps jeune.,GOSSIP
+La boite va culer.,GOSSIP
+Jalouse de tn succes.,GOSSIP
+Sait pas decider.,GOSSIP
+Panier de crbes.,GOSSIP
+Pleuré devant le cleint.,GOSSIP
+Meme vetements tjrs.,GOSSIP
+Ego surdimensioné.,GOSSIP
+Musicien raté mdr.,GOSSIP
+Shopping en ligue toute la journée.,GOSSIP
+Demander sa mutaton.,GOSSIP
+Clown de servcie.,GOSSIP
+Pas confiance en lui.,GOSSIP
+Oublie mon anniv.,GOSSIP
+Bete comme ses pids.,GOSSIP
+Tu as entendre le bruit ?,GOSSIP
+Il semble le chef partir.,GOSSIP
+Elle est habillée mauvais.,GOSSIP
+Ils dormir ensemble sûr.,GOSSIP
+Il est très nul de travailler.,GOSSIP
+Tu as voir sa voiture ?,GOSSIP
+Elle a pleurer matin encore.,GOSSIP
+Il a mentir sur papier CV.,GOSSIP
+C'est bizarre il est pas là.,GOSSIP
+Il boire alcool bureau.,GOSSIP
+La secrétaire aime le directeur.,GOSSIP
+Elle est gentil trop avec chef.,GOSSIP
+Il va être dehors bientôt.,GOSSIP
+Il regarde drogué réunion.,GOSSIP
+Il cherche travail secret.,GOSSIP
+Elle a bébé dans ventre.,GOSSIP
+Il fait rien et argent plus.,GOSSIP
+La boîte est acheter.,GOSSIP
+Elle est serpent méchant.,GOSSIP
+Il veut amour avec stagiaire.,GOSSIP
+Le plan départ arrive.,GOSSIP
+Sa bouche sent mauvais.,GOSSIP
+Il a voler idée.,GOSSIP
+Elle est sur Facebook toujours.,GOSSIP
+Son email est honte.,GOSSIP
+Le chef aime lui beaucoup.,GOSSIP
+Les chiffres sont faux dire.,GOSSIP
+Elle parle avec elle-même.,GOSSIP
+Personne écouter lui.,GOSSIP
+Il a problème argent.,GOSSIP
+Elle connaît le grand chef.,GOSSIP
+Il est retard toujours.,GOSSIP
+Il est homme ou femme ?,GOSSIP
+Elle a crier cantine.,GOSSIP
+Il dormir pendant vidéo.,GOSSIP
+Il sait pas faire rien.,GOSSIP
+Cheveux sont laid.,GOSSIP
+Il parle dos tout le monde.,GOSSIP
+Montre est cher beaucoup.,GOSSIP
+Maison travail fini.,GOSSIP
+Elle va casser tête.,GOSSIP
+Il lave pas corps.,GOSSIP
+Il est homme bizarre.,GOSSIP
+Elle a raté parler.,GOSSIP
+Il pense il est roi.,GOSSIP
+Ils ont fini mariage.,GOSSIP
+Projet est mort.,GOSSIP
+Elle est malade vendredi toujours.,GOSSIP
+Il a fait colère hier.,GOSSIP
+Il est méchant chef.,GOSSIP
+Savoir pas Excel grave.,GOSSIP
+Fumer dehors temps tout.,GOSSIP
+Ils regarder yeux chaud.,GOSSIP
+Changement arrive liste.,GOSSIP
+Elle regarde triste.,GOSSIP
+Il est perdu tête.,GOSSIP
+C'est vrai ou pas ?,GOSSIP
+Oublier inviter manger.,GOSSIP
+Elle pleure bouche tout le temps.,GOSSIP
+Il a voler argent caisse.,GOSSIP
+Parler mal petit employé.,GOSSIP
+Elle veut monter haut.,GOSSIP
+Problème bouteille boire.,GOSSIP
+Mauvais chef monde.,GOSSIP
+Elle apporte problèmes maison.,GOSSIP
+Faire rien journée.,GOSSIP
+Il a dire mal toi.,GOSSIP
+Elle veut chaise chef.,GOSSIP
+Toujours dans bureau dame.,GOSSIP
+Air est caca ici.,GOSSIP
+Nom est faux peut-être.,GOSSIP
+Dire pas bonjour jamais.,GOSSIP
+Couper argent projet.,GOSSIP
+Bureau est grand trop.,GOSSIP
+Faire semblant travail.,GOSSIP
+Il a peur tout.,GOSSIP
+Il a dire secret syndicat.,GOSSIP
+Guerre avec argent gens.,GOSSIP
+Rire est bruit mauvais.,GOSSIP
+Elle a changer visage ?,GOSSIP
+Vivre avec maman papa.,GOSSIP
+Il joue avec têtes.,GOSSIP
+Perdre papiers encore.,GOSSIP
+Il croit tout possible.,GOSSIP
+Nouvelle amie petite.,GOSSIP
+Entreprise va eau.,GOSSIP
+Elle aime pas ton bien.,GOSSIP
+Il peut pas choisir.,GOSSIP
+Panier de animaux méchants.,GOSSIP
+Il a eau yeux client.,GOSSIP
+Même vêtement jour.,GOSSIP
+Tête est grosse.,GOSSIP
+Il musique nul.,GOSSIP
+Acheter internet jour.,GOSSIP
+Demander partir autre place.,GOSSIP
+Il est rigolo service.,GOSSIP
+Pas confiance lui.,GOSSIP
+Oublier anniversaire moi.,GOSSIP
+Il est bête pieds.,GOSSIP
+Je t'aime plus que tout,LOVE
+Tu me manques déjà terriblement,LOVE
+On mange où ce soir mon cœur ?,LOVE
+J'ai hâte de te retrouver tout à l'heure,LOVE
+Tu es la femme de ma vie,LOVE
+Fais de beaux rêves mon ange,LOVE
+Je pense à toi tout le temps,LOVE
+On se fait un resto en amoureux ?,LOVE
+Tu es magnifique aujourd'hui,LOVE
+Je t'embrasse très fort,LOVE
+Mon amour pour toi est infini,LOVE
+Tu veux venir dormir chez moi ?,LOVE
+J'ai réservé une table pour deux,LOVE
+Tu es mon rayon de soleil,LOVE
+Je suis fou de toi,LOVE
+Passe une bonne journée mon bébé,LOVE
+Je ne peux pas vivre sans toi,LOVE
+On part en week-end tous les deux,LOVE
+Tu as les plus beaux yeux du monde,LOVE
+Je veux passer ma vie avec toi,LOVE
+Bisous partout,LOVE
+Tu es mon âme sœur,LOVE
+J'adore quand tu me regardes comme ça,LOVE
+Retrouve-moi en bas du bureau,LOVE
+Je t'ai acheté un petit cadeau,LOVE
+Tu me rends tellement heureux,LOVE
+J'ai envie de te serrer dans mes bras,LOVE
+C'est toi et moi contre le monde,LOVE
+Bonne nuit mon amour,LOVE
+Tu es sexy dans cette tenue,LOVE
+Je suis tellement bien avec toi,LOVE
+On regarde un film ce soir sous la couette,LOVE
+Tu es l'homme de mes rêves,LOVE
+Je compte les heures avant de te voir,LOVE
+Tu es ma raison de vivre,LOVE
+J'adore ton parfum,LOVE
+Tu es tout pour moi,LOVE
+On se marie quand ?,LOVE
+Je suis amoureux de toi,LOVE
+Tu me fais tourner la tête,LOVE
+J'ai besoin de tes câlins,LOVE
+Tu es ma moitié,LOVE
+Je t'envoie plein de tendresse,LOVE
+On se voit à la pause déjeuner ?,LOVE
+Tu es unique à mes yeux,LOVE
+Mon cœur bat pour toi,LOVE
+Je veux me réveiller à tes côtés,LOVE
+Tu es ma plus belle histoire,LOVE
+Je t'aime à la folie,LOVE
+Tu es mon trésor,LOVE
+J'ai rêvé de toi cette nuit,LOVE
+Tu me manques mon chéri,LOVE
+Je suis accro à toi,LOVE
+Tu es la meilleure chose qui m'est arrivée,LOVE
+On fête nos un an ce soir,LOVE
+Je t'aime de tout mon cœur,LOVE
+Tu es parfaite comme tu es,LOVE
+Je veux te faire plaisir,LOVE
+Tu es mon bonheur quotidien,LOVE
+Je t'adore mon bébé,LOVE
+On se fait un câlin ?,LOVE
+Tu es ma source d'inspiration,LOVE
+Je ne vois que toi,LOVE
+Tu es mon pilier,LOVE
+Je t'aime chaque jour un peu plus,LOVE
+Tu es mon destin,LOVE
+Je veux vieillir avec toi,LOVE
+Tu es ma force et ma faiblesse,LOVE
+Je suis perdu sans toi,LOVE
+Tu es mon tout,LOVE
+J'ai envie de t'embrasser,LOVE
+Tu es si belle ce matin,LOVE
+Je t'aime mon amour,LOVE
+On se retrouve après le boulot ?,LOVE
+Tu es mon évidence,LOVE
+Je garde ton sourire en mémoire,LOVE
+Tu es mon étoile,LOVE
+Je t'aime passionnément,LOVE
+Tu es mon meilleur ami et mon amant,LOVE
+J'ai envie de toi,LOVE
+Tu es radieuse aujourd'hui,LOVE
+Je suis chanceux de t'avoir,LOVE
+Tu es mon essentiel,LOVE
+Je t'aime mon cœur,LOVE
+On s'aime pour la vie,LOVE
+Tu es mon prince charmant,LOVE
+Je veux construire ma vie avec toi,LOVE
+Tu es ma perle rare,LOVE
+Je t'aime infiniment,LOVE
+Tu es mon oxygène,LOVE
+Je ne veux que toi,LOVE
+Tu es mon idéal,LOVE
+Je t'aime tendrement,LOVE
+Tu es mon univers,LOVE
+Je t'attends avec impatience,LOVE
+Tu es mon grand amour,LOVE
+Je t'aime pour toujours,LOVE
+Tu es ma joie de vivre,LOVE
+Gros bisous mon amour,LOVE
+Je vous porte une affection sans bornes,LOVE
+Mon cœur vous appartient tout entier,LOVE
+Vous êtes la lumière de mon existence,LOVE
+Je brûle de vous revoir ma chère,LOVE
+Votre beauté illumine mes journées,LOVE
+Je vous aime d'un amour sincère,LOVE
+Puis-je espérer vous voir ce soir ?,LOVE
+Votre absence me cause une grande peine,LOVE
+Je suis épris de vous depuis le premier jour,LOVE
+Vous occupez toutes mes pensées,LOVE
+Mon amour pour vous est inébranlable,LOVE
+Je souhaite vous offrir mon cœur,LOVE
+Vous êtes l'objet de tous mes désirs,LOVE
+Je vous chéris plus que ma propre vie,LOVE
+Votre sourire est mon plus beau cadeau,LOVE
+Je me languis de votre présence,LOVE
+Vous êtes ma muse et mon inspiration,LOVE
+Je vous dédie chacun de mes soupirs,LOVE
+Mon attachement pour vous est profond,LOVE
+Je vous promets un amour éternel,LOVE
+Vous avez ravi mon cœur à jamais,LOVE
+Je suis votre humble serviteur en amour,LOVE
+Votre voix est une douce mélodie,LOVE
+Je ne vis que pour vous aimer,LOVE
+Vous êtes la reine de mon cœur,LOVE
+Je vous adore avec respect et passion,LOVE
+Mon âme sœur c'est vous assurément,LOVE
+Je voudrais passer l'éternité à vos côtés,LOVE
+Vous comblez mes jours de bonheur,LOVE
+Je vous écris pour vous dire mon amour,LOVE
+Votre charme ne cesse de m'éblouir,LOVE
+Je suis captivé par votre élégance,LOVE
+Vous êtes mon unique pensée,LOVE
+Je vous aime avec une ardeur infinie,LOVE
+Votre regard a transpercé mon âme,LOVE
+Je suis totalement dévoué à votre bonheur,LOVE
+Vous êtes le sens de ma vie,LOVE
+Je ressens pour vous une passion dévorante,LOVE
+Vous êtes mon rêve devenu réalité,LOVE
+Je vous aime plus que les mots ne le disent,LOVE
+Votre amour est mon bien le plus précieux,LOVE
+Je suis enchanté par votre compagnie,LOVE
+Vous êtes la gardienne de mes sentiments,LOVE
+Je vous offre ces fleurs en gage d'amour,LOVE
+Votre tendresse apaise mes tourments,LOVE
+Je vous aime inconditionnellement,LOVE
+Vous êtes la perfection incarnée à mes yeux,LOVE
+Je ne peux imaginer ma vie sans vous,LOVE
+Votre amour me donne des ailes,LOVE
+Je suis comblé par votre affection,LOVE
+Vous êtes mon ancre dans la tempête,LOVE
+Je vous déclare ma flamme ardente,LOVE
+Votre présence m'est indispensable,LOVE
+Je suis sous le charme de votre esprit,LOVE
+Vous êtes la douceur de mes nuits,LOVE
+Je vous aime d'un amour pur,LOVE
+Votre bonheur fait le mien,LOVE
+Je souhaite unir ma destinée à la vôtre,LOVE
+Vous êtes mon idéal féminin,LOVE
+Je vous admire autant que je vous aime,LOVE
+Votre amour m'est vital,LOVE
+Je suis honoré de partager votre vie,LOVE
+Vous êtes mon astre lumineux,LOVE
+Je vous aime au-delà de tout,LOVE
+Votre délicatesse me touche profondément,LOVE
+Je suis prisonnier de votre amour,LOVE
+Vous êtes la raison de mes sourires,LOVE
+Je vous promets fidélité et dévotion,LOVE
+Votre amour est un trésor inestimable,LOVE
+Je vous aime de toute mon âme,LOVE
+Vous êtes ma passion secrète,LOVE
+Je ne désire que vous au monde,LOVE
+Votre amour illumine mon chemin,LOVE
+Je suis éperdument amoureux de vous,LOVE
+Vous êtes ma douce moitié,LOVE
+Je vous confie mon cœur pour toujours,LOVE
+Votre amour est ma plus grande richesse,LOVE
+Je vous aime plus qu'hier et moins que demain,LOVE
+Vous êtes l'élue de mon cœur,LOVE
+Je suis transporté par votre amour,LOVE
+Votre beauté est sans égale,LOVE
+Je vous aime d'un amour absolu,LOVE
+Vous êtes mon refuge et ma force,LOVE
+Je vous remercie de m'aimer,LOVE
+Votre amour est ma seule quête,LOVE
+Je suis votre plus grand admirateur,LOVE
+Vous êtes la mélodie de mon cœur,LOVE
+Je vous aime passionnément ma douce,LOVE
+Votre amour est ma raison d'être,LOVE
+Je vous chérirai jusqu'à mon dernier souffle,LOVE
+Vous êtes mon éternel amour,LOVE
+Je vous aime respectueusement,LOVE
+Votre amour me rend meilleur,LOVE
+Je suis à vous corps et âme,LOVE
+Vous êtes mon destin et mon avenir,LOVE
+Je vous aime divinement,LOVE
+Votre amour est un miracle,LOVE
+Je suis fou de vous ma belle dame,LOVE
+Vous êtes tout pour moi mon amour,LOVE
+Je vous aime tendrement mon cher époux,LOVE
+Je t'aimme trop mon coeur,LOVE
+Tu me mnques grave,LOVE
+On se voit ce sir ?,LOVE
+J'ai haate de te voir,LOVE
+Tu es l'homme de ma viee,LOVE
+Bisousss mon ange,LOVE
+Je pnse a toi tout le temps,LOVE
+Resto ce soir ca te dit ?,LOVE
+T'es trop beau ajourd'hui,LOVE
+Je t'embrasse fort bb,LOVE
+Mon amur pour toi est grand,LOVE
+Tu viens dodo chez moi ?,LOVE
+J'ai reservé la tabl,LOVE
+Tu es mon rayon de solei,LOVE
+Chu fou de toi,LOVE
+Bonne journee mon coeur,LOVE
+Peux pas vivre sans ti,LOVE
+Week-end en amoureux tro bien,LOVE
+T'as de beaux yeux tu sais,LOVE
+Je veux ma vie avec toi,LOVE
+Gros bizous partout,LOVE
+T'es mon ame soeur stp,LOVE
+J'kiffe quand tu me regardes,LOVE
+Viens en bas du buro,LOVE
+J'ai un cado pour toi,LOVE
+Tu me rends heureu,LOVE
+Envie de te caliner,LOVE
+Toi et moi pour toujour,LOVE
+Bnne nuit mon amour,LOVE
+T'es sexy comme ca,LOVE
+Trop bien avec toi,LOVE
+Film sous la couette ce soir,LOVE
+Homme de mes reves c toi,LOVE
+Compte les heures la,LOVE
+Ma raison de vivr,LOVE
+J'adore ton parfn,LOVE
+T'es tout pour moi bb,LOVE
+On se marie qd ?,LOVE
+Amoureux de toi grave,LOVE
+Tu me fais tourner la tete,LOVE
+Besoin de calins stp,LOVE
+T'es ma moitie,LOVE
+Plein de tendress pour toi,LOVE
+Dej ensemble a midi ?,LOVE
+T'es unique serieu,LOVE
+Mon coeur bat pr toi,LOVE
+Reveil a tes cotes le reve,LOVE
+Ma plus belle histoir,LOVE
+Je t'aime a la foli,LOVE
+T'es mon tresor a moi,LOVE
+Revé de toi cette nuit,LOVE
+Tu me manques cheri,LOVE
+Accro a toi c chaud,LOVE
+Meilleure chose qui m'est arrivé,LOVE
+Nos 1 an ce soir oublie pas,LOVE
+Je t'aime de ouf,LOVE
+Parfaite comme t'es,LOVE
+Envie de te faire plaiz,LOVE
+Mon bonheur c toi,LOVE
+Je t'ador mon bebe,LOVE
+Calin maintenant ?,LOVE
+Ma source d'inspiraton,LOVE
+Je vois que toi bb,LOVE
+Mon pilier c'est toi,LOVE
+Je t'aime chque jour plus,LOVE
+T'es mon destn,LOVE
+Vieillir avec toi je veux,LOVE
+Ma force et faibless,LOVE
+Perdu sans toi je suis,LOVE
+T'es mon tout vrmnt,LOVE
+Envie de t'embraser,LOVE
+Trop belle ce matin toi,LOVE
+JTM mon amour,LOVE
+On se voit apres le taf ?,LOVE
+Mon evidence c toi,LOVE
+Ton sourir j'adore,LOVE
+T'es mon etoile,LOVE
+Je t'aime passionement,LOVE
+Meilleur ami et amant t'es,LOVE
+Envie de toi la,LOVE
+Radieuse ajd,LOVE
+Chanceu de t'avoir,LOVE
+Mon essentiell,LOVE
+JTM mon coeur,LOVE
+On s'aime pour la vi,LOVE
+Mon prince charman,LOVE
+Construire ma vie avc toi,LOVE
+Ma perle rar,LOVE
+Je t'aime infiniment bb,LOVE
+Mon oxygene a moi,LOVE
+Veux que toi,LOVE
+Mon ideal t'es,LOVE
+Je t'aime tendremnt,LOVE
+Mon univers c toi,LOVE
+Je t'attends impatiemment,LOVE
+Mon grand amur,LOVE
+Je t'aime pour tjrs,LOVE
+Ma joie de vivr,LOVE
+Gros bizou mon amour,LOVE
+Je amour toi beaucoup,LOVE
+Tu manques moi fort,LOVE
+Nous manger où ce nuit ?,LOVE
+Je suis attendre voir toi,LOVE
+Tu es la femme de la vie moi,LOVE
+Faire rêves bon mon ange,LOVE
+Je pense toi tout le temps,LOVE
+Nous faire restaurant amour ?,LOVE
+Tu es beau beaucoup aujourd'hui,LOVE
+Je donne bisous fort,LOVE
+Mon amour pour toi est grand,LOVE
+Tu vouloir dormir maison moi ?,LOVE
+J'ai prendre table pour deux,LOVE
+Tu es mon soleil jour,LOVE
+Je suis fou de toi,LOVE
+Avoir une bonne journée bébé,LOVE
+Je vivre pas sans toi,LOVE
+Nous aller fin semaine deux,LOVE
+Tu as yeux très beaux,LOVE
+Je veux vivre vie avec toi,LOVE
+Bisous place tout,LOVE
+Tu es âme soeur moi,LOVE
+J'aime quand tu regardes moi,LOVE
+Voir moi bas bureau,LOVE
+J'ai acheter cadeau toi,LOVE
+Tu fais moi heureux,LOVE
+Je veux bras toi,LOVE
+C'est toi et moi contre monde,LOVE
+Bonne nuit amour moi,LOVE
+Tu es sexy vêtement ça,LOVE
+Je suis bien avec toi,LOVE
+Nous regarder film lit,LOVE
+Tu es homme rêves moi,LOVE
+Je compte heures voir toi,LOVE
+Tu es raison vivre moi,LOVE
+J'aime odeur toi,LOVE
+Tu es tout pour moi,LOVE
+Nous mariage quand ?,LOVE
+Je suis amoureux toi,LOVE
+Tu fais tourner tête moi,LOVE
+J'ai besoin câlins toi,LOVE
+Tu es moitié moi,LOVE
+J'envoie tendresse toi,LOVE
+Nous voir manger midi ?,LOVE
+Tu es unique yeux moi,LOVE
+Coeur moi battre toi,LOVE
+Je veux réveiller côté toi,LOVE
+Tu es histoire belle moi,LOVE
+Je amour toi folie,LOVE
+Tu es trésor moi,LOVE
+J'ai rêver toi nuit,LOVE
+Tu manques moi chéri,LOVE
+Je suis drogue toi,LOVE
+Tu es chose bonne arrivée moi,LOVE
+Nous fête un an soir,LOVE
+Je amour toi coeur tout,LOVE
+Tu es parfait comme tu es,LOVE
+Je veux faire plaisir toi,LOVE
+Tu es bonheur jour moi,LOVE
+J'adore toi bébé,LOVE
+Nous faire câlin ?,LOVE
+Tu es inspiration moi,LOVE
+Je voir que toi,LOVE
+Tu es pilier moi,LOVE
+Je amour toi jour plus,LOVE
+Tu es destin moi,LOVE
+Je veux vieux avec toi,LOVE
+Tu es force et faible moi,LOVE
+Je suis perdu sans toi,LOVE
+Tu es tout moi,LOVE
+J'ai envie baiser toi,LOVE
+Tu es belle matin ça,LOVE
+Je amour toi amour,LOVE
+Nous voir après travail ?,LOVE
+Tu es évidence moi,LOVE
+Je garde sourire toi tête,LOVE
+Tu es étoile moi,LOVE
+Je amour toi passion,LOVE
+Tu es ami meilleur et amant,LOVE
+J'ai envie toi,LOVE
+Tu es lumière aujourd'hui,LOVE
+Je suis chance avoir toi,LOVE
+Tu es essentiel moi,LOVE
+Je amour toi coeur,LOVE
+Nous amour pour vie,LOVE
+Tu es prince charmant moi,LOVE
+Je veux maison avec toi,LOVE
+Tu es perle rare moi,LOVE
+Je amour toi infini,LOVE
+Tu es air moi,LOVE
+Je veux que toi,LOVE
+Tu es idéal moi,LOVE
+Je amour toi doux,LOVE
+Tu es univers moi,LOVE
+Je attendre toi patience,LOVE
+Tu es grand amour moi,LOVE
+Je amour toi toujours,LOVE
+Tu es joie vivre moi,LOVE
+Gros bisous amour moi,LOVE
+J'ai pushé sur la branche master sans faire exprès,TECH
+Tu peux regarder ma Pull Request sur GitHub,TECH
+Le build a échoué sur Jenkins ce matin,TECH
+Il y a un bug bloquant en production,TECH
+La fonction retourne null au lieu d'un objet,TECH
+On doit migrer le frontend vers React,TECH
+L'API renvoie une erreur 500 interne,TECH
+J'ai refactorisé le module de paiement,TECH
+Tu as oublié de fermer la connexion à la base,TECH
+Le script Python plante à la ligne 42,TECH
+On utilise quelle librairie pour les dates,TECH
+Le code est trop complexe à maintenir,TECH
+Il faut ajouter des tests unitaires ici,TECH
+La variable n'est pas définie dans ce scope,TECH
+J'ai un conflit de merge sur ce fichier,TECH
+Le CSS est cassé sur mobile,TECH
+On passe en méthodologie Agile Scrum,TECH
+Le commit a cassé les tests d'intégration,TECH
+Il faut mettre à jour les dépendances npm,TECH
+L'algorithme de tri n'est pas optimisé,TECH
+Tu as cloné le mauvais repository,TECH
+Je debuggue l'application depuis deux heures,TECH
+La documentation de l'API est incomplète,TECH
+On a un problème de performance sur la boucle,TECH
+Le framework Java est obsolète,TECH
+J'ai ouvert un ticket Jira pour ce bug,TECH
+Le code source est disponible sur GitLab,TECH
+Il faut échapper les caractères spéciaux,TECH
+La requête SQL prend trop de temps,TECH
+On doit respecter les standards de codage,TECH
+Le backend ne reçoit pas les données du formulaire,TECH
+J'ai commité mes changements en local,TECH
+Il manque un point-virgule à la fin,TECH
+La classe hérite de la mauvaise interface,TECH
+On va utiliser une architecture microservices,TECH
+Le token d'authentification est invalide,TECH
+Je n'arrive pas à reproduire le bug en local,TECH
+Il faut versionner ce fichier de config,TECH
+L'application crash au démarrage,TECH
+On doit nettoyer le code mort,TECH
+Le tableau est indexé hors limites,TECH
+Tu peux faire une revue de code rapide,TECH
+La promesse JavaScript n'est jamais résolue,TECH
+On a besoin d'un endpoint REST supplémentaire,TECH
+Le fichier JSON est mal formé,TECH
+Il faut gérer les exceptions correctement,TECH
+La compilation a réussi avec des avertissements,TECH
+On déploie la nouvelle version ce soir,TECH
+Le sélecteur jQuery ne trouve rien,TECH
+J'ai hardcodé la valeur pour tester,TECH
+La boucle infinie bloque le navigateur,TECH
+On doit optimiser le chargement des images,TECH
+Le mot de passe est stocké en clair,TECH
+Il faut indenter le code correctement,TECH
+L'objet est undefined dans la console,TECH
+Je travaille sur la feature de login,TECH
+Le serveur de dev est planté,TECH
+On a un problème de cache navigateur,TECH
+La bibliothèque tierce a une faille,TECH
+Je lance les tests automatisés,TECH
+Le code spaghetti est difficile à lire,TECH
+Il faut mocker les données pour le test,TECH
+La variable globale pose problème,TECH
+On doit réduire la dette technique,TECH
+Le script shell ne s'exécute pas,TECH
+J'ai un problème de typage avec TypeScript,TECH
+La fonction récursive dépasse la pile,TECH
+On utilise Git Flow pour le projet,TECH
+Le fichier log est vide,TECH
+Il faut parser le fichier XML,TECH
+La connexion WebSocket est perdue,TECH
+On doit sécuriser les routes API,TECH
+Le design pattern Singleton est mal utilisé,TECH
+J'ai mis à jour le README du projet,TECH
+Le composant React ne se rafraîchit pas,TECH
+Il faut valider les entrées utilisateur,TECH
+La base de données est verrouillée,TECH
+On a supprimé la branche feature par erreur,TECH
+Le code coverage est trop bas,TECH
+Il faut compiler le code C++ avant,TECH
+L'argument passé est invalide,TECH
+On doit gérer le responsive design,TECH
+Le fichier CSS est introuvable,TECH
+J'ai une erreur de syntaxe ligne 10,TECH
+Le module Node.js est manquant,TECH
+Il faut sérialiser l'objet avant envoi,TECH
+La vue ne s'affiche pas correctement,TECH
+On utilise Bootstrap pour le design,TECH
+Le lien hypertexte est mort,TECH
+J'ai un souci avec l'encodage UTF-8,TECH
+Le script tourne en boucle,TECH
+Il faut minifier les fichiers JS,TECH
+La variable d'environnement est vide,TECH
+On doit implémenter l'interface,TECH
+Le code retour est différent de zéro,TECH
+J'ai stashé mes modifs en attendant,TECH
+Le template HTML est invalide,TECH
+Il faut catcher l'erreur dans le bloc try,TECH
+Veuillez vérifier l'intégrité du code source,TECH
+La compilation du projet a échoué en raison d'une erreur,TECH
+Il est nécessaire de commenter chaque fonction publique,TECH
+Nous devons respecter les conventions de nommage des variables,TECH
+L'interface utilisateur ne correspond pas aux spécifications,TECH
+Veuillez soumettre vos modifications pour revue,TECH
+Le système rencontre une exception non gérée,TECH
+Nous recommandons l'utilisation de la dernière version stable,TECH
+L'algorithme présente une complexité temporelle trop élevée,TECH
+Veuillez mettre à jour la documentation technique associée,TECH
+Le module d'authentification nécessite une refonte complète,TECH
+Nous avons détecté une régression dans la dernière version,TECH
+Il est impératif de tester le code sur différents navigateurs,TECH
+La connexion à la base de données a été interrompue,TECH
+Veuillez utiliser des constantes plutôt que des valeurs magiques,TECH
+Le déploiement en environnement de production est programmé,TECH
+Nous devons optimiser le temps de réponse de l'application,TECH
+L'analyse statique du code révèle plusieurs vulnérabilités,TECH
+Veuillez vous assurer que toutes les dépendances sont installées,TECH
+Le fichier de configuration XML contient des erreurs de syntaxe,TECH
+Nous observons une fuite de mémoire importante,TECH
+Il convient d'utiliser le protocole HTTPS pour les échanges,TECH
+La fonction ne retourne pas le type de données attendu,TECH
+Veuillez cloner le dépôt distant sur votre machine locale,TECH
+Le journal d'erreurs indique un problème de permission,TECH
+Nous devons implémenter des tests de charge rigoureux,TECH
+L'architecture logicielle doit être modulaire et extensible,TECH
+Veuillez corriger les défauts identifiés par l'équipe qualité,TECH
+Le script d'installation ne s'exécute pas correctement,TECH
+Nous avons besoin de spécifications fonctionnelles détaillées,TECH
+L'intégration continue a détecté des tests échoués,TECH
+Veuillez archiver les anciennes versions du logiciel,TECH
+Le composant graphique ne s'affiche pas à l'écran,TECH
+Nous devons garantir la compatibilité ascendante du code,TECH
+L'encodage des caractères doit être défini en UTF-8,TECH
+Veuillez vérifier les paramètres d'entrée de la méthode,TECH
+Le service web ne répond pas aux requêtes entrantes,TECH
+Nous devons réduire la taille des fichiers JavaScript,TECH
+La bibliothèque logicielle utilisée est dépréciée,TECH
+Veuillez fournir un exemple d'utilisation de l'API,TECH
+Le traitement des données est plus lent que prévu,TECH
+Nous devons isoler le composant défaillant pour analyse,TECH
+La mise en page ne s'adapte pas aux écrans mobiles,TECH
+Veuillez documenter les changements apportés au code,TECH
+Le serveur d'application redémarre de manière inattendue,TECH
+Nous devons valider le formulaire côté serveur,TECH
+L'exception levée n'est pas explicite,TECH
+Veuillez nettoyer le code des commentaires inutiles,TECH
+Le diagramme de classes doit être mis à jour,TECH
+Nous constatons des erreurs lors de l'exécution du script,TECH
+La variable globale entraîne des effets de bord indésirables,TECH
+Veuillez respecter l'indentation du code source,TECH
+Le module de recherche ne retourne aucun résultat pertinent,TECH
+Nous devons sécuriser l'accès aux ressources sensibles,TECH
+Le chargement de la page prend un temps excessif,TECH
+Veuillez utiliser un gestionnaire de versions décentralisé,TECH
+L'appel asynchrone ne renvoie pas de réponse,TECH
+Nous devons refondre l'architecture de la base de données,TECH
+Le fichier journal a atteint sa taille maximale,TECH
+Veuillez configurer les variables d'environnement appropriées,TECH
+L'application doit être conforme aux normes d'accessibilité,TECH
+Nous avons identifié un bug critique dans le noyau,TECH
+Veuillez procéder à la revue de code avant fusion,TECH
+Le format de données JSON est privilégié pour les échanges,TECH
+Nous devons gérer les erreurs de manière centralisée,TECH
+La méthode abstraite doit être implémentée dans la classe fille,TECH
+Veuillez vérifier la validité du certificat SSL,TECH
+Le système de fichiers est en lecture seule,TECH
+Nous devons automatiser le processus de déploiement,TECH
+L'objet instancié est vide de toute propriété,TECH
+Veuillez utiliser des requêtes paramétrées pour éviter les injections,TECH
+Le code source doit être exempt de tout mot de passe,TECH
+Nous devons améliorer la couverture de code par les tests,TECH
+L'application ne parvient pas à se connecter au service tiers,TECH
+Veuillez purger le cache de l'application,TECH
+Le pointeur nul provoque l'arrêt du programme,TECH
+Nous devons standardiser les messages d'erreur,TECH
+L'utilisateur n'a pas les droits nécessaires pour cette action,TECH
+Veuillez incrémenter le numéro de version du logiciel,TECH
+Le rendu graphique présente des artefacts visuels,TECH
+Nous devons synchroniser les données entre les deux serveurs,TECH
+La boucle infinie consomme toutes les ressources processeur,TECH
+Veuillez libérer la mémoire allouée après utilisation,TECH
+L'index de la base de données est corrompu,TECH
+Nous devons traduire l'interface utilisateur en anglais,TECH
+Le script Perl ne trouve pas les modules requis,TECH
+Veuillez formater le code selon les règles du projet,TECH
+L'application mobile se ferme inopinément sur Android,TECH
+Nous devons chiffrer les données sensibles en base,TECH
+Le framework utilisé ne supporte plus cette fonctionnalité,TECH
+Veuillez initialiser la variable avant son utilisation,TECH
+Le chemin d'accès au fichier est incorrect,TECH
+Nous devons intercepter l'événement clic de la souris,TECH
+La mise à jour logicielle a causé des dysfonctionnements,TECH
+Veuillez vérifier la compatibilité avec la version précédente,TECH
+Le code binaire généré est corrompu,TECH
+Nous devons extraire la logique métier dans une couche séparée,TECH
+L'application web doit être responsive sur tablette,TECH
+Veuillez générer la documentation automatique du code,TECH
+Le système de logs doit être rotatif pour économiser l'espace,TECH
+J'ai puhsé sur master sans faire expres,TECH
+Regarde ma pul request stp,TECH
+Le build a echoué ce matin,TECH
+Y a un bug bloquant en prod,TECH
+La fonction retourne nul je comprends pas,TECH
+Faut migrer le front vers Ract,TECH
+L'API renvoie une erreure 500,TECH
+J'ai refacto le module de paiement,TECH
+T'as oublié de fermer la connexin,TECH
+Le scritp plante ligne 42,TECH
+On utilise quelle lib pour les dates ?,TECH
+Le code est trop complxee,TECH
+Faut ajouter des tests unitaries,TECH
+La valriable est pas definie,TECH
+Conflit de merge sur le ficher,TECH
+Le C SS est cassé sur mobile,TECH
+On passe en Agile Srum,TECH
+Le comit a cassé les tests,TECH
+Faut maj les dependances npm,TECH
+L'algo de tri est lent,TECH
+T'as cloné le mauvais repo,TECH
+Je debug depuis deux heurs,TECH
+La doc de l'API est vide,TECH
+Pb de perf sur la boucle,TECH
+Le framwork est vieux,TECH
+J'ai ouvert un ticket Jira,TECH
+Code source sur Gitlb,TECH
+Faut echapper les caracteres speciaux,TECH
+La requete SQL est trop longue,TECH
+Respecter les standards de cde,TECH
+Backend recoit rien du front,TECH
+J'ai comité en local,TECH
+Manque un point virgule a la fin,TECH
+Classe herite mauvaise interfce,TECH
+Architecture microsevices,TECH
+Token auth invalide,TECH
+Arrive pas a reprodure le bug,TECH
+Versionner ce fichier conf,TECH
+Appli crash au demarrage,TECH
+Nettoyer le code mort,TECH
+Tableau indexé hors limites,TECH
+Revue de cde rapide ?,TECH
+Promesse JS jamais resolue,TECH
+Besoin endpoint REST en plus,TECH
+Fichier JSON mal formė,TECH
+Gerer les exceptions corectement,TECH
+Compil reussie avec warnings,TECH
+Deploie la version ce soir,TECH
+Selecteur jQuery trouve rien,TECH
+Valeur hardcodée pour test,TECH
+Boucle infinie bloque tout,TECH
+Optimiser chargement imges,TECH
+Mot de passe en clair bof,TECH
+Indenter le code stp,TECH
+Objet undefined dans console,TECH
+Je bosse sur la feature login,TECH
+Serveur de dev planté,TECH
+Probleme de cache naviagteur,TECH
+Faille dans la lib tierce,TECH
+Lance les tests auto,TECH
+Code spaghetti illisible,TECH
+Mocker les donnees test,TECH
+Variable globale pose souci,TECH
+Reduire la dette techniqe,TECH
+Script shell execute pas,TECH
+Souci typage TypScript,TECH
+Fonction recursive depasse pile,TECH
+On use Git Flow,TECH
+Fichier log vide,TECH
+Parser le xml,TECH
+Connexion WebSocket perdue,TECH
+Securiser routes API,TECH
+Singleton mal utilisé,TECH
+Mis a jour le READ ME,TECH
+Composant React refresh pas,TECH
+Valider entrees user,TECH
+Base de donnees lockée,TECH
+Supprimé branche feature erreur,TECH
+Code coverage trop bas,TECH
+Compiler le C++ avant,TECH
+Argument invalide,TECH
+Gerer responsive design,TECH
+Fichier CSS introuvable,TECH
+Erreur syntaxe ligne 10,TECH
+Module Node manquant,TECH
+Serialiser objet avant envoi,TECH
+Vue affiche mal,TECH
+Bootstrap pour le design,TECH
+Lien mort 404,TECH
+Souci encodage UTF8,TECH
+Script tourne en bouble,TECH
+Minifier les JS,TECH
+Var environnement vide,TECH
+Implementer l'interface,TECH
+Code retour pas zero,TECH
+Stashé mes modifs,TECH
+Template HTML invalide,TECH
+Catcher l'erreur try catch,TECH
+Le serveur est down depuis 5 minutes,INFRA
+Je relance le pod Kubernetes qui a planté,INFRA
+L'espace disque est presque plein sur la prod,INFRA
+Le déploiement a échoué dans le pipeline CI/CD,INFRA
+Il faut augmenter la RAM de la VM,INFRA
+Les logs Apache prennent trop de place,INFRA
+La base de données est en surcharge CPU,INFRA
+On migre les services vers AWS le mois prochain,INFRA
+Le load balancer ne répartit pas la charge,INFRA
+J'ai besoin d'un accès SSH root sur cette machine,INFRA
+Le certificat SSL a expiré hier,INFRA
+Tu as vérifié les règles du pare-feu ?,INFRA
+Le conteneur Docker ne démarre pas,INFRA
+On a perdu la connectivité avec le data center,INFRA
+Il faut faire un snapshot avant la mise à jour,INFRA
+Le service Nginx renvoie une 502 Bad Gateway,INFRA
+La réplication de la base de données est cassée,INFRA
+On doit scaler le cluster pour encaisser le trafic,INFRA
+Le DNS ne se propage pas correctement,INFRA
+Je configure le monitoring avec Prometheus,INFRA
+Les backups nocturnes ont échoué,INFRA
+Il y a une latence énorme sur le réseau,INFRA
+Le cron job ne s'est pas lancé,INFRA
+On utilise Terraform pour l'IaC,INFRA
+L'instance EC2 est injoignable,INFRA
+Il faut purger le cache Redis,INFRA
+Le volume persistant est corrompu,INFRA
+J'ai mis à jour l'image Docker en latest,INFRA
+Le serveur de fichiers est trop lent,INFRA
+On a un problème de permissions sur ce dossier,INFRA
+Le cluster ElasticSearch est rouge,INFRA
+Il faut redémarrer le service systemd,INFRA
+La bande passante est saturée en upload,INFRA
+Je provisionne une nouvelle machine virtuelle,INFRA
+Le ping ne passe pas vers la gateway,INFRA
+On doit configurer le VPN pour les développeurs,INFRA
+Le bucket S3 est accessible publiquement,INFRA
+Il faut archiver les vieux logs,INFRA
+La mise à jour du kernel nécessite un reboot,INFRA
+Le switch réseau a redémarré tout seul,INFRA
+On a dépassé le quota de requêtes API,INFRA
+Le service est en cours de maintenance,INFRA
+J'analyse les métriques avec Grafana,INFRA
+Le serveur mail est blacklisté,INFRA
+Il faut monter le volume NFS sur le client,INFRA
+La configuration Ansible est incorrecte,INFRA
+Le port 8080 est déjà utilisé,INFRA
+On migre vers une architecture serverless,INFRA
+Le déploiement Blue-Green a réussi,INFRA
+Il manque des dépendances système,INFRA
+La tâche Jenkins est bloquée en attente,INFRA
+Le cluster Kafka a perdu un broker,INFRA
+Il faut renouveler le nom de domaine,INFRA
+L'adresse IP est bannie par Fail2Ban,INFRA
+On a un souci de configuration DNS,INFRA
+Le serveur web ne répond plus au ping,INFRA
+Je restaure la sauvegarde de la semaine dernière,INFRA
+Le disque SSD est mort il faut le changer,INFRA
+On doit isoler ce serveur du réseau,INFRA
+Le script bash a fait une erreur de syntaxe,INFRA
+Il faut configurer les alertes Slack,INFRA
+La VM a redémarré suite à un kernel panic,INFRA
+Le registre Docker privé est inaccessible,INFRA
+On utilise Kubernetes pour l'orchestration,INFRA
+Le fichier hosts est mal configuré,INFRA
+Il faut ouvrir le port 443 en entrée,INFRA
+La consommation mémoire est critique,INFRA
+Le serveur DHCP ne distribue plus d'IP,INFRA
+On a besoin de plus de cœurs CPU,INFRA
+Le stack ELK ne reçoit plus de logs,INFRA
+Il faut valider la configuration Terraform,INFRA
+L'agent de monitoring est arrêté,INFRA
+Le certificat racine n'est pas approuvé,INFRA
+On déploie sur le staging avant la prod,INFRA
+Le serveur proxy bloque les connexions sortantes,INFRA
+Il faut synchroniser l'horloge NTP,INFRA
+Le fichier de swap est utilisé à 100%,INFRA
+On a une fuite de descripteurs de fichiers,INFRA
+Le service ne démarre pas au boot,INFRA
+J'ai perdu la main sur le terminal,INFRA
+Le RAID est en mode dégradé,INFRA
+Il faut changer les droits chmod sur le script,INFRA
+La zone de disponibilité est hors service,INFRA
+On utilise Azure AD pour l'authentification,INFRA
+Le trafic réseau est anormalement élevé,INFRA
+Il faut désactiver l'IPv6 sur cette interface,INFRA
+Le serveur Tomcat a crashé,INFRA
+On doit mettre à jour les paquets apt-get,INFRA
+La clé SSH n'est pas autorisée,INFRA
+Le montage du disque a échoué,INFRA
+Il faut vider la file d'attente RabbitMQ,INFRA
+Le serveur est victime d'une attaque DDoS,INFRA
+On a configuré l'autoscaling sur le groupe,INFRA
+Le fichier de config est en lecture seule,INFRA
+Il faut redémarrer le routeur principal,INFRA
+La latence disque ralentit tout le système,INFRA
+On a perdu les logs d'hier,INFRA
+Le serveur d'impression est bloqué,INFRA
+Il faut faire un nettoyage des images Docker inutilisées,INFRA
+La migration vers le cloud est terminée,INFRA
+Nous constatons une indisponibilité du service principal,INFRA
+Veuillez procéder à la mise à jour des serveurs,INFRA
+La maintenance planifiée débutera à minuit,INFRA
+L'espace de stockage critique est bientôt saturé,INFRA
+Nous devons renforcer la redondance de l'infrastructure,INFRA
+Le rapport d'incident indique une défaillance matérielle,INFRA
+Veuillez confirmer le redémarrage de l'instance,INFRA
+La bande passante réseau est actuellement insuffisante,INFRA
+Nous avons détecté une anomalie sur le cluster,INFRA
+Il est nécessaire d'augmenter les ressources allouées,INFRA
+La migration des données vers le nouveau serveur est requise,INFRA
+Veuillez vérifier les journaux d'événements du système,INFRA
+Le certificat de sécurité doit être renouvelé impérativement,INFRA
+Nous observons des temps de réponse dégradés,INFRA
+L'accès au serveur de production est restreint,INFRA
+Veuillez configurer la sauvegarde automatique des données,INFRA
+Le plan de reprise d'activité a été activé,INFRA
+Nous devons auditer la configuration du réseau,INFRA
+La capacité de traitement du processeur est atteinte,INFRA
+Veuillez isoler le serveur compromis du réseau,INFRA
+Le déploiement de la nouvelle version est en cours,INFRA
+Nous rencontrons des erreurs lors de la connexion à la base,INFRA
+Il convient de purger les fichiers temporaires du système,INFRA
+La haute disponibilité du service n'est plus garantie,INFRA
+Veuillez appliquer les correctifs de sécurité recommandés,INFRA
+Le serveur ne répond pas aux requêtes ICMP,INFRA
+Nous devons optimiser la configuration du cache,INFRA
+L'intégrité des données sauvegardées a été vérifiée,INFRA
+Veuillez surveiller la charge du système attentivement,INFRA
+Le service d'annuaire LDAP est inaccessible,INFRA
+Nous avons besoin d'une autorisation pour l'arrêt du service,INFRA
+La connectivité avec le fournisseur d'accès est instable,INFRA
+Veuillez documenter la nouvelle architecture réseau,INFRA
+Le quota d'utilisation du disque a été dépassé,INFRA
+Nous devons configurer le pare-feu pour bloquer ce trafic,INFRA
+L'installation du système d'exploitation est terminée,INFRA
+Veuillez valider le script de déploiement automatisé,INFRA
+La file d'attente des messages est saturée,INFRA
+Nous devons remplacer le disque dur défectueux,INFRA
+Le service de noms de domaine ne résout plus les adresses,INFRA
+Veuillez vérifier l'état des services critiques,INFRA
+La synchronisation des horloges système est nécessaire,INFRA
+Nous avons perdu la redondance électrique du site,INFRA
+L'accès distant via VPN est temporairement indisponible,INFRA
+Veuillez restaurer la dernière configuration fonctionnelle,INFRA
+Le système de fichiers présente des erreurs de lecture,INFRA
+Nous devons mettre en place un équilibrage de charge,INFRA
+La température de la salle serveur est trop élevée,INFRA
+Veuillez acquitter l'alarme de supervision,INFRA
+Le transfert de fichiers a été interrompu,INFRA
+Nous devons mettre à jour le firmware des équipements,INFRA
+La base de données principale est passée en mode lecture seule,INFRA
+Veuillez vérifier la connectivité entre les sites,INFRA
+L'authentification des utilisateurs échoue systématiquement,INFRA
+Nous devons augmenter la capacité de la mémoire vive,INFRA
+Le service de messagerie électronique rencontre des perturbations,INFRA
+Veuillez générer un rapport de performance du serveur,INFRA
+La configuration du routeur doit être modifiée,INFRA
+Nous avons identifié un goulot d'étranglement dans le réseau,INFRA
+L'accès administratif est réservé au personnel autorisé,INFRA
+Veuillez planifier une fenêtre d'intervention technique,INFRA
+Le serveur virtuel a été migré avec succès,INFRA
+Nous devons désactiver les services inutiles,INFRA
+La latence du stockage impacte les performances applicatives,INFRA
+Veuillez vérifier les règles de routage des paquets,INFRA
+Le système de surveillance a détecté une intrusion,INFRA
+Nous devons renouveler la licence du logiciel serveur,INFRA
+La partition système dispose de moins de 10% d'espace libre,INFRA
+Veuillez archiver les journaux d'activité anciens,INFRA
+Le service web a redémarré suite à une erreur fatale,INFRA
+Nous devons configurer une adresse IP statique,INFRA
+La résolution DNS interne ne fonctionne pas,INFRA
+Veuillez procéder à l'extinction propre du serveur,INFRA
+Le lien fibre optique principal est coupé,INFRA
+Nous basculons sur le lien de secours,INFRA
+La configuration du proxy inverse est erronée,INFRA
+Veuillez nettoyer l'espace disque sur le serveur de logs,INFRA
+Le cluster de calcul est disponible pour les traitements,INFRA
+Nous devons installer les outils de diagnostic réseau,INFRA
+La virtualisation des serveurs permet une meilleure flexibilité,INFRA
+Veuillez vérifier l'état des disques en RAID,INFRA
+Le service de temps NTP est désynchronisé,INFRA
+Nous devons restreindre l'accès au port SSH,INFRA
+La consommation énergétique du centre de données est stable,INFRA
+Veuillez mettre jour la liste de contrôle d'accès,INFRA
+Le serveur de base de données nécessite un redémarrage,INFRA
+Nous avons constaté une perte de paquets sur la ligne,INFRA
+La configuration du VLAN doit être revue,INFRA
+Veuillez sauvegarder la configuration actuelle avant modification,INFRA
+Le système d'exploitation n'est plus supporté par l'éditeur,INFRA
+Nous devons migrer vers une infrastructure plus robuste,INFRA
+La déduplication des données permet d'économiser de l'espace,INFRA
+Veuillez vérifier les câbles réseau dans la baie de brassage,INFRA
+Le serveur d'application est prêt pour la production,INFRA
+Nous devons définir une politique de rétention des sauvegardes,INFRA
+La mise en production est validée par l'équipe infrastructure,INFRA
+Veuillez nous informer de toute anomalie système,INFRA
+Le service est rétabli et fonctionne nominalement,INFRA
+Nous vous remercions de votre patience pendant l'incident,INFRA
+Le serveu r est down encore,INFRA
+Je rlance le pod qui a planté,INFRA
+Espace disq presque plein,INFRA
+Deploiment echoué dans le pipe,INFRA
+Faut augmenter la RMA de la VM,INFRA
+Les lgos prennent trop de place,INFRA
+La BDD est en surchage CPU,INFRA
+On migre sur AWS le mois prochin,INFRA
+Load balncer repartit mal,INFRA
+Besoin acces root SSH stp,INFRA
+Certificat SSL a exprié,INFRA
+T'as verif le firewall ?,INFRA
+Doker ne demarre pas,INFRA
+Perdu la connectivite avec le DC,INFRA
+Faire un snapshpt avant maj,INFRA
+Ngnix renvoie une 502,INFRA
+Replication de la base cassée,INFRA
+Scaler le cluser maintenant,INFRA
+DNS propage pas bien,INFRA
+Config du monitoring Prometheus,INFRA
+Backups ont fail cette nuit,INFRA
+Latence reseau enorme,INFRA
+Cron job s'est pas lancé,INFRA
+On utilise Teraform ici,INFRA
+Instance E C 2 injoignable,INFRA
+Purger le cahce Redis,INFRA
+Volume persistant corompue,INFRA
+Mis a jour image Dokcer,INFRA
+Serveur fichiers trop lent,INFRA
+Probleme permisions dossier,INFRA
+ElasticSearch est rouge alerte,INFRA
+Redemarrer service systemd,INFRA
+Bande passante saturée,INFRA
+Provisionne une nvelle VM,INFRA
+Ping passe pas la gateway,INFRA
+Config VPN pour les devs,INFRA
+Bucket S3 ouvert a tous,INFRA
+Archiver vieux logs,INFRA
+Update kernel besoin reboot,INFRA
+Switch reseau a rebooté,INFRA
+Quota API depassé,INFRA
+Maintenance en cour,INFRA
+Metriques Grafana bizarres,INFRA
+Serveur mail blacklisté,INFRA
+Monter volume NFS,INFRA
+Config Ansible fausse,INFRA
+Port 8080 deja pris,INFRA
+Migre vers serverless,INFRA
+Deploy Blue Green ok,INFRA
+Manque dependances sys,INFRA
+Tache Jenkins bloquée,INFRA
+Cluster Kafka perdu broker,INFRA
+Renouveler nom de domaine,INFRA
+IP bannie par Fail2Ban,INFRA
+Souci config DNS,INFRA
+Serveur web repond plus,INFRA
+Restaure backup semaine derniere,INFRA
+Disque S SD mort,INFRA
+Isoler ce servr du reseau,INFRA
+Script bash erreur syntaxe,INFRA
+Config alertes Slak,INFRA
+VM reboot kernel panic,INFRA
+Registre Docker privé down,INFRA
+Utilise Kuberneets,INFRA
+Fichier hosts mal config,INFRA
+Ouvrir port 443 entree,INFRA
+Conso memoire critique,INFRA
+Serveur DHCP donne plus IP,INFRA
+Besoin plus de coeurs CP U,INFRA
+Stack ELK recoit rien,INFRA
+Valider config Teraform,INFRA
+Agent monitoring stopé,INFRA
+Certif racine pas trusté,INFRA
+Deploy staging avant prod,INFRA
+Proxy bloque sorties,INFRA
+Synchro horloge NTP,INFRA
+Swap utilisé a 100%,INFRA
+Fuite descripteurs fichiers,INFRA
+Service demarre pas boot,INFRA
+Perdu la main terminal,INFRA
+RAID degradé,INFRA
+Changer droits chmod,INFRA
+Zone de dispo HS,INFRA
+Azure AD pour auth,INFRA
+Trafic reseau haut,INFRA
+Desactiver IP v6,INFRA
+Tomcat a crashé,INFRA
+Maj paquets aptget,INFRA
+Cle SSH pas autorisée,INFRA
+Montage disque fail,INFRA
+Vider queue Rabbit M Q,INFRA
+Attaque DDoS en cours,INFRA
+Autoscaling configuré,INFRA
+Fichier config read only,INFRA
+Redemarrer routeur principal,INFRA
+Latence disque lenteur,INFRA
+Perdu logs hier,INFRA
+Serveur print bloqué,INFRA
+Nettoyage images Doker,INFRA
+Migration cloud finie,INFRA
+Le serveur est bas temps,INFRA
+Je relance la boîte qui a casser,INFRA
+Espace disque est beaucoup plein,INFRA
+Le mettre a tomber dans tuyau,INFRA
+Il faut plus mémoire machine,INFRA
+Les journaux manger place,INFRA
+La base données est chaud CPU,INFRA
+Nous bouger service nuage demain,INFRA
+La balance charge partage pas,INFRA
+J'ai besoin racine accès,INFRA
+Le papier sécurité est mort hier,INFRA
+Tu as regarder le mur feu ?,INFRA
+Le boîte Docker marche pas,INFRA
+Nous perdu la ligne centre données,INFRA
+Faire photo avant jour,INFRA
+Le service dire mauvais porte,INFRA
+La copie base est casser,INFRA
+Grandir la grappe pour trafic,INFRA
+Le nom adresse marche pas,INFRA
+Je faire regarder avec outil,INFRA
+Les sauver nuit ont tomber,INFRA
+Il y a temps long sur réseau,INFRA
+Le travail temps a pas courir,INFRA
+Nous utiliser terre forme code,INFRA
+La machine est pas joindre,INFRA
+Laver la mémoire cache,INFRA
+Le disque dur est malade,INFRA
+J'ai jour image dernière,INFRA
+Serveur dossier est lent,INFRA
+Problème droit sur dossier,INFRA
+Grappe recherche est rouge,INFRA
+Redémarrer service système,INFRA
+Le tuyau internet est plein,INFRA
+Je faire nouvelle machine,INFRA
+Le ping passe pas porte,INFRA
+Faire VPN pour codeurs,INFRA
+Le seau S3 est ouvert public,INFRA
+Mettre vieux journaux boîte,INFRA
+Jour noyau besoin départ,INFRA
+Le bouton réseau a départ seul,INFRA
+Nous dépasser nombre demandes,INFRA
+Le service est sous réparation,INFRA
+Je regarder chiffres graphique,INFRA
+Serveur lettre est liste noire,INFRA
+Monter disque sur client,INFRA
+La règle Ansible est faux,INFRA
+Le port est occupé déjà,INFRA
+Nous aller sans serveur,INFRA
+Le mettre Bleu Vert est bon,INFRA
+Il manque choses système,INFRA
+Le travail Jenkins est attendre,INFRA
+La grappe a perdu morceau,INFRA
+Acheter nom domaine encore,INFRA
+Adresse est interdire par robot,INFRA
+Problème nom système,INFRA
+Serveur toile répond plus,INFRA
+Je remettre sauver semaine,INFRA
+Disque rapide est mort changer,INFRA
+Couper ce serveur réseau,INFRA
+Le texte commande a erreur,INFRA
+Faire alerte message,INFRA
+La machine a départ panique,INFRA
+Livre images privé est fermé,INFRA
+Nous utiliser pilote navire,INFRA
+Fichier hôtes est mauvais,INFRA
+Ouvrir porte 443 entrée,INFRA
+Manger mémoire est grave,INFRA
+Serveur adresse donne pas,INFRA
+Besoin plus coeurs processeur,INFRA
+Pile journaux reçoit rien,INFRA
+Dire oui terre forme,INFRA
+Agent regarder est arrêt,INFRA
+Papier racine est pas confiance,INFRA
+Mettre scène avant production,INFRA
+Intermédiaire bloquer sortie,INFRA
+Mettre heure temps ensemble,INFRA
+Fichier échange est plein,INFRA
+Fuite nombre fichier,INFRA
+Service marche pas démarrage,INFRA
+J'ai perdu main écran,INFRA
+Disque groupe est dégradé,INFRA
+Changer droits lecture écriture,INFRA
+Zone disponibilité est mort,INFRA
+Nous utiliser nuage identité,INFRA
+Voitures réseau est haut,INFRA
+Éteindre adresse v6,INFRA
+Serveur chat a tomber,INFRA
+Jour paquets installation,INFRA
+Clé sécurité pas permis,INFRA
+Montagne disque a tomber,INFRA
+Vider la ligne lapin,INFRA
+Serveur est victime attaque,INFRA
+Grandir auto est fait,INFRA
+Fichier règle lire seul,INFRA
+Redémarrer routeur chef,INFRA
+Retard disque lent système,INFRA
+Perdu journaux hier,INFRA
+Serveur imprimer est coincé,INFRA
+Nettoyage images pas utiliser,INFRA
+Voyage nuage est fini,INFRA
+On a détecté une tentative de phishing sur la boite mail,CYBER
+Le firewall bloque les connexions entrantes sur le port 22,CYBER
+Il faut patcher la faille CVE critique ce soir,CYBER
+Un ransomware a chiffré les fichiers du serveur RH,CYBER
+Le SOC a remonté une alerte de niveau 1,CYBER
+Ne clique surtout pas sur le lien dans le SMS,CYBER
+J'ai lancé un scan de vulnérabilités avec Nessus,CYBER
+Le mot de passe admin est trop faible,CYBER
+On subit une attaque DDoS sur le site public,CYBER
+Il faut activer l'authentification à deux facteurs partout,CYBER
+Les logs montrent une élévation de privilèges suspecte,CYBER
+Le certificat SSL est invalide et c'est un risque,CYBER
+On a trouvé un malware sur le poste du comptable,CYBER
+Il faut mettre à jour l'antivirus immédiatement,CYBER
+C'est une attaque par injection SQL classique,CYBER
+Le hacker a exfiltré des données clients sensibles,CYBER
+Tu as vérifié les règles du pare-feu applicatif WAF ?,CYBER
+On doit faire un test d'intrusion le mois prochain,CYBER
+Le compte utilisateur a été compromis,CYBER
+Il y a des mouvements latéraux sur le réseau interne,CYBER
+Le SIEM n'a pas détecté l'attaque à temps,CYBER
+On a reçu un mail de chantage,CYBER
+Le fichier joint contient une macro malveillante,CYBER
+Il faut changer les clés SSH par sécurité,CYBER
+L'attaquant utilise un proxy pour masquer son IP,CYBER
+On a une fuite de données sur le dark web,CYBER
+Le système n'est pas conforme à la norme ISO 27001,CYBER
+J'ai isolé la machine infectée du réseau,CYBER
+Le script utilise une faille Zero Day,CYBER
+Il faut sensibiliser les employés à la sécurité,CYBER
+Le token de session a été volé,CYBER
+On a détecté un brute force sur le serveur FTP,CYBER
+L'accès physique à la salle serveur est forcé,CYBER
+Le code contient des identifiants en dur,CYBER
+Il faut révoquer les accès de l'ancien employé,CYBER
+L'attaque vient d'une adresse IP en Russie,CYBER
+Le wifi invité n'est pas sécurisé,CYBER
+On doit chiffrer les disques durs des portables,CYBER
+Le serveur DNS a été empoisonné,CYBER
+Il y a un keylogger sur cet ordinateur,CYBER
+L'application est vulnérable au XSS,CYBER
+On a bloqué l'accès à ce site malveillant,CYBER
+Le rapport d'audit sécurité est catastrophique,CYBER
+Il faut segmenter le réseau pour limiter l'impact,CYBER
+La politique de mots de passe est trop laxiste,CYBER
+On a détecté du trafic sortant vers un C&C,CYBER
+L'attaquant a utilisé l'ingénierie sociale,CYBER
+Il faut désactiver les ports USB sur les postes,CYBER
+Le patch de sécurité a cassé la production,CYBER
+On soupçonne une attaque de l'homme du milieu,CYBER
+Le VPN est la seule entrée sécurisée,CYBER
+Il faut surveiller les logs d'accès minuit,CYBER
+La sauvegarde est notre seule chance de récupération,CYBER
+On a reçu une alerte de l'ANSSI,CYBER
+Le pare-feu bloque légitimement ce trafic,CYBER
+Il faut faire une analyse forensique du disque,CYBER
+Le compte admin par défaut est actif,CYBER
+On a trouvé un shell web sur le serveur,CYBER
+L'intégrité des fichiers système est compromise,CYBER
+Il faut appliquer le principe de moindre privilège,CYBER
+Le protocole Telnet n'est pas sécurisé,CYBER
+On a une alerte virus sur le poste 12,CYBER
+Le hacker demande une rançon en Bitcoin,CYBER
+Il faut vérifier les signatures des fichiers,CYBER
+La faille Heartbleed affecte nos serveurs,CYBER
+On doit mettre en place un plan de réponse,CYBER
+Le lien de réinitialisation est non sécurisé,CYBER
+Il y a une porte dérobée dans le code,CYBER
+L'attaque a exploité une faille Java,CYBER
+On doit scanner les pièces jointes des mails,CYBER
+Le hachage des mots de passe est obsolète,CYBER
+Il faut bloquer les IP du réseau Tor,CYBER
+La détection d'intrusion est active,CYBER
+On a subi une attaque par dictionnaire,CYBER
+Le firmware du routeur est vulnérable,CYBER
+Il faut sécuriser les conteneurs Docker,CYBER
+L'attaquant a effacé ses traces dans les logs,CYBER
+On a trouvé des fichiers cachés suspects,CYBER
+Le protocole HTTPS est mal configuré,CYBER
+Il faut interdire les mots de passe simples,CYBER
+La base de données est accessible sans mot de passe,CYBER
+On a une alerte de sécurité critique,CYBER
+Le pirate a pris le contrôle du domaine,CYBER
+Il faut faire une revue des accès utilisateurs,CYBER
+L'application fuite des données personnelles,CYBER
+On doit installer un EDR sur les serveurs,CYBER
+Le scan de ports montre trop de services ouverts,CYBER
+Il faut protéger les clés API,CYBER
+La vulnérabilité permet l'exécution de code à distance,CYBER
+On a détecté un faux point d'accès wifi,CYBER
+Le sandboxing a bloqué le fichier suspect,CYBER
+Il faut valider les entrées pour éviter les injections,CYBER
+L'attaque a duré toute la nuit,CYBER
+On doit changer tous les mots de passe admin,CYBER
+Le chiffrement de bout en bout est requis,CYBER
+Il faut surveiller le darknet pour nos données,CYBER
+La clé privée a été exposée sur GitHub,CYBER
+On a bloqué l'attaque au niveau du périmètre,CYBER
+Le système de détection est aveugle,CYBER
+Il faut auditer le code source régulièrement,CYBER
+Nous vous informons d'une violation de sécurité potentielle,CYBER
+Veuillez changer votre mot de passe immédiatement,CYBER
+Une activité suspecte a été détectée sur votre compte,CYBER
+Il est impératif de respecter la politique de sécurité,CYBER
+Nous avons bloqué l'accès préventivement par sécurité,CYBER
+Veuillez ne pas divulguer vos identifiants à des tiers,CYBER
+Le système a détecté un logiciel malveillant,CYBER
+Nous procédons à une analyse forensique approfondie,CYBER
+L'incident de sécurité a été contenu avec succès,CYBER
+Veuillez signaler tout e-mail suspect au service informatique,CYBER
+La confidentialité de vos données est notre priorité,CYBER
+Nous déployons un correctif de sécurité urgent,CYBER
+L'accès au réseau est soumis à authentification forte,CYBER
+Veuillez vérifier l'URL avant de saisir vos informations,CYBER
+Une tentative d'hameçonnage cible notre organisation,CYBER
+Nous avons réinitialisé vos accès par mesure de précaution,CYBER
+Il est strictement interdit de contourner les mesures de sécurité,CYBER
+Veuillez mettre à jour votre système d'exploitation sans délai,CYBER
+Nous auditons régulièrement nos infrastructures critiques,CYBER
+La fuite de données concerne des informations personnelles,CYBER
+Veuillez utiliser le canal sécurisé pour transférer ce fichier,CYBER
+Le certificat numérique assure l'authenticité du site,CYBER
+Nous avons détecté une connexion depuis un appareil inconnu,CYBER
+Veuillez chiffrer les données sensibles avant envoi,CYBER
+L'intégrité du système a été vérifiée par nos experts,CYBER
+Nous vous recommandons d'activer la double authentification,CYBER
+Une vulnérabilité critique affecte notre logiciel de messagerie,CYBER
+Veuillez ne pas connecter de périphériques USB personnels,CYBER
+Le pare-feu a rejeté la connexion non autorisée,CYBER
+Nous surveillons le trafic réseau en temps réel,CYBER
+La politique de mots de passe exige une complexité minimale,CYBER
+Veuillez confirmer que vous êtes à l'origine de cette action,CYBER
+Nous avons identifié l'origine de l'attaque informatique,CYBER
+L'accès physique aux serveurs est strictement contrôlé,CYBER
+Veuillez prendre connaissance de la charte informatique,CYBER
+Le risque de cyberattaque est élevé actuellement,CYBER
+Nous collaborons avec les autorités compétentes sur ce dossier,CYBER
+Veuillez supprimer ce message sans l'ouvrir,CYBER
+La sauvegarde des données est effectuée quotidiennement,CYBER
+Nous avons renforcé les règles de filtrage web,CYBER
+L'analyse antivirale n'a détecté aucune menace,CYBER
+Veuillez verrouiller votre session en quittant votre poste,CYBER
+Le protocole de chiffrement utilisé est obsolète,CYBER
+Nous avons révoqué le certificat compromis,CYBER
+Il est interdit d'installer des logiciels non approuvés,CYBER
+Veuillez signaler la perte de votre badge d'accès,CYBER
+Nous effectuons des tests d'intrusion périodiques,CYBER
+La traçabilité des accès est assurée par les journaux,CYBER
+Veuillez ne pas répondre aux demandes de rançon,CYBER
+Le système de détection d'intrusion a généré une alerte,CYBER
+Nous appliquons le principe de défense en profondeur,CYBER
+Veuillez vous assurer que votre antivirus est actif,CYBER
+La faille de sécurité a été corrigée par l'éditeur,CYBER
+Nous avons isolé le segment réseau affecté,CYBER
+Veuillez respecter la classification des informations,CYBER
+L'attaque par déni de service a été mitigée,CYBER
+Nous devons protéger notre propriété intellectuelle,CYBER
+Veuillez ne pas cliquer sur les publicités suspectes,CYBER
+Le vol d'identité est une menace sérieuse,CYBER
+Nous avons détecté une exfiltration de données massive,CYBER
+Veuillez changer vos codes d'accès régulièrement,CYBER
+La sécurité des endpoints est gérée centralement,CYBER
+Nous avons bloqué une adresse IP malveillante,CYBER
+Veuillez vérifier l'expéditeur avant d'ouvrir une pièce jointe,CYBER
+Le risque d'espionnage industriel est pris en compte,CYBER
+Nous garantissons la disponibilité des services critiques,CYBER
+Veuillez signaler tout comportement anormal du système,CYBER
+La mise en conformité RGPD est obligatoire,CYBER
+Nous avons détecté un faux positif,CYBER
+Veuillez ne pas stocker de mots de passe sur papier,CYBER
+Le chiffrement des communications est standardisé,CYBER
+Nous avons subi une tentative d'ingénierie sociale,CYBER
+Veuillez mettre à jour vos questions de sécurité,CYBER
+L'accès distant est sécurisé par un VPN,CYBER
+Nous avons détecté une modification non autorisée de fichier,CYBER
+Veuillez suivre la procédure de réponse à incident,CYBER
+Le niveau de menace cyber est passé à critique,CYBER
+Nous avons besoin de votre vigilance constante,CYBER
+Veuillez désactiver le Bluetooth si non utilisé,CYBER
+Le réseau wifi invité est isolé du réseau interne,CYBER
+Nous avons détecté l'utilisation d'un logiciel pirate,CYBER
+Veuillez détruire les documents confidentiels après usage,CYBER
+La sécurité physique des locaux est renforcée,CYBER
+Nous avons identifié une vulnérabilité Zero Day,CYBER
+Veuillez ne pas partager vos clés de chiffrement,CYBER
+Le plan de continuité d'activité est testé annuellement,CYBER
+Nous avons bloqué l'exécution du script suspect,CYBER
+Veuillez vous déconnecter des sessions partagées,CYBER
+La protection contre les ransomwares est active,CYBER
+Nous avons détecté une tentative d'accès brute force,CYBER
+Veuillez signaler tout vol de matériel informatique,CYBER
+Le pare-feu applicatif web protège nos sites,CYBER
+Nous avons besoin de votre accord pour le scan de sécurité,CYBER
+Veuillez vérifier l'empreinte numérique du fichier,CYBER
+La sécurité par conception est notre standard,CYBER
+Nous avons détecté une anomalie dans les journaux d'audit,CYBER
+Veuillez respecter les procédures de télétravail sécurisé,CYBER
+Le système de gestion des identités est opérationnel,CYBER
+Nous avons détecté une campagne de spam massive,CYBER
+Veuillez protéger vos écrans des regards indiscrets,CYBER
+Je crois que j'ai un vrius sur mon PC,CYBER
+Le firewal bloque tout je comprends pas,CYBER
+Attention au phising par mail,CYBER
+Mon mot de pass ne marche plus,CYBER
+On s'est fait hacké le site web,CYBER
+Y a un ransonware qui demande des bitcoins,CYBER
+Faut patcher la faille vite fait,CYBER
+C'est quoi ce fichier bizzare ?,CYBER
+Ne clique pas sur le lien c un piege,CYBER
+Le SOC a vu une alerte rouge,CYBER
+J'ai oublié mon mdp admin,CYBER
+L'antivirus a rien detecté,CYBER
+C'est une attaque DdoS c'est sur,CYBER
+Il a volé mes donnés perso,CYBER
+Faut changer les cles SSH mnt,CYBER
+Le wifi est pas securisé ici,CYBER
+Un trojan dans la piece jointe,CYBER
+On a une fuite de donnes grave,CYBER
+Le haker est dans le reseau,CYBER
+Mon compte est bloqué aidez moi,CYBER
+C'est une faille zero day inconu,CYBER
+Le VPN connecte pas,CYBER
+Y a un keyloger sur ma machine,CYBER
+Faut chiffrer le disque dur,CYBER
+Attention ingenieire sociale au tel,CYBER
+Le certif SSL est perimé,CYBER
+On se fait scanner les ports,CYBER
+C'est une injection SQL basique,CYBER
+Le pare feu laisse tout passer,CYBER
+J'ai recu un mail de chantage bizar,CYBER
+Le token est invalide,CYBER
+Faut activer le 2F A partout,CYBER
+Le serveur a eté compromi,CYBER
+Y a un backdoor dans le code,CYBER
+L'attaquant a spoofé l'adresse IP,CYBER
+Mon ordi est lent c'est louche,CYBER
+Faut faire un pentest rapidement,CYBER
+Le SIEM a pas sonné,CYBER
+On a trouvé un malware caché,CYBER
+Le mdp etait trop simple 1234,CYBER
+Il a bruteforcé le compte root,CYBER
+La base de donnee est ouverte,CYBER
+C'est une attaque man in the midle,CYBER
+Le proxy bloque l'acces,CYBER
+Faut revoquer les droits admin,CYBER
+Y a des logs bizarres ce matin,CYBER
+Le hacker demande une rancon,CYBER
+Fichier infecté par un ver,CYBER
+Securiser les cles API stp,CYBER
+Le site est down attaque ?,CYBER
+Mise a jour de securité plantée,CYBER
+Vol de session cookie,CYBER
+Faut scanner le reseau local,CYBER
+Le hash du mot de passe est cassé,CYBER
+C'est du spam malveillant,CYBER
+On a detecté un botnet,CYBER
+Le firmware est vulnerable,CYBER
+Faut bloquer l'IP russe,CYBER
+Faille XSS sur la page login,CYBER
+Le systeme est pas a jour,CYBER
+J'ai perdu ma clef privée,CYBER
+Le darknet a nos fichiers,CYBER
+C'est une arnaque au president,CYBER
+Le sandboxing a pas marché,CYBER
+Faut auditer le code source,CYBER
+L'acces physique est forcé,CYBER
+Le disque est pas chiffré,CYBER
+On a un virus sur le serveur fichier,CYBER
+Le pirate a changé le DNS,CYBER
+Faut installer un EDR vite,CYBER
+La politique de mdp est nulle,CYBER
+On a trouvé un shell web,CYBER
+Le certificat est faux,CYBER
+Y a une intrusion en cours,CYBER
+Le log montre une erreur auth,CYBER
+Faut couper internet urgence,CYBER
+Le mail contient un lien pourri,CYBER
+C'est une faille critique CVE,CYBER
+Le hacker a les droits admin,CYBER
+Mon antivirus est perimé,CYBER
+Faut surveiller les connexions,CYBER
+L'attaque vient de Chine,CYBER
+Le port 80 est ouvert c'est mal,CYBER
+On a subi un defacage site,CYBER
+Le script est malicieux,CYBER
+Faut valider les entrées user,CYBER
+Le cryptolocker a tout bloqué,CYBER
+J'ai cliqué par erreur merde,CYBER
+Le reseau est compromis,CYBER
+Faut changer tous les pass,CYBER
+Y a un mouchard sur mon tel,CYBER
+L'attaquant a effacé les logs,CYBER
+Le patch a pas marché,CYBER
+On est vulnerable a Heartbleed,CYBER
+Faut isoler le PC infecté,CYBER
+Le hacker a bypassé le firewall,CYBER
+C'est une attaque par dictionnaire,CYBER
+Le wifi invité est dangereux,CYBER
+Faut faire gaffe aux macros,CYBER
+J'ai peur pour mes données,CYBER
+Le virus a manger mon fichier,CYBER
+Nous sommes attaque par internet,CYBER
+Le mur de feu est fermer,CYBER
+Il faut changer mot passe vite,CYBER
+Le pirate a voler information,CYBER
+Ne touche pas lien mauvais,CYBER
+Mon ordinateur est malade virus,CYBER
+Le code a porte derrière ouverte,CYBER
+J'ai perdu clé entrer,CYBER
+Le réseau a trou sécurité,CYBER
+L'attaque service est grand,CYBER
+Il a deviner mon secret mot,CYBER
+Faire attention email faux,CYBER
+Le système a peur hacker,CYBER
+Nous avons fuite données eau,CYBER
+Le certificat est mort temps,CYBER
+Il faut tuer le virus maintenant,CYBER
+Le scanneur voir tout ouvert,CYBER
+Mon écran est bloqué rançon,CYBER
+L'homme milieu écoute nous,CYBER
+C'est une injection mal,CYBER
+Le garde barrière dit non,CYBER
+Tu as mettre jour sécurité ?,CYBER
+Le méchant a pris contrôle,CYBER
+Fichier joint est poison,CYBER
+Nous besoin défense fort,CYBER
+L'adresse IP est noir liste,CYBER
+Le mot de passe est faible trop,CYBER
+Il a casser le code entrée,CYBER
+Le serveur a mal tête DDoS,CYBER
+Ne donne pas ton jeton,CYBER
+Le site est faux visage,CYBER
+Il faut laver le disque dur,CYBER
+L'attaque vient de pays loin,CYBER
+Le wifi est ouvert tout monde,CYBER
+J'ai voir activité bizarre,CYBER
+Le robot réseau attaque nous,CYBER
+Il faut fermer portes serveur,CYBER
+La clé privée est public maintenant,CYBER
+Le script fait choses mauvais,CYBER
+Nous avons perdu confiance machine,CYBER
+Le pirate demande argent Bitcoin,CYBER
+Il a marché sur mes données,CYBER
+Le pare-feu est dormir,CYBER
+Sécurité est cassé partout,CYBER
+Le mail est pêche poisson,CYBER
+Il faut cacher information secret,CYBER
+L'antivirus dit rien bon,CYBER
+Le compte chef est piraté,CYBER
+C'est une faille jour zéro,CYBER
+Le trafic est pas normal,CYBER
+Il a sauté le mur sécurité,CYBER
+Données sont voler nuit,CYBER
+Le système crier alerte,CYBER
+Il faut protection plus grand,CYBER
+Le lien est piège souris,CYBER
+Nous sommes nu sur internet,CYBER
+Le pirate a effacer traces,CYBER
+Le coffre mot passe est ouvert,CYBER
+C'est attaque force brute,CYBER
+Le logiciel espion regarde toi,CYBER
+Il faut couper ligne rouge,CYBER
+Le nuage est pas sûr,CYBER
+L'identité est volé par lui,CYBER
+Le code malicieux est là,CYBER
+Faire scan complet machine,CYBER
+Le port 80 est danger,CYBER
+Il a injecter code faux,CYBER
+La base données est fuite,CYBER
+Nous besoin expert cyber,CYBER
+Le téléphone est écouter,CYBER
+Il a changer mon page web,CYBER
+Le risque est haut très,CYBER
+Il faut vérifier qui est là,CYBER
+Le lien HTTPS est cassé rouge,CYBER
+L'attaque dictionnaire est longue,CYBER
+Nous avons trouver cheval Troie,CYBER
+Le fichier est chiffré méchant,CYBER
+Il faut isoler la bête,CYBER
+Le réseau invité est sale,CYBER
+C'est une menace avancée,CYBER
+Le pirate est dans maison,CYBER
+Il faut éteindre tout vite,CYBER
+Le journal montre erreur entrée,CYBER
+Sécurité physique est zéro,CYBER
+Il a bypasser la règle,CYBER
+Données client sont dehors,CYBER
+Le navigateur est pas jour,CYBER
+C'est une attaque ingénieur social,CYBER
+Le mot passe est 123456,CYBER
+Il faut mettre mur plus haut,CYBER
+Le système détection est aveugle,CYBER
+L'attaque a durée heures,CYBER
+Nous sommes victime crime,CYBER
+Le clé USB est virus,CYBER
+Il faut apprendre sécurité gens,CYBER
+Le site web est tomber attaque,CYBER
+Chiffrer tout le disque dur,CYBER
+Le pirate rigole de nous,CYBER
+Il faut appeler police internet,CYBER

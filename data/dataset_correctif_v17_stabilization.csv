@@ -1,0 +1,255 @@
+Phrase,English_Equivalent,Topic
+Pour économiser du CPU car ça coûte trop cher.,To save CPU because it costs too much.,INFRA
+L'analyse Cost Explorer montre que sur les environnements de dev.,Cost Explorer analysis shows that on dev environments.,INFRA
+Le virement SEPA doit être signé par le CFO.,The SEPA transfer must be signed by the CFO.,ACCOUNTING
+Nous avons signé le contrat en séance.,We signed the contract during the session.,BUSINESS
+Je vais contacter le service du personnel suite à son comportement.,I will contact personnel department following his behavior.,HR_COMPLAINT
+J'ai alerté les ressources humaines concernant cet incident.,I alerted human resources regarding this incident.,HR_COMPLAINT
+Le token API scanne le réseau en force brute.,The API token is brute-forcing the network.,CYBER
+Il faut aviser la direction concernant cet incident.,We must notify management regarding this incident.,HR_COMPLAINT
+L'accès root scanne le réseau en force brute.,Root access is brute-forcing the network.,CYBER
+Je dépose une plainte à mon manager suite à son comportement.,I am filing a complaint to my manager following his behavior.,HR_COMPLAINT
+La facture de mars n'a pas les bons identifiants TVA.,The March invoice has wrong VAT credentials.,ACCOUNTING
+Je dépose une plainte à la direction suite à son comportement.,I am filing a complaint to management following his behavior.,HR_COMPLAINT
+Je dois signaler les ressources humaines pour harcèlement moral.,I must report human resources for moral harassment.,HR_COMPLAINT
+Le fichier log subit une attaque Man-in-the-Middle.,The log file is under a Man-in-the-Middle attack.,CYBER
+Le port 22 exfiltre des données vers la Chine.,Port 22 is exfiltrating data to China.,CYBER
+Je vais contacter mon manager pour danger grave.,I will contact my manager for serious danger.,HR_COMPLAINT
+Le service comptabilité n'a pas les bons identifiants TVA.,The accounting department has wrong VAT credentials.,ACCOUNTING
+L'accès root exfiltre des données vers la Chine.,Root access is exfiltrating data to China.,CYBER
+Je dépose une plainte à mon manager car la situation est inacceptable.,I am filing a complaint to my manager because the situation is unacceptable.,HR_COMPLAINT
+Il faut passer sur des instances Spot afin d'optimiser le budget cloud.,We must switch to Spot instances to optimize the cloud budget.,INFRA
+Le prélèvement AWS doit être signé par le CFO.,The AWS direct debit must be signed by the CFO.,ACCOUNTING
+L'IP 192.168.1.1 scanne le réseau en force brute.,IP 192.168.1.1 is brute-forcing the network.,CYBER
+Je serai en retard de 5 minutes.,I will be 5 minutes late.,MISC
+Il faut aviser la DRH pour harcèlement moral.,We must notify the HRD for moral harassment.,HR_COMPLAINT
+Il faut aviser le service du personnel suite à son comportement.,We must notify personnel department following his behavior.,HR_COMPLAINT
+Je dois signaler la direction suite à son comportement.,I must report management following his behavior.,HR_COMPLAINT
+J'ai fait remonter la DRH suite à son comportement.,I escalated the HRD following his behavior.,HR_COMPLAINT
+Je vais contacter la DRH concernant cet incident.,I will contact the HRD regarding this incident.,HR_COMPLAINT
+Il faut aviser la DRH pour danger grave.,We must notify the HRD for serious danger.,HR_COMPLAINT
+L'IP 192.168.1.1 exfiltre des données vers la Chine.,IP 192.168.1.1 is exfiltrating data to China.,CYBER
+Les ressources inutilisées sur les environnements de dev.,Idle resources on dev environments.,INFRA
+L'analyse Cost Explorer montre que afin d'optimiser le budget cloud.,Cost Explorer analysis shows that to optimize the cloud budget.,INFRA
+Le script d'arrêt automatique pour arrêter le gaspillage.,The auto-shutdown script to stop the waste.,INFRA
+Je dépose une plainte à les ressources humaines car la situation est inacceptable.,I am filing a complaint to human resources because the situation is unacceptable.,HR_COMPLAINT
+Je dois signaler le service du personnel pour harcèlement moral.,I must report personnel department for moral harassment.,HR_COMPLAINT
+Le script d'arrêt automatique car ça coûte trop cher.,The auto-shutdown script because it costs too much.,INFRA
+Le fichier log scanne le réseau en force brute.,The log file is brute-forcing the network.,CYBER
+J'ai alerté les ressources humaines pour harcèlement moral.,I alerted human resources for moral harassment.,HR_COMPLAINT
+Le paiement fournisseur doit être signé par le CFO.,The supplier payment must be signed by the CFO.,ACCOUNTING
+Je dépose une plainte à la DRH pour harcèlement moral.,I am filing a complaint to the HRD for moral harassment.,HR_COMPLAINT
+Le client a refusé notre proposition.,The client rejected our proposal.,BUSINESS
+Il faut aviser mon manager pour danger grave.,We must notify my manager for serious danger.,HR_COMPLAINT
+Je vais contacter la direction pour harcèlement moral.,I will contact management for moral harassment.,HR_COMPLAINT
+J'ai alerté la DRH pour harcèlement moral.,I alerted the HRD for moral harassment.,HR_COMPLAINT
+Je dépose une plainte à mon manager pour harcèlement moral.,I am filing a complaint to my manager for moral harassment.,HR_COMPLAINT
+La carte bancaire de l'entreprise est en attente de paiement.,The corporate credit card is pending payment.,ACCOUNTING
+L'IP 192.168.1.1 subit une attaque Man-in-the-Middle.,IP 192.168.1.1 is under a Man-in-the-Middle attack.,CYBER
+Je dépose une plainte à le service du personnel concernant cet incident.,I am filing a complaint to personnel department regarding this incident.,HR_COMPLAINT
+Je dois signaler le service du personnel pour danger grave.,I must report personnel department for serious danger.,HR_COMPLAINT
+On doit réduire la taille des VM sur les environnements de dev.,We need to resize the VMs on dev environments.,INFRA
+J'ai alerté la direction pour danger grave.,I alerted management for serious danger.,HR_COMPLAINT
+Le header HTTP contient une injection SQL.,The HTTP header contains an SQL injection.,CYBER
+C'est noté dans mon agenda.,It is noted in my calendar.,MISC
+Les ressources inutilisées pour réduire la facture AWS.,Idle resources to reduce the AWS bill.,INFRA
+La carte bancaire de l'entreprise a été rejeté par la banque.,The corporate credit card was rejected by the bank.,ACCOUNTING
+Le script d'arrêt automatique afin d'optimiser le budget cloud.,The auto-shutdown script to optimize the cloud budget.,INFRA
+Il faut aviser les ressources humaines suite à son comportement.,We must notify human resources following his behavior.,HR_COMPLAINT
+J'ai alerté la direction concernant cet incident.,I alerted management regarding this incident.,HR_COMPLAINT
+J'ai fait remonter la direction suite à son comportement.,I escalated management following his behavior.,HR_COMPLAINT
+Si on downscale le cluster pour réduire la facture AWS.,If we downscale the cluster to reduce the AWS bill.,INFRA
+La requête DNS contient une injection SQL.,The DNS request contains an SQL injection.,CYBER
+J'ai fait remonter les ressources humaines car la situation est inacceptable.,I escalated human resources because the situation is unacceptable.,HR_COMPLAINT
+Le protocole TCP exfiltre des données vers la Chine.,The TCP protocol is exfiltrating data to China.,CYBER
+Il faut aviser mon manager concernant cet incident.,We must notify my manager regarding this incident.,HR_COMPLAINT
+La facture de mars est en attente de paiement.,The March invoice is pending payment.,ACCOUNTING
+Je vais contacter mon manager car la situation est inacceptable.,I will contact my manager because the situation is unacceptable.,HR_COMPLAINT
+Je dois signaler le service du personnel concernant cet incident.,I must report personnel department regarding this incident.,HR_COMPLAINT
+Si on downscale le cluster pour arrêter le gaspillage.,If we downscale the cluster to stop the waste.,INFRA
+Je vais contacter le service du personnel pour harcèlement moral.,I will contact personnel department for moral harassment.,HR_COMPLAINT
+Le header HTTP révèle une faille XSS.,The HTTP header reveals an XSS vulnerability.,CYBER
+Je dépose une plainte à la DRH pour danger grave.,I am filing a complaint to the HRD for serious danger.,HR_COMPLAINT
+Je vais contacter les ressources humaines suite à son comportement.,I will contact human resources following his behavior.,HR_COMPLAINT
+J'ai alerté la DRH concernant cet incident.,I alerted the HRD regarding this incident.,HR_COMPLAINT
+Le token API contient une injection SQL.,The API token contains an SQL injection.,CYBER
+J'ai fait remonter la DRH pour harcèlement moral.,I escalated the HRD for moral harassment.,HR_COMPLAINT
+J'ai alerté la direction suite à son comportement.,I alerted management following his behavior.,HR_COMPLAINT
+Le port 22 est compromis par un malware.,Port 22 is compromised by malware.,CYBER
+J'ai fait remonter les ressources humaines suite à son comportement.,I escalated human resources following his behavior.,HR_COMPLAINT
+La requête DNS révèle une faille XSS.,The DNS request reveals an XSS vulnerability.,CYBER
+On doit réduire la taille des VM car ça coûte trop cher.,We need to resize the VMs because it costs too much.,INFRA
+Il faut aviser les ressources humaines car la situation est inacceptable.,We must notify human resources because the situation is unacceptable.,HR_COMPLAINT
+J'ai alerté le service du personnel pour danger grave.,I alerted personnel department for serious danger.,HR_COMPLAINT
+Tu as réservé la salle 3 ?,Did you book room 3?,MISC
+Je dépose une plainte à le service du personnel pour harcèlement moral.,I am filing a complaint to personnel department for moral harassment.,HR_COMPLAINT
+La réunion a permis de valider le budget.,The meeting validated the budget.,BUSINESS
+Le virement SEPA a été rejeté par la banque.,The SEPA transfer was rejected by the bank.,ACCOUNTING
+J'ai alerté mon manager car la situation est inacceptable.,I alerted my manager because the situation is unacceptable.,HR_COMPLAINT
+Je vais contacter la direction concernant cet incident.,I will contact management regarding this incident.,HR_COMPLAINT
+La validation du budget est en attente de paiement.,Budget validation is pending payment.,ACCOUNTING
+J'ai fait remonter la direction pour harcèlement moral.,I escalated management for moral harassment.,HR_COMPLAINT
+Je dépose une plainte à mon manager concernant cet incident.,I am filing a complaint to my manager regarding this incident.,HR_COMPLAINT
+Si on downscale le cluster afin d'optimiser le budget cloud.,If we downscale the cluster to optimize the cloud budget.,INFRA
+Le port 22 subit une attaque Man-in-the-Middle.,Port 22 is under a Man-in-the-Middle attack.,CYBER
+Je vais contacter la DRH pour harcèlement moral.,I will contact the HRD for moral harassment.,HR_COMPLAINT
+Je vais contacter les ressources humaines car la situation est inacceptable.,I will contact human resources because the situation is unacceptable.,HR_COMPLAINT
+J'ai alerté les ressources humaines suite à son comportement.,I alerted human resources following his behavior.,HR_COMPLAINT
+Je dépose une plainte à le service du personnel pour danger grave.,I am filing a complaint to personnel department for serious danger.,HR_COMPLAINT
+La validation du budget nécessite un bon de commande.,Budget validation requires a purchase order.,ACCOUNTING
+Pour économiser du CPU pour réduire la facture AWS.,To save CPU to reduce the AWS bill.,INFRA
+Je dépose une plainte à le service du personnel car la situation est inacceptable.,I am filing a complaint to personnel department because the situation is unacceptable.,HR_COMPLAINT
+Qui apporte les croissants ?,Who brings the croissants?,MISC
+Il faut définir la stratégie Q4.,We must define Q4 strategy.,BUSINESS
+Je dépose une plainte à les ressources humaines pour harcèlement moral.,I am filing a complaint to human resources for moral harassment.,HR_COMPLAINT
+Je dois signaler la direction car la situation est inacceptable.,I must report management because the situation is unacceptable.,HR_COMPLAINT
+J'ai alerté la DRH pour danger grave.,I alerted the HRD for serious danger.,HR_COMPLAINT
+Je vais contacter mon manager concernant cet incident.,I will contact my manager regarding this incident.,HR_COMPLAINT
+Je dois signaler la DRH pour harcèlement moral.,I must report the HRD for moral harassment.,HR_COMPLAINT
+J'ai fait remonter le service du personnel pour danger grave.,I escalated personnel department for serious danger.,HR_COMPLAINT
+Je dois signaler la direction concernant cet incident.,I must report management regarding this incident.,HR_COMPLAINT
+Je vais contacter la direction pour danger grave.,I will contact management for serious danger.,HR_COMPLAINT
+Le prélèvement AWS a été rejeté par la banque.,The AWS direct debit was rejected by the bank.,ACCOUNTING
+Il faut aviser la DRH concernant cet incident.,We must notify the HRD regarding this incident.,HR_COMPLAINT
+Pour économiser du CPU pour arrêter le gaspillage.,To save CPU to stop the waste.,INFRA
+Le service comptabilité a été rejeté par la banque.,The accounting department was rejected by the bank.,ACCOUNTING
+Le service comptabilité est en attente de paiement.,The accounting department is pending payment.,ACCOUNTING
+Le fichier log révèle une faille XSS.,The log file reveals an XSS vulnerability.,CYBER
+Le protocole TCP révèle une faille XSS.,The TCP protocol reveals an XSS vulnerability.,CYBER
+Le header HTTP scanne le réseau en force brute.,The HTTP header is brute-forcing the network.,CYBER
+Je vais contacter mon manager pour harcèlement moral.,I will contact my manager for moral harassment.,HR_COMPLAINT
+L'analyse Cost Explorer montre que pour arrêter le gaspillage.,Cost Explorer analysis shows that to stop the waste.,INFRA
+Il faut aviser le service du personnel concernant cet incident.,We must notify personnel department regarding this incident.,HR_COMPLAINT
+J'ai alerté les ressources humaines car la situation est inacceptable.,I alerted human resources because the situation is unacceptable.,HR_COMPLAINT
+Le prélèvement AWS nécessite un bon de commande.,The AWS direct debit requires a purchase order.,ACCOUNTING
+Je vais contacter le service du personnel pour danger grave.,I will contact personnel department for serious danger.,HR_COMPLAINT
+Le protocole TCP scanne le réseau en force brute.,The TCP protocol is brute-forcing the network.,CYBER
+Je dois signaler le service du personnel suite à son comportement.,I must report personnel department following his behavior.,HR_COMPLAINT
+Il faut passer sur des instances Spot pour arrêter le gaspillage.,We must switch to Spot instances to stop the waste.,INFRA
+Je dépose une plainte à les ressources humaines suite à son comportement.,I am filing a complaint to human resources following his behavior.,HR_COMPLAINT
+Le port 22 contient une injection SQL.,Port 22 contains an SQL injection.,CYBER
+Le port 22 montre une activité suspecte.,Port 22 shows suspicious activity.,CYBER
+Le header HTTP exfiltre des données vers la Chine.,The HTTP header is exfiltrating data to China.,CYBER
+L'accès root subit une attaque Man-in-the-Middle.,Root access is under a Man-in-the-Middle attack.,CYBER
+Les ressources inutilisées car ça coûte trop cher.,Idle resources because it costs too much.,INFRA
+Le token API montre une activité suspecte.,The API token shows suspicious activity.,CYBER
+J'ai fait remonter le service du personnel suite à son comportement.,I escalated personnel department following his behavior.,HR_COMPLAINT
+J'ai alerté le service du personnel pour harcèlement moral.,I alerted personnel department for moral harassment.,HR_COMPLAINT
+Pour économiser du CPU sur les environnements de dev.,To save CPU on dev environments.,INFRA
+Le prélèvement AWS est en attente de paiement.,The AWS direct debit is pending payment.,ACCOUNTING
+La salle de réunion est occupée.,The meeting room is occupied.,MISC
+La requête DNS subit une attaque Man-in-the-Middle.,The DNS request is under a Man-in-the-Middle attack.,CYBER
+La validation du budget doit être signé par le CFO.,Budget validation must be signed by the CFO.,ACCOUNTING
+J'ai fait remonter le service du personnel pour harcèlement moral.,I escalated personnel department for moral harassment.,HR_COMPLAINT
+L'analyse Cost Explorer montre que car ça coûte trop cher.,Cost Explorer analysis shows that because it costs too much.,INFRA
+J'ai fait remonter la DRH concernant cet incident.,I escalated the HRD regarding this incident.,HR_COMPLAINT
+Le prélèvement AWS n'a pas les bons identifiants TVA.,The AWS direct debit has wrong VAT credentials.,ACCOUNTING
+L'accès root est compromis par un malware.,Root access is compromised by malware.,CYBER
+J'ai alerté la DRH suite à son comportement.,I alerted the HRD following his behavior.,HR_COMPLAINT
+Je dois signaler les ressources humaines car la situation est inacceptable.,I must report human resources because the situation is unacceptable.,HR_COMPLAINT
+Le paiement fournisseur n'a pas les bons identifiants TVA.,The supplier payment has wrong VAT credentials.,ACCOUNTING
+Il faut aviser la direction pour danger grave.,We must notify management for serious danger.,HR_COMPLAINT
+Je dépose une plainte à la DRH concernant cet incident.,I am filing a complaint to the HRD regarding this incident.,HR_COMPLAINT
+J'ai fait remonter mon manager suite à son comportement.,I escalated my manager following his behavior.,HR_COMPLAINT
+J'ai fait remonter la direction car la situation est inacceptable.,I escalated management because the situation is unacceptable.,HR_COMPLAINT
+J'ai fait remonter les ressources humaines pour danger grave.,I escalated human resources for serious danger.,HR_COMPLAINT
+L'analyse Cost Explorer montre que pour réduire la facture AWS.,Cost Explorer analysis shows that to reduce the AWS bill.,INFRA
+L'IP 192.168.1.1 montre une activité suspecte.,IP 192.168.1.1 shows suspicious activity.,CYBER
+Le fichier log est compromis par un malware.,The log file is compromised by malware.,CYBER
+Le port 22 scanne le réseau en force brute.,Port 22 is brute-forcing the network.,CYBER
+Je vais contacter la DRH suite à son comportement.,I will contact the HRD following his behavior.,HR_COMPLAINT
+Le projecteur ne marche pas.,The projector is not working.,MISC
+Il faut passer sur des instances Spot pour réduire la facture AWS.,We must switch to Spot instances to reduce the AWS bill.,INFRA
+J'ai fait remonter les ressources humaines concernant cet incident.,I escalated human resources regarding this incident.,HR_COMPLAINT
+Le service comptabilité nécessite un bon de commande.,The accounting department requires a purchase order.,ACCOUNTING
+Le comité de direction a tranché.,The executive committee decided.,BUSINESS
+Le token API exfiltre des données vers la Chine.,The API token is exfiltrating data to China.,CYBER
+La requête DNS scanne le réseau en force brute.,The DNS request is brute-forcing the network.,CYBER
+J'ai alerté la DRH car la situation est inacceptable.,I alerted the HRD because the situation is unacceptable.,HR_COMPLAINT
+La requête DNS exfiltre des données vers la Chine.,The DNS request is exfiltrating data to China.,CYBER
+Il faut aviser les ressources humaines pour harcèlement moral.,We must notify human resources for moral harassment.,HR_COMPLAINT
+La carte bancaire de l'entreprise nécessite un bon de commande.,The corporate credit card requires a purchase order.,ACCOUNTING
+On peut décaler la réunion à 14h ?,Can we move the meeting to 2 PM?,MISC
+La facture de mars doit être signé par le CFO.,The March invoice must be signed by the CFO.,ACCOUNTING
+Le virement SEPA nécessite un bon de commande.,The SEPA transfer requires a purchase order.,ACCOUNTING
+Je dois signaler la DRH car la situation est inacceptable.,I must report the HRD because the situation is unacceptable.,HR_COMPLAINT
+Le token API subit une attaque Man-in-the-Middle.,The API token is under a Man-in-the-Middle attack.,CYBER
+Le paiement fournisseur nécessite un bon de commande.,The supplier payment requires a purchase order.,ACCOUNTING
+Le script d'arrêt automatique sur les environnements de dev.,The auto-shutdown script on dev environments.,INFRA
+La facture de mars nécessite un bon de commande.,The March invoice requires a purchase order.,ACCOUNTING
+Je dépose une plainte à la direction pour danger grave.,I am filing a complaint to management for serious danger.,HR_COMPLAINT
+Je dépose une plainte à le service du personnel suite à son comportement.,I am filing a complaint to personnel department following his behavior.,HR_COMPLAINT
+Le token API est compromis par un malware.,The API token is compromised by malware.,CYBER
+L'accès root contient une injection SQL.,Root access contains an SQL injection.,CYBER
+On doit réduire la taille des VM pour arrêter le gaspillage.,We need to resize the VMs to stop the waste.,INFRA
+Si on downscale le cluster car ça coûte trop cher.,If we downscale the cluster because it costs too much.,INFRA
+Le virement SEPA n'a pas les bons identifiants TVA.,The SEPA transfer has wrong VAT credentials.,ACCOUNTING
+Je dois signaler la direction pour harcèlement moral.,I must report management for moral harassment.,HR_COMPLAINT
+La requête DNS est compromis par un malware.,The DNS request is compromised by malware.,CYBER
+On doit réduire la taille des VM pour réduire la facture AWS.,We need to resize the VMs to reduce the AWS bill.,INFRA
+Le fichier log exfiltre des données vers la Chine.,The log file is exfiltrating data to China.,CYBER
+Si on downscale le cluster sur les environnements de dev.,If we downscale the cluster on dev environments.,INFRA
+Je dois signaler les ressources humaines concernant cet incident.,I must report human resources regarding this incident.,HR_COMPLAINT
+Le header HTTP est compromis par un malware.,The HTTP header is compromised by malware.,CYBER
+Il faut aviser la direction car la situation est inacceptable.,We must notify management because the situation is unacceptable.,HR_COMPLAINT
+Le token API révèle une faille XSS.,The API token reveals an XSS vulnerability.,CYBER
+Il faut aviser le service du personnel pour harcèlement moral.,We must notify personnel department for moral harassment.,HR_COMPLAINT
+Le protocole TCP est compromis par un malware.,The TCP protocol is compromised by malware.,CYBER
+L'accès root montre une activité suspecte.,Root access shows suspicious activity.,CYBER
+J'ai alerté mon manager concernant cet incident.,I alerted my manager regarding this incident.,HR_COMPLAINT
+Le protocole TCP subit une attaque Man-in-the-Middle.,The TCP protocol is under a Man-in-the-Middle attack.,CYBER
+Les ressources inutilisées pour arrêter le gaspillage.,Idle resources to stop the waste.,INFRA
+Je dois signaler la DRH pour danger grave.,I must report the HRD for serious danger.,HR_COMPLAINT
+Il faut passer sur des instances Spot sur les environnements de dev.,We must switch to Spot instances on dev environments.,INFRA
+Je dépose une plainte à les ressources humaines concernant cet incident.,I am filing a complaint to human resources regarding this incident.,HR_COMPLAINT
+Le port 22 révèle une faille XSS.,Port 22 reveals an XSS vulnerability.,CYBER
+L'IP 192.168.1.1 révèle une faille XSS.,IP 192.168.1.1 reveals an XSS vulnerability.,CYBER
+Il faut aviser la direction suite à son comportement.,We must notify management following his behavior.,HR_COMPLAINT
+Je dépose une plainte à mon manager pour danger grave.,I am filing a complaint to my manager for serious danger.,HR_COMPLAINT
+Je dois signaler la DRH concernant cet incident.,I must report the HRD regarding this incident.,HR_COMPLAINT
+J'ai fait remonter mon manager concernant cet incident.,I escalated my manager regarding this incident.,HR_COMPLAINT
+Le header HTTP subit une attaque Man-in-the-Middle.,The HTTP header is under a Man-in-the-Middle attack.,CYBER
+Il faut aviser mon manager suite à son comportement.,We must notify my manager following his behavior.,HR_COMPLAINT
+La facture de mars a été rejeté par la banque.,The March invoice was rejected by the bank.,ACCOUNTING
+J'ai fait remonter mon manager pour harcèlement moral.,I escalated my manager for moral harassment.,HR_COMPLAINT
+La négo avec le fournisseur est dure.,Negotiation with supplier is hard.,BUSINESS
+L'IP 192.168.1.1 contient une injection SQL.,IP 192.168.1.1 contains an SQL injection.,CYBER
+J'ai fait remonter mon manager pour danger grave.,I escalated my manager for serious danger.,HR_COMPLAINT
+L'accès root révèle une faille XSS.,Root access reveals an XSS vulnerability.,CYBER
+La carte bancaire de l'entreprise doit être signé par le CFO.,The corporate credit card must be signed by the CFO.,ACCOUNTING
+La validation du budget a été rejeté par la banque.,Budget validation was rejected by the bank.,ACCOUNTING
+Il faut aviser les ressources humaines pour danger grave.,We must notify human resources for serious danger.,HR_COMPLAINT
+J'ai fait remonter la direction concernant cet incident.,I escalated management regarding this incident.,HR_COMPLAINT
+J'ai alerté la direction car la situation est inacceptable.,I alerted management because the situation is unacceptable.,HR_COMPLAINT
+Est-ce qu'il y a un lien Zoom ?,Is there a Zoom link?,MISC
+J'ai fait remonter la DRH pour danger grave.,I escalated the HRD for serious danger.,HR_COMPLAINT
+Le script d'arrêt automatique pour réduire la facture AWS.,The auto-shutdown script to reduce the AWS bill.,INFRA
+La requête DNS montre une activité suspecte.,The DNS request shows suspicious activity.,CYBER
+J'ai alerté mon manager suite à son comportement.,I alerted my manager following his behavior.,HR_COMPLAINT
+Le paiement fournisseur est en attente de paiement.,The supplier payment is pending payment.,ACCOUNTING
+La validation du budget n'a pas les bons identifiants TVA.,Budget validation has wrong VAT credentials.,ACCOUNTING
+La carte bancaire de l'entreprise n'a pas les bons identifiants TVA.,The corporate credit card has wrong VAT credentials.,ACCOUNTING
+Il faut aviser les ressources humaines concernant cet incident.,We must notify human resources regarding this incident.,HR_COMPLAINT
+Le paiement fournisseur a été rejeté par la banque.,The supplier payment was rejected by the bank.,ACCOUNTING
+Le protocole TCP montre une activité suspecte.,The TCP protocol shows suspicious activity.,CYBER
+On doit réduire la taille des VM afin d'optimiser le budget cloud.,We need to resize the VMs to optimize the cloud budget.,INFRA
+Il faut aviser la DRH car la situation est inacceptable.,We must notify the HRD because the situation is unacceptable.,HR_COMPLAINT
+Pour économiser du CPU afin d'optimiser le budget cloud.,To save CPU to optimize the cloud budget.,INFRA
+J'ai alerté mon manager pour danger grave.,I alerted my manager for serious danger.,HR_COMPLAINT
+Le virement SEPA est en attente de paiement.,The SEPA transfer is pending payment.,ACCOUNTING
+Je dépose une plainte à la DRH car la situation est inacceptable.,I am filing a complaint to the HRD because the situation is unacceptable.,HR_COMPLAINT
+L'ordre du jour concerne la fusion.,The agenda is about the merger.,BUSINESS
+J'ai alerté mon manager pour harcèlement moral.,I alerted my manager for moral harassment.,HR_COMPLAINT
+Le protocole TCP contient une injection SQL.,The TCP protocol contains an SQL injection.,CYBER
+L'IP 192.168.1.1 est compromis par un malware.,IP 192.168.1.1 is compromised by malware.,CYBER
+Il faut aviser le service du personnel pour danger grave.,We must notify personnel department for serious danger.,HR_COMPLAINT
+Il faut passer sur des instances Spot car ça coûte trop cher.,We must switch to Spot instances because it costs too much.,INFRA
+J'ai fait remonter la DRH car la situation est inacceptable.,I escalated the HRD because the situation is unacceptable.,HR_COMPLAINT
+Je vais contacter la direction suite à son comportement.,I will contact management following his behavior.,HR_COMPLAINT
+J'ai alerté la direction pour harcèlement moral.,I alerted management for moral harassment.,HR_COMPLAINT
+Je dépose une plainte à la direction car la situation est inacceptable.,I am filing a complaint to management because the situation is unacceptable.,HR_COMPLAINT
+Le fichier log contient une injection SQL.,The log file contains an SQL injection.,CYBER
+Les ressources inutilisées afin d'optimiser le budget cloud.,Idle resources to optimize the cloud budget.,INFRA
+Je vais contacter les ressources humaines pour danger grave.,I will contact human resources for serious danger.,HR_COMPLAINT
+Le service comptabilité doit être signé par le CFO.,The accounting department must be signed by the CFO.,ACCOUNTING
+Je vais contacter les ressources humaines pour harcèlement moral.,I will contact human resources for moral harassment.,HR_COMPLAINT

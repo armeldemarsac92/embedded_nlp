@@ -1,0 +1,1167 @@
+Phrase_FR,Phrase_EN,Topic
+Un déni de service sature la bande passante impact critique.,A denial of service saturates bandwidth critical impact.,CYBER
+Le pod est corrompu(e) sur le noeud master.,The pod is corrupted on the master node.,INFRA
+Un flood SYN provocant un black-out trafic sortant bloqué.,A SYN flood causing a blackout outgoing traffic blocked.,CYBER
+Une attaque par amplification a submergé le firewall trafic sortant bloqué.,Amplification attack overwhelmed the firewall outgoing traffic blocked.,CYBER
+Le namespace ne démarre pas problème de ressources.,The namespace does not start resource issue.,INFRA
+Une attaque volumétrique sature la bande passante c'est massif.,A volumetric attack saturates bandwidth it is massive.,CYBER
+Le code lance une erreur dans la boucle.,The code throws an error in the loop.,TECH
+L'acheteur a envoyé une mise en demeure et il part à la concurrence.,The buyer sent a formal notice and he goes to competition.,BUSINESS
+Le client menace de partir car le service est nul.,The client threatens to leave because the service sucks.,BUSINESS
+Un flood UDP a submergé le firewall sur l'IP publique.,A UDP flood overwhelmed the firewall on public IP.,CYBER
+L'acheteur est très mécontent c'est inadmissible.,The buyer is very dissatisfied it is unacceptable.,BUSINESS
+Le client est très mécontent il faut l'appeler d'urgence.,The client is very dissatisfied must call him urgently.,BUSINESS
+Une attaque par amplification a submergé le firewall sur l'IP publique.,Amplification attack overwhelmed the firewall on public IP.,CYBER
+Le prospect veut résilier son contrat suite à la panne.,The prospect wants to terminate his contract following the outage.,BUSINESS
+Une attaque DDoS bombarde le serveur impact critique.,A DDoS attack bombs the server critical impact.,CYBER
+L'image Docker renvoie une erreur OOMKilled logs inaccessibles.,The Docker image returns an OOMKilled error logs inaccessible.,INFRA
+Le directeur fait un scandale il faut l'appeler d'urgence.,The director is making a scene must call him urgently.,BUSINESS
+Le namespace est corrompu(e) sur le noeud master.,The namespace is corrupted on the master node.,INFRA
+Le directeur refuse de payer à cause du retard.,The director refuses to pay because of the delay.,BUSINESS
+Un flood UDP sature la bande passante c'est massif.,A UDP flood saturates bandwidth it is massive.,CYBER
+Le trafic illégitime fait tomber le site mitigation en cours.,Illegitimate traffic takes down the site mitigation in progress.,CYBER
+Une attaque DDoS fait tomber le site sur l'IP publique.,A DDoS attack takes down the site on public IP.,CYBER
+Le kubelet est corrompu(e) logs inaccessibles.,The kubelet is corrupted logs inaccessible.,INFRA
+L'acheteur est hors de lui car le service est nul.,The buyer is beside himself because the service sucks.,BUSINESS
+Le pod ne démarre pas erreur de config.,The pod does not start config error.,INFRA
+Le prospect refuse de payer il faut l'appeler d'urgence.,The prospect refuses to pay must call him urgently.,BUSINESS
+Le kubelet ne monte pas le volume sur le noeud master.,The kubelet does not mount volume on the master node.,INFRA
+Le client VIP a envoyé une mise en demeure c'est inadmissible.,The VIP client sent a formal notice it is unacceptable.,BUSINESS
+Le kubelet ne monte pas le volume logs inaccessibles.,The kubelet does not mount volume logs inaccessible.,INFRA
+Le client menace de partir sur le dossier en cours.,The client threatens to leave on the current file.,BUSINESS
+Le namespace a crashé vérifie le fichier yaml.,The namespace crashed check yaml file.,INFRA
+Un déni de service a submergé le firewall mitigation en cours.,A denial of service overwhelmed the firewall mitigation in progress.,CYBER
+Le prospect fait un scandale à cause du retard.,The prospect is making a scene because of the delay.,BUSINESS
+Le namespace doit être redémarré(e) vérifie le fichier yaml.,The namespace must be restarted check yaml file.,INFRA
+Le prospect veut résilier son contrat car le service est nul.,The prospect wants to terminate his contract because the service sucks.,BUSINESS
+Le conteneur a crashé vérifie le fichier yaml.,The container crashed check yaml file.,INFRA
+Un flood SYN cible le load balancer impact critique.,A SYN flood targets the load balancer critical impact.,CYBER
+Une attaque volumétrique a submergé le firewall mitigation en cours.,A volumetric attack overwhelmed the firewall mitigation in progress.,CYBER
+Une attaque volumétrique cible le load balancer c'est massif.,A volumetric attack targets the load balancer it is massive.,CYBER
+Le cluster K8s ne monte pas le volume après la mise à jour.,The K8s cluster does not mount volume after update.,INFRA
+Le client VIP est hors de lui à cause du retard.,The VIP client is beside himself because of the delay.,BUSINESS
+Le conteneur est en état CrashLoopBackOff erreur de config.,The container is in CrashLoopBackOff state config error.,INFRA
+Le trafic illégitime cible le load balancer sur l'IP publique.,Illegitimate traffic targets the load balancer on public IP.,CYBER
+Le client fait un scandale et il part à la concurrence.,The client is making a scene and he goes to competition.,BUSINESS
+Une attaque DDoS fait tomber le site impact critique.,A DDoS attack takes down the site critical impact.,CYBER
+Le directeur est très mécontent suite à la panne.,The director is very dissatisfied following the outage.,BUSINESS
+Le pod renvoie une erreur OOMKilled vérifie le fichier yaml.,The pod returns an OOMKilled error check yaml file.,INFRA
+Le noyau Linux renvoie une erreur OOMKilled logs inaccessibles.,The Linux kernel returns an OOMKilled error logs inaccessible.,INFRA
+Le pod ne démarre pas après la mise à jour.,The pod does not start after update.,INFRA
+L'acheteur fait un scandale il faut l'appeler d'urgence.,The buyer is making a scene must call him urgently.,BUSINESS
+Le directeur veut résilier son contrat et il part à la concurrence.,The director wants to terminate his contract and he goes to competition.,BUSINESS
+Le prospect a envoyé une mise en demeure suite à la panne.,The prospect sent a formal notice following the outage.,BUSINESS
+Un déni de service provocant un black-out c'est massif.,A denial of service causing a blackout it is massive.,CYBER
+Le trafic illégitime fait tomber le site c'est massif.,Illegitimate traffic takes down the site it is massive.,CYBER
+Le pod est corrompu(e) erreur de config.,The pod is corrupted config error.,INFRA
+L'acheteur fait un scandale et il part à la concurrence.,The buyer is making a scene and he goes to competition.,BUSINESS
+Le namespace ne monte pas le volume sur le noeud master.,The namespace does not mount volume on the master node.,INFRA
+Un déni de service cible le load balancer mitigation en cours.,A denial of service targets the load balancer mitigation in progress.,CYBER
+L'image Docker est en état CrashLoopBackOff erreur de config.,The Docker image is in CrashLoopBackOff state config error.,INFRA
+Le kubelet ne démarre pas vérifie le fichier yaml.,The kubelet does not start check yaml file.,INFRA
+Le pod a crashé sur le noeud master.,The pod crashed on the master node.,INFRA
+Le noyau Linux renvoie une erreur OOMKilled vérifie le fichier yaml.,The Linux kernel returns an OOMKilled error check yaml file.,INFRA
+Le service systemd ne monte pas le volume problème de ressources.,The systemd service does not mount volume resource issue.,INFRA
+Le cluster K8s ne monte pas le volume logs inaccessibles.,The K8s cluster does not mount volume logs inaccessible.,INFRA
+La syntaxe est invalide dans la boucle.,The syntax is invalid in the loop.,TECH
+Le prospect est furieux à cause du retard.,The prospect is furious because of the delay.,BUSINESS
+Le client est furieux sur le dossier en cours.,The client is furious on the current file.,BUSINESS
+Le botnet bombarde le serveur mitigation en cours.,The botnet bombs the server mitigation in progress.,CYBER
+Le prospect refuse de payer sur le dossier en cours.,The prospect refuses to pay on the current file.,BUSINESS
+Le pod a crashé erreur de config.,The pod crashed config error.,INFRA
+Un déni de service fait tomber le site c'est massif.,A denial of service takes down the site it is massive.,CYBER
+Un déni de service bombarde le serveur trafic sortant bloqué.,A denial of service bombs the server outgoing traffic blocked.,CYBER
+Le cluster K8s renvoie une erreur OOMKilled vérifie le fichier yaml.,The K8s cluster returns an OOMKilled error check yaml file.,INFRA
+Le cluster K8s a fait un kernel panic erreur de config.,The K8s cluster caused a kernel panic config error.,INFRA
+Le grand compte demande un remboursement car le service est nul.,The key account asks for a refund because the service sucks.,BUSINESS
+L'acheteur est très mécontent il faut l'appeler d'urgence.,The buyer is very dissatisfied must call him urgently.,BUSINESS
+Le grand compte veut résilier son contrat à cause du retard.,The key account wants to terminate his contract because of the delay.,BUSINESS
+Le namespace ne monte pas le volume après la mise à jour.,The namespace does not mount volume after update.,INFRA
+Le prospect fait un scandale suite à la panne.,The prospect is making a scene following the outage.,BUSINESS
+Le directeur est furieux à cause du retard.,The director is furious because of the delay.,BUSINESS
+L'acheteur fait un scandale c'est inadmissible.,The buyer is making a scene it is unacceptable.,BUSINESS
+Le cluster K8s a fait un kernel panic logs inaccessibles.,The K8s cluster caused a kernel panic logs inaccessible.,INFRA
+L'acheteur veut résilier son contrat suite à la panne.,The buyer wants to terminate his contract following the outage.,BUSINESS
+Une attaque volumétrique cible le load balancer depuis des IP chinoises.,A volumetric attack targets the load balancer from Chinese IPs.,CYBER
+L'acheteur refuse de payer sur le dossier en cours.,The buyer refuses to pay on the current file.,BUSINESS
+Une attaque volumétrique fait tomber le site sur l'IP publique.,A volumetric attack takes down the site on public IP.,CYBER
+Le cluster K8s ne démarre pas logs inaccessibles.,The K8s cluster does not start logs inaccessible.,INFRA
+Une attaque DDoS a submergé le firewall trafic sortant bloqué.,A DDoS attack overwhelmed the firewall outgoing traffic blocked.,CYBER
+Le grand compte est furieux et il part à la concurrence.,The key account is furious and he goes to competition.,BUSINESS
+Le kubelet renvoie une erreur OOMKilled logs inaccessibles.,The kubelet returns an OOMKilled error logs inaccessible.,INFRA
+Le namespace ne démarre pas erreur de config.,The namespace does not start config error.,INFRA
+Le client gueule au téléphone car le service est nul.,The client is yelling on the phone because the service sucks.,BUSINESS
+Le service systemd renvoie une erreur OOMKilled erreur de config.,The systemd service returns an OOMKilled error config error.,INFRA
+Le botnet provocant un black-out trafic sortant bloqué.,The botnet causing a blackout outgoing traffic blocked.,CYBER
+Le pod renvoie une erreur OOMKilled logs inaccessibles.,The pod returns an OOMKilled error logs inaccessible.,INFRA
+L'image Docker doit être redémarré(e) vérifie le fichier yaml.,The Docker image must be restarted check yaml file.,INFRA
+L'image Docker ne monte pas le volume logs inaccessibles.,The Docker image does not mount volume logs inaccessible.,INFRA
+Le trafic illégitime est détecté(e) par l'anti-DDoS impact critique.,Illegitimate traffic is detected by anti-DDoS critical impact.,CYBER
+Un déni de service provocant un black-out depuis des IP chinoises.,A denial of service causing a blackout from Chinese IPs.,CYBER
+Le directeur gueule au téléphone car le service est nul.,The director is yelling on the phone because the service sucks.,BUSINESS
+L'acheteur menace de partir c'est inadmissible.,The buyer threatens to leave it is unacceptable.,BUSINESS
+Un déni de service bombarde le serveur depuis des IP chinoises.,A denial of service bombs the server from Chinese IPs.,CYBER
+Un flood SYN provocant un black-out depuis des IP chinoises.,A SYN flood causing a blackout from Chinese IPs.,CYBER
+Une attaque par amplification bombarde le serveur depuis des IP chinoises.,Amplification attack bombs the server from Chinese IPs.,CYBER
+Le pod a fait un kernel panic vérifie le fichier yaml.,The pod caused a kernel panic check yaml file.,INFRA
+Un flood SYN sature la bande passante sur l'IP publique.,A SYN flood saturates bandwidth on public IP.,CYBER
+Le cluster K8s renvoie une erreur OOMKilled après la mise à jour.,The K8s cluster returns an OOMKilled error after update.,INFRA
+Le prospect est hors de lui c'est inadmissible.,The prospect is beside himself it is unacceptable.,BUSINESS
+Le kubelet ne monte pas le volume problème de ressources.,The kubelet does not mount volume resource issue.,INFRA
+Un déni de service bombarde le serveur mitigation en cours.,A denial of service bombs the server mitigation in progress.,CYBER
+Le cluster K8s a fait un kernel panic vérifie le fichier yaml.,The K8s cluster caused a kernel panic check yaml file.,INFRA
+Le namespace a fait un kernel panic problème de ressources.,The namespace caused a kernel panic resource issue.,INFRA
+Le client a envoyé une mise en demeure c'est inadmissible.,The client sent a formal notice it is unacceptable.,BUSINESS
+Le kubelet a crashé sur le noeud master.,The kubelet crashed on the master node.,INFRA
+Le conteneur renvoie une erreur OOMKilled problème de ressources.,The container returns an OOMKilled error resource issue.,INFRA
+L'acheteur gueule au téléphone c'est inadmissible.,The buyer is yelling on the phone it is unacceptable.,BUSINESS
+Le botnet cible le load balancer c'est massif.,The botnet targets the load balancer it is massive.,CYBER
+Le directeur a envoyé une mise en demeure et il part à la concurrence.,The director sent a formal notice and he goes to competition.,BUSINESS
+Le démon renvoie une erreur OOMKilled vérifie le fichier yaml.,The daemon returns an OOMKilled error check yaml file.,INFRA
+Le client VIP a envoyé une mise en demeure et il part à la concurrence.,The VIP client sent a formal notice and he goes to competition.,BUSINESS
+Le pod a crashé problème de ressources.,The pod crashed resource issue.,INFRA
+L'acheteur est furieux sur le dossier en cours.,The buyer is furious on the current file.,BUSINESS
+L'acheteur a envoyé une mise en demeure à cause du retard.,The buyer sent a formal notice because of the delay.,BUSINESS
+L'acheteur demande un remboursement sur le dossier en cours.,The buyer asks for a refund on the current file.,BUSINESS
+Un flood SYN est détecté(e) par l'anti-DDoS trafic sortant bloqué.,A SYN flood is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Le directeur a envoyé une mise en demeure à cause du retard.,The director sent a formal notice because of the delay.,BUSINESS
+Le trafic illégitime bombarde le serveur c'est massif.,Illegitimate traffic bombs the server it is massive.,CYBER
+Le service systemd doit être redémarré(e) vérifie le fichier yaml.,The systemd service must be restarted check yaml file.,INFRA
+Le grand compte a envoyé une mise en demeure sur le dossier en cours.,The key account sent a formal notice on the current file.,BUSINESS
+Le service systemd est corrompu(e) sur le noeud master.,The systemd service is corrupted on the master node.,INFRA
+Le prospect fait un scandale et il part à la concurrence.,The prospect is making a scene and he goes to competition.,BUSINESS
+Une attaque volumétrique fait tomber le site mitigation en cours.,A volumetric attack takes down the site mitigation in progress.,CYBER
+Le client est très mécontent car le service est nul.,The client is very dissatisfied because the service sucks.,BUSINESS
+Un flood SYN fait tomber le site depuis des IP chinoises.,A SYN flood takes down the site from Chinese IPs.,CYBER
+Le client VIP refuse de payer et il part à la concurrence.,The VIP client refuses to pay and he goes to competition.,BUSINESS
+Le pod est corrompu(e) logs inaccessibles.,The pod is corrupted logs inaccessible.,INFRA
+L'exception lance une erreur ligne 40.,The exception throws an error line 40.,TECH
+Le conteneur ne monte pas le volume sur le noeud master.,The container does not mount volume on the master node.,INFRA
+Le noyau Linux est corrompu(e) problème de ressources.,The Linux kernel is corrupted resource issue.,INFRA
+Un flood SYN cible le load balancer mitigation en cours.,A SYN flood targets the load balancer mitigation in progress.,CYBER
+L'image Docker est corrompu(e) après la mise à jour.,The Docker image is corrupted after update.,INFRA
+Le namespace est corrompu(e) logs inaccessibles.,The namespace is corrupted logs inaccessible.,INFRA
+Le code lance une erreur ligne 40.,The code throws an error line 40.,TECH
+L'acheteur a envoyé une mise en demeure il faut l'appeler d'urgence.,The buyer sent a formal notice must call him urgently.,BUSINESS
+Le botnet bombarde le serveur depuis des IP chinoises.,The botnet bombs the server from Chinese IPs.,CYBER
+Le botnet bombarde le serveur sur l'IP publique.,The botnet bombs the server on public IP.,CYBER
+Le démon est corrompu(e) problème de ressources.,The daemon is corrupted resource issue.,INFRA
+Le pod renvoie une erreur OOMKilled sur le noeud master.,The pod returns an OOMKilled error on the master node.,INFRA
+La syntaxe lance une erreur ligne 40.,The syntax throws an error line 40.,TECH
+Le directeur demande un remboursement à cause du retard.,The director asks for a refund because of the delay.,BUSINESS
+Le prospect demande un remboursement car le service est nul.,The prospect asks for a refund because the service sucks.,BUSINESS
+Une attaque volumétrique cible le load balancer impact critique.,A volumetric attack targets the load balancer critical impact.,CYBER
+Le botnet est détecté(e) par l'anti-DDoS trafic sortant bloqué.,The botnet is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Le directeur refuse de payer et il part à la concurrence.,The director refuses to pay and he goes to competition.,BUSINESS
+Le grand compte est hors de lui sur le dossier en cours.,The key account is beside himself on the current file.,BUSINESS
+Un flood SYN sature la bande passante depuis des IP chinoises.,A SYN flood saturates bandwidth from Chinese IPs.,CYBER
+Une attaque par amplification sature la bande passante mitigation en cours.,Amplification attack saturates bandwidth mitigation in progress.,CYBER
+L'acheteur est hors de lui à cause du retard.,The buyer is beside himself because of the delay.,BUSINESS
+Le namespace doit être redémarré(e) erreur de config.,The namespace must be restarted config error.,INFRA
+Le noyau Linux est corrompu(e) logs inaccessibles.,The Linux kernel is corrupted logs inaccessible.,INFRA
+Le kubelet doit être redémarré(e) sur le noeud master.,The kubelet must be restarted on the master node.,INFRA
+Le démon a fait un kernel panic vérifie le fichier yaml.,The daemon caused a kernel panic check yaml file.,INFRA
+Le namespace ne démarre pas après la mise à jour.,The namespace does not start after update.,INFRA
+Le grand compte fait un scandale c'est inadmissible.,The key account is making a scene it is unacceptable.,BUSINESS
+La candidature est validé(e) par les RH.,The application is validated by HR.,HR_HIRING
+Le noyau Linux a fait un kernel panic après la mise à jour.,The Linux kernel caused a kernel panic after update.,INFRA
+Le cluster K8s ne monte pas le volume vérifie le fichier yaml.,The K8s cluster does not mount volume check yaml file.,INFRA
+Le service systemd ne démarre pas problème de ressources.,The systemd service does not start resource issue.,INFRA
+Le grand compte est très mécontent c'est inadmissible.,The key account is very dissatisfied it is unacceptable.,BUSINESS
+Le pod renvoie une erreur OOMKilled après la mise à jour.,The pod returns an OOMKilled error after update.,INFRA
+L'image Docker est en état CrashLoopBackOff sur le noeud master.,The Docker image is in CrashLoopBackOff state on the master node.,INFRA
+Une attaque DDoS sature la bande passante impact critique.,A DDoS attack saturates bandwidth critical impact.,CYBER
+L'image Docker ne démarre pas logs inaccessibles.,The Docker image does not start logs inaccessible.,INFRA
+Le grand compte est hors de lui à cause du retard.,The key account is beside himself because of the delay.,BUSINESS
+Le namespace est corrompu(e) erreur de config.,The namespace is corrupted config error.,INFRA
+Le prospect est très mécontent car le service est nul.,The prospect is very dissatisfied because the service sucks.,BUSINESS
+Le directeur a envoyé une mise en demeure sur le dossier en cours.,The director sent a formal notice on the current file.,BUSINESS
+L'image Docker a crashé logs inaccessibles.,The Docker image crashed logs inaccessible.,INFRA
+Le grand compte a envoyé une mise en demeure et il part à la concurrence.,The key account sent a formal notice and he goes to competition.,BUSINESS
+Le conteneur renvoie une erreur OOMKilled après la mise à jour.,The container returns an OOMKilled error after update.,INFRA
+Une attaque par amplification bombarde le serveur sur l'IP publique.,Amplification attack bombs the server on public IP.,CYBER
+Le pod ne monte pas le volume problème de ressources.,The pod does not mount volume resource issue.,INFRA
+Une attaque volumétrique a submergé le firewall sur l'IP publique.,A volumetric attack overwhelmed the firewall on public IP.,CYBER
+Le client VIP est hors de lui car le service est nul.,The VIP client is beside himself because the service sucks.,BUSINESS
+Le démon ne monte pas le volume sur le noeud master.,The daemon does not mount volume on the master node.,INFRA
+Le service systemd doit être redémarré(e) problème de ressources.,The systemd service must be restarted resource issue.,INFRA
+Le trafic illégitime sature la bande passante depuis des IP chinoises.,Illegitimate traffic saturates bandwidth from Chinese IPs.,CYBER
+Le conteneur a fait un kernel panic problème de ressources.,The container caused a kernel panic resource issue.,INFRA
+L'acheteur est hors de lui et il part à la concurrence.,The buyer is beside himself and he goes to competition.,BUSINESS
+Le trafic illégitime provocant un black-out c'est massif.,Illegitimate traffic causing a blackout it is massive.,CYBER
+Un flood UDP fait tomber le site trafic sortant bloqué.,A UDP flood takes down the site outgoing traffic blocked.,CYBER
+Le directeur menace de partir il faut l'appeler d'urgence.,The director threatens to leave must call him urgently.,BUSINESS
+Le service systemd ne démarre pas sur le noeud master.,The systemd service does not start on the master node.,INFRA
+Le noyau Linux est en état CrashLoopBackOff sur le noeud master.,The Linux kernel is in CrashLoopBackOff state on the master node.,INFRA
+Le démon doit être redémarré(e) après la mise à jour.,The daemon must be restarted after update.,INFRA
+Le noyau Linux a crashé logs inaccessibles.,The Linux kernel crashed logs inaccessible.,INFRA
+Le noyau Linux doit être redémarré(e) erreur de config.,The Linux kernel must be restarted config error.,INFRA
+Un flood UDP bombarde le serveur c'est massif.,A UDP flood bombs the server it is massive.,CYBER
+Une attaque par amplification provocant un black-out trafic sortant bloqué.,Amplification attack causing a blackout outgoing traffic blocked.,CYBER
+Le pod doit être redémarré(e) erreur de config.,The pod must be restarted config error.,INFRA
+Une attaque par amplification provocant un black-out impact critique.,Amplification attack causing a blackout critical impact.,CYBER
+Le conteneur renvoie une erreur OOMKilled logs inaccessibles.,The container returns an OOMKilled error logs inaccessible.,INFRA
+Le service systemd ne démarre pas erreur de config.,The systemd service does not start config error.,INFRA
+Un flood UDP bombarde le serveur sur l'IP publique.,A UDP flood bombs the server on public IP.,CYBER
+Le client VIP est très mécontent c'est inadmissible.,The VIP client is very dissatisfied it is unacceptable.,BUSINESS
+L'acheteur refuse de payer et il part à la concurrence.,The buyer refuses to pay and he goes to competition.,BUSINESS
+Un flood UDP provocant un black-out trafic sortant bloqué.,A UDP flood causing a blackout outgoing traffic blocked.,CYBER
+Le noyau Linux a crashé erreur de config.,The Linux kernel crashed config error.,INFRA
+L'exception est invalide ligne 40.,The exception is invalid line 40.,TECH
+Le namespace doit être redémarré(e) logs inaccessibles.,The namespace must be restarted logs inaccessible.,INFRA
+Le trafic illégitime bombarde le serveur trafic sortant bloqué.,Illegitimate traffic bombs the server outgoing traffic blocked.,CYBER
+Le namespace est en état CrashLoopBackOff vérifie le fichier yaml.,The namespace is in CrashLoopBackOff state check yaml file.,INFRA
+Le conteneur a crashé logs inaccessibles.,The container crashed logs inaccessible.,INFRA
+Un flood SYN cible le load balancer trafic sortant bloqué.,A SYN flood targets the load balancer outgoing traffic blocked.,CYBER
+Le démon renvoie une erreur OOMKilled problème de ressources.,The daemon returns an OOMKilled error resource issue.,INFRA
+Le pod doit être redémarré(e) après la mise à jour.,The pod must be restarted after update.,INFRA
+Le prospect est très mécontent sur le dossier en cours.,The prospect is very dissatisfied on the current file.,BUSINESS
+Le service systemd ne démarre pas logs inaccessibles.,The systemd service does not start logs inaccessible.,INFRA
+Le kubelet est en état CrashLoopBackOff vérifie le fichier yaml.,The kubelet is in CrashLoopBackOff state check yaml file.,INFRA
+Un déni de service est détecté(e) par l'anti-DDoS impact critique.,A denial of service is detected by anti-DDoS critical impact.,CYBER
+L'acheteur gueule au téléphone et il part à la concurrence.,The buyer is yelling on the phone and he goes to competition.,BUSINESS
+L'acheteur demande un remboursement il faut l'appeler d'urgence.,The buyer asks for a refund must call him urgently.,BUSINESS
+Le client est très mécontent et il part à la concurrence.,The client is very dissatisfied and he goes to competition.,BUSINESS
+Le démon ne monte pas le volume erreur de config.,The daemon does not mount volume config error.,INFRA
+Le trafic illégitime a submergé le firewall sur l'IP publique.,Illegitimate traffic overwhelmed the firewall on public IP.,CYBER
+Le noyau Linux est corrompu(e) sur le noeud master.,The Linux kernel is corrupted on the master node.,INFRA
+Le prospect gueule au téléphone suite à la panne.,The prospect is yelling on the phone following the outage.,BUSINESS
+Un flood SYN bombarde le serveur impact critique.,A SYN flood bombs the server critical impact.,CYBER
+L'acheteur demande un remboursement à cause du retard.,The buyer asks for a refund because of the delay.,BUSINESS
+Le démon ne démarre pas vérifie le fichier yaml.,The daemon does not start check yaml file.,INFRA
+Une attaque volumétrique sature la bande passante impact critique.,A volumetric attack saturates bandwidth critical impact.,CYBER
+Le client VIP fait un scandale car le service est nul.,The VIP client is making a scene because the service sucks.,BUSINESS
+Le trafic illégitime est détecté(e) par l'anti-DDoS trafic sortant bloqué.,Illegitimate traffic is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Une attaque par amplification provocant un black-out depuis des IP chinoises.,Amplification attack causing a blackout from Chinese IPs.,CYBER
+Le grand compte veut résilier son contrat et il part à la concurrence.,The key account wants to terminate his contract and he goes to competition.,BUSINESS
+L'image Docker ne démarre pas vérifie le fichier yaml.,The Docker image does not start check yaml file.,INFRA
+Le trafic illégitime sature la bande passante mitigation en cours.,Illegitimate traffic saturates bandwidth mitigation in progress.,CYBER
+L'acheteur demande un remboursement car le service est nul.,The buyer asks for a refund because the service sucks.,BUSINESS
+Le service systemd ne démarre pas après la mise à jour.,The systemd service does not start after update.,INFRA
+Le client fait un scandale suite à la panne.,The client is making a scene following the outage.,BUSINESS
+Une attaque volumétrique bombarde le serveur depuis des IP chinoises.,A volumetric attack bombs the server from Chinese IPs.,CYBER
+Le client est hors de lui suite à la panne.,The client is beside himself following the outage.,BUSINESS
+Une attaque par amplification cible le load balancer trafic sortant bloqué.,Amplification attack targets the load balancer outgoing traffic blocked.,CYBER
+Le pod ne démarre pas sur le noeud master.,The pod does not start on the master node.,INFRA
+Le service systemd ne monte pas le volume vérifie le fichier yaml.,The systemd service does not mount volume check yaml file.,INFRA
+Un déni de service cible le load balancer trafic sortant bloqué.,A denial of service targets the load balancer outgoing traffic blocked.,CYBER
+Le kubelet renvoie une erreur OOMKilled sur le noeud master.,The kubelet returns an OOMKilled error on the master node.,INFRA
+Le client VIP est hors de lui et il part à la concurrence.,The VIP client is beside himself and he goes to competition.,BUSINESS
+Le directeur est furieux suite à la panne.,The director is furious following the outage.,BUSINESS
+Le démon a crashé erreur de config.,The daemon crashed config error.,INFRA
+Le grand compte gueule au téléphone c'est inadmissible.,The key account is yelling on the phone it is unacceptable.,BUSINESS
+Le démon renvoie une erreur OOMKilled logs inaccessibles.,The daemon returns an OOMKilled error logs inaccessible.,INFRA
+Le trafic illégitime cible le load balancer depuis des IP chinoises.,Illegitimate traffic targets the load balancer from Chinese IPs.,CYBER
+L'acheteur fait un scandale à cause du retard.,The buyer is making a scene because of the delay.,BUSINESS
+Le démon est en état CrashLoopBackOff vérifie le fichier yaml.,The daemon is in CrashLoopBackOff state check yaml file.,INFRA
+Un flood UDP sature la bande passante impact critique.,A UDP flood saturates bandwidth critical impact.,CYBER
+Le prospect est très mécontent il faut l'appeler d'urgence.,The prospect is very dissatisfied must call him urgently.,BUSINESS
+Le conteneur est corrompu(e) après la mise à jour.,The container is corrupted after update.,INFRA
+Une attaque DDoS est détecté(e) par l'anti-DDoS depuis des IP chinoises.,A DDoS attack is detected by anti-DDoS from Chinese IPs.,CYBER
+Le démon doit être redémarré(e) logs inaccessibles.,The daemon must be restarted logs inaccessible.,INFRA
+Le kubelet doit être redémarré(e) logs inaccessibles.,The kubelet must be restarted logs inaccessible.,INFRA
+Le noyau Linux ne démarre pas après la mise à jour.,The Linux kernel does not start after update.,INFRA
+Le cluster K8s doit être redémarré(e) erreur de config.,The K8s cluster must be restarted config error.,INFRA
+Le client VIP refuse de payer suite à la panne.,The VIP client refuses to pay following the outage.,BUSINESS
+Le client VIP a envoyé une mise en demeure suite à la panne.,The VIP client sent a formal notice following the outage.,BUSINESS
+Une attaque volumétrique est détecté(e) par l'anti-DDoS sur l'IP publique.,A volumetric attack is detected by anti-DDoS on public IP.,CYBER
+Une attaque volumétrique sature la bande passante depuis des IP chinoises.,A volumetric attack saturates bandwidth from Chinese IPs.,CYBER
+L'image Docker est corrompu(e) logs inaccessibles.,The Docker image is corrupted logs inaccessible.,INFRA
+Le noyau Linux doit être redémarré(e) logs inaccessibles.,The Linux kernel must be restarted logs inaccessible.,INFRA
+Le directeur gueule au téléphone c'est inadmissible.,The director is yelling on the phone it is unacceptable.,BUSINESS
+Le conteneur est corrompu(e) logs inaccessibles.,The container is corrupted logs inaccessible.,INFRA
+Le grand compte fait un scandale et il part à la concurrence.,The key account is making a scene and he goes to competition.,BUSINESS
+Une attaque volumétrique provocant un black-out mitigation en cours.,A volumetric attack causing a blackout mitigation in progress.,CYBER
+Le grand compte est furieux suite à la panne.,The key account is furious following the outage.,BUSINESS
+Le client refuse de payer sur le dossier en cours.,The client refuses to pay on the current file.,BUSINESS
+Le botnet fait tomber le site depuis des IP chinoises.,The botnet takes down the site from Chinese IPs.,CYBER
+Ok ça marche.,Ok works.,MISC
+L'acheteur refuse de payer il faut l'appeler d'urgence.,The buyer refuses to pay must call him urgently.,BUSINESS
+Le prospect refuse de payer car le service est nul.,The prospect refuses to pay because the service sucks.,BUSINESS
+Le service systemd renvoie une erreur OOMKilled problème de ressources.,The systemd service returns an OOMKilled error resource issue.,INFRA
+Le cluster K8s est corrompu(e) après la mise à jour.,The K8s cluster is corrupted after update.,INFRA
+Le prospect demande un remboursement et il part à la concurrence.,The prospect asks for a refund and he goes to competition.,BUSINESS
+Le cluster K8s est corrompu(e) logs inaccessibles.,The K8s cluster is corrupted logs inaccessible.,INFRA
+Le grand compte est hors de lui suite à la panne.,The key account is beside himself following the outage.,BUSINESS
+Le noyau Linux ne démarre pas sur le noeud master.,The Linux kernel does not start on the master node.,INFRA
+Une attaque par amplification fait tomber le site depuis des IP chinoises.,Amplification attack takes down the site from Chinese IPs.,CYBER
+L'image Docker renvoie une erreur OOMKilled sur le noeud master.,The Docker image returns an OOMKilled error on the master node.,INFRA
+Le cluster K8s doit être redémarré(e) sur le noeud master.,The K8s cluster must be restarted on the master node.,INFRA
+Une attaque volumétrique cible le load balancer sur l'IP publique.,A volumetric attack targets the load balancer on public IP.,CYBER
+Un déni de service est détecté(e) par l'anti-DDoS sur l'IP publique.,A denial of service is detected by anti-DDoS on public IP.,CYBER
+Un flood SYN est détecté(e) par l'anti-DDoS depuis des IP chinoises.,A SYN flood is detected by anti-DDoS from Chinese IPs.,CYBER
+Le grand compte est furieux c'est inadmissible.,The key account is furious it is unacceptable.,BUSINESS
+Le démon est en état CrashLoopBackOff après la mise à jour.,The daemon is in CrashLoopBackOff state after update.,INFRA
+Le client est hors de lui il faut l'appeler d'urgence.,The client is beside himself must call him urgently.,BUSINESS
+Le client a envoyé une mise en demeure à cause du retard.,The client sent a formal notice because of the delay.,BUSINESS
+Le client VIP gueule au téléphone il faut l'appeler d'urgence.,The VIP client is yelling on the phone must call him urgently.,BUSINESS
+Le namespace est corrompu(e) problème de ressources.,The namespace is corrupted resource issue.,INFRA
+Le conteneur a fait un kernel panic logs inaccessibles.,The container caused a kernel panic logs inaccessible.,INFRA
+L'acheteur est hors de lui c'est inadmissible.,The buyer is beside himself it is unacceptable.,BUSINESS
+Le conteneur a fait un kernel panic sur le noeud master.,The container caused a kernel panic on the master node.,INFRA
+Le grand compte gueule au téléphone à cause du retard.,The key account is yelling on the phone because of the delay.,BUSINESS
+Le service systemd a fait un kernel panic vérifie le fichier yaml.,The systemd service caused a kernel panic check yaml file.,INFRA
+Le kubelet a crashé après la mise à jour.,The kubelet crashed after update.,INFRA
+Le grand compte a envoyé une mise en demeure il faut l'appeler d'urgence.,The key account sent a formal notice must call him urgently.,BUSINESS
+Une attaque DDoS provocant un black-out sur l'IP publique.,A DDoS attack causing a blackout on public IP.,CYBER
+Le directeur menace de partir à cause du retard.,The director threatens to leave because of the delay.,BUSINESS
+Un flood SYN fait tomber le site sur l'IP publique.,A SYN flood takes down the site on public IP.,CYBER
+Une attaque volumétrique a submergé le firewall depuis des IP chinoises.,A volumetric attack overwhelmed the firewall from Chinese IPs.,CYBER
+Le trafic illégitime sature la bande passante sur l'IP publique.,Illegitimate traffic saturates bandwidth on public IP.,CYBER
+Un flood UDP est détecté(e) par l'anti-DDoS sur l'IP publique.,A UDP flood is detected by anti-DDoS on public IP.,CYBER
+Le namespace a fait un kernel panic après la mise à jour.,The namespace caused a kernel panic after update.,INFRA
+Le client est très mécontent sur le dossier en cours.,The client is very dissatisfied on the current file.,BUSINESS
+Le client est furieux car le service est nul.,The client is furious because the service sucks.,BUSINESS
+Le client VIP est très mécontent et il part à la concurrence.,The VIP client is very dissatisfied and he goes to competition.,BUSINESS
+Le pod est en état CrashLoopBackOff erreur de config.,The pod is in CrashLoopBackOff state config error.,INFRA
+Le conteneur ne démarre pas erreur de config.,The container does not start config error.,INFRA
+Le démon doit être redémarré(e) problème de ressources.,The daemon must be restarted resource issue.,INFRA
+Le botnet est détecté(e) par l'anti-DDoS sur l'IP publique.,The botnet is detected by anti-DDoS on public IP.,CYBER
+Le grand compte est hors de lui car le service est nul.,The key account is beside himself because the service sucks.,BUSINESS
+Une attaque DDoS fait tomber le site trafic sortant bloqué.,A DDoS attack takes down the site outgoing traffic blocked.,CYBER
+Le conteneur a fait un kernel panic vérifie le fichier yaml.,The container caused a kernel panic check yaml file.,INFRA
+Le directeur gueule au téléphone et il part à la concurrence.,The director is yelling on the phone and he goes to competition.,BUSINESS
+Un déni de service est détecté(e) par l'anti-DDoS c'est massif.,A denial of service is detected by anti-DDoS it is massive.,CYBER
+Le conteneur a crashé erreur de config.,The container crashed config error.,INFRA
+Le botnet provocant un black-out impact critique.,The botnet causing a blackout critical impact.,CYBER
+Le botnet sature la bande passante mitigation en cours.,The botnet saturates bandwidth mitigation in progress.,CYBER
+L'acheteur refuse de payer à cause du retard.,The buyer refuses to pay because of the delay.,BUSINESS
+Le namespace ne monte pas le volume erreur de config.,The namespace does not mount volume config error.,INFRA
+Un flood UDP est détecté(e) par l'anti-DDoS c'est massif.,A UDP flood is detected by anti-DDoS it is massive.,CYBER
+Le client a envoyé une mise en demeure sur le dossier en cours.,The client sent a formal notice on the current file.,BUSINESS
+Une attaque volumétrique bombarde le serveur trafic sortant bloqué.,A volumetric attack bombs the server outgoing traffic blocked.,CYBER
+Une attaque par amplification cible le load balancer mitigation en cours.,Amplification attack targets the load balancer mitigation in progress.,CYBER
+Le grand compte gueule au téléphone sur le dossier en cours.,The key account is yelling on the phone on the current file.,BUSINESS
+Le client refuse de payer car le service est nul.,The client refuses to pay because the service sucks.,BUSINESS
+Le trafic illégitime fait tomber le site sur l'IP publique.,Illegitimate traffic takes down the site on public IP.,CYBER
+Le noyau Linux est corrompu(e) erreur de config.,The Linux kernel is corrupted config error.,INFRA
+Le prospect gueule au téléphone sur le dossier en cours.,The prospect is yelling on the phone on the current file.,BUSINESS
+Le pod doit être redémarré(e) logs inaccessibles.,The pod must be restarted logs inaccessible.,INFRA
+Le conteneur doit être redémarré(e) après la mise à jour.,The container must be restarted after update.,INFRA
+Un flood UDP a submergé le firewall impact critique.,A UDP flood overwhelmed the firewall critical impact.,CYBER
+L'acheteur menace de partir sur le dossier en cours.,The buyer threatens to leave on the current file.,BUSINESS
+Un déni de service sature la bande passante c'est massif.,A denial of service saturates bandwidth it is massive.,CYBER
+Le noyau Linux est en état CrashLoopBackOff vérifie le fichier yaml.,The Linux kernel is in CrashLoopBackOff state check yaml file.,INFRA
+L'entretien est refusé(e) par les RH.,The interview is rejected by HR.,HR_HIRING
+Un flood SYN sature la bande passante c'est massif.,A SYN flood saturates bandwidth it is massive.,CYBER
+L'acheteur fait un scandale suite à la panne.,The buyer is making a scene following the outage.,BUSINESS
+Le prospect est furieux suite à la panne.,The prospect is furious following the outage.,BUSINESS
+L'acheteur est hors de lui suite à la panne.,The buyer is beside himself following the outage.,BUSINESS
+Une attaque par amplification est détecté(e) par l'anti-DDoS depuis des IP chinoises.,Amplification attack is detected by anti-DDoS from Chinese IPs.,CYBER
+L'acheteur refuse de payer car le service est nul.,The buyer refuses to pay because the service sucks.,BUSINESS
+L'entretien est refusé(e) pour le poste.,The interview is rejected for the job.,HR_HIRING
+Une attaque par amplification est détecté(e) par l'anti-DDoS mitigation en cours.,Amplification attack is detected by anti-DDoS mitigation in progress.,CYBER
+Le noyau Linux doit être redémarré(e) problème de ressources.,The Linux kernel must be restarted resource issue.,INFRA
+Le client VIP fait un scandale à cause du retard.,The VIP client is making a scene because of the delay.,BUSINESS
+Une attaque DDoS est détecté(e) par l'anti-DDoS sur l'IP publique.,A DDoS attack is detected by anti-DDoS on public IP.,CYBER
+Le trafic illégitime bombarde le serveur mitigation en cours.,Illegitimate traffic bombs the server mitigation in progress.,CYBER
+Un flood UDP fait tomber le site sur l'IP publique.,A UDP flood takes down the site on public IP.,CYBER
+Le prospect fait un scandale sur le dossier en cours.,The prospect is making a scene on the current file.,BUSINESS
+Le client VIP est hors de lui suite à la panne.,The VIP client is beside himself following the outage.,BUSINESS
+Le pod ne démarre pas logs inaccessibles.,The pod does not start logs inaccessible.,INFRA
+Le service systemd est corrompu(e) problème de ressources.,The systemd service is corrupted resource issue.,INFRA
+Une attaque par amplification cible le load balancer impact critique.,Amplification attack targets the load balancer critical impact.,CYBER
+Le trafic illégitime est détecté(e) par l'anti-DDoS depuis des IP chinoises.,Illegitimate traffic is detected by anti-DDoS from Chinese IPs.,CYBER
+Une attaque par amplification fait tomber le site c'est massif.,Amplification attack takes down the site it is massive.,CYBER
+Le botnet cible le load balancer trafic sortant bloqué.,The botnet targets the load balancer outgoing traffic blocked.,CYBER
+Le noyau Linux doit être redémarré(e) vérifie le fichier yaml.,The Linux kernel must be restarted check yaml file.,INFRA
+Une attaque DDoS sature la bande passante mitigation en cours.,A DDoS attack saturates bandwidth mitigation in progress.,CYBER
+Une attaque DDoS cible le load balancer trafic sortant bloqué.,A DDoS attack targets the load balancer outgoing traffic blocked.,CYBER
+Le trafic illégitime bombarde le serveur depuis des IP chinoises.,Illegitimate traffic bombs the server from Chinese IPs.,CYBER
+Une attaque DDoS cible le load balancer depuis des IP chinoises.,A DDoS attack targets the load balancer from Chinese IPs.,CYBER
+Le namespace est corrompu(e) vérifie le fichier yaml.,The namespace is corrupted check yaml file.,INFRA
+Le botnet sature la bande passante depuis des IP chinoises.,The botnet saturates bandwidth from Chinese IPs.,CYBER
+L'acheteur gueule au téléphone suite à la panne.,The buyer is yelling on the phone following the outage.,BUSINESS
+Une attaque par amplification est détecté(e) par l'anti-DDoS trafic sortant bloqué.,Amplification attack is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Le grand compte veut résilier son contrat il faut l'appeler d'urgence.,The key account wants to terminate his contract must call him urgently.,BUSINESS
+Le botnet cible le load balancer sur l'IP publique.,The botnet targets the load balancer on public IP.,CYBER
+Le namespace renvoie une erreur OOMKilled après la mise à jour.,The namespace returns an OOMKilled error after update.,INFRA
+Le démon ne monte pas le volume après la mise à jour.,The daemon does not mount volume after update.,INFRA
+Le conteneur est corrompu(e) problème de ressources.,The container is corrupted resource issue.,INFRA
+Le service systemd ne monte pas le volume après la mise à jour.,The systemd service does not mount volume after update.,INFRA
+Le client a envoyé une mise en demeure car le service est nul.,The client sent a formal notice because the service sucks.,BUSINESS
+Une attaque volumétrique est détecté(e) par l'anti-DDoS trafic sortant bloqué.,A volumetric attack is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Le service systemd a crashé vérifie le fichier yaml.,The systemd service crashed check yaml file.,INFRA
+Le conteneur renvoie une erreur OOMKilled vérifie le fichier yaml.,The container returns an OOMKilled error check yaml file.,INFRA
+La candidature est refusé(e) par les RH.,The application is rejected by HR.,HR_HIRING
+L'image Docker renvoie une erreur OOMKilled erreur de config.,The Docker image returns an OOMKilled error config error.,INFRA
+Le client veut résilier son contrat car le service est nul.,The client wants to terminate his contract because the service sucks.,BUSINESS
+La syntaxe est invalide ligne 40.,The syntax is invalid line 40.,TECH
+Le botnet cible le load balancer impact critique.,The botnet targets the load balancer critical impact.,CYBER
+Le client a envoyé une mise en demeure il faut l'appeler d'urgence.,The client sent a formal notice must call him urgently.,BUSINESS
+Un flood SYN provocant un black-out sur l'IP publique.,A SYN flood causing a blackout on public IP.,CYBER
+Le directeur fait un scandale suite à la panne.,The director is making a scene following the outage.,BUSINESS
+Le prospect refuse de payer suite à la panne.,The prospect refuses to pay following the outage.,BUSINESS
+L'image Docker est en état CrashLoopBackOff vérifie le fichier yaml.,The Docker image is in CrashLoopBackOff state check yaml file.,INFRA
+L'image Docker a crashé erreur de config.,The Docker image crashed config error.,INFRA
+Le noyau Linux a crashé après la mise à jour.,The Linux kernel crashed after update.,INFRA
+Le kubelet renvoie une erreur OOMKilled problème de ressources.,The kubelet returns an OOMKilled error resource issue.,INFRA
+Un flood UDP cible le load balancer mitigation en cours.,A UDP flood targets the load balancer mitigation in progress.,CYBER
+Le prospect demande un remboursement à cause du retard.,The prospect asks for a refund because of the delay.,BUSINESS
+L'image Docker a fait un kernel panic vérifie le fichier yaml.,The Docker image caused a kernel panic check yaml file.,INFRA
+Le trafic illégitime provocant un black-out impact critique.,Illegitimate traffic causing a blackout critical impact.,CYBER
+Le namespace est en état CrashLoopBackOff problème de ressources.,The namespace is in CrashLoopBackOff state resource issue.,INFRA
+Un flood SYN est détecté(e) par l'anti-DDoS mitigation en cours.,A SYN flood is detected by anti-DDoS mitigation in progress.,CYBER
+Le prospect a envoyé une mise en demeure à cause du retard.,The prospect sent a formal notice because of the delay.,BUSINESS
+Le trafic illégitime a submergé le firewall trafic sortant bloqué.,Illegitimate traffic overwhelmed the firewall outgoing traffic blocked.,CYBER
+Le botnet cible le load balancer depuis des IP chinoises.,The botnet targets the load balancer from Chinese IPs.,CYBER
+Le service systemd a crashé problème de ressources.,The systemd service crashed resource issue.,INFRA
+Le kubelet a fait un kernel panic sur le noeud master.,The kubelet caused a kernel panic on the master node.,INFRA
+Le client gueule au téléphone c'est inadmissible.,The client is yelling on the phone it is unacceptable.,BUSINESS
+Le pod a fait un kernel panic après la mise à jour.,The pod caused a kernel panic after update.,INFRA
+L'image Docker a fait un kernel panic sur le noeud master.,The Docker image caused a kernel panic on the master node.,INFRA
+L'entretien est validé(e) par les RH.,The interview is validated by HR.,HR_HIRING
+Le noyau Linux ne monte pas le volume vérifie le fichier yaml.,The Linux kernel does not mount volume check yaml file.,INFRA
+Le client est furieux il faut l'appeler d'urgence.,The client is furious must call him urgently.,BUSINESS
+Le pod est corrompu(e) problème de ressources.,The pod is corrupted resource issue.,INFRA
+Le service systemd est corrompu(e) après la mise à jour.,The systemd service is corrupted after update.,INFRA
+Un flood UDP provocant un black-out impact critique.,A UDP flood causing a blackout critical impact.,CYBER
+Le conteneur a crashé après la mise à jour.,The container crashed after update.,INFRA
+Le trafic illégitime provocant un black-out sur l'IP publique.,Illegitimate traffic causing a blackout on public IP.,CYBER
+Le namespace a fait un kernel panic sur le noeud master.,The namespace caused a kernel panic on the master node.,INFRA
+Le prospect veut résilier son contrat il faut l'appeler d'urgence.,The prospect wants to terminate his contract must call him urgently.,BUSINESS
+Le directeur refuse de payer sur le dossier en cours.,The director refuses to pay on the current file.,BUSINESS
+Le directeur veut résilier son contrat car le service est nul.,The director wants to terminate his contract because the service sucks.,BUSINESS
+Le conteneur doit être redémarré(e) vérifie le fichier yaml.,The container must be restarted check yaml file.,INFRA
+Le prospect est furieux c'est inadmissible.,The prospect is furious it is unacceptable.,BUSINESS
+Le client VIP est furieux c'est inadmissible.,The VIP client is furious it is unacceptable.,BUSINESS
+Le client est hors de lui à cause du retard.,The client is beside himself because of the delay.,BUSINESS
+Le cluster K8s ne démarre pas problème de ressources.,The K8s cluster does not start resource issue.,INFRA
+Le client VIP veut résilier son contrat c'est inadmissible.,The VIP client wants to terminate his contract it is unacceptable.,BUSINESS
+Le kubelet est corrompu(e) problème de ressources.,The kubelet is corrupted resource issue.,INFRA
+Le pod ne monte pas le volume erreur de config.,The pod does not mount volume config error.,INFRA
+Le prospect gueule au téléphone et il part à la concurrence.,The prospect is yelling on the phone and he goes to competition.,BUSINESS
+Le kubelet a fait un kernel panic vérifie le fichier yaml.,The kubelet caused a kernel panic check yaml file.,INFRA
+Le client est furieux et il part à la concurrence.,The client is furious and he goes to competition.,BUSINESS
+Le noyau Linux ne démarre pas erreur de config.,The Linux kernel does not start config error.,INFRA
+Le client refuse de payer à cause du retard.,The client refuses to pay because of the delay.,BUSINESS
+Le démon ne démarre pas après la mise à jour.,The daemon does not start after update.,INFRA
+Le noyau Linux a fait un kernel panic vérifie le fichier yaml.,The Linux kernel caused a kernel panic check yaml file.,INFRA
+Le démon est corrompu(e) après la mise à jour.,The daemon is corrupted after update.,INFRA
+Le démon a crashé vérifie le fichier yaml.,The daemon crashed check yaml file.,INFRA
+L'acheteur gueule au téléphone sur le dossier en cours.,The buyer is yelling on the phone on the current file.,BUSINESS
+Le grand compte fait un scandale il faut l'appeler d'urgence.,The key account is making a scene must call him urgently.,BUSINESS
+Le kubelet a fait un kernel panic problème de ressources.,The kubelet caused a kernel panic resource issue.,INFRA
+Le prospect est hors de lui à cause du retard.,The prospect is beside himself because of the delay.,BUSINESS
+Le client VIP fait un scandale c'est inadmissible.,The VIP client is making a scene it is unacceptable.,BUSINESS
+Un déni de service a submergé le firewall depuis des IP chinoises.,A denial of service overwhelmed the firewall from Chinese IPs.,CYBER
+Le trafic illégitime a submergé le firewall c'est massif.,Illegitimate traffic overwhelmed the firewall it is massive.,CYBER
+Le grand compte veut résilier son contrat sur le dossier en cours.,The key account wants to terminate his contract on the current file.,BUSINESS
+Le démon doit être redémarré(e) erreur de config.,The daemon must be restarted config error.,INFRA
+Le namespace est en état CrashLoopBackOff logs inaccessibles.,The namespace is in CrashLoopBackOff state logs inaccessible.,INFRA
+Une attaque DDoS provocant un black-out trafic sortant bloqué.,A DDoS attack causing a blackout outgoing traffic blocked.,CYBER
+Un flood SYN bombarde le serveur depuis des IP chinoises.,A SYN flood bombs the server from Chinese IPs.,CYBER
+Un déni de service bombarde le serveur sur l'IP publique.,A denial of service bombs the server on public IP.,CYBER
+Un déni de service a submergé le firewall trafic sortant bloqué.,A denial of service overwhelmed the firewall outgoing traffic blocked.,CYBER
+Le prospect menace de partir sur le dossier en cours.,The prospect threatens to leave on the current file.,BUSINESS
+Le directeur a envoyé une mise en demeure car le service est nul.,The director sent a formal notice because the service sucks.,BUSINESS
+Le namespace ne monte pas le volume logs inaccessibles.,The namespace does not mount volume logs inaccessible.,INFRA
+Le conteneur ne monte pas le volume erreur de config.,The container does not mount volume config error.,INFRA
+Elle m'énerve.,She annoys me.,GOSSIP
+Le prospect veut résilier son contrat à cause du retard.,The prospect wants to terminate his contract because of the delay.,BUSINESS
+Un flood SYN bombarde le serveur c'est massif.,A SYN flood bombs the server it is massive.,CYBER
+Le botnet sature la bande passante c'est massif.,The botnet saturates bandwidth it is massive.,CYBER
+Le client gueule au téléphone suite à la panne.,The client is yelling on the phone following the outage.,BUSINESS
+Le service systemd a crashé après la mise à jour.,The systemd service crashed after update.,INFRA
+Le prospect a envoyé une mise en demeure car le service est nul.,The prospect sent a formal notice because the service sucks.,BUSINESS
+Le namespace ne monte pas le volume problème de ressources.,The namespace does not mount volume resource issue.,INFRA
+Le client fait un scandale c'est inadmissible.,The client is making a scene it is unacceptable.,BUSINESS
+Le pod a fait un kernel panic logs inaccessibles.,The pod caused a kernel panic logs inaccessible.,INFRA
+Le client est furieux c'est inadmissible.,The client is furious it is unacceptable.,BUSINESS
+Une attaque DDoS bombarde le serveur sur l'IP publique.,A DDoS attack bombs the server on public IP.,CYBER
+Le client est très mécontent à cause du retard.,The client is very dissatisfied because of the delay.,BUSINESS
+Le kubelet a crashé vérifie le fichier yaml.,The kubelet crashed check yaml file.,INFRA
+Le kubelet est en état CrashLoopBackOff sur le noeud master.,The kubelet is in CrashLoopBackOff state on the master node.,INFRA
+L'acheteur est furieux car le service est nul.,The buyer is furious because the service sucks.,BUSINESS
+Le trafic illégitime bombarde le serveur impact critique.,Illegitimate traffic bombs the server critical impact.,CYBER
+Une attaque par amplification bombarde le serveur trafic sortant bloqué.,Amplification attack bombs the server outgoing traffic blocked.,CYBER
+Le botnet bombarde le serveur impact critique.,The botnet bombs the server critical impact.,CYBER
+Le kubelet doit être redémarré(e) vérifie le fichier yaml.,The kubelet must be restarted check yaml file.,INFRA
+Le client VIP a envoyé une mise en demeure à cause du retard.,The VIP client sent a formal notice because of the delay.,BUSINESS
+Le prospect demande un remboursement suite à la panne.,The prospect asks for a refund following the outage.,BUSINESS
+L'image Docker ne monte pas le volume sur le noeud master.,The Docker image does not mount volume on the master node.,INFRA
+Une attaque DDoS a submergé le firewall sur l'IP publique.,A DDoS attack overwhelmed the firewall on public IP.,CYBER
+Le trafic illégitime a submergé le firewall depuis des IP chinoises.,Illegitimate traffic overwhelmed the firewall from Chinese IPs.,CYBER
+Le grand compte fait un scandale suite à la panne.,The key account is making a scene following the outage.,BUSINESS
+Le trafic illégitime provocant un black-out mitigation en cours.,Illegitimate traffic causing a blackout mitigation in progress.,CYBER
+Le service systemd est en état CrashLoopBackOff vérifie le fichier yaml.,The systemd service is in CrashLoopBackOff state check yaml file.,INFRA
+Le client est hors de lui et il part à la concurrence.,The client is beside himself and he goes to competition.,BUSINESS
+Le directeur a envoyé une mise en demeure il faut l'appeler d'urgence.,The director sent a formal notice must call him urgently.,BUSINESS
+Le client VIP gueule au téléphone et il part à la concurrence.,The VIP client is yelling on the phone and he goes to competition.,BUSINESS
+Le démon est en état CrashLoopBackOff erreur de config.,The daemon is in CrashLoopBackOff state config error.,INFRA
+L'acheteur fait un scandale sur le dossier en cours.,The buyer is making a scene on the current file.,BUSINESS
+Le botnet est détecté(e) par l'anti-DDoS c'est massif.,The botnet is detected by anti-DDoS it is massive.,CYBER
+Le directeur gueule au téléphone suite à la panne.,The director is yelling on the phone following the outage.,BUSINESS
+Le client est hors de lui c'est inadmissible.,The client is beside himself it is unacceptable.,BUSINESS
+Le cluster K8s ne démarre pas vérifie le fichier yaml.,The K8s cluster does not start check yaml file.,INFRA
+Le prospect a envoyé une mise en demeure et il part à la concurrence.,The prospect sent a formal notice and he goes to competition.,BUSINESS
+Une attaque DDoS sature la bande passante trafic sortant bloqué.,A DDoS attack saturates bandwidth outgoing traffic blocked.,CYBER
+L'acheteur menace de partir il faut l'appeler d'urgence.,The buyer threatens to leave must call him urgently.,BUSINESS
+Le pod est en état CrashLoopBackOff vérifie le fichier yaml.,The pod is in CrashLoopBackOff state check yaml file.,INFRA
+Le kubelet ne démarre pas après la mise à jour.,The kubelet does not start after update.,INFRA
+Une attaque volumétrique bombarde le serveur mitigation en cours.,A volumetric attack bombs the server mitigation in progress.,CYBER
+Le client VIP est hors de lui il faut l'appeler d'urgence.,The VIP client is beside himself must call him urgently.,BUSINESS
+Le namespace a fait un kernel panic logs inaccessibles.,The namespace caused a kernel panic logs inaccessible.,INFRA
+Le prospect est furieux car le service est nul.,The prospect is furious because the service sucks.,BUSINESS
+L'image Docker est en état CrashLoopBackOff logs inaccessibles.,The Docker image is in CrashLoopBackOff state logs inaccessible.,INFRA
+Le kubelet est en état CrashLoopBackOff erreur de config.,The kubelet is in CrashLoopBackOff state config error.,INFRA
+Un déni de service fait tomber le site sur l'IP publique.,A denial of service takes down the site on public IP.,CYBER
+Un flood UDP est détecté(e) par l'anti-DDoS trafic sortant bloqué.,A UDP flood is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Le pod est corrompu(e) vérifie le fichier yaml.,The pod is corrupted check yaml file.,INFRA
+Le conteneur est en état CrashLoopBackOff après la mise à jour.,The container is in CrashLoopBackOff state after update.,INFRA
+Le grand compte fait un scandale car le service est nul.,The key account is making a scene because the service sucks.,BUSINESS
+Une attaque par amplification cible le load balancer sur l'IP publique.,Amplification attack targets the load balancer on public IP.,CYBER
+Une attaque volumétrique a submergé le firewall impact critique.,A volumetric attack overwhelmed the firewall critical impact.,CYBER
+Le service systemd ne monte pas le volume sur le noeud master.,The systemd service does not mount volume on the master node.,INFRA
+Le noyau Linux ne monte pas le volume erreur de config.,The Linux kernel does not mount volume config error.,INFRA
+Le noyau Linux a crashé vérifie le fichier yaml.,The Linux kernel crashed check yaml file.,INFRA
+Le client demande un remboursement car le service est nul.,The client asks for a refund because the service sucks.,BUSINESS
+Une attaque par amplification provocant un black-out mitigation en cours.,Amplification attack causing a blackout mitigation in progress.,CYBER
+Le cluster K8s est en état CrashLoopBackOff sur le noeud master.,The K8s cluster is in CrashLoopBackOff state on the master node.,INFRA
+Le namespace est en état CrashLoopBackOff sur le noeud master.,The namespace is in CrashLoopBackOff state on the master node.,INFRA
+Le conteneur est en état CrashLoopBackOff logs inaccessibles.,The container is in CrashLoopBackOff state logs inaccessible.,INFRA
+Un déni de service sature la bande passante depuis des IP chinoises.,A denial of service saturates bandwidth from Chinese IPs.,CYBER
+L'acheteur est furieux et il part à la concurrence.,The buyer is furious and he goes to competition.,BUSINESS
+Le directeur menace de partir sur le dossier en cours.,The director threatens to leave on the current file.,BUSINESS
+L'image Docker a crashé sur le noeud master.,The Docker image crashed on the master node.,INFRA
+Le client veut résilier son contrat et il part à la concurrence.,The client wants to terminate his contract and he goes to competition.,BUSINESS
+Le grand compte refuse de payer et il part à la concurrence.,The key account refuses to pay and he goes to competition.,BUSINESS
+Le pod ne démarre pas vérifie le fichier yaml.,The pod does not start check yaml file.,INFRA
+Une attaque par amplification a submergé le firewall mitigation en cours.,Amplification attack overwhelmed the firewall mitigation in progress.,CYBER
+Une attaque DDoS provocant un black-out mitigation en cours.,A DDoS attack causing a blackout mitigation in progress.,CYBER
+L'acheteur veut résilier son contrat sur le dossier en cours.,The buyer wants to terminate his contract on the current file.,BUSINESS
+L'acheteur gueule au téléphone à cause du retard.,The buyer is yelling on the phone because of the delay.,BUSINESS
+Le directeur veut résilier son contrat il faut l'appeler d'urgence.,The director wants to terminate his contract must call him urgently.,BUSINESS
+Le démon a fait un kernel panic sur le noeud master.,The daemon caused a kernel panic on the master node.,INFRA
+Une attaque DDoS est détecté(e) par l'anti-DDoS trafic sortant bloqué.,A DDoS attack is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Le démon est en état CrashLoopBackOff problème de ressources.,The daemon is in CrashLoopBackOff state resource issue.,INFRA
+La syntaxe lance une erreur dans la boucle.,The syntax throws an error in the loop.,TECH
+Un déni de service est détecté(e) par l'anti-DDoS trafic sortant bloqué.,A denial of service is detected by anti-DDoS outgoing traffic blocked.,CYBER
+Le grand compte menace de partir c'est inadmissible.,The key account threatens to leave it is unacceptable.,BUSINESS
+L'image Docker ne monte pas le volume problème de ressources.,The Docker image does not mount volume resource issue.,INFRA
+Le code est invalide dans la boucle.,The code is invalid in the loop.,TECH
+Le démon ne démarre pas erreur de config.,The daemon does not start config error.,INFRA
+Le grand compte demande un remboursement c'est inadmissible.,The key account asks for a refund it is unacceptable.,BUSINESS
+Le namespace a crashé erreur de config.,The namespace crashed config error.,INFRA
+L'acheteur est furieux il faut l'appeler d'urgence.,The buyer is furious must call him urgently.,BUSINESS
+Le kubelet est en état CrashLoopBackOff logs inaccessibles.,The kubelet is in CrashLoopBackOff state logs inaccessible.,INFRA
+Le client VIP est très mécontent il faut l'appeler d'urgence.,The VIP client is very dissatisfied must call him urgently.,BUSINESS
+Le directeur menace de partir et il part à la concurrence.,The director threatens to leave and he goes to competition.,BUSINESS
+Une attaque DDoS bombarde le serveur depuis des IP chinoises.,A DDoS attack bombs the server from Chinese IPs.,CYBER
+Le botnet sature la bande passante trafic sortant bloqué.,The botnet saturates bandwidth outgoing traffic blocked.,CYBER
+Le kubelet ne démarre pas sur le noeud master.,The kubelet does not start on the master node.,INFRA
+Le kubelet a crashé problème de ressources.,The kubelet crashed resource issue.,INFRA
+Le client VIP refuse de payer à cause du retard.,The VIP client refuses to pay because of the delay.,BUSINESS
+Le botnet provocant un black-out sur l'IP publique.,The botnet causing a blackout on public IP.,CYBER
+La candidature est validé(e) pour le poste.,The application is validated for the job.,HR_HIRING
+Le cluster K8s doit être redémarré(e) logs inaccessibles.,The K8s cluster must be restarted logs inaccessible.,INFRA
+Un déni de service a submergé le firewall sur l'IP publique.,A denial of service overwhelmed the firewall on public IP.,CYBER
+Le client menace de partir suite à la panne.,The client threatens to leave following the outage.,BUSINESS
+Un flood SYN est détecté(e) par l'anti-DDoS sur l'IP publique.,A SYN flood is detected by anti-DDoS on public IP.,CYBER
+Le service systemd ne monte pas le volume erreur de config.,The systemd service does not mount volume config error.,INFRA
+Le client est furieux suite à la panne.,The client is furious following the outage.,BUSINESS
+Le kubelet doit être redémarré(e) après la mise à jour.,The kubelet must be restarted after update.,INFRA
+Le cluster K8s ne démarre pas après la mise à jour.,The K8s cluster does not start after update.,INFRA
+Le démon renvoie une erreur OOMKilled erreur de config.,The daemon returns an OOMKilled error config error.,INFRA
+L'image Docker est corrompu(e) erreur de config.,The Docker image is corrupted config error.,INFRA
+Le service systemd ne monte pas le volume logs inaccessibles.,The systemd service does not mount volume logs inaccessible.,INFRA
+Le prospect est hors de lui sur le dossier en cours.,The prospect is beside himself on the current file.,BUSINESS
+Un flood UDP a submergé le firewall depuis des IP chinoises.,A UDP flood overwhelmed the firewall from Chinese IPs.,CYBER
+L'acheteur a envoyé une mise en demeure sur le dossier en cours.,The buyer sent a formal notice on the current file.,BUSINESS
+Le conteneur doit être redémarré(e) erreur de config.,The container must be restarted config error.,INFRA
+L'acheteur veut résilier son contrat car le service est nul.,The buyer wants to terminate his contract because the service sucks.,BUSINESS
+Une attaque par amplification fait tomber le site trafic sortant bloqué.,Amplification attack takes down the site outgoing traffic blocked.,CYBER
+Le grand compte refuse de payer à cause du retard.,The key account refuses to pay because of the delay.,BUSINESS
+Le démon a fait un kernel panic problème de ressources.,The daemon caused a kernel panic resource issue.,INFRA
+Le cluster K8s est corrompu(e) sur le noeud master.,The K8s cluster is corrupted on the master node.,INFRA
+Un flood UDP fait tomber le site c'est massif.,A UDP flood takes down the site it is massive.,CYBER
+Le client demande un remboursement sur le dossier en cours.,The client asks for a refund on the current file.,BUSINESS
+Une attaque DDoS est détecté(e) par l'anti-DDoS c'est massif.,A DDoS attack is detected by anti-DDoS it is massive.,CYBER
+Le noyau Linux a crashé sur le noeud master.,The Linux kernel crashed on the master node.,INFRA
+Le noyau Linux renvoie une erreur OOMKilled erreur de config.,The Linux kernel returns an OOMKilled error config error.,INFRA
+Le prospect gueule au téléphone il faut l'appeler d'urgence.,The prospect is yelling on the phone must call him urgently.,BUSINESS
+Le noyau Linux renvoie une erreur OOMKilled problème de ressources.,The Linux kernel returns an OOMKilled error resource issue.,INFRA
+Le directeur demande un remboursement car le service est nul.,The director asks for a refund because the service sucks.,BUSINESS
+Le client VIP est hors de lui sur le dossier en cours.,The VIP client is beside himself on the current file.,BUSINESS
+Le client refuse de payer et il part à la concurrence.,The client refuses to pay and he goes to competition.,BUSINESS
+Le service systemd est corrompu(e) logs inaccessibles.,The systemd service is corrupted logs inaccessible.,INFRA
+Je vois.,I see.,MISC
+Le prospect menace de partir et il part à la concurrence.,The prospect threatens to leave and he goes to competition.,BUSINESS
+Le prospect refuse de payer et il part à la concurrence.,The prospect refuses to pay and he goes to competition.,BUSINESS
+Le grand compte est très mécontent et il part à la concurrence.,The key account is very dissatisfied and he goes to competition.,BUSINESS
+Le cluster K8s est en état CrashLoopBackOff vérifie le fichier yaml.,The K8s cluster is in CrashLoopBackOff state check yaml file.,INFRA
+Le directeur gueule au téléphone sur le dossier en cours.,The director is yelling on the phone on the current file.,BUSINESS
+Le service systemd a crashé sur le noeud master.,The systemd service crashed on the master node.,INFRA
+Le directeur demande un remboursement il faut l'appeler d'urgence.,The director asks for a refund must call him urgently.,BUSINESS
+L'image Docker a fait un kernel panic erreur de config.,The Docker image caused a kernel panic config error.,INFRA
+L'acheteur est très mécontent suite à la panne.,The buyer is very dissatisfied following the outage.,BUSINESS
+Le noyau Linux ne démarre pas problème de ressources.,The Linux kernel does not start resource issue.,INFRA
+Le pod ne monte pas le volume logs inaccessibles.,The pod does not mount volume logs inaccessible.,INFRA
+Le service systemd renvoie une erreur OOMKilled vérifie le fichier yaml.,The systemd service returns an OOMKilled error check yaml file.,INFRA
+L'acheteur est très mécontent et il part à la concurrence.,The buyer is very dissatisfied and he goes to competition.,BUSINESS
+Le directeur est très mécontent il faut l'appeler d'urgence.,The director is very dissatisfied must call him urgently.,BUSINESS
+L'image Docker ne démarre pas sur le noeud master.,The Docker image does not start on the master node.,INFRA
+Le prospect est hors de lui suite à la panne.,The prospect is beside himself following the outage.,BUSINESS
+Le kubelet ne démarre pas problème de ressources.,The kubelet does not start resource issue.,INFRA
+Le namespace a crashé logs inaccessibles.,The namespace crashed logs inaccessible.,INFRA
+Tu me manques.,I miss you.,LOVE
+Le client veut résilier son contrat il faut l'appeler d'urgence.,The client wants to terminate his contract must call him urgently.,BUSINESS
+Le directeur veut résilier son contrat à cause du retard.,The director wants to terminate his contract because of the delay.,BUSINESS
+Le grand compte est très mécontent à cause du retard.,The key account is very dissatisfied because of the delay.,BUSINESS
+Le cluster K8s a fait un kernel panic problème de ressources.,The K8s cluster caused a kernel panic resource issue.,INFRA
+Un déni de service cible le load balancer c'est massif.,A denial of service targets the load balancer it is massive.,CYBER
+Le grand compte menace de partir sur le dossier en cours.,The key account threatens to leave on the current file.,BUSINESS
+Le directeur refuse de payer il faut l'appeler d'urgence.,The director refuses to pay must call him urgently.,BUSINESS
+Une attaque par amplification fait tomber le site sur l'IP publique.,Amplification attack takes down the site on public IP.,CYBER
+Un flood SYN a submergé le firewall mitigation en cours.,A SYN flood overwhelmed the firewall mitigation in progress.,CYBER
+Le namespace a crashé sur le noeud master.,The namespace crashed on the master node.,INFRA
+Le namespace est en état CrashLoopBackOff erreur de config.,The namespace is in CrashLoopBackOff state config error.,INFRA
+Le pod a fait un kernel panic erreur de config.,The pod caused a kernel panic config error.,INFRA
+Le trafic illégitime sature la bande passante c'est massif.,Illegitimate traffic saturates bandwidth it is massive.,CYBER
+Le démon est en état CrashLoopBackOff logs inaccessibles.,The daemon is in CrashLoopBackOff state logs inaccessible.,INFRA
+Une attaque volumétrique fait tomber le site trafic sortant bloqué.,A volumetric attack takes down the site outgoing traffic blocked.,CYBER
+Bisous.,Kisses.,LOVE
+Le directeur demande un remboursement sur le dossier en cours.,The director asks for a refund on the current file.,BUSINESS
+Une attaque par amplification fait tomber le site mitigation en cours.,Amplification attack takes down the site mitigation in progress.,CYBER
+Un déni de service fait tomber le site impact critique.,A denial of service takes down the site critical impact.,CYBER
+Le cluster K8s ne monte pas le volume problème de ressources.,The K8s cluster does not mount volume resource issue.,INFRA
+Le service systemd est corrompu(e) erreur de config.,The systemd service is corrupted config error.,INFRA
+Le client demande un remboursement il faut l'appeler d'urgence.,The client asks for a refund must call him urgently.,BUSINESS
+Le grand compte est très mécontent suite à la panne.,The key account is very dissatisfied following the outage.,BUSINESS
+Un flood SYN cible le load balancer sur l'IP publique.,A SYN flood targets the load balancer on public IP.,CYBER
+Un flood SYN sature la bande passante impact critique.,A SYN flood saturates bandwidth critical impact.,CYBER
+Le kubelet renvoie une erreur OOMKilled après la mise à jour.,The kubelet returns an OOMKilled error after update.,INFRA
+Une attaque volumétrique bombarde le serveur impact critique.,A volumetric attack bombs the server critical impact.,CYBER
+L'acheteur fait un scandale car le service est nul.,The buyer is making a scene because the service sucks.,BUSINESS
+Le trafic illégitime cible le load balancer c'est massif.,Illegitimate traffic targets the load balancer it is massive.,CYBER
+Le client gueule au téléphone il faut l'appeler d'urgence.,The client is yelling on the phone must call him urgently.,BUSINESS
+Un flood SYN cible le load balancer c'est massif.,A SYN flood targets the load balancer it is massive.,CYBER
+Le client VIP est furieux à cause du retard.,The VIP client is furious because of the delay.,BUSINESS
+Le client VIP refuse de payer sur le dossier en cours.,The VIP client refuses to pay on the current file.,BUSINESS
+L'acheteur demande un remboursement c'est inadmissible.,The buyer asks for a refund it is unacceptable.,BUSINESS
+Une attaque volumétrique provocant un black-out trafic sortant bloqué.,A volumetric attack causing a blackout outgoing traffic blocked.,CYBER
+Le namespace renvoie une erreur OOMKilled logs inaccessibles.,The namespace returns an OOMKilled error logs inaccessible.,INFRA
+Un flood SYN fait tomber le site c'est massif.,A SYN flood takes down the site it is massive.,CYBER
+Une attaque DDoS a submergé le firewall depuis des IP chinoises.,A DDoS attack overwhelmed the firewall from Chinese IPs.,CYBER
+Le conteneur doit être redémarré(e) problème de ressources.,The container must be restarted resource issue.,INFRA
+Un flood UDP provocant un black-out c'est massif.,A UDP flood causing a blackout it is massive.,CYBER
+Dac.,Ok.,MISC
+Le directeur demande un remboursement suite à la panne.,The director asks for a refund following the outage.,BUSINESS
+Le démon a crashé problème de ressources.,The daemon crashed resource issue.,INFRA
+Le prospect est très mécontent c'est inadmissible.,The prospect is very dissatisfied it is unacceptable.,BUSINESS
+Le directeur gueule au téléphone à cause du retard.,The director is yelling on the phone because of the delay.,BUSINESS
+Le conteneur doit être redémarré(e) logs inaccessibles.,The container must be restarted logs inaccessible.,INFRA
+Le prospect menace de partir c'est inadmissible.,The prospect threatens to leave it is unacceptable.,BUSINESS
+Le prospect est hors de lui et il part à la concurrence.,The prospect is beside himself and he goes to competition.,BUSINESS
+Le directeur est très mécontent et il part à la concurrence.,The director is very dissatisfied and he goes to competition.,BUSINESS
+Le pod a crashé vérifie le fichier yaml.,The pod crashed check yaml file.,INFRA
+Le conteneur est corrompu(e) vérifie le fichier yaml.,The container is corrupted check yaml file.,INFRA
+Une attaque DDoS cible le load balancer sur l'IP publique.,A DDoS attack targets the load balancer on public IP.,CYBER
+Le démon a fait un kernel panic après la mise à jour.,The daemon caused a kernel panic after update.,INFRA
+L'image Docker renvoie une erreur OOMKilled vérifie le fichier yaml.,The Docker image returns an OOMKilled error check yaml file.,INFRA
+Un flood UDP est détecté(e) par l'anti-DDoS mitigation en cours.,A UDP flood is detected by anti-DDoS mitigation in progress.,CYBER
+Le grand compte veut résilier son contrat suite à la panne.,The key account wants to terminate his contract following the outage.,BUSINESS
+L'image Docker ne monte pas le volume erreur de config.,The Docker image does not mount volume config error.,INFRA
+Le grand compte refuse de payer sur le dossier en cours.,The key account refuses to pay on the current file.,BUSINESS
+L'acheteur est hors de lui il faut l'appeler d'urgence.,The buyer is beside himself must call him urgently.,BUSINESS
+Le botnet sature la bande passante sur l'IP publique.,The botnet saturates bandwidth on public IP.,CYBER
+L'exception est invalide dans la boucle.,The exception is invalid in the loop.,TECH
+Le botnet fait tomber le site sur l'IP publique.,The botnet takes down the site on public IP.,CYBER
+Le client VIP fait un scandale et il part à la concurrence.,The VIP client is making a scene and he goes to competition.,BUSINESS
+Le botnet bombarde le serveur c'est massif.,The botnet bombs the server it is massive.,CYBER
+Une attaque volumétrique fait tomber le site impact critique.,A volumetric attack takes down the site critical impact.,CYBER
+Le pod a fait un kernel panic sur le noeud master.,The pod caused a kernel panic on the master node.,INFRA
+Je t'aime.,I love you.,LOVE
+Le conteneur est corrompu(e) sur le noeud master.,The container is corrupted on the master node.,INFRA
+Un flood UDP a submergé le firewall trafic sortant bloqué.,A UDP flood overwhelmed the firewall outgoing traffic blocked.,CYBER
+L'acheteur demande un remboursement suite à la panne.,The buyer asks for a refund following the outage.,BUSINESS
+Le service systemd doit être redémarré(e) logs inaccessibles.,The systemd service must be restarted logs inaccessible.,INFRA
+Le kubelet ne monte pas le volume après la mise à jour.,The kubelet does not mount volume after update.,INFRA
+Le pod a crashé après la mise à jour.,The pod crashed after update.,INFRA
+Le prospect est hors de lui il faut l'appeler d'urgence.,The prospect is beside himself must call him urgently.,BUSINESS
+Le conteneur a fait un kernel panic erreur de config.,The container caused a kernel panic config error.,INFRA
+Le démon est corrompu(e) sur le noeud master.,The daemon is corrupted on the master node.,INFRA
+Le conteneur renvoie une erreur OOMKilled sur le noeud master.,The container returns an OOMKilled error on the master node.,INFRA
+Une attaque volumétrique est détecté(e) par l'anti-DDoS mitigation en cours.,A volumetric attack is detected by anti-DDoS mitigation in progress.,CYBER
+Le grand compte refuse de payer c'est inadmissible.,The key account refuses to pay it is unacceptable.,BUSINESS
+Une attaque DDoS bombarde le serveur c'est massif.,A DDoS attack bombs the server it is massive.,CYBER
+Le directeur refuse de payer car le service est nul.,The director refuses to pay because the service sucks.,BUSINESS
+L'acheteur est très mécontent car le service est nul.,The buyer is very dissatisfied because the service sucks.,BUSINESS
+Le client VIP a envoyé une mise en demeure car le service est nul.,The VIP client sent a formal notice because the service sucks.,BUSINESS
+L'image Docker a crashé après la mise à jour.,The Docker image crashed after update.,INFRA
+L'image Docker renvoie une erreur OOMKilled problème de ressources.,The Docker image returns an OOMKilled error resource issue.,INFRA
+Le pod doit être redémarré(e) problème de ressources.,The pod must be restarted resource issue.,INFRA
+L'acheteur est très mécontent à cause du retard.,The buyer is very dissatisfied because of the delay.,BUSINESS
+L'acheteur menace de partir et il part à la concurrence.,The buyer threatens to leave and he goes to competition.,BUSINESS
+Il est nul.,He is useless.,GOSSIP
+Le client est furieux à cause du retard.,The client is furious because of the delay.,BUSINESS
+Le conteneur est corrompu(e) erreur de config.,The container is corrupted config error.,INFRA
+Le démon ne monte pas le volume vérifie le fichier yaml.,The daemon does not mount volume check yaml file.,INFRA
+Le client VIP demande un remboursement il faut l'appeler d'urgence.,The VIP client asks for a refund must call him urgently.,BUSINESS
+Le client VIP veut résilier son contrat à cause du retard.,The VIP client wants to terminate his contract because of the delay.,BUSINESS
+Le conteneur est en état CrashLoopBackOff sur le noeud master.,The container is in CrashLoopBackOff state on the master node.,INFRA
+Le grand compte menace de partir car le service est nul.,The key account threatens to leave because the service sucks.,BUSINESS
+Le directeur a envoyé une mise en demeure suite à la panne.,The director sent a formal notice following the outage.,BUSINESS
+Le service systemd a fait un kernel panic problème de ressources.,The systemd service caused a kernel panic resource issue.,INFRA
+Le client VIP demande un remboursement c'est inadmissible.,The VIP client asks for a refund it is unacceptable.,BUSINESS
+Le prospect a envoyé une mise en demeure sur le dossier en cours.,The prospect sent a formal notice on the current file.,BUSINESS
+L'image Docker est en état CrashLoopBackOff problème de ressources.,The Docker image is in CrashLoopBackOff state resource issue.,INFRA
+Le client demande un remboursement c'est inadmissible.,The client asks for a refund it is unacceptable.,BUSINESS
+Le noyau Linux a fait un kernel panic sur le noeud master.,The Linux kernel caused a kernel panic on the master node.,INFRA
+Le service systemd a crashé erreur de config.,The systemd service crashed config error.,INFRA
+Une attaque volumétrique provocant un black-out c'est massif.,A volumetric attack causing a blackout it is massive.,CYBER
+Un flood SYN sature la bande passante trafic sortant bloqué.,A SYN flood saturates bandwidth outgoing traffic blocked.,CYBER
+Le démon a crashé après la mise à jour.,The daemon crashed after update.,INFRA
+Le kubelet a fait un kernel panic logs inaccessibles.,The kubelet caused a kernel panic logs inaccessible.,INFRA
+Un flood SYN a submergé le firewall impact critique.,A SYN flood overwhelmed the firewall critical impact.,CYBER
+Le directeur veut résilier son contrat suite à la panne.,The director wants to terminate his contract following the outage.,BUSINESS
+Une attaque DDoS provocant un black-out c'est massif.,A DDoS attack causing a blackout it is massive.,CYBER
+Le client est très mécontent c'est inadmissible.,The client is very dissatisfied it is unacceptable.,BUSINESS
+Le conteneur ne démarre pas après la mise à jour.,The container does not start after update.,INFRA
+Un déni de service est détecté(e) par l'anti-DDoS mitigation en cours.,A denial of service is detected by anti-DDoS mitigation in progress.,CYBER
+Le client veut résilier son contrat c'est inadmissible.,The client wants to terminate his contract it is unacceptable.,BUSINESS
+Le botnet a submergé le firewall mitigation en cours.,The botnet overwhelmed the firewall mitigation in progress.,CYBER
+Le client refuse de payer suite à la panne.,The client refuses to pay following the outage.,BUSINESS
+Le directeur est furieux car le service est nul.,The director is furious because the service sucks.,BUSINESS
+Le namespace renvoie une erreur OOMKilled problème de ressources.,The namespace returns an OOMKilled error resource issue.,INFRA
+Le pod a fait un kernel panic problème de ressources.,The pod caused a kernel panic resource issue.,INFRA
+Le directeur est hors de lui suite à la panne.,The director is beside himself following the outage.,BUSINESS
+Une attaque par amplification cible le load balancer depuis des IP chinoises.,Amplification attack targets the load balancer from Chinese IPs.,CYBER
+Un flood UDP bombarde le serveur trafic sortant bloqué.,A UDP flood bombs the server outgoing traffic blocked.,CYBER
+Le client a envoyé une mise en demeure suite à la panne.,The client sent a formal notice following the outage.,BUSINESS
+Un déni de service bombarde le serveur impact critique.,A denial of service bombs the server critical impact.,CYBER
+Le grand compte veut résilier son contrat car le service est nul.,The key account wants to terminate his contract because the service sucks.,BUSINESS
+Le directeur refuse de payer suite à la panne.,The director refuses to pay following the outage.,BUSINESS
+Le noyau Linux ne démarre pas vérifie le fichier yaml.,The Linux kernel does not start check yaml file.,INFRA
+Le prospect fait un scandale il faut l'appeler d'urgence.,The prospect is making a scene must call him urgently.,BUSINESS
+Un flood UDP fait tomber le site impact critique.,A UDP flood takes down the site critical impact.,CYBER
+Le client VIP est furieux suite à la panne.,The VIP client is furious following the outage.,BUSINESS
+Une attaque par amplification sature la bande passante trafic sortant bloqué.,Amplification attack saturates bandwidth outgoing traffic blocked.,CYBER
+Le directeur gueule au téléphone il faut l'appeler d'urgence.,The director is yelling on the phone must call him urgently.,BUSINESS
+Le directeur est hors de lui il faut l'appeler d'urgence.,The director is beside himself must call him urgently.,BUSINESS
+Une attaque par amplification bombarde le serveur mitigation en cours.,Amplification attack bombs the server mitigation in progress.,CYBER
+Une attaque par amplification est détecté(e) par l'anti-DDoS impact critique.,Amplification attack is detected by anti-DDoS critical impact.,CYBER
+Une attaque volumétrique cible le load balancer trafic sortant bloqué.,A volumetric attack targets the load balancer outgoing traffic blocked.,CYBER
+Le grand compte est très mécontent il faut l'appeler d'urgence.,The key account is very dissatisfied must call him urgently.,BUSINESS
+Une attaque DDoS est détecté(e) par l'anti-DDoS impact critique.,A DDoS attack is detected by anti-DDoS critical impact.,CYBER
+Une attaque volumétrique sature la bande passante sur l'IP publique.,A volumetric attack saturates bandwidth on public IP.,CYBER
+Le namespace ne démarre pas vérifie le fichier yaml.,The namespace does not start check yaml file.,INFRA
+Un déni de service provocant un black-out mitigation en cours.,A denial of service causing a blackout mitigation in progress.,CYBER
+Le kubelet a fait un kernel panic après la mise à jour.,The kubelet caused a kernel panic after update.,INFRA
+Le noyau Linux ne monte pas le volume sur le noeud master.,The Linux kernel does not mount volume on the master node.,INFRA
+Le client VIP gueule au téléphone c'est inadmissible.,The VIP client is yelling on the phone it is unacceptable.,BUSINESS
+L'acheteur a envoyé une mise en demeure c'est inadmissible.,The buyer sent a formal notice it is unacceptable.,BUSINESS
+Un déni de service fait tomber le site mitigation en cours.,A denial of service takes down the site mitigation in progress.,CYBER
+Le cluster K8s est corrompu(e) erreur de config.,The K8s cluster is corrupted config error.,INFRA
+Le client a envoyé une mise en demeure et il part à la concurrence.,The client sent a formal notice and he goes to competition.,BUSINESS
+Le namespace ne démarre pas sur le noeud master.,The namespace does not start on the master node.,INFRA
+L'image Docker doit être redémarré(e) problème de ressources.,The Docker image must be restarted resource issue.,INFRA
+Le client VIP est très mécontent sur le dossier en cours.,The VIP client is very dissatisfied on the current file.,BUSINESS
+Le service systemd est en état CrashLoopBackOff erreur de config.,The systemd service is in CrashLoopBackOff state config error.,INFRA
+Le namespace a fait un kernel panic erreur de config.,The namespace caused a kernel panic config error.,INFRA
+Le conteneur doit être redémarré(e) sur le noeud master.,The container must be restarted on the master node.,INFRA
+Le directeur fait un scandale car le service est nul.,The director is making a scene because the service sucks.,BUSINESS
+Le démon ne démarre pas problème de ressources.,The daemon does not start resource issue.,INFRA
+Le cluster K8s a fait un kernel panic sur le noeud master.,The K8s cluster caused a kernel panic on the master node.,INFRA
+Un déni de service provocant un black-out sur l'IP publique.,A denial of service causing a blackout on public IP.,CYBER
+Le pod est corrompu(e) après la mise à jour.,The pod is corrupted after update.,INFRA
+Le kubelet renvoie une erreur OOMKilled erreur de config.,The kubelet returns an OOMKilled error config error.,INFRA
+Une attaque par amplification a submergé le firewall c'est massif.,Amplification attack overwhelmed the firewall it is massive.,CYBER
+Le noyau Linux est corrompu(e) après la mise à jour.,The Linux kernel is corrupted after update.,INFRA
+Le client VIP veut résilier son contrat car le service est nul.,The VIP client wants to terminate his contract because the service sucks.,BUSINESS
+Le client VIP fait un scandale il faut l'appeler d'urgence.,The VIP client is making a scene must call him urgently.,BUSINESS
+Le directeur est très mécontent c'est inadmissible.,The director is very dissatisfied it is unacceptable.,BUSINESS
+Le démon est corrompu(e) logs inaccessibles.,The daemon is corrupted logs inaccessible.,INFRA
+Le client VIP demande un remboursement sur le dossier en cours.,The VIP client asks for a refund on the current file.,BUSINESS
+Le prospect gueule au téléphone car le service est nul.,The prospect is yelling on the phone because the service sucks.,BUSINESS
+Le client veut résilier son contrat à cause du retard.,The client wants to terminate his contract because of the delay.,BUSINESS
+Une attaque par amplification sature la bande passante sur l'IP publique.,Amplification attack saturates bandwidth on public IP.,CYBER
+Le botnet est détecté(e) par l'anti-DDoS impact critique.,The botnet is detected by anti-DDoS critical impact.,CYBER
+Le pod est en état CrashLoopBackOff sur le noeud master.,The pod is in CrashLoopBackOff state on the master node.,INFRA
+Le botnet sature la bande passante impact critique.,The botnet saturates bandwidth critical impact.,CYBER
+L'image Docker a fait un kernel panic logs inaccessibles.,The Docker image caused a kernel panic logs inaccessible.,INFRA
+Le prospect fait un scandale car le service est nul.,The prospect is making a scene because the service sucks.,BUSINESS
+Un déni de service fait tomber le site trafic sortant bloqué.,A denial of service takes down the site outgoing traffic blocked.,CYBER
+Le prospect est hors de lui car le service est nul.,The prospect is beside himself because the service sucks.,BUSINESS
+Le client demande un remboursement et il part à la concurrence.,The client asks for a refund and he goes to competition.,BUSINESS
+Le botnet provocant un black-out c'est massif.,The botnet causing a blackout it is massive.,CYBER
+Le démon renvoie une erreur OOMKilled sur le noeud master.,The daemon returns an OOMKilled error on the master node.,INFRA
+Le kubelet ne démarre pas logs inaccessibles.,The kubelet does not start logs inaccessible.,INFRA
+L'acheteur a envoyé une mise en demeure suite à la panne.,The buyer sent a formal notice following the outage.,BUSINESS
+Le prospect demande un remboursement c'est inadmissible.,The prospect asks for a refund it is unacceptable.,BUSINESS
+Le directeur est furieux c'est inadmissible.,The director is furious it is unacceptable.,BUSINESS
+Le prospect menace de partir à cause du retard.,The prospect threatens to leave because of the delay.,BUSINESS
+Le kubelet ne monte pas le volume erreur de config.,The kubelet does not mount volume config error.,INFRA
+Le client VIP refuse de payer c'est inadmissible.,The VIP client refuses to pay it is unacceptable.,BUSINESS
+Le noyau Linux ne monte pas le volume après la mise à jour.,The Linux kernel does not mount volume after update.,INFRA
+Le trafic illégitime cible le load balancer impact critique.,Illegitimate traffic targets the load balancer critical impact.,CYBER
+Le client refuse de payer c'est inadmissible.,The client refuses to pay it is unacceptable.,BUSINESS
+Une attaque DDoS cible le load balancer c'est massif.,A DDoS attack targets the load balancer it is massive.,CYBER
+Le pod est en état CrashLoopBackOff logs inaccessibles.,The pod is in CrashLoopBackOff state logs inaccessible.,INFRA
+Le grand compte menace de partir suite à la panne.,The key account threatens to leave following the outage.,BUSINESS
+Une attaque DDoS est détecté(e) par l'anti-DDoS mitigation en cours.,A DDoS attack is detected by anti-DDoS mitigation in progress.,CYBER
+Le pod doit être redémarré(e) vérifie le fichier yaml.,The pod must be restarted check yaml file.,INFRA
+L'image Docker doit être redémarré(e) après la mise à jour.,The Docker image must be restarted after update.,INFRA
+Un flood SYN fait tomber le site trafic sortant bloqué.,A SYN flood takes down the site outgoing traffic blocked.,CYBER
+Une attaque volumétrique fait tomber le site c'est massif.,A volumetric attack takes down the site it is massive.,CYBER
+Le cluster K8s ne démarre pas erreur de config.,The K8s cluster does not start config error.,INFRA
+Le directeur demande un remboursement c'est inadmissible.,The director asks for a refund it is unacceptable.,BUSINESS
+Le prospect gueule au téléphone c'est inadmissible.,The prospect is yelling on the phone it is unacceptable.,BUSINESS
+Le client VIP fait un scandale suite à la panne.,The VIP client is making a scene following the outage.,BUSINESS
+Le cluster K8s renvoie une erreur OOMKilled logs inaccessibles.,The K8s cluster returns an OOMKilled error logs inaccessible.,INFRA
+Le namespace renvoie une erreur OOMKilled vérifie le fichier yaml.,The namespace returns an OOMKilled error check yaml file.,INFRA
+Le prospect est très mécontent à cause du retard.,The prospect is very dissatisfied because of the delay.,BUSINESS
+Le prospect est très mécontent suite à la panne.,The prospect is very dissatisfied following the outage.,BUSINESS
+Le démon est corrompu(e) vérifie le fichier yaml.,The daemon is corrupted check yaml file.,INFRA
+Le conteneur est en état CrashLoopBackOff vérifie le fichier yaml.,The container is in CrashLoopBackOff state check yaml file.,INFRA
+Le prospect menace de partir car le service est nul.,The prospect threatens to leave because the service sucks.,BUSINESS
+Le prospect gueule au téléphone à cause du retard.,The prospect is yelling on the phone because of the delay.,BUSINESS
+L'acheteur est très mécontent sur le dossier en cours.,The buyer is very dissatisfied on the current file.,BUSINESS
+Le botnet fait tomber le site mitigation en cours.,The botnet takes down the site mitigation in progress.,CYBER
+Le client est hors de lui car le service est nul.,The client is beside himself because the service sucks.,BUSINESS
+Le kubelet est corrompu(e) erreur de config.,The kubelet is corrupted config error.,INFRA
+Le pod ne monte pas le volume sur le noeud master.,The pod does not mount volume on the master node.,INFRA
+Le démon ne démarre pas sur le noeud master.,The daemon does not start on the master node.,INFRA
+Le pod renvoie une erreur OOMKilled problème de ressources.,The pod returns an OOMKilled error resource issue.,INFRA
+Un déni de service a submergé le firewall c'est massif.,A denial of service overwhelmed the firewall it is massive.,CYBER
+Le grand compte est furieux il faut l'appeler d'urgence.,The key account is furious must call him urgently.,BUSINESS
+Une attaque DDoS sature la bande passante depuis des IP chinoises.,A DDoS attack saturates bandwidth from Chinese IPs.,CYBER
+Le client menace de partir à cause du retard.,The client threatens to leave because of the delay.,BUSINESS
+Un flood UDP est détecté(e) par l'anti-DDoS impact critique.,A UDP flood is detected by anti-DDoS critical impact.,CYBER
+Le noyau Linux est en état CrashLoopBackOff logs inaccessibles.,The Linux kernel is in CrashLoopBackOff state logs inaccessible.,INFRA
+Le grand compte demande un remboursement sur le dossier en cours.,The key account asks for a refund on the current file.,BUSINESS
+Le démon a fait un kernel panic erreur de config.,The daemon caused a kernel panic config error.,INFRA
+Le grand compte veut résilier son contrat c'est inadmissible.,The key account wants to terminate his contract it is unacceptable.,BUSINESS
+L'image Docker est corrompu(e) vérifie le fichier yaml.,The Docker image is corrupted check yaml file.,INFRA
+Le namespace a crashé après la mise à jour.,The namespace crashed after update.,INFRA
+Une attaque par amplification sature la bande passante c'est massif.,Amplification attack saturates bandwidth it is massive.,CYBER
+Le pod est en état CrashLoopBackOff problème de ressources.,The pod is in CrashLoopBackOff state resource issue.,INFRA
+Une attaque DDoS bombarde le serveur trafic sortant bloqué.,A DDoS attack bombs the server outgoing traffic blocked.,CYBER
+Le client menace de partir c'est inadmissible.,The client threatens to leave it is unacceptable.,BUSINESS
+Le conteneur est en état CrashLoopBackOff problème de ressources.,The container is in CrashLoopBackOff state resource issue.,INFRA
+Le grand compte refuse de payer car le service est nul.,The key account refuses to pay because the service sucks.,BUSINESS
+Une attaque DDoS provocant un black-out impact critique.,A DDoS attack causing a blackout critical impact.,CYBER
+Le service systemd est en état CrashLoopBackOff après la mise à jour.,The systemd service is in CrashLoopBackOff state after update.,INFRA
+Une attaque volumétrique sature la bande passante trafic sortant bloqué.,A volumetric attack saturates bandwidth outgoing traffic blocked.,CYBER
+Une attaque volumétrique a submergé le firewall trafic sortant bloqué.,A volumetric attack overwhelmed the firewall outgoing traffic blocked.,CYBER
+Le conteneur ne démarre pas problème de ressources.,The container does not start resource issue.,INFRA
+Une attaque DDoS fait tomber le site mitigation en cours.,A DDoS attack takes down the site mitigation in progress.,CYBER
+Le noyau Linux a fait un kernel panic erreur de config.,The Linux kernel caused a kernel panic config error.,INFRA
+Le client VIP veut résilier son contrat suite à la panne.,The VIP client wants to terminate his contract following the outage.,BUSINESS
+L'acheteur gueule au téléphone il faut l'appeler d'urgence.,The buyer is yelling on the phone must call him urgently.,BUSINESS
+Le prospect demande un remboursement sur le dossier en cours.,The prospect asks for a refund on the current file.,BUSINESS
+Un déni de service a submergé le firewall impact critique.,A denial of service overwhelmed the firewall critical impact.,CYBER
+Le pod ne monte pas le volume après la mise à jour.,The pod does not mount volume after update.,INFRA
+Le conteneur ne démarre pas sur le noeud master.,The container does not start on the master node.,INFRA
+Le grand compte fait un scandale à cause du retard.,The key account is making a scene because of the delay.,BUSINESS
+Un flood UDP fait tomber le site mitigation en cours.,A UDP flood takes down the site mitigation in progress.,CYBER
+Une attaque volumétrique provocant un black-out depuis des IP chinoises.,A volumetric attack causing a blackout from Chinese IPs.,CYBER
+Une attaque volumétrique provocant un black-out impact critique.,A volumetric attack causing a blackout critical impact.,CYBER
+Le client gueule au téléphone et il part à la concurrence.,The client is yelling on the phone and he goes to competition.,BUSINESS
+Le namespace doit être redémarré(e) sur le noeud master.,The namespace must be restarted on the master node.,INFRA
+Le botnet provocant un black-out depuis des IP chinoises.,The botnet causing a blackout from Chinese IPs.,CYBER
+Le cluster K8s renvoie une erreur OOMKilled sur le noeud master.,The K8s cluster returns an OOMKilled error on the master node.,INFRA
+Le service systemd est en état CrashLoopBackOff problème de ressources.,The systemd service is in CrashLoopBackOff state resource issue.,INFRA
+Une attaque par amplification cible le load balancer c'est massif.,Amplification attack targets the load balancer it is massive.,CYBER
+Un flood SYN a submergé le firewall c'est massif.,A SYN flood overwhelmed the firewall it is massive.,CYBER
+Un déni de service bombarde le serveur c'est massif.,A denial of service bombs the server it is massive.,CYBER
+Le pod a crashé logs inaccessibles.,The pod crashed logs inaccessible.,INFRA
+Le trafic illégitime est détecté(e) par l'anti-DDoS mitigation en cours.,Illegitimate traffic is detected by anti-DDoS mitigation in progress.,CYBER
+Le kubelet ne démarre pas erreur de config.,The kubelet does not start config error.,INFRA
+Le botnet bombarde le serveur trafic sortant bloqué.,The botnet bombs the server outgoing traffic blocked.,CYBER
+Une attaque par amplification bombarde le serveur impact critique.,Amplification attack bombs the server critical impact.,CYBER
+Un flood UDP sature la bande passante sur l'IP publique.,A UDP flood saturates bandwidth on public IP.,CYBER
+Le démon ne démarre pas logs inaccessibles.,The daemon does not start logs inaccessible.,INFRA
+Un déni de service est détecté(e) par l'anti-DDoS depuis des IP chinoises.,A denial of service is detected by anti-DDoS from Chinese IPs.,CYBER
+Le service systemd a fait un kernel panic erreur de config.,The systemd service caused a kernel panic config error.,INFRA
+Le service systemd ne démarre pas vérifie le fichier yaml.,The systemd service does not start check yaml file.,INFRA
+Le cluster K8s doit être redémarré(e) problème de ressources.,The K8s cluster must be restarted resource issue.,INFRA
+Le grand compte est furieux sur le dossier en cours.,The key account is furious on the current file.,BUSINESS
+Le prospect est furieux il faut l'appeler d'urgence.,The prospect is furious must call him urgently.,BUSINESS
+Le botnet fait tomber le site c'est massif.,The botnet takes down the site it is massive.,CYBER
+Le botnet a submergé le firewall depuis des IP chinoises.,The botnet overwhelmed the firewall from Chinese IPs.,CYBER
+Le namespace a fait un kernel panic vérifie le fichier yaml.,The namespace caused a kernel panic check yaml file.,INFRA
+Le namespace doit être redémarré(e) problème de ressources.,The namespace must be restarted resource issue.,INFRA
+Le grand compte demande un remboursement suite à la panne.,The key account asks for a refund following the outage.,BUSINESS
+Le botnet est détecté(e) par l'anti-DDoS mitigation en cours.,The botnet is detected by anti-DDoS mitigation in progress.,CYBER
+Le trafic illégitime provocant un black-out trafic sortant bloqué.,Illegitimate traffic causing a blackout outgoing traffic blocked.,CYBER
+Le botnet cible le load balancer mitigation en cours.,The botnet targets the load balancer mitigation in progress.,CYBER
+Le namespace doit être redémarré(e) après la mise à jour.,The namespace must be restarted after update.,INFRA
+Une attaque volumétrique est détecté(e) par l'anti-DDoS depuis des IP chinoises.,A volumetric attack is detected by anti-DDoS from Chinese IPs.,CYBER
+Le cluster K8s est en état CrashLoopBackOff erreur de config.,The K8s cluster is in CrashLoopBackOff state config error.,INFRA
+Le démon est en état CrashLoopBackOff sur le noeud master.,The daemon is in CrashLoopBackOff state on the master node.,INFRA
+Une attaque DDoS bombarde le serveur mitigation en cours.,A DDoS attack bombs the server mitigation in progress.,CYBER
+Le prospect refuse de payer c'est inadmissible.,The prospect refuses to pay it is unacceptable.,BUSINESS
+Le directeur est très mécontent à cause du retard.,The director is very dissatisfied because of the delay.,BUSINESS
+Le client VIP gueule au téléphone à cause du retard.,The VIP client is yelling on the phone because of the delay.,BUSINESS
+Un flood SYN fait tomber le site impact critique.,A SYN flood takes down the site critical impact.,CYBER
+L'acheteur gueule au téléphone car le service est nul.,The buyer is yelling on the phone because the service sucks.,BUSINESS
+Le directeur menace de partir c'est inadmissible.,The director threatens to leave it is unacceptable.,BUSINESS
+Une attaque DDoS sature la bande passante sur l'IP publique.,A DDoS attack saturates bandwidth on public IP.,CYBER
+Le cluster K8s a crashé après la mise à jour.,The K8s cluster crashed after update.,INFRA
+Le service systemd renvoie une erreur OOMKilled après la mise à jour.,The systemd service returns an OOMKilled error after update.,INFRA
+Le cluster K8s ne monte pas le volume sur le noeud master.,The K8s cluster does not mount volume on the master node.,INFRA
+Un flood UDP sature la bande passante trafic sortant bloqué.,A UDP flood saturates bandwidth outgoing traffic blocked.,CYBER
+L'entretien est validé(e) pour le poste.,The interview is validated for the job.,HR_HIRING
+Le botnet a submergé le firewall impact critique.,The botnet overwhelmed the firewall critical impact.,CYBER
+Le client VIP veut résilier son contrat et il part à la concurrence.,The VIP client wants to terminate his contract and he goes to competition.,BUSINESS
+Le directeur est hors de lui car le service est nul.,The director is beside himself because the service sucks.,BUSINESS
+L'exception lance une erreur dans la boucle.,The exception throws an error in the loop.,TECH
+Une attaque par amplification est détecté(e) par l'anti-DDoS c'est massif.,Amplification attack is detected by anti-DDoS it is massive.,CYBER
+Le client fait un scandale à cause du retard.,The client is making a scene because of the delay.,BUSINESS
+Un déni de service sature la bande passante mitigation en cours.,A denial of service saturates bandwidth mitigation in progress.,CYBER
+L'image Docker ne démarre pas après la mise à jour.,The Docker image does not start after update.,INFRA
+Le client VIP est furieux car le service est nul.,The VIP client is furious because the service sucks.,BUSINESS
+Une attaque DDoS a submergé le firewall impact critique.,A DDoS attack overwhelmed the firewall critical impact.,CYBER
+Le client fait un scandale sur le dossier en cours.,The client is making a scene on the current file.,BUSINESS
+Un flood SYN bombarde le serveur sur l'IP publique.,A SYN flood bombs the server on public IP.,CYBER
+Un flood UDP a submergé le firewall c'est massif.,A UDP flood overwhelmed the firewall it is massive.,CYBER
+Le botnet a submergé le firewall trafic sortant bloqué.,The botnet overwhelmed the firewall outgoing traffic blocked.,CYBER
+Le directeur fait un scandale et il part à la concurrence.,The director is making a scene and he goes to competition.,BUSINESS
+Le directeur veut résilier son contrat c'est inadmissible.,The director wants to terminate his contract it is unacceptable.,BUSINESS
+Le client VIP demande un remboursement à cause du retard.,The VIP client asks for a refund because of the delay.,BUSINESS
+Le client VIP a envoyé une mise en demeure il faut l'appeler d'urgence.,The VIP client sent a formal notice must call him urgently.,BUSINESS
+Le client gueule au téléphone à cause du retard.,The client is yelling on the phone because of the delay.,BUSINESS
+Le prospect menace de partir suite à la panne.,The prospect threatens to leave following the outage.,BUSINESS
+Le grand compte menace de partir et il part à la concurrence.,The key account threatens to leave and he goes to competition.,BUSINESS
+Le grand compte demande un remboursement à cause du retard.,The key account asks for a refund because of the delay.,BUSINESS
+Le client VIP menace de partir car le service est nul.,The VIP client threatens to leave because the service sucks.,BUSINESS
+Le démon a crashé sur le noeud master.,The daemon crashed on the master node.,INFRA
+Le client menace de partir il faut l'appeler d'urgence.,The client threatens to leave must call him urgently.,BUSINESS
+Une attaque par amplification sature la bande passante impact critique.,Amplification attack saturates bandwidth critical impact.,CYBER
+Le noyau Linux ne monte pas le volume logs inaccessibles.,The Linux kernel does not mount volume logs inaccessible.,INFRA
+Le botnet a submergé le firewall c'est massif.,The botnet overwhelmed the firewall it is massive.,CYBER
+Le noyau Linux est en état CrashLoopBackOff après la mise à jour.,The Linux kernel is in CrashLoopBackOff state after update.,INFRA
+Le client veut résilier son contrat suite à la panne.,The client wants to terminate his contract following the outage.,BUSINESS
+Le démon ne monte pas le volume problème de ressources.,The daemon does not mount volume resource issue.,INFRA
+Le trafic illégitime fait tomber le site trafic sortant bloqué.,Illegitimate traffic takes down the site outgoing traffic blocked.,CYBER
+Le grand compte refuse de payer suite à la panne.,The key account refuses to pay following the outage.,BUSINESS
+Le cluster K8s ne monte pas le volume erreur de config.,The K8s cluster does not mount volume config error.,INFRA
+Le conteneur a fait un kernel panic après la mise à jour.,The container caused a kernel panic after update.,INFRA
+L'acheteur menace de partir à cause du retard.,The buyer threatens to leave because of the delay.,BUSINESS
+Le cluster K8s est en état CrashLoopBackOff après la mise à jour.,The K8s cluster is in CrashLoopBackOff state after update.,INFRA
+Le directeur fait un scandale sur le dossier en cours.,The director is making a scene on the current file.,BUSINESS
+L'image Docker a crashé vérifie le fichier yaml.,The Docker image crashed check yaml file.,INFRA
+Le grand compte est furieux car le service est nul.,The key account is furious because the service sucks.,BUSINESS
+Le client VIP veut résilier son contrat sur le dossier en cours.,The VIP client wants to terminate his contract on the current file.,BUSINESS
+Le cluster K8s est corrompu(e) problème de ressources.,The K8s cluster is corrupted resource issue.,INFRA
+L'image Docker doit être redémarré(e) erreur de config.,The Docker image must be restarted config error.,INFRA
+Le botnet fait tomber le site impact critique.,The botnet takes down the site critical impact.,CYBER
+Une attaque par amplification a submergé le firewall impact critique.,Amplification attack overwhelmed the firewall critical impact.,CYBER
+Le kubelet est corrompu(e) après la mise à jour.,The kubelet is corrupted after update.,INFRA
+L'image Docker a fait un kernel panic après la mise à jour.,The Docker image caused a kernel panic after update.,INFRA
+Le kubelet a fait un kernel panic erreur de config.,The kubelet caused a kernel panic config error.,INFRA
+Le botnet est détecté(e) par l'anti-DDoS depuis des IP chinoises.,The botnet is detected by anti-DDoS from Chinese IPs.,CYBER
+Le noyau Linux renvoie une erreur OOMKilled après la mise à jour.,The Linux kernel returns an OOMKilled error after update.,INFRA
+Le grand compte est très mécontent sur le dossier en cours.,The key account is very dissatisfied on the current file.,BUSINESS
+Le grand compte demande un remboursement il faut l'appeler d'urgence.,The key account asks for a refund must call him urgently.,BUSINESS
+Le client VIP refuse de payer il faut l'appeler d'urgence.,The VIP client refuses to pay must call him urgently.,BUSINESS
+Le conteneur renvoie une erreur OOMKilled erreur de config.,The container returns an OOMKilled error config error.,INFRA
+Le client VIP menace de partir c'est inadmissible.,The VIP client threatens to leave it is unacceptable.,BUSINESS
+Le noyau Linux renvoie une erreur OOMKilled sur le noeud master.,The Linux kernel returns an OOMKilled error on the master node.,INFRA
+Le grand compte fait un scandale sur le dossier en cours.,The key account is making a scene on the current file.,BUSINESS
+Le trafic illégitime sature la bande passante impact critique.,Illegitimate traffic saturates bandwidth critical impact.,CYBER
+L'acheteur menace de partir car le service est nul.,The buyer threatens to leave because the service sucks.,BUSINESS
+Le cluster K8s a crashé sur le noeud master.,The K8s cluster crashed on the master node.,INFRA
+Le démon est corrompu(e) erreur de config.,The daemon is corrupted config error.,INFRA
+Le directeur est furieux il faut l'appeler d'urgence.,The director is furious must call him urgently.,BUSINESS
+Une attaque DDoS a submergé le firewall mitigation en cours.,A DDoS attack overwhelmed the firewall mitigation in progress.,CYBER
+Le grand compte a envoyé une mise en demeure suite à la panne.,The key account sent a formal notice following the outage.,BUSINESS
+Le pod renvoie une erreur OOMKilled erreur de config.,The pod returns an OOMKilled error config error.,INFRA
+Le trafic illégitime cible le load balancer trafic sortant bloqué.,Illegitimate traffic targets the load balancer outgoing traffic blocked.,CYBER
+Un flood SYN est détecté(e) par l'anti-DDoS impact critique.,A SYN flood is detected by anti-DDoS critical impact.,CYBER
+Le trafic illégitime a submergé le firewall mitigation en cours.,Illegitimate traffic overwhelmed the firewall mitigation in progress.,CYBER
+L'image Docker ne monte pas le volume vérifie le fichier yaml.,The Docker image does not mount volume check yaml file.,INFRA
+Le noyau Linux ne monte pas le volume problème de ressources.,The Linux kernel does not mount volume resource issue.,INFRA
+Le directeur menace de partir suite à la panne.,The director threatens to leave following the outage.,BUSINESS
+L'acheteur veut résilier son contrat c'est inadmissible.,The buyer wants to terminate his contract it is unacceptable.,BUSINESS
+Le client fait un scandale il faut l'appeler d'urgence.,The client is making a scene must call him urgently.,BUSINESS
+Le grand compte a envoyé une mise en demeure c'est inadmissible.,The key account sent a formal notice it is unacceptable.,BUSINESS
+Le prospect est très mécontent et il part à la concurrence.,The prospect is very dissatisfied and he goes to competition.,BUSINESS
+Un flood SYN est détecté(e) par l'anti-DDoS c'est massif.,A SYN flood is detected by anti-DDoS it is massive.,CYBER
+Le grand compte gueule au téléphone il faut l'appeler d'urgence.,The key account is yelling on the phone must call him urgently.,BUSINESS
+Le service systemd doit être redémarré(e) erreur de config.,The systemd service must be restarted config error.,INFRA
+Le directeur est furieux et il part à la concurrence.,The director is furious and he goes to competition.,BUSINESS
+L'image Docker doit être redémarré(e) logs inaccessibles.,The Docker image must be restarted logs inaccessible.,INFRA
+Un déni de service sature la bande passante sur l'IP publique.,A denial of service saturates bandwidth on public IP.,CYBER
+Une attaque par amplification a submergé le firewall depuis des IP chinoises.,Amplification attack overwhelmed the firewall from Chinese IPs.,CYBER
+Le client demande un remboursement suite à la panne.,The client asks for a refund following the outage.,BUSINESS
+Le trafic illégitime sature la bande passante trafic sortant bloqué.,Illegitimate traffic saturates bandwidth outgoing traffic blocked.,CYBER
+Le grand compte est très mécontent car le service est nul.,The key account is very dissatisfied because the service sucks.,BUSINESS
+Un flood UDP est détecté(e) par l'anti-DDoS depuis des IP chinoises.,A UDP flood is detected by anti-DDoS from Chinese IPs.,CYBER
+Le directeur refuse de payer c'est inadmissible.,The director refuses to pay it is unacceptable.,BUSINESS
+Le client VIP est hors de lui c'est inadmissible.,The VIP client is beside himself it is unacceptable.,BUSINESS
+Le prospect a envoyé une mise en demeure c'est inadmissible.,The prospect sent a formal notice it is unacceptable.,BUSINESS
+Le service systemd doit être redémarré(e) après la mise à jour.,The systemd service must be restarted after update.,INFRA
+Un flood UDP bombarde le serveur mitigation en cours.,A UDP flood bombs the server mitigation in progress.,CYBER
+Le prospect est furieux sur le dossier en cours.,The prospect is furious on the current file.,BUSINESS
+Le trafic illégitime fait tomber le site depuis des IP chinoises.,Illegitimate traffic takes down the site from Chinese IPs.,CYBER
+Le client VIP est très mécontent suite à la panne.,The VIP client is very dissatisfied following the outage.,BUSINESS
+Le service systemd est en état CrashLoopBackOff logs inaccessibles.,The systemd service is in CrashLoopBackOff state logs inaccessible.,INFRA
+Une attaque volumétrique est détecté(e) par l'anti-DDoS c'est massif.,A volumetric attack is detected by anti-DDoS it is massive.,CYBER
+Le kubelet renvoie une erreur OOMKilled vérifie le fichier yaml.,The kubelet returns an OOMKilled error check yaml file.,INFRA
+Le cluster K8s est en état CrashLoopBackOff problème de ressources.,The K8s cluster is in CrashLoopBackOff state resource issue.,INFRA
+Le noyau Linux est corrompu(e) vérifie le fichier yaml.,The Linux kernel is corrupted check yaml file.,INFRA
+Le kubelet a crashé logs inaccessibles.,The kubelet crashed logs inaccessible.,INFRA
+Le client VIP gueule au téléphone car le service est nul.,The VIP client is yelling on the phone because the service sucks.,BUSINESS
+Le kubelet est en état CrashLoopBackOff problème de ressources.,The kubelet is in CrashLoopBackOff state resource issue.,INFRA
+L'image Docker est corrompu(e) sur le noeud master.,The Docker image is corrupted on the master node.,INFRA
+Le grand compte est hors de lui et il part à la concurrence.,The key account is beside himself and he goes to competition.,BUSINESS
+Le trafic illégitime bombarde le serveur sur l'IP publique.,Illegitimate traffic bombs the server on public IP.,CYBER
+Un flood UDP bombarde le serveur depuis des IP chinoises.,A UDP flood bombs the server from Chinese IPs.,CYBER
+Le client refuse de payer il faut l'appeler d'urgence.,The client refuses to pay must call him urgently.,BUSINESS
+Le pod ne monte pas le volume vérifie le fichier yaml.,The pod does not mount volume check yaml file.,INFRA
+Un déni de service cible le load balancer depuis des IP chinoises.,A denial of service targets the load balancer from Chinese IPs.,CYBER
+Le prospect fait un scandale c'est inadmissible.,The prospect is making a scene it is unacceptable.,BUSINESS
+Un flood UDP a submergé le firewall mitigation en cours.,A UDP flood overwhelmed the firewall mitigation in progress.,CYBER
+Un flood UDP bombarde le serveur impact critique.,A UDP flood bombs the server critical impact.,CYBER
+Le grand compte menace de partir à cause du retard.,The key account threatens to leave because of the delay.,BUSINESS
+Le namespace renvoie une erreur OOMKilled sur le noeud master.,The namespace returns an OOMKilled error on the master node.,INFRA
+Le client VIP demande un remboursement car le service est nul.,The VIP client asks for a refund because the service sucks.,BUSINESS
+Le démon doit être redémarré(e) sur le noeud master.,The daemon must be restarted on the master node.,INFRA
+L'image Docker ne démarre pas problème de ressources.,The Docker image does not start resource issue.,INFRA
+Un flood SYN a submergé le firewall trafic sortant bloqué.,A SYN flood overwhelmed the firewall outgoing traffic blocked.,CYBER
+Une attaque par amplification provocant un black-out c'est massif.,Amplification attack causing a blackout it is massive.,CYBER
+Le kubelet a crashé erreur de config.,The kubelet crashed config error.,INFRA
+Le trafic illégitime provocant un black-out depuis des IP chinoises.,Illegitimate traffic causing a blackout from Chinese IPs.,CYBER
+Le prospect menace de partir il faut l'appeler d'urgence.,The prospect threatens to leave must call him urgently.,BUSINESS
+Le directeur demande un remboursement et il part à la concurrence.,The director asks for a refund and he goes to competition.,BUSINESS
+Le noyau Linux est en état CrashLoopBackOff erreur de config.,The Linux kernel is in CrashLoopBackOff state config error.,INFRA
+Le code est invalide ligne 40.,The code is invalid line 40.,TECH
+A plus.,See ya.,MISC
+Le directeur est hors de lui c'est inadmissible.,The director is beside himself it is unacceptable.,BUSINESS
+Le noyau Linux a fait un kernel panic problème de ressources.,The Linux kernel caused a kernel panic resource issue.,INFRA
+Le service systemd a fait un kernel panic sur le noeud master.,The systemd service caused a kernel panic on the master node.,INFRA
+Le cluster K8s a crashé logs inaccessibles.,The K8s cluster crashed logs inaccessible.,INFRA
+Le directeur menace de partir car le service est nul.,The director threatens to leave because the service sucks.,BUSINESS
+Le grand compte est furieux à cause du retard.,The key account is furious because of the delay.,BUSINESS
+Un déni de service cible le load balancer impact critique.,A denial of service targets the load balancer critical impact.,CYBER
+Le botnet fait tomber le site trafic sortant bloqué.,The botnet takes down the site outgoing traffic blocked.,CYBER
+Le directeur fait un scandale c'est inadmissible.,The director is making a scene it is unacceptable.,BUSINESS
+Le prospect est furieux et il part à la concurrence.,The prospect is furious and he goes to competition.,BUSINESS
+Un flood UDP cible le load balancer trafic sortant bloqué.,A UDP flood targets the load balancer outgoing traffic blocked.,CYBER
+Le cluster K8s doit être redémarré(e) après la mise à jour.,The K8s cluster must be restarted after update.,INFRA
+L'acheteur menace de partir suite à la panne.,The buyer threatens to leave following the outage.,BUSINESS
+Le grand compte a envoyé une mise en demeure à cause du retard.,The key account sent a formal notice because of the delay.,BUSINESS
+C'est un idiot.,He is an idiot.,GOSSIP
+Le cluster K8s est en état CrashLoopBackOff logs inaccessibles.,The K8s cluster is in CrashLoopBackOff state logs inaccessible.,INFRA
+Le grand compte a envoyé une mise en demeure car le service est nul.,The key account sent a formal notice because the service sucks.,BUSINESS
+L'acheteur veut résilier son contrat à cause du retard.,The buyer wants to terminate his contract because of the delay.,BUSINESS
+Le client VIP menace de partir il faut l'appeler d'urgence.,The VIP client threatens to leave must call him urgently.,BUSINESS
+Le client VIP menace de partir à cause du retard.,The VIP client threatens to leave because of the delay.,BUSINESS
+Le client VIP est très mécontent à cause du retard.,The VIP client is very dissatisfied because of the delay.,BUSINESS
+Le kubelet est corrompu(e) sur le noeud master.,The kubelet is corrupted on the master node.,INFRA
+Le démon ne monte pas le volume logs inaccessibles.,The daemon does not mount volume logs inaccessible.,INFRA
+Le service systemd a fait un kernel panic après la mise à jour.,The systemd service caused a kernel panic after update.,INFRA
+Le cluster K8s a fait un kernel panic après la mise à jour.,The K8s cluster caused a kernel panic after update.,INFRA
+Le grand compte gueule au téléphone et il part à la concurrence.,The key account is yelling on the phone and he goes to competition.,BUSINESS
+Un déni de service provocant un black-out impact critique.,A denial of service causing a blackout critical impact.,CYBER
+Le démon a fait un kernel panic logs inaccessibles.,The daemon caused a kernel panic logs inaccessible.,INFRA
+L'acheteur est furieux c'est inadmissible.,The buyer is furious it is unacceptable.,BUSINESS
+Une attaque volumétrique provocant un black-out sur l'IP publique.,A volumetric attack causing a blackout on public IP.,CYBER
+Le directeur est hors de lui à cause du retard.,The director is beside himself because of the delay.,BUSINESS
+Le directeur veut résilier son contrat sur le dossier en cours.,The director wants to terminate his contract on the current file.,BUSINESS
+Le grand compte refuse de payer il faut l'appeler d'urgence.,The key account refuses to pay must call him urgently.,BUSINESS
+Le client VIP est très mécontent car le service est nul.,The VIP client is very dissatisfied because the service sucks.,BUSINESS
+Le pod ne démarre pas problème de ressources.,The pod does not start resource issue.,INFRA
+Le client demande un remboursement à cause du retard.,The client asks for a refund because of the delay.,BUSINESS
+Le conteneur ne démarre pas vérifie le fichier yaml.,The container does not start check yaml file.,INFRA
+Le client VIP gueule au téléphone suite à la panne.,The VIP client is yelling on the phone following the outage.,BUSINESS
+Une attaque DDoS fait tomber le site c'est massif.,A DDoS attack takes down the site it is massive.,CYBER
+Le noyau Linux ne démarre pas logs inaccessibles.,The Linux kernel does not start logs inaccessible.,INFRA
+Le namespace est corrompu(e) après la mise à jour.,The namespace is corrupted after update.,INFRA
+Un flood UDP provocant un black-out depuis des IP chinoises.,A UDP flood causing a blackout from Chinese IPs.,CYBER
+Un flood UDP provocant un black-out sur l'IP publique.,A UDP flood causing a blackout on public IP.,CYBER
+Le service systemd est corrompu(e) vérifie le fichier yaml.,The systemd service is corrupted check yaml file.,INFRA
+Un déni de service sature la bande passante trafic sortant bloqué.,A denial of service saturates bandwidth outgoing traffic blocked.,CYBER
+Un flood UDP provocant un black-out mitigation en cours.,A UDP flood causing a blackout mitigation in progress.,CYBER
+Le botnet a submergé le firewall sur l'IP publique.,The botnet overwhelmed the firewall on public IP.,CYBER
+L'acheteur est furieux suite à la panne.,The buyer is furious following the outage.,BUSINESS
+Le conteneur ne monte pas le volume vérifie le fichier yaml.,The container does not mount volume check yaml file.,INFRA
+Un flood SYN cible le load balancer depuis des IP chinoises.,A SYN flood targets the load balancer from Chinese IPs.,CYBER
+Le client est très mécontent suite à la panne.,The client is very dissatisfied following the outage.,BUSINESS
+L'acheteur veut résilier son contrat et il part à la concurrence.,The buyer wants to terminate his contract and he goes to competition.,BUSINESS
+Le directeur fait un scandale à cause du retard.,The director is making a scene because of the delay.,BUSINESS
+Une attaque DDoS cible le load balancer mitigation en cours.,A DDoS attack targets the load balancer mitigation in progress.,CYBER
+Le conteneur a crashé problème de ressources.,The container crashed resource issue.,INFRA
+Le client VIP est furieux sur le dossier en cours.,The VIP client is furious on the current file.,BUSINESS
+Une attaque DDoS fait tomber le site depuis des IP chinoises.,A DDoS attack takes down the site from Chinese IPs.,CYBER
+Le trafic illégitime est détecté(e) par l'anti-DDoS c'est massif.,Illegitimate traffic is detected by anti-DDoS it is massive.,CYBER
+Le service systemd est en état CrashLoopBackOff sur le noeud master.,The systemd service is in CrashLoopBackOff state on the master node.,INFRA
+Le grand compte menace de partir il faut l'appeler d'urgence.,The key account threatens to leave must call him urgently.,BUSINESS
+Une attaque par amplification sature la bande passante depuis des IP chinoises.,Amplification attack saturates bandwidth from Chinese IPs.,CYBER
+L'image Docker est en état CrashLoopBackOff après la mise à jour.,The Docker image is in CrashLoopBackOff state after update.,INFRA
+La candidature est refusé(e) pour le poste.,The application is rejected for the job.,HR_HIRING
+Le client VIP fait un scandale sur le dossier en cours.,The VIP client is making a scene on the current file.,BUSINESS
+Un flood SYN sature la bande passante mitigation en cours.,A SYN flood saturates bandwidth mitigation in progress.,CYBER
+Une attaque par amplification est détecté(e) par l'anti-DDoS sur l'IP publique.,Amplification attack is detected by anti-DDoS on public IP.,CYBER
+Le trafic illégitime est détecté(e) par l'anti-DDoS sur l'IP publique.,Illegitimate traffic is detected by anti-DDoS on public IP.,CYBER
+L'image Docker doit être redémarré(e) sur le noeud master.,The Docker image must be restarted on the master node.,INFRA
+L'acheteur demande un remboursement et il part à la concurrence.,The buyer asks for a refund and he goes to competition.,BUSINESS
+Le pod est en état CrashLoopBackOff après la mise à jour.,The pod is in CrashLoopBackOff state after update.,INFRA
+Le trafic illégitime cible le load balancer mitigation en cours.,Illegitimate traffic targets the load balancer mitigation in progress.,CYBER
+Le kubelet ne monte pas le volume vérifie le fichier yaml.,The kubelet does not mount volume check yaml file.,INFRA
+Le conteneur ne monte pas le volume après la mise à jour.,The container does not mount volume after update.,INFRA
+L'acheteur est furieux à cause du retard.,The buyer is furious because of the delay.,BUSINESS
+Le cluster K8s est corrompu(e) vérifie le fichier yaml.,The K8s cluster is corrupted check yaml file.,INFRA
+L'image Docker ne monte pas le volume après la mise à jour.,The Docker image does not mount volume after update.,INFRA
+Le client VIP menace de partir et il part à la concurrence.,The VIP client threatens to leave and he goes to competition.,BUSINESS
+Le directeur est hors de lui sur le dossier en cours.,The director is beside himself on the current file.,BUSINESS
+Un flood SYN provocant un black-out impact critique.,A SYN flood causing a blackout critical impact.,CYBER
+Un flood UDP cible le load balancer sur l'IP publique.,A UDP flood targets the load balancer on public IP.,CYBER
+Le botnet provocant un black-out mitigation en cours.,The botnet causing a blackout mitigation in progress.,CYBER
+Le client VIP refuse de payer car le service est nul.,The VIP client refuses to pay because the service sucks.,BUSINESS
+Le client menace de partir et il part à la concurrence.,The client threatens to leave and he goes to competition.,BUSINESS
+Le prospect veut résilier son contrat et il part à la concurrence.,The prospect wants to terminate his contract and he goes to competition.,BUSINESS
+Le service systemd doit être redémarré(e) sur le noeud master.,The systemd service must be restarted on the master node.,INFRA
+Une attaque volumétrique est détecté(e) par l'anti-DDoS impact critique.,A volumetric attack is detected by anti-DDoS critical impact.,CYBER
+Le namespace ne monte pas le volume vérifie le fichier yaml.,The namespace does not mount volume check yaml file.,INFRA
+Le client fait un scandale car le service est nul.,The client is making a scene because the service sucks.,BUSINESS
+Un déni de service cible le load balancer sur l'IP publique.,A denial of service targets the load balancer on public IP.,CYBER
+Le cluster K8s a crashé problème de ressources.,The K8s cluster crashed resource issue.,INFRA
+Un flood UDP fait tomber le site depuis des IP chinoises.,A UDP flood takes down the site from Chinese IPs.,CYBER
+Le service systemd renvoie une erreur OOMKilled logs inaccessibles.,The systemd service returns an OOMKilled error logs inaccessible.,INFRA
+Le kubelet doit être redémarré(e) problème de ressources.,The kubelet must be restarted resource issue.,INFRA
+Le conteneur ne monte pas le volume logs inaccessibles.,The container does not mount volume logs inaccessible.,INFRA
+Un flood UDP cible le load balancer c'est massif.,A UDP flood targets the load balancer it is massive.,CYBER
+Une attaque volumétrique bombarde le serveur c'est massif.,A volumetric attack bombs the server it is massive.,CYBER
+Le grand compte gueule au téléphone car le service est nul.,The key account is yelling on the phone because the service sucks.,BUSINESS
+Une attaque volumétrique a submergé le firewall c'est massif.,A volumetric attack overwhelmed the firewall it is massive.,CYBER
+Une attaque par amplification provocant un black-out sur l'IP publique.,Amplification attack causing a blackout on public IP.,CYBER
+Le client VIP gueule au téléphone sur le dossier en cours.,The VIP client is yelling on the phone on the current file.,BUSINESS
+L'acheteur veut résilier son contrat il faut l'appeler d'urgence.,The buyer wants to terminate his contract must call him urgently.,BUSINESS
+Le service systemd renvoie une erreur OOMKilled sur le noeud master.,The systemd service returns an OOMKilled error on the master node.,INFRA
+L'acheteur est hors de lui sur le dossier en cours.,The buyer is beside himself on the current file.,BUSINESS
+Le prospect demande un remboursement il faut l'appeler d'urgence.,The prospect asks for a refund must call him urgently.,BUSINESS
+L'image Docker est corrompu(e) problème de ressources.,The Docker image is corrupted resource issue.,INFRA
+Une attaque volumétrique bombarde le serveur sur l'IP publique.,A volumetric attack bombs the server on public IP.,CYBER
+Un flood SYN provocant un black-out c'est massif.,A SYN flood causing a blackout it is massive.,CYBER
+Une attaque DDoS sature la bande passante c'est massif.,A DDoS attack saturates bandwidth it is massive.,CYBER
+Un flood SYN a submergé le firewall depuis des IP chinoises.,A SYN flood overwhelmed the firewall from Chinese IPs.,CYBER
+Une attaque volumétrique sature la bande passante mitigation en cours.,A volumetric attack saturates bandwidth mitigation in progress.,CYBER
+L'image Docker a crashé problème de ressources.,The Docker image crashed resource issue.,INFRA
+Le trafic illégitime fait tomber le site impact critique.,Illegitimate traffic takes down the site critical impact.,CYBER
+Un flood SYN provocant un black-out mitigation en cours.,A SYN flood causing a blackout mitigation in progress.,CYBER
+Un déni de service fait tomber le site depuis des IP chinoises.,A denial of service takes down the site from Chinese IPs.,CYBER
+Le directeur est furieux sur le dossier en cours.,The director is furious on the current file.,BUSINESS
+Un flood UDP sature la bande passante depuis des IP chinoises.,A UDP flood saturates bandwidth from Chinese IPs.,CYBER
+Le directeur est très mécontent sur le dossier en cours.,The director is very dissatisfied on the current file.,BUSINESS
+Le conteneur ne monte pas le volume problème de ressources.,The container does not mount volume resource issue.,INFRA
+L'acheteur refuse de payer suite à la panne.,The buyer refuses to pay following the outage.,BUSINESS
+L'image Docker ne démarre pas erreur de config.,The Docker image does not start config error.,INFRA
+Le kubelet est en état CrashLoopBackOff après la mise à jour.,The kubelet is in CrashLoopBackOff state after update.,INFRA
+Le service systemd a crashé logs inaccessibles.,The systemd service crashed logs inaccessible.,INFRA
+Le kubelet doit être redémarré(e) erreur de config.,The kubelet must be restarted config error.,INFRA
+Le namespace a crashé problème de ressources.,The namespace crashed resource issue.,INFRA
+Le cluster K8s a crashé erreur de config.,The K8s cluster crashed config error.,INFRA
+Le client VIP est furieux il faut l'appeler d'urgence.,The VIP client is furious must call him urgently.,BUSINESS
+Le directeur est hors de lui et il part à la concurrence.,The director is beside himself and he goes to competition.,BUSINESS
+Le namespace est en état CrashLoopBackOff après la mise à jour.,The namespace is in CrashLoopBackOff state after update.,INFRA
+Le kubelet est corrompu(e) vérifie le fichier yaml.,The kubelet is corrupted check yaml file.,INFRA
+Le grand compte est hors de lui c'est inadmissible.,The key account is beside himself it is unacceptable.,BUSINESS
+Un flood SYN a submergé le firewall sur l'IP publique.,A SYN flood overwhelmed the firewall on public IP.,CYBER
+Le directeur est très mécontent car le service est nul.,The director is very dissatisfied because the service sucks.,BUSINESS
+Le prospect veut résilier son contrat c'est inadmissible.,The prospect wants to terminate his contract it is unacceptable.,BUSINESS
+Le client VIP menace de partir suite à la panne.,The VIP client threatens to leave following the outage.,BUSINESS
+Le service systemd a fait un kernel panic logs inaccessibles.,The systemd service caused a kernel panic logs inaccessible.,INFRA
+Un déni de service provocant un black-out trafic sortant bloqué.,A denial of service causing a blackout outgoing traffic blocked.,CYBER
