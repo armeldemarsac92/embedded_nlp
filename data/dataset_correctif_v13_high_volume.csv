@@ -1,0 +1,1013 @@
+Phrase,English_Equivalent,Topic
+"Les pods sont sous-utilisés, on doit éteindre la nuit.","Pods are underutilized, we must turn off at night.",INFRA
+"Les volumes EBS tournent dans le vide, passe en instances spot.","EBS volumes are running mostly idle, switch to spot instances.",INFRA
+Je sais que tu es en réunion mais la TVA n'est pas bonne sur ce document je compte sur toi.,I know you are in a meeting but the VAT is incorrect on this document I'm counting on you.,ACCOUNTING
+Dis-moi mon cœur je pense à toi.,Tell me sweetheart I'm thinking of you.,LOVE
+"Hey mon chéri, tu me manques. Bisous.","Hey darling, I miss you. Kisses.",LOVE
+"Juste avant de prendre le train, il faut valider le devis du fournisseur désolé encore.","Just before catching the train, we must validate the supplier quote sorry again.",ACCOUNTING
+"Au fait mon ange, tu as bien dormi ? Bisous.","By the way my angel, did you sleep well? Kisses.",LOVE
+"Entre deux cafés, il faut merger la PR maintenant tiens-moi au courant.","Between two coffees, we need to merge the PR now keep me posted.",TECH
+Hey mon tout tu me manques.,Hey my everything I miss you.,LOVE
+La facture AWS nécessite la carte corporate.,The AWS bill requires the corporate card.,ACCOUNTING
+"Les lambdas consomment trop de CPU, supprime les volumes orphelins.","Lambdas consume too much CPU, delete orphan volumes.",INFRA
+Désolé de te déranger pendant ton repas mais le déploiement a échoué je compte sur toi.,Sorry to disturb your meal but the deployment failed I'm counting on you.,TECH
+Je sais que tu es en réunion mais peux-tu m'envoyer le RIB pour le virement ? c'est super urgent.,I know you are in a meeting but can you send me the bank details for the transfer? it is super urgent.,ACCOUNTING
+Je sais que tu es en réunion mais le déploiement a échoué c'est super urgent.,I know you are in a meeting but the deployment failed it is super urgent.,TECH
+tu rentres à quelle heure ? ma belle à toute.,what time are you coming home? beautiful see you later.,LOVE
+"Hey mon chéri, tu as bien dormi ? Bisous.","Hey darling, did you sleep well? Kisses.",LOVE
+"Entre deux cafés, je n'ai pas reçu le bon de commande je compte sur toi.","Between two coffees, I didn't receive the purchase order I'm counting on you.",ACCOUNTING
+Re ma belle on mange quoi ce soir ?,Re beautiful what are we eating tonight?,LOVE
+Yo mon tout repose-toi bien.,Yo my everything rest well.,LOVE
+"Pendant que j'y pense, la base de données est corrompue désolé encore.","While I'm thinking about it, the database is corrupted sorry again.",TECH
+Je pars en week-end dans 5 minutes mais j'ai besoin des logs d'erreur c'est super urgent.,I'm leaving for the weekend in 5 minutes but I need the error logs it is super urgent.,TECH
+"Entre nous, il est encore bourré.","Between us, he is drunk again.",GOSSIP
+Je pars en week-end dans 5 minutes mais je dois absolument commit ce fichier sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but I absolutely must commit this file otherwise we'll see this Monday.,TECH
+fais de beaux rêves. bébé à toute.,sweet dreams. baby see you later.,LOVE
+"Au fait ma puce, tu me manques. Bisous.","By the way honey, I miss you. Kisses.",LOVE
+"C'est grave, il a eu des gestes déplacés.","It is serious, he made inappropriate gestures.",HR_COMPLAINT
+"Pendant que j'y pense, le serveur de prod a crashé tiens-moi au courant.","While I'm thinking about it, the prod server crashed keep me posted.",TECH
+"C'est abusé, elle ne fout rien de ses journées.","It's ridiculous, she does nothing all day.",GOSSIP
+"Entre deux cafés, le certificat SSL a expiré tiens-moi au courant.","Between two coffees, the SSL certificate has expired keep me posted.",TECH
+"Si tu as deux secondes entre midi et deux, je dois absolument commit ce fichier sinon on verra ça lundi.","If you have a sec during lunch, I absolutely must commit this file otherwise we'll see this Monday.",TECH
+Coucou ma vie fais attention à toi.,Hey my life take care.,LOVE
+"Le cluster Kubernetes gaspillent des ressources, passe en instances spot.","The Kubernetes cluster are wasting resources, switch to spot instances.",INFRA
+"Franchement, il est complètement incompétent.","Honestly, he is completely incompetent.",GOSSIP
+appelle-moi quand tu peux. ma chérie à toute.,call me when you can. darling see you later.,LOVE
+Le prélèvement Google Cloud n'a pas le bon bon de commande.,The Google Cloud debit has the wrong PO.,ACCOUNTING
+"Dis-moi ma belle, tu as bien dormi ? Bisous.","Tell me beautiful, did you sleep well? Kisses.",LOVE
+"Kikou mon tout, appelle-moi quand tu peux. Bisous.","Hiya my everything, call me when you can. Kisses.",LOVE
+Hello ma vie fais de beaux rêves.,Hello my life sweet dreams.,LOVE
+"Le cluster Kubernetes sont surdimensionnés, il faut réduire la taille.","The Kubernetes cluster are oversized, we need to downsize.",INFRA
+"Avant que j'oublie et que je parte, tu as oublié de signer ma note de frais merci d'avance.","Before I forget and leave, you forgot to sign my expense report thanks in advance.",ACCOUNTING
+Désolé de te déranger pendant ton repas mais peux-tu m'envoyer le RIB pour le virement ? c'est super urgent.,Sorry to disturb your meal but can you send me the bank details for the transfer? it is super urgent.,ACCOUNTING
+Désolé de te déranger pendant ton repas mais il manque le justificatif Uber fais vite s'il te plaît.,Sorry to disturb your meal but the Uber receipt is missing please be quick.,ACCOUNTING
+"Juste avant de prendre le train, je n'ai pas reçu le bon de commande désolé encore.","Just before catching the train, I didn't receive the purchase order sorry again.",ACCOUNTING
+Désolé de te déranger pendant ton repas mais la facture n'est pas au bon format je compte sur toi.,Sorry to disturb your meal but the invoice is in the wrong format I'm counting on you.,ACCOUNTING
+"Pendant que j'y pense, je n'ai pas reçu le bon de commande c'est super urgent.","While I'm thinking about it, I didn't receive the purchase order it is super urgent.",ACCOUNTING
+tu me manques. ma chérie à toute.,I miss you. darling see you later.,LOVE
+La redevance logicielle est bloquée pour impayé.,Software fee is blocked for non-payment.,ACCOUNTING
+Bonsoir chaton repose-toi bien.,Good evening kitten rest well.,LOVE
+"Si tu as deux secondes entre midi et deux, la TVA n'est pas bonne sur ce document tiens-moi au courant.","If you have a sec during lunch, the VAT is incorrect on this document keep me posted.",ACCOUNTING
+"Les nœuds du cluster sont inactifs le week-end, on doit éteindre la nuit.","Cluster nodes are inactive on weekends, we must turn off at night.",INFRA
+Je pars en week-end dans 5 minutes mais tu as oublié de signer ma note de frais tiens-moi au courant.,I'm leaving for the weekend in 5 minutes but you forgot to sign my expense report keep me posted.,ACCOUNTING
+"Hello bébé, tu as bien dormi ? Bisous.","Hello baby, did you sleep well? Kisses.",LOVE
+"Les instances EC2 coûtent trop cher, il faut réduire la taille.","EC2 instances are too expensive, we need to downsize.",INFRA
+Salut mon amour je pense à toi.,Hi my love I'm thinking of you.,LOVE
+"Coucou ma chérie, bon appétit. Bisous.","Hey darling, enjoy your meal. Kisses.",LOVE
+fais attention à toi. ma puce à toute.,take care. honey see you later.,LOVE
+"Les lambdas tournent dans le vide, passe en instances spot.","Lambdas are running mostly idle, switch to spot instances.",INFRA
+"Re ma belle, appelle-moi quand tu peux. Bisous.","Re beautiful, call me when you can. Kisses.",LOVE
+"Si tu as deux secondes entre midi et deux, l'API renvoie une erreur 500 je compte sur toi.","If you have a sec during lunch, the API returns a 500 error I'm counting on you.",TECH
+"Si tu as deux secondes entre midi et deux, la base de données est corrompue tiens-moi au courant.","If you have a sec during lunch, the database is corrupted keep me posted.",TECH
+Le prélèvement Google Cloud est arrivée à la compta.,The Google Cloud debit arrived at accounting.,ACCOUNTING
+"Hey mon tout, bisous. Bisous.","Hey my everything, kisses. Kisses.",LOVE
+"Juste avant de prendre le train, tu as oublié de signer ma note de frais c'est super urgent.","Just before catching the train, you forgot to sign my expense report it is super urgent.",ACCOUNTING
+"Si tu as deux secondes entre midi et deux, il manque le justificatif Uber je compte sur toi.","If you have a sec during lunch, the Uber receipt is missing I'm counting on you.",ACCOUNTING
+bisous. mon cœur à toute.,kisses. sweetheart see you later.,LOVE
+Je sais que tu es en réunion mais il faut valider le devis du fournisseur désolé encore.,I know you are in a meeting but we must validate the supplier quote sorry again.,ACCOUNTING
+"Je demande un RDV, l'ambiance est devenue toxique et dangereuse.","I request a meeting, the atmosphere has become toxic and dangerous.",HR_COMPLAINT
+Kikou mon amour on mange quoi ce soir ?,Hiya my love what are we eating tonight?,LOVE
+Ça va ma puce fais attention à toi.,How are you honey take care.,LOVE
+Ça va mon ange j'ai hâte de te voir.,How are you my angel can't wait to see you.,LOVE
+tu me manques. mon chéri à toute.,I miss you. darling see you later.,LOVE
+"Entre deux cafés, il manque le justificatif Uber fais vite s'il te plaît.","Between two coffees, the Uber receipt is missing please be quick.",ACCOUNTING
+"Kikou ma chérie, tu rentres à quelle heure ? Bisous.","Hiya darling, what time are you coming home? Kisses.",LOVE
+"Bonne nuit mon cœur, tu rentres à quelle heure ? Bisous.","Good night sweetheart, what time are you coming home? Kisses.",LOVE
+"Les lambdas tournent dans le vide, on doit éteindre la nuit.","Lambdas are running mostly idle, we must turn off at night.",INFRA
+Le coût du SaaS doit être réglée.,The SaaS cost must be paid.,ACCOUNTING
+"Si tu as deux secondes entre midi et deux, j'ai besoin des logs d'erreur sinon on verra ça lundi.","If you have a sec during lunch, I need the error logs otherwise we'll see this Monday.",TECH
+"C'est grave, il y a eu une agression verbale.","It is serious, there was a verbal assault.",HR_COMPLAINT
+"Pendant que j'y pense, je dois absolument commit ce fichier sinon on verra ça lundi.","While I'm thinking about it, I absolutely must commit this file otherwise we'll see this Monday.",TECH
+La facture AWS a besoin d'une validation du CFO.,The AWS bill needs CFO validation.,ACCOUNTING
+Je sais que tu es en réunion mais il faut valider le devis du fournisseur je compte sur toi.,I know you are in a meeting but we must validate the supplier quote I'm counting on you.,ACCOUNTING
+Hello ma chérie j'ai hâte de te voir.,Hello darling can't wait to see you.,LOVE
+"Si tu as deux secondes entre midi et deux, le serveur de prod a crashé je compte sur toi.","If you have a sec during lunch, the prod server crashed I'm counting on you.",TECH
+"Je ne me sens pas en sécurité, l'ambiance est devenue toxique et dangereuse.","I don't feel safe, the atmosphere has become toxic and dangerous.",HR_COMPLAINT
+"Coucou mon chéri, appelle-moi quand tu peux. Bisous.","Hey darling, call me when you can. Kisses.",LOVE
+Je sais que tu es en réunion mais la facture n'est pas au bon format sinon on verra ça lundi.,I know you are in a meeting but the invoice is in the wrong format otherwise we'll see this Monday.,ACCOUNTING
+"Pendant que j'y pense, je dois absolument commit ce fichier c'est super urgent.","While I'm thinking about it, I absolutely must commit this file it is super urgent.",TECH
+"Si tu as deux secondes entre midi et deux, la base de données est corrompue fais vite s'il te plaît.","If you have a sec during lunch, the database is corrupted please be quick.",TECH
+"Hello mon ange, je pense à toi. Bisous.","Hello my angel, I'm thinking of you. Kisses.",LOVE
+Tu as vu ? il sent vraiment mauvais.,Did you see? he smells really bad.,GOSSIP
+Dis-moi mon amour bon appétit.,Tell me my love enjoy your meal.,LOVE
+Au fait ma puce bon appétit.,By the way honey enjoy your meal.,LOVE
+Je pars en week-end dans 5 minutes mais le certificat SSL a expiré sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but the SSL certificate has expired otherwise we'll see this Monday.,TECH
+"Bonsoir mon chéri, bon appétit. Bisous.","Good evening darling, enjoy your meal. Kisses.",LOVE
+"Salut chaton, bisous. Bisous.","Hi kitten, kisses. Kisses.",LOVE
+"Franchement, il sent vraiment mauvais.","Honestly, he smells really bad.",GOSSIP
+"Juste avant de prendre le train, l'API renvoie une erreur 500 fais vite s'il te plaît.","Just before catching the train, the API returns a 500 error please be quick.",TECH
+bon appétit. ma belle à toute.,enjoy your meal. beautiful see you later.,LOVE
+"La base RDS coûtent trop cher, met en place une policy d'arrêt.","RDS database are too expensive, set up a stop policy.",INFRA
+"Si tu as deux secondes entre midi et deux, il faut merger la PR maintenant désolé encore.","If you have a sec during lunch, we need to merge the PR now sorry again.",TECH
+"Les instances EC2 sont inactifs le week-end, passe en instances spot.","EC2 instances are inactive on weekends, switch to spot instances.",INFRA
+Je pars en week-end dans 5 minutes mais la base de données est corrompue merci d'avance.,I'm leaving for the weekend in 5 minutes but the database is corrupted thanks in advance.,TECH
+"Juste avant de prendre le train, j'ai besoin des logs d'erreur fais vite s'il te plaît.","Just before catching the train, I need the error logs please be quick.",TECH
+"Bonsoir ma puce, je pense à toi. Bisous.","Good evening honey, I'm thinking of you. Kisses.",LOVE
+"C'est grave, je subis du harcèlement moral.","It is serious, I am suffering from moral harassment.",HR_COMPLAINT
+"Les volumes EBS consomment trop de CPU, il faut réduire la taille.","EBS volumes consume too much CPU, we need to downsize.",INFRA
+"Si tu as deux secondes entre midi et deux, le déploiement a échoué c'est super urgent.","If you have a sec during lunch, the deployment failed it is super urgent.",TECH
+La redevance logicielle doit être imputée au marketing.,Software fee must be charged to marketing.,ACCOUNTING
+Hello bébé tu rentres à quelle heure ?,Hello baby what time are you coming home?,LOVE
+"Re mon cœur, je t'aime fort. Bisous.","Re sweetheart, I love you so much. Kisses.",LOVE
+Bonne nuit ma chérie on mange quoi ce soir ?,Good night darling what are we eating tonight?,LOVE
+"Les volumes EBS sont surdimensionnés, réduis le provisionning.","EBS volumes are oversized, reduce provisioning.",INFRA
+"Si tu as deux secondes entre midi et deux, la TVA n'est pas bonne sur ce document sinon on verra ça lundi.","If you have a sec during lunch, the VAT is incorrect on this document otherwise we'll see this Monday.",ACCOUNTING
+"Re ma puce, appelle-moi quand tu peux. Bisous.","Re honey, call me when you can. Kisses.",LOVE
+Tu as vu ? elle a couché pour réussir.,Did you see? she slept her way to the top.,GOSSIP
+Désolé de te déranger pendant ton repas mais il faut valider le devis du fournisseur tiens-moi au courant.,Sorry to disturb your meal but we must validate the supplier quote keep me posted.,ACCOUNTING
+"Re mon ange, tu rentres à quelle heure ? Bisous.","Re my angel, what time are you coming home? Kisses.",LOVE
+"Coucou ma belle, tu as bien dormi ? Bisous.","Hey beautiful, did you sleep well? Kisses.",LOVE
+"Les pods sont inactifs le week-end, on doit éteindre la nuit.","Pods are inactive on weekends, we must turn off at night.",INFRA
+"Coucou mon cœur, tu as bien dormi ? Bisous.","Hey sweetheart, did you sleep well? Kisses.",LOVE
+"Bonsoir mon cœur, je t'aime fort. Bisous.","Good evening sweetheart, I love you so much. Kisses.",LOVE
+"Pendant que j'y pense, il faut merger la PR maintenant c'est super urgent.","While I'm thinking about it, we need to merge the PR now it is super urgent.",TECH
+"Je dois signaler un incident, je demande une intervention des RH.","I must report an incident, I request HR intervention.",HR_COMPLAINT
+j'ai fait à manger. chaton à toute.,I made dinner. kitten see you later.,LOVE
+"Quel blaireau, c'est un léche-bottes.","What a jerk, he is a bootlicker.",GOSSIP
+"Le stockage S3 consomment trop de CPU, supprime les volumes orphelins.","S3 storage consume too much CPU, delete orphan volumes.",INFRA
+"Dis-moi chaton, bisous. Bisous.","Tell me kitten, kisses. Kisses.",LOVE
+"Le stockage S3 sont inactifs le week-end, il faut réduire la taille.","S3 storage are inactive on weekends, we need to downsize.",INFRA
+Désolé de te déranger pendant ton repas mais je dois absolument commit ce fichier tiens-moi au courant.,Sorry to disturb your meal but I absolutely must commit this file keep me posted.,TECH
+"Bonne nuit mon ange, fais attention à toi. Bisous.","Good night my angel, take care. Kisses.",LOVE
+appelle-moi quand tu peux. mon chéri à toute.,call me when you can. darling see you later.,LOVE
+Désolé de te déranger pendant ton repas mais le serveur de prod a crashé tiens-moi au courant.,Sorry to disturb your meal but the prod server crashed keep me posted.,TECH
+"Entre deux cafés, il faut valider le devis du fournisseur tiens-moi au courant.","Between two coffees, we must validate the supplier quote keep me posted.",ACCOUNTING
+"Kikou ma vie, fais de beaux rêves. Bisous.","Hiya my life, sweet dreams. Kisses.",LOVE
+fais de beaux rêves. mon tout à toute.,sweet dreams. my everything see you later.,LOVE
+Au fait mon cœur j'ai fait à manger.,By the way sweetheart I made dinner.,LOVE
+Désolé de te déranger pendant ton repas mais j'ai besoin des logs d'erreur je compte sur toi.,Sorry to disturb your meal but I need the error logs I'm counting on you.,TECH
+"Si tu as deux secondes entre midi et deux, il faut merger la PR maintenant merci d'avance.","If you have a sec during lunch, we need to merge the PR now thanks in advance.",TECH
+"Les instances EC2 sont inactifs le week-end, il faut réduire la taille.","EC2 instances are inactive on weekends, we need to downsize.",INFRA
+Je sais que tu es en réunion mais il manque le justificatif Uber sinon on verra ça lundi.,I know you are in a meeting but the Uber receipt is missing otherwise we'll see this Monday.,ACCOUNTING
+"Bonsoir trésor, tu rentres à quelle heure ? Bisous.","Good evening treasure, what time are you coming home? Kisses.",LOVE
+La facture AWS est bloquée pour impayé.,The AWS bill is blocked for non-payment.,ACCOUNTING
+Mon sac d'ordinateur est trop lourd.,My laptop bag is too heavy.,MISC
+tu me manques. ma vie à toute.,I miss you. my life see you later.,LOVE
+"Avant que j'oublie et que je parte, il faut merger la PR maintenant c'est super urgent.","Before I forget and leave, we need to merge the PR now it is super urgent.",TECH
+"Entre deux cafés, je dois absolument commit ce fichier je compte sur toi.","Between two coffees, I absolutely must commit this file I'm counting on you.",TECH
+je t'aime fort. ma vie à toute.,I love you so much. my life see you later.,LOVE
+je t'aime fort. mon amour à toute.,I love you so much. my love see you later.,LOVE
+"Entre deux cafés, peux-tu m'envoyer le RIB pour le virement ? tiens-moi au courant.","Between two coffees, can you send me the bank details for the transfer? keep me posted.",ACCOUNTING
+Yo ma chérie tu as bien dormi ?,Yo darling did you sleep well?,LOVE
+appelle-moi quand tu peux. mon tout à toute.,call me when you can. my everything see you later.,LOVE
+Hey ma puce je pense à toi.,Hey honey I'm thinking of you.,LOVE
+Coucou mon cœur je pense à toi.,Hey sweetheart I'm thinking of you.,LOVE
+J'ai oublié mon ordinateur dans le train.,I left my computer on the train.,MISC
+"Hey mon tout, je t'aime fort. Bisous.","Hey my everything, I love you so much. Kisses.",LOVE
+Désolé de te déranger pendant ton repas mais la TVA n'est pas bonne sur ce document je compte sur toi.,Sorry to disturb your meal but the VAT is incorrect on this document I'm counting on you.,ACCOUNTING
+Le renouvellement annuel a besoin d'une validation du CFO.,Annual renewal needs CFO validation.,ACCOUNTING
+J'ai oublié mon badge à la maison.,I left my badge at home.,MISC
+"Les machines virtuelles consomment trop de CPU, supprime les volumes orphelins.","Virtual machines consume too much CPU, delete orphan volumes.",INFRA
+"Juste avant de prendre le train, il faut valider le devis du fournisseur c'est super urgent.","Just before catching the train, we must validate the supplier quote it is super urgent.",ACCOUNTING
+"Entre deux cafés, je n'ai pas reçu le bon de commande c'est super urgent.","Between two coffees, I didn't receive the purchase order it is super urgent.",ACCOUNTING
+"Je dois signaler un incident, il a eu des gestes déplacés.","I must report an incident, he made inappropriate gestures.",HR_COMPLAINT
+"Au fait chaton, je pense à toi. Bisous.","By the way kitten, I'm thinking of you. Kisses.",LOVE
+"Les machines virtuelles sont inactifs le week-end, réduis le provisionning.","Virtual machines are inactive on weekends, reduce provisioning.",INFRA
+"Re mon chéri, tu me manques. Bisous.","Re darling, I miss you. Kisses.",LOVE
+"Le stockage S3 gaspillent des ressources, optimise l'autoscaling.","S3 storage are wasting resources, optimize autoscaling.",INFRA
+Coucou chaton tu rentres à quelle heure ?,Hey kitten what time are you coming home?,LOVE
+Je pars en week-end dans 5 minutes mais je dois absolument commit ce fichier désolé encore.,I'm leaving for the weekend in 5 minutes but I absolutely must commit this file sorry again.,TECH
+Le renouvellement annuel doit être réglée.,Annual renewal must be paid.,ACCOUNTING
+"Juste avant de prendre le train, la facture n'est pas au bon format fais vite s'il te plaît.","Just before catching the train, the invoice is in the wrong format please be quick.",ACCOUNTING
+"Les machines virtuelles gaspillent des ressources, met en place une policy d'arrêt.","Virtual machines are wasting resources, set up a stop policy.",INFRA
+je t'aime fort. mon ange à toute.,I love you so much. my angel see you later.,LOVE
+"Avant que j'oublie et que je parte, la facture n'est pas au bon format désolé encore.","Before I forget and leave, the invoice is in the wrong format sorry again.",ACCOUNTING
+"Juste avant de prendre le train, il faut merger la PR maintenant je compte sur toi.","Just before catching the train, we need to merge the PR now I'm counting on you.",TECH
+"Salut trésor, je pense à toi. Bisous.","Hi treasure, I'm thinking of you. Kisses.",LOVE
+"La bande passante tournent dans le vide, met en place une policy d'arrêt.","Bandwidth are running mostly idle, set up a stop policy.",INFRA
+fais attention à toi. ma vie à toute.,take care. my life see you later.,LOVE
+Je sais que tu es en réunion mais la TVA n'est pas bonne sur ce document fais vite s'il te plaît.,I know you are in a meeting but the VAT is incorrect on this document please be quick.,ACCOUNTING
+"Pendant que j'y pense, la base de données est corrompue c'est super urgent.","While I'm thinking about it, the database is corrupted it is super urgent.",TECH
+"Yo ma chérie, j'ai hâte de te voir. Bisous.","Yo darling, can't wait to see you. Kisses.",LOVE
+"Le stockage S3 gaspillent des ressources, on doit éteindre la nuit.","S3 storage are wasting resources, we must turn off at night.",INFRA
+"Bonsoir mon chéri, bisous. Bisous.","Good evening darling, kisses. Kisses.",LOVE
+"Juste avant de prendre le train, il manque le justificatif Uber merci d'avance.","Just before catching the train, the Uber receipt is missing thanks in advance.",ACCOUNTING
+Dis-moi mon ange je t'aime fort.,Tell me my angel I love you so much.,LOVE
+"Entre deux cafés, tu as oublié de signer ma note de frais je compte sur toi.","Between two coffees, you forgot to sign my expense report I'm counting on you.",ACCOUNTING
+"Coucou mon cœur, tu me manques. Bisous.","Hey sweetheart, I miss you. Kisses.",LOVE
+"Entre nous, il est complètement incompétent.","Between us, he is completely incompetent.",GOSSIP
+"Entre deux cafés, le déploiement a échoué je compte sur toi.","Between two coffees, the deployment failed I'm counting on you.",TECH
+Je pars en week-end dans 5 minutes mais l'API renvoie une erreur 500 merci d'avance.,I'm leaving for the weekend in 5 minutes but the API returns a 500 error thanks in advance.,TECH
+"Les lambdas coûtent trop cher, réduis le provisionning.","Lambdas are too expensive, reduce provisioning.",INFRA
+"Salut chaton, tu as bien dormi ? Bisous.","Hi kitten, did you sleep well? Kisses.",LOVE
+Je sais que tu es en réunion mais il faut valider le devis du fournisseur sinon on verra ça lundi.,I know you are in a meeting but we must validate the supplier quote otherwise we'll see this Monday.,ACCOUNTING
+Yo ma belle repose-toi bien.,Yo beautiful rest well.,LOVE
+appelle-moi quand tu peux. mon ange à toute.,call me when you can. my angel see you later.,LOVE
+"Si tu as deux secondes entre midi et deux, peux-tu m'envoyer le RIB pour le virement ? c'est super urgent.","If you have a sec during lunch, can you send me the bank details for the transfer? it is super urgent.",ACCOUNTING
+"La bande passante gaspillent des ressources, optimise l'autoscaling.","Bandwidth are wasting resources, optimize autoscaling.",INFRA
+Bonsoir ma belle tu rentres à quelle heure ?,Good evening beautiful what time are you coming home?,LOVE
+Je sais que tu es en réunion mais le déploiement a échoué merci d'avance.,I know you are in a meeting but the deployment failed thanks in advance.,TECH
+La note Datadog doit être imputée au marketing.,The Datadog invoice must be charged to marketing.,ACCOUNTING
+"Si tu as deux secondes entre midi et deux, je dois absolument commit ce fichier je compte sur toi.","If you have a sec during lunch, I absolutely must commit this file I'm counting on you.",TECH
+"Yo mon cœur, je t'aime fort. Bisous.","Yo sweetheart, I love you so much. Kisses.",LOVE
+Re trésor j'ai hâte de te voir.,Re treasure can't wait to see you.,LOVE
+repose-toi bien. mon ange à toute.,rest well. my angel see you later.,LOVE
+"Avant que j'oublie et que je parte, la TVA n'est pas bonne sur ce document désolé encore.","Before I forget and leave, the VAT is incorrect on this document sorry again.",ACCOUNTING
+Salut mon tout tu me manques.,Hi my everything I miss you.,LOVE
+"Kikou mon ange, tu rentres à quelle heure ? Bisous.","Hiya my angel, what time are you coming home? Kisses.",LOVE
+Je pars en week-end dans 5 minutes mais l'API renvoie une erreur 500 tiens-moi au courant.,I'm leaving for the weekend in 5 minutes but the API returns a 500 error keep me posted.,TECH
+"Avant que j'oublie et que je parte, je n'ai pas reçu le bon de commande c'est super urgent.","Before I forget and leave, I didn't receive the purchase order it is super urgent.",ACCOUNTING
+Yo trésor appelle-moi quand tu peux.,Yo treasure call me when you can.,LOVE
+"Si tu as deux secondes entre midi et deux, le déploiement a échoué fais vite s'il te plaît.","If you have a sec during lunch, the deployment failed please be quick.",TECH
+"Le cluster Kubernetes gaspillent des ressources, on doit éteindre la nuit.","The Kubernetes cluster are wasting resources, we must turn off at night.",INFRA
+"Yo mon tout, fais de beaux rêves. Bisous.","Yo my everything, sweet dreams. Kisses.",LOVE
+"Si tu as deux secondes entre midi et deux, la facture n'est pas au bon format fais vite s'il te plaît.","If you have a sec during lunch, the invoice is in the wrong format please be quick.",ACCOUNTING
+Le prélèvement Google Cloud doit être réglée.,The Google Cloud debit must be paid.,ACCOUNTING
+je t'aime fort. bébé à toute.,I love you so much. baby see you later.,LOVE
+Coucou trésor appelle-moi quand tu peux.,Hey treasure call me when you can.,LOVE
+Désolé de te déranger pendant ton repas mais la TVA n'est pas bonne sur ce document désolé encore.,Sorry to disturb your meal but the VAT is incorrect on this document sorry again.,ACCOUNTING
+bon appétit. mon chéri à toute.,enjoy your meal. darling see you later.,LOVE
+"Si tu as deux secondes entre midi et deux, l'API renvoie une erreur 500 c'est super urgent.","If you have a sec during lunch, the API returns a 500 error it is super urgent.",TECH
+"Si tu as deux secondes entre midi et deux, le certificat SSL a expiré merci d'avance.","If you have a sec during lunch, the SSL certificate has expired thanks in advance.",TECH
+"Ça va ma puce, tu me manques. Bisous.","How are you honey, I miss you. Kisses.",LOVE
+"Si tu as deux secondes entre midi et deux, l'API renvoie une erreur 500 fais vite s'il te plaît.","If you have a sec during lunch, the API returns a 500 error please be quick.",TECH
+"Coucou mon chéri, fais de beaux rêves. Bisous.","Hey darling, sweet dreams. Kisses.",LOVE
+"Pendant que j'y pense, je dois absolument commit ce fichier tiens-moi au courant.","While I'm thinking about it, I absolutely must commit this file keep me posted.",TECH
+"Bonne nuit bébé, appelle-moi quand tu peux. Bisous.","Good night baby, call me when you can. Kisses.",LOVE
+Bonsoir mon cœur tu as bien dormi ?,Good evening sweetheart did you sleep well?,LOVE
+"Je dois signaler un incident, il y a eu une agression verbale.","I must report an incident, there was a verbal assault.",HR_COMPLAINT
+Je pars en week-end dans 5 minutes mais la TVA n'est pas bonne sur ce document je compte sur toi.,I'm leaving for the weekend in 5 minutes but the VAT is incorrect on this document I'm counting on you.,ACCOUNTING
+"Entre deux cafés, je dois absolument commit ce fichier tiens-moi au courant.","Between two coffees, I absolutely must commit this file keep me posted.",TECH
+"Entre nous, elle s'habille n'importe comment.","Between us, she dresses terribly.",GOSSIP
+Hey mon ange on mange quoi ce soir ?,Hey my angel what are we eating tonight?,LOVE
+"Bonne nuit mon cœur, repose-toi bien. Bisous.","Good night sweetheart, rest well. Kisses.",LOVE
+bon appétit. chaton à toute.,enjoy your meal. kitten see you later.,LOVE
+"Avant que j'oublie et que je parte, le certificat SSL a expiré merci d'avance.","Before I forget and leave, the SSL certificate has expired thanks in advance.",TECH
+"Quel blaireau, il est encore bourré.","What a jerk, he is drunk again.",GOSSIP
+"Les nœuds du cluster sont surdimensionnés, il faut réduire la taille.","Cluster nodes are oversized, we need to downsize.",INFRA
+"Le stockage S3 consomment trop de CPU, réduis le provisionning.","S3 storage consume too much CPU, reduce provisioning.",INFRA
+Re bébé repose-toi bien.,Re baby rest well.,LOVE
+"Avant que j'oublie et que je parte, le serveur de prod a crashé sinon on verra ça lundi.","Before I forget and leave, the prod server crashed otherwise we'll see this Monday.",TECH
+je t'aime fort. mon cœur à toute.,I love you so much. sweetheart see you later.,LOVE
+Re ma puce bon appétit.,Re honey enjoy your meal.,LOVE
+"La base RDS sont sous-utilisés, passe en instances spot.","RDS database are underutilized, switch to spot instances.",INFRA
+"Ça va ma vie, je t'aime fort. Bisous.","How are you my life, I love you so much. Kisses.",LOVE
+Bonne nuit mon amour fais attention à toi.,Good night my love take care.,LOVE
+"Si tu as deux secondes entre midi et deux, peux-tu m'envoyer le RIB pour le virement ? sinon on verra ça lundi.","If you have a sec during lunch, can you send me the bank details for the transfer? otherwise we'll see this Monday.",ACCOUNTING
+Dis-moi ma puce tu as bien dormi ?,Tell me honey did you sleep well?,LOVE
+"Nos serveurs de dev consomment trop de CPU, supprime les volumes orphelins.","Our dev servers consume too much CPU, delete orphan volumes.",INFRA
+Le coût du SaaS est bloquée pour impayé.,The SaaS cost is blocked for non-payment.,ACCOUNTING
+"Dis-moi bébé, bisous. Bisous.","Tell me baby, kisses. Kisses.",LOVE
+"Dis-moi mon chéri, tu me manques. Bisous.","Tell me darling, I miss you. Kisses.",LOVE
+Ça va ma puce bisous.,How are you honey kisses.,LOVE
+"Je dois signaler un incident, l'ambiance est devenue toxique et dangereuse.","I must report an incident, the atmosphere has become toxic and dangerous.",HR_COMPLAINT
+Tu as vu ? elle ne fout rien de ses journées.,Did you see? she does nothing all day.,GOSSIP
+Désolé de te déranger pendant ton repas mais il faut valider le devis du fournisseur merci d'avance.,Sorry to disturb your meal but we must validate the supplier quote thanks in advance.,ACCOUNTING
+Le coût du SaaS a besoin d'une validation du CFO.,The SaaS cost needs CFO validation.,ACCOUNTING
+"Entre deux cafés, l'API renvoie une erreur 500 désolé encore.","Between two coffees, the API returns a 500 error sorry again.",TECH
+"Pendant que j'y pense, je dois absolument commit ce fichier désolé encore.","While I'm thinking about it, I absolutely must commit this file sorry again.",TECH
+"Le stockage S3 tournent dans le vide, réduis le provisionning.","S3 storage are running mostly idle, reduce provisioning.",INFRA
+L'abonnement Azure a besoin d'une validation du CFO.,The Azure subscription needs CFO validation.,ACCOUNTING
+"Avant que j'oublie et que je parte, peux-tu m'envoyer le RIB pour le virement ? c'est super urgent.","Before I forget and leave, can you send me the bank details for the transfer? it is super urgent.",ACCOUNTING
+"Les volumes EBS sont inactifs le week-end, on doit éteindre la nuit.","EBS volumes are inactive on weekends, we must turn off at night.",INFRA
+Le prélèvement Google Cloud doit être imputée au marketing.,The Google Cloud debit must be charged to marketing.,ACCOUNTING
+Désolé de te déranger pendant ton repas mais l'API renvoie une erreur 500 fais vite s'il te plaît.,Sorry to disturb your meal but the API returns a 500 error please be quick.,TECH
+Le coût du SaaS n'a pas le bon bon de commande.,The SaaS cost has the wrong PO.,ACCOUNTING
+"Au fait mon amour, fais attention à toi. Bisous.","By the way my love, take care. Kisses.",LOVE
+La facture AWS n'a pas le bon bon de commande.,The AWS bill has the wrong PO.,ACCOUNTING
+"Pendant que j'y pense, il faut merger la PR maintenant je compte sur toi.","While I'm thinking about it, we need to merge the PR now I'm counting on you.",TECH
+Je pars en week-end dans 5 minutes mais le serveur de prod a crashé désolé encore.,I'm leaving for the weekend in 5 minutes but the prod server crashed sorry again.,TECH
+"Le cluster Kubernetes consomment trop de CPU, met en place une policy d'arrêt.","The Kubernetes cluster consume too much CPU, set up a stop policy.",INFRA
+La note Datadog doit être réglée.,The Datadog invoice must be paid.,ACCOUNTING
+Hey trésor fais attention à toi.,Hey treasure take care.,LOVE
+Ça va ma belle j'ai fait à manger.,How are you beautiful I made dinner.,LOVE
+"Juste avant de prendre le train, je n'ai pas reçu le bon de commande c'est super urgent.","Just before catching the train, I didn't receive the purchase order it is super urgent.",ACCOUNTING
+je pense à toi. ma puce à toute.,I'm thinking of you. honey see you later.,LOVE
+"La bande passante sont inactifs le week-end, on doit éteindre la nuit.","Bandwidth are inactive on weekends, we must turn off at night.",INFRA
+fais de beaux rêves. ma vie à toute.,sweet dreams. my life see you later.,LOVE
+j'ai hâte de te voir. ma puce à toute.,can't wait to see you. honey see you later.,LOVE
+"Les nœuds du cluster sont sous-utilisés, on doit éteindre la nuit.","Cluster nodes are underutilized, we must turn off at night.",INFRA
+Dis-moi mon tout appelle-moi quand tu peux.,Tell me my everything call me when you can.,LOVE
+Yo chaton bon appétit.,Yo kitten enjoy your meal.,LOVE
+"Si tu as deux secondes entre midi et deux, il faut valider le devis du fournisseur merci d'avance.","If you have a sec during lunch, we must validate the supplier quote thanks in advance.",ACCOUNTING
+Coucou mon amour j'ai fait à manger.,Hey my love I made dinner.,LOVE
+"Pendant que j'y pense, le serveur de prod a crashé merci d'avance.","While I'm thinking about it, the prod server crashed thanks in advance.",TECH
+"Dis-moi ma vie, on mange quoi ce soir ? Bisous.","Tell me my life, what are we eating tonight? Kisses.",LOVE
+Ça va ma chérie tu rentres à quelle heure ?,How are you darling what time are you coming home?,LOVE
+"Pendant que j'y pense, le déploiement a échoué merci d'avance.","While I'm thinking about it, the deployment failed thanks in advance.",TECH
+"Pendant que j'y pense, la facture n'est pas au bon format c'est super urgent.","While I'm thinking about it, the invoice is in the wrong format it is super urgent.",ACCOUNTING
+"La base RDS gaspillent des ressources, supprime les volumes orphelins.","RDS database are wasting resources, delete orphan volumes.",INFRA
+tu rentres à quelle heure ? trésor à toute.,what time are you coming home? treasure see you later.,LOVE
+"Yo mon cœur, tu rentres à quelle heure ? Bisous.","Yo sweetheart, what time are you coming home? Kisses.",LOVE
+"Si tu as deux secondes entre midi et deux, le certificat SSL a expiré tiens-moi au courant.","If you have a sec during lunch, the SSL certificate has expired keep me posted.",TECH
+"Le stockage S3 coûtent trop cher, on doit éteindre la nuit.","S3 storage are too expensive, we must turn off at night.",INFRA
+"Re ma puce, j'ai hâte de te voir. Bisous.","Re honey, can't wait to see you. Kisses.",LOVE
+Je sais que tu es en réunion mais il manque le justificatif Uber je compte sur toi.,I know you are in a meeting but the Uber receipt is missing I'm counting on you.,ACCOUNTING
+Le coût du SaaS dépasse le budget alloué.,The SaaS cost exceeds allocated budget.,ACCOUNTING
+"Avant que j'oublie et que je parte, tu as oublié de signer ma note de frais tiens-moi au courant.","Before I forget and leave, you forgot to sign my expense report keep me posted.",ACCOUNTING
+repose-toi bien. ma puce à toute.,rest well. honey see you later.,LOVE
+Coucou mon chéri fais de beaux rêves.,Hey darling sweet dreams.,LOVE
+Salut mon cœur je t'aime fort.,Hi sweetheart I love you so much.,LOVE
+"Bonsoir ma chérie, bon appétit. Bisous.","Good evening darling, enjoy your meal. Kisses.",LOVE
+"Entre deux cafés, tu as oublié de signer ma note de frais fais vite s'il te plaît.","Between two coffees, you forgot to sign my expense report please be quick.",ACCOUNTING
+"C'est abusé, il est complètement incompétent.","It's ridiculous, he is completely incompetent.",GOSSIP
+"Entre deux cafés, la TVA n'est pas bonne sur ce document je compte sur toi.","Between two coffees, the VAT is incorrect on this document I'm counting on you.",ACCOUNTING
+Bonsoir mon amour bisous.,Good evening my love kisses.,LOVE
+Je pars en week-end dans 5 minutes mais je n'ai pas reçu le bon de commande merci d'avance.,I'm leaving for the weekend in 5 minutes but I didn't receive the purchase order thanks in advance.,ACCOUNTING
+"C'est grave, je demande une intervention des RH.","It is serious, I request HR intervention.",HR_COMPLAINT
+"C'est grave, l'ambiance est devenue toxique et dangereuse.","It is serious, the atmosphere has become toxic and dangerous.",HR_COMPLAINT
+"Au fait ma belle, je t'aime fort. Bisous.","By the way beautiful, I love you so much. Kisses.",LOVE
+"Si tu as deux secondes entre midi et deux, je dois absolument commit ce fichier désolé encore.","If you have a sec during lunch, I absolutely must commit this file sorry again.",TECH
+bon appétit. bébé à toute.,enjoy your meal. baby see you later.,LOVE
+"Entre deux cafés, la facture n'est pas au bon format tiens-moi au courant.","Between two coffees, the invoice is in the wrong format keep me posted.",ACCOUNTING
+Je pars en week-end dans 5 minutes mais la TVA n'est pas bonne sur ce document c'est super urgent.,I'm leaving for the weekend in 5 minutes but the VAT is incorrect on this document it is super urgent.,ACCOUNTING
+Bonne nuit mon ange fais de beaux rêves.,Good night my angel sweet dreams.,LOVE
+"Je demande un RDV, je suis victime de discrimination.","I request a meeting, I am a victim of discrimination.",HR_COMPLAINT
+"Pendant que j'y pense, je n'ai pas reçu le bon de commande sinon on verra ça lundi.","While I'm thinking about it, I didn't receive the purchase order otherwise we'll see this Monday.",ACCOUNTING
+"Avant que j'oublie et que je parte, l'API renvoie une erreur 500 je compte sur toi.","Before I forget and leave, the API returns a 500 error I'm counting on you.",TECH
+repose-toi bien. bébé à toute.,rest well. baby see you later.,LOVE
+"Quel blaireau, il sent vraiment mauvais.","What a jerk, he smells really bad.",GOSSIP
+"Les nœuds du cluster gaspillent des ressources, met en place une policy d'arrêt.","Cluster nodes are wasting resources, set up a stop policy.",INFRA
+"Entre deux cafés, la facture n'est pas au bon format désolé encore.","Between two coffees, the invoice is in the wrong format sorry again.",ACCOUNTING
+"Je ne me sens pas en sécurité, je subis du harcèlement moral.","I don't feel safe, I am suffering from moral harassment.",HR_COMPLAINT
+"Pendant que j'y pense, l'API renvoie une erreur 500 fais vite s'il te plaît.","While I'm thinking about it, the API returns a 500 error please be quick.",TECH
+"Dis-moi trésor, tu me manques. Bisous.","Tell me treasure, I miss you. Kisses.",LOVE
+"Les lambdas gaspillent des ressources, passe en instances spot.","Lambdas are wasting resources, switch to spot instances.",INFRA
+Coucou trésor tu rentres à quelle heure ?,Hey treasure what time are you coming home?,LOVE
+Hello bébé repose-toi bien.,Hello baby rest well.,LOVE
+La facture AWS est arrivée à la compta.,The AWS bill arrived at accounting.,ACCOUNTING
+"C'est abusé, il sent vraiment mauvais.","It's ridiculous, he smells really bad.",GOSSIP
+"Avant que j'oublie et que je parte, tu as oublié de signer ma note de frais désolé encore.","Before I forget and leave, you forgot to sign my expense report sorry again.",ACCOUNTING
+"Bonne nuit ma chérie, je pense à toi. Bisous.","Good night darling, I'm thinking of you. Kisses.",LOVE
+Je pars en week-end dans 5 minutes mais la TVA n'est pas bonne sur ce document sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but the VAT is incorrect on this document otherwise we'll see this Monday.,ACCOUNTING
+"Les instances EC2 coûtent trop cher, on doit éteindre la nuit.","EC2 instances are too expensive, we must turn off at night.",INFRA
+"Entre deux cafés, le déploiement a échoué tiens-moi au courant.","Between two coffees, the deployment failed keep me posted.",TECH
+fais attention à toi. mon tout à toute.,take care. my everything see you later.,LOVE
+"Quel blaireau, il est complètement incompétent.","What a jerk, he is completely incompetent.",GOSSIP
+"La base RDS sont inactifs le week-end, met en place une policy d'arrêt.","RDS database are inactive on weekends, set up a stop policy.",INFRA
+bon appétit. ma vie à toute.,enjoy your meal. my life see you later.,LOVE
+"Le cluster Kubernetes sont sous-utilisés, supprime les volumes orphelins.","The Kubernetes cluster are underutilized, delete orphan volumes.",INFRA
+"Avant que j'oublie et que je parte, le certificat SSL a expiré c'est super urgent.","Before I forget and leave, the SSL certificate has expired it is super urgent.",TECH
+Je pars en week-end dans 5 minutes mais peux-tu m'envoyer le RIB pour le virement ? fais vite s'il te plaît.,I'm leaving for the weekend in 5 minutes but can you send me the bank details for the transfer? please be quick.,ACCOUNTING
+"Hey trésor, tu as bien dormi ? Bisous.","Hey treasure, did you sleep well? Kisses.",LOVE
+"Je dois signaler un incident, son alcoolisme met l'équipe en danger.","I must report an incident, his alcoholism endangers the team.",HR_COMPLAINT
+"Kikou chaton, j'ai hâte de te voir. Bisous.","Hiya kitten, can't wait to see you. Kisses.",LOVE
+"Juste avant de prendre le train, je dois absolument commit ce fichier c'est super urgent.","Just before catching the train, I absolutely must commit this file it is super urgent.",TECH
+"Le cluster Kubernetes sont inactifs le week-end, supprime les volumes orphelins.","The Kubernetes cluster are inactive on weekends, delete orphan volumes.",INFRA
+"Le cluster Kubernetes tournent dans le vide, il faut réduire la taille.","The Kubernetes cluster are running mostly idle, we need to downsize.",INFRA
+"Les volumes EBS sont inactifs le week-end, supprime les volumes orphelins.","EBS volumes are inactive on weekends, delete orphan volumes.",INFRA
+"Les pods sont surdimensionnés, il faut réduire la taille.","Pods are oversized, we need to downsize.",INFRA
+L'abonnement Azure nécessite la carte corporate.,The Azure subscription requires the corporate card.,ACCOUNTING
+Je sais que tu es en réunion mais le déploiement a échoué je compte sur toi.,I know you are in a meeting but the deployment failed I'm counting on you.,TECH
+Je sais que tu es en réunion mais tu as oublié de signer ma note de frais merci d'avance.,I know you are in a meeting but you forgot to sign my expense report thanks in advance.,ACCOUNTING
+Désolé de te déranger pendant ton repas mais le serveur de prod a crashé c'est super urgent.,Sorry to disturb your meal but the prod server crashed it is super urgent.,TECH
+Hello mon chéri j'ai hâte de te voir.,Hello darling can't wait to see you.,LOVE
+Je sais que tu es en réunion mais j'ai besoin des logs d'erreur désolé encore.,I know you are in a meeting but I need the error logs sorry again.,TECH
+"Si tu as deux secondes entre midi et deux, la TVA n'est pas bonne sur ce document désolé encore.","If you have a sec during lunch, the VAT is incorrect on this document sorry again.",ACCOUNTING
+Salut ma puce tu as bien dormi ?,Hi honey did you sleep well?,LOVE
+La redevance logicielle nécessite la carte corporate.,Software fee requires the corporate card.,ACCOUNTING
+"Re ma puce, fais de beaux rêves. Bisous.","Re honey, sweet dreams. Kisses.",LOVE
+"La base RDS sont inactifs le week-end, on doit éteindre la nuit.","RDS database are inactive on weekends, we must turn off at night.",INFRA
+"Yo chaton, appelle-moi quand tu peux. Bisous.","Yo kitten, call me when you can. Kisses.",LOVE
+Bonsoir mon chéri je t'aime fort.,Good evening darling I love you so much.,LOVE
+bisous. bébé à toute.,kisses. baby see you later.,LOVE
+"Nos serveurs de dev coûtent trop cher, passe en instances spot.","Our dev servers are too expensive, switch to spot instances.",INFRA
+"Ça va ma belle, fais de beaux rêves. Bisous.","How are you beautiful, sweet dreams. Kisses.",LOVE
+"Coucou bébé, j'ai fait à manger. Bisous.","Hey baby, I made dinner. Kisses.",LOVE
+"Bonsoir ma puce, bon appétit. Bisous.","Good evening honey, enjoy your meal. Kisses.",LOVE
+"Juste avant de prendre le train, l'API renvoie une erreur 500 désolé encore.","Just before catching the train, the API returns a 500 error sorry again.",TECH
+"Les instances EC2 consomment trop de CPU, réduis le provisionning.","EC2 instances consume too much CPU, reduce provisioning.",INFRA
+Yo ma belle bisous.,Yo beautiful kisses.,LOVE
+"La bande passante coûtent trop cher, réduis le provisionning.","Bandwidth are too expensive, reduce provisioning.",INFRA
+Désolé de te déranger pendant ton repas mais la TVA n'est pas bonne sur ce document sinon on verra ça lundi.,Sorry to disturb your meal but the VAT is incorrect on this document otherwise we'll see this Monday.,ACCOUNTING
+"Yo trésor, appelle-moi quand tu peux. Bisous.","Yo treasure, call me when you can. Kisses.",LOVE
+"Les instances EC2 gaspillent des ressources, passe en instances spot.","EC2 instances are wasting resources, switch to spot instances.",INFRA
+Kikou trésor bisous.,Hiya treasure kisses.,LOVE
+tu as bien dormi ? ma belle à toute.,did you sleep well? beautiful see you later.,LOVE
+"Nos serveurs de dev sont inactifs le week-end, il faut réduire la taille.","Our dev servers are inactive on weekends, we need to downsize.",INFRA
+"Les instances EC2 tournent dans le vide, on doit éteindre la nuit.","EC2 instances are running mostly idle, we must turn off at night.",INFRA
+"Pendant que j'y pense, l'API renvoie une erreur 500 tiens-moi au courant.","While I'm thinking about it, the API returns a 500 error keep me posted.",TECH
+"Si tu as deux secondes entre midi et deux, tu as oublié de signer ma note de frais c'est super urgent.","If you have a sec during lunch, you forgot to sign my expense report it is super urgent.",ACCOUNTING
+Bonne nuit bébé tu rentres à quelle heure ?,Good night baby what time are you coming home?,LOVE
+"La base RDS coûtent trop cher, supprime les volumes orphelins.","RDS database are too expensive, delete orphan volumes.",INFRA
+La note Datadog nécessite la carte corporate.,The Datadog invoice requires the corporate card.,ACCOUNTING
+Coucou ma vie tu rentres à quelle heure ?,Hey my life what time are you coming home?,LOVE
+"Si tu as deux secondes entre midi et deux, le serveur de prod a crashé désolé encore.","If you have a sec during lunch, the prod server crashed sorry again.",TECH
+Je pars en week-end dans 5 minutes mais il faut merger la PR maintenant fais vite s'il te plaît.,I'm leaving for the weekend in 5 minutes but we need to merge the PR now please be quick.,TECH
+"Les volumes EBS tournent dans le vide, il faut réduire la taille.","EBS volumes are running mostly idle, we need to downsize.",INFRA
+"Entre deux cafés, il manque le justificatif Uber merci d'avance.","Between two coffees, the Uber receipt is missing thanks in advance.",ACCOUNTING
+"C'est abusé, elle a couché pour réussir.","It's ridiculous, she slept her way to the top.",GOSSIP
+"Avant que j'oublie et que je parte, le serveur de prod a crashé merci d'avance.","Before I forget and leave, the prod server crashed thanks in advance.",TECH
+tu as bien dormi ? ma vie à toute.,did you sleep well? my life see you later.,LOVE
+Hello ma puce bon appétit.,Hello honey enjoy your meal.,LOVE
+fais de beaux rêves. mon ange à toute.,sweet dreams. my angel see you later.,LOVE
+Yo ma vie je pense à toi.,Yo my life I'm thinking of you.,LOVE
+j'ai fait à manger. ma chérie à toute.,I made dinner. darling see you later.,LOVE
+"Entre deux cafés, l'API renvoie une erreur 500 merci d'avance.","Between two coffees, the API returns a 500 error thanks in advance.",TECH
+Désolé de te déranger pendant ton repas mais la base de données est corrompue je compte sur toi.,Sorry to disturb your meal but the database is corrupted I'm counting on you.,TECH
+"Pendant que j'y pense, il manque le justificatif Uber je compte sur toi.","While I'm thinking about it, the Uber receipt is missing I'm counting on you.",ACCOUNTING
+"Entre deux cafés, je n'ai pas reçu le bon de commande tiens-moi au courant.","Between two coffees, I didn't receive the purchase order keep me posted.",ACCOUNTING
+Désolé de te déranger pendant ton repas mais le serveur de prod a crashé désolé encore.,Sorry to disturb your meal but the prod server crashed sorry again.,TECH
+Désolé de te déranger pendant ton repas mais peux-tu m'envoyer le RIB pour le virement ? désolé encore.,Sorry to disturb your meal but can you send me the bank details for the transfer? sorry again.,ACCOUNTING
+Désolé de te déranger pendant ton repas mais il manque le justificatif Uber je compte sur toi.,Sorry to disturb your meal but the Uber receipt is missing I'm counting on you.,ACCOUNTING
+"Entre deux cafés, tu as oublié de signer ma note de frais c'est super urgent.","Between two coffees, you forgot to sign my expense report it is super urgent.",ACCOUNTING
+Coucou bébé bisous.,Hey baby kisses.,LOVE
+"Avant que j'oublie et que je parte, j'ai besoin des logs d'erreur je compte sur toi.","Before I forget and leave, I need the error logs I'm counting on you.",TECH
+J'ai trouvé une pièce par terre.,I found a coin on the ground.,MISC
+"Pendant que j'y pense, la facture n'est pas au bon format fais vite s'il te plaît.","While I'm thinking about it, the invoice is in the wrong format please be quick.",ACCOUNTING
+Tu as vu ? il est complètement incompétent.,Did you see? he is completely incompetent.,GOSSIP
+"La base RDS gaspillent des ressources, on doit éteindre la nuit.","RDS database are wasting resources, we must turn off at night.",INFRA
+Je sais que tu es en réunion mais la facture n'est pas au bon format c'est super urgent.,I know you are in a meeting but the invoice is in the wrong format it is super urgent.,ACCOUNTING
+Je pars en week-end dans 5 minutes mais la base de données est corrompue sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but the database is corrupted otherwise we'll see this Monday.,TECH
+"Coucou mon cœur, fais de beaux rêves. Bisous.","Hey sweetheart, sweet dreams. Kisses.",LOVE
+Salut ma vie j'ai hâte de te voir.,Hi my life can't wait to see you.,LOVE
+"Re ma puce, tu as bien dormi ? Bisous.","Re honey, did you sleep well? Kisses.",LOVE
+"Je ne me sens pas en sécurité, je suis victime de discrimination.","I don't feel safe, I am a victim of discrimination.",HR_COMPLAINT
+"Les machines virtuelles sont surdimensionnés, il faut réduire la taille.","Virtual machines are oversized, we need to downsize.",INFRA
+tu as bien dormi ? ma chérie à toute.,did you sleep well? darling see you later.,LOVE
+"Bonne nuit chaton, fais de beaux rêves. Bisous.","Good night kitten, sweet dreams. Kisses.",LOVE
+bisous. mon amour à toute.,kisses. my love see you later.,LOVE
+bisous. ma chérie à toute.,kisses. darling see you later.,LOVE
+j'ai hâte de te voir. mon amour à toute.,can't wait to see you. my love see you later.,LOVE
+"Je dois signaler un incident, je subis du harcèlement moral.","I must report an incident, I am suffering from moral harassment.",HR_COMPLAINT
+"Au fait ma belle, fais attention à toi. Bisous.","By the way beautiful, take care. Kisses.",LOVE
+j'ai fait à manger. ma belle à toute.,I made dinner. beautiful see you later.,LOVE
+"Les machines virtuelles sont inactifs le week-end, on doit éteindre la nuit.","Virtual machines are inactive on weekends, we must turn off at night.",INFRA
+La redevance logicielle est arrivée à la compta.,Software fee arrived at accounting.,ACCOUNTING
+j'ai fait à manger. mon chéri à toute.,I made dinner. darling see you later.,LOVE
+"Yo chaton, bisous. Bisous.","Yo kitten, kisses. Kisses.",LOVE
+"Les instances EC2 gaspillent des ressources, supprime les volumes orphelins.","EC2 instances are wasting resources, delete orphan volumes.",INFRA
+"Dis-moi ma puce, fais de beaux rêves. Bisous.","Tell me honey, sweet dreams. Kisses.",LOVE
+"Salut ma chérie, fais de beaux rêves. Bisous.","Hi darling, sweet dreams. Kisses.",LOVE
+"Je ne me sens pas en sécurité, il a eu des gestes déplacés.","I don't feel safe, he made inappropriate gestures.",HR_COMPLAINT
+L'abonnement Azure doit être réglée.,The Azure subscription must be paid.,ACCOUNTING
+"Entre deux cafés, je n'ai pas reçu le bon de commande merci d'avance.","Between two coffees, I didn't receive the purchase order thanks in advance.",ACCOUNTING
+Re mon cœur tu rentres à quelle heure ?,Re sweetheart what time are you coming home?,LOVE
+Le renouvellement annuel est arrivée à la compta.,Annual renewal arrived at accounting.,ACCOUNTING
+"Entre deux cafés, il manque le justificatif Uber désolé encore.","Between two coffees, the Uber receipt is missing sorry again.",ACCOUNTING
+La note Datadog est bloquée pour impayé.,The Datadog invoice is blocked for non-payment.,ACCOUNTING
+Kikou bébé je pense à toi.,Hiya baby I'm thinking of you.,LOVE
+Yo ma chérie on mange quoi ce soir ?,Yo darling what are we eating tonight?,LOVE
+"Si tu as deux secondes entre midi et deux, il manque le justificatif Uber désolé encore.","If you have a sec during lunch, the Uber receipt is missing sorry again.",ACCOUNTING
+"Si tu as deux secondes entre midi et deux, je n'ai pas reçu le bon de commande fais vite s'il te plaît.","If you have a sec during lunch, I didn't receive the purchase order please be quick.",ACCOUNTING
+repose-toi bien. mon amour à toute.,rest well. my love see you later.,LOVE
+Bonsoir ma belle repose-toi bien.,Good evening beautiful rest well.,LOVE
+"Bonne nuit ma belle, tu as bien dormi ? Bisous.","Good night beautiful, did you sleep well? Kisses.",LOVE
+L'abonnement Azure dépasse le budget alloué.,The Azure subscription exceeds allocated budget.,ACCOUNTING
+Dis-moi mon chéri j'ai fait à manger.,Tell me darling I made dinner.,LOVE
+Salut chaton fais attention à toi.,Hi kitten take care.,LOVE
+"Avant que j'oublie et que je parte, j'ai besoin des logs d'erreur fais vite s'il te plaît.","Before I forget and leave, I need the error logs please be quick.",TECH
+Dis-moi ma chérie j'ai hâte de te voir.,Tell me darling can't wait to see you.,LOVE
+"La base RDS coûtent trop cher, passe en instances spot.","RDS database are too expensive, switch to spot instances.",INFRA
+on mange quoi ce soir ? bébé à toute.,what are we eating tonight? baby see you later.,LOVE
+Tu me dois 5 euros pour le café.,You owe me 5 euros for the coffee.,MISC
+"Les machines virtuelles coûtent trop cher, supprime les volumes orphelins.","Virtual machines are too expensive, delete orphan volumes.",INFRA
+"Juste avant de prendre le train, il faut merger la PR maintenant c'est super urgent.","Just before catching the train, we need to merge the PR now it is super urgent.",TECH
+Désolé de te déranger pendant ton repas mais le serveur de prod a crashé je compte sur toi.,Sorry to disturb your meal but the prod server crashed I'm counting on you.,TECH
+Dis-moi chaton je pense à toi.,Tell me kitten I'm thinking of you.,LOVE
+Je pars en week-end dans 5 minutes mais tu as oublié de signer ma note de frais merci d'avance.,I'm leaving for the weekend in 5 minutes but you forgot to sign my expense report thanks in advance.,ACCOUNTING
+repose-toi bien. mon cœur à toute.,rest well. sweetheart see you later.,LOVE
+Yo mon chéri appelle-moi quand tu peux.,Yo darling call me when you can.,LOVE
+"Les nœuds du cluster coûtent trop cher, met en place une policy d'arrêt.","Cluster nodes are too expensive, set up a stop policy.",INFRA
+"Avant que j'oublie et que je parte, j'ai besoin des logs d'erreur désolé encore.","Before I forget and leave, I need the error logs sorry again.",TECH
+"Si tu as deux secondes entre midi et deux, peux-tu m'envoyer le RIB pour le virement ? fais vite s'il te plaît.","If you have a sec during lunch, can you send me the bank details for the transfer? please be quick.",ACCOUNTING
+"La base RDS sont inactifs le week-end, réduis le provisionning.","RDS database are inactive on weekends, reduce provisioning.",INFRA
+bisous. ma puce à toute.,kisses. honey see you later.,LOVE
+"Kikou ma chérie, j'ai hâte de te voir. Bisous.","Hiya darling, can't wait to see you. Kisses.",LOVE
+"Avant que j'oublie et que je parte, peux-tu m'envoyer le RIB pour le virement ? tiens-moi au courant.","Before I forget and leave, can you send me the bank details for the transfer? keep me posted.",ACCOUNTING
+Je pars en week-end dans 5 minutes mais il faut valider le devis du fournisseur sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but we must validate the supplier quote otherwise we'll see this Monday.,ACCOUNTING
+"C'est abusé, elle s'habille n'importe comment.","It's ridiculous, she dresses terribly.",GOSSIP
+Désolé de te déranger pendant ton repas mais j'ai besoin des logs d'erreur désolé encore.,Sorry to disturb your meal but I need the error logs sorry again.,TECH
+je pense à toi. mon tout à toute.,I'm thinking of you. my everything see you later.,LOVE
+Je pars en week-end dans 5 minutes mais j'ai besoin des logs d'erreur je compte sur toi.,I'm leaving for the weekend in 5 minutes but I need the error logs I'm counting on you.,TECH
+"Hello ma puce, tu me manques. Bisous.","Hello honey, I miss you. Kisses.",LOVE
+"Le stockage S3 sont sous-utilisés, on doit éteindre la nuit.","S3 storage are underutilized, we must turn off at night.",INFRA
+"Ça va ma chérie, tu me manques. Bisous.","How are you darling, I miss you. Kisses.",LOVE
+"Salut mon chéri, repose-toi bien. Bisous.","Hi darling, rest well. Kisses.",LOVE
+"La base RDS sont surdimensionnés, met en place une policy d'arrêt.","RDS database are oversized, set up a stop policy.",INFRA
+on mange quoi ce soir ? ma puce à toute.,what are we eating tonight? honey see you later.,LOVE
+Je pars en week-end dans 5 minutes mais le certificat SSL a expiré fais vite s'il te plaît.,I'm leaving for the weekend in 5 minutes but the SSL certificate has expired please be quick.,TECH
+Hello ma belle j'ai fait à manger.,Hello beautiful I made dinner.,LOVE
+"Les nœuds du cluster coûtent trop cher, réduis le provisionning.","Cluster nodes are too expensive, reduce provisioning.",INFRA
+"Hey mon ange, fais attention à toi. Bisous.","Hey my angel, take care. Kisses.",LOVE
+"Juste avant de prendre le train, le déploiement a échoué je compte sur toi.","Just before catching the train, the deployment failed I'm counting on you.",TECH
+"Les volumes EBS sont sous-utilisés, optimise l'autoscaling.","EBS volumes are underutilized, optimize autoscaling.",INFRA
+"Yo chaton, fais de beaux rêves. Bisous.","Yo kitten, sweet dreams. Kisses.",LOVE
+"Entre deux cafés, le certificat SSL a expiré je compte sur toi.","Between two coffees, the SSL certificate has expired I'm counting on you.",TECH
+"Je demande un RDV, son alcoolisme met l'équipe en danger.","I request a meeting, his alcoholism endangers the team.",HR_COMPLAINT
+La machine à café est en panne.,The coffee machine is broken.,MISC
+"Kikou ma belle, j'ai fait à manger. Bisous.","Hiya beautiful, I made dinner. Kisses.",LOVE
+Bonsoir ma chérie tu me manques.,Good evening darling I miss you.,LOVE
+L'abonnement Azure est bloquée pour impayé.,The Azure subscription is blocked for non-payment.,ACCOUNTING
+je pense à toi. chaton à toute.,I'm thinking of you. kitten see you later.,LOVE
+"Avant que j'oublie et que je parte, peux-tu m'envoyer le RIB pour le virement ? désolé encore.","Before I forget and leave, can you send me the bank details for the transfer? sorry again.",ACCOUNTING
+"Au fait ma belle, on mange quoi ce soir ? Bisous.","By the way beautiful, what are we eating tonight? Kisses.",LOVE
+Je sais que tu es en réunion mais le serveur de prod a crashé je compte sur toi.,I know you are in a meeting but the prod server crashed I'm counting on you.,TECH
+"Avant que j'oublie et que je parte, le serveur de prod a crashé tiens-moi au courant.","Before I forget and leave, the prod server crashed keep me posted.",TECH
+Le renouvellement annuel n'a pas le bon bon de commande.,Annual renewal has the wrong PO.,ACCOUNTING
+Bonsoir chaton je pense à toi.,Good evening kitten I'm thinking of you.,LOVE
+Désolé de te déranger pendant ton repas mais le serveur de prod a crashé sinon on verra ça lundi.,Sorry to disturb your meal but the prod server crashed otherwise we'll see this Monday.,TECH
+"Juste avant de prendre le train, je dois absolument commit ce fichier fais vite s'il te plaît.","Just before catching the train, I absolutely must commit this file please be quick.",TECH
+"Avant que j'oublie et que je parte, il manque le justificatif Uber merci d'avance.","Before I forget and leave, the Uber receipt is missing thanks in advance.",ACCOUNTING
+Il fait trop chaud dans l'open space.,It's too hot in the open space.,MISC
+"Pendant que j'y pense, il manque le justificatif Uber sinon on verra ça lundi.","While I'm thinking about it, the Uber receipt is missing otherwise we'll see this Monday.",ACCOUNTING
+Bonsoir mon cœur tu rentres à quelle heure ?,Good evening sweetheart what time are you coming home?,LOVE
+bon appétit. trésor à toute.,enjoy your meal. treasure see you later.,LOVE
+"Re mon chéri, fais de beaux rêves. Bisous.","Re darling, sweet dreams. Kisses.",LOVE
+Re ma chérie je pense à toi.,Re darling I'm thinking of you.,LOVE
+"Je ne me sens pas en sécurité, son alcoolisme met l'équipe en danger.","I don't feel safe, his alcoholism endangers the team.",HR_COMPLAINT
+Bonsoir trésor appelle-moi quand tu peux.,Good evening treasure call me when you can.,LOVE
+Je sais que tu es en réunion mais la TVA n'est pas bonne sur ce document c'est super urgent.,I know you are in a meeting but the VAT is incorrect on this document it is super urgent.,ACCOUNTING
+"Ça va mon chéri, fais attention à toi. Bisous.","How are you darling, take care. Kisses.",LOVE
+Ça va bébé je pense à toi.,How are you baby I'm thinking of you.,LOVE
+La note Datadog est arrivée à la compta.,The Datadog invoice arrived at accounting.,ACCOUNTING
+Désolé de te déranger pendant ton repas mais le déploiement a échoué fais vite s'il te plaît.,Sorry to disturb your meal but the deployment failed please be quick.,TECH
+"Avant que j'oublie et que je parte, je dois absolument commit ce fichier désolé encore.","Before I forget and leave, I absolutely must commit this file sorry again.",TECH
+Le prélèvement Google Cloud a besoin d'une validation du CFO.,The Google Cloud debit needs CFO validation.,ACCOUNTING
+Je sais que tu es en réunion mais je n'ai pas reçu le bon de commande fais vite s'il te plaît.,I know you are in a meeting but I didn't receive the purchase order please be quick.,ACCOUNTING
+"Les pods sont surdimensionnés, optimise l'autoscaling.","Pods are oversized, optimize autoscaling.",INFRA
+"Bonsoir mon ange, on mange quoi ce soir ? Bisous.","Good evening my angel, what are we eating tonight? Kisses.",LOVE
+Tu as vu ? elle s'habille n'importe comment.,Did you see? she dresses terribly.,GOSSIP
+"Bonsoir chaton, fais attention à toi. Bisous.","Good evening kitten, take care. Kisses.",LOVE
+Je pars en week-end dans 5 minutes mais la base de données est corrompue désolé encore.,I'm leaving for the weekend in 5 minutes but the database is corrupted sorry again.,TECH
+"Franchement, c'est un léche-bottes.","Honestly, he is a bootlicker.",GOSSIP
+On déjeune à quelle heure ?,What time do we have lunch?,MISC
+"Avant que j'oublie et que je parte, il manque le justificatif Uber je compte sur toi.","Before I forget and leave, the Uber receipt is missing I'm counting on you.",ACCOUNTING
+Désolé de te déranger pendant ton repas mais le déploiement a échoué merci d'avance.,Sorry to disturb your meal but the deployment failed thanks in advance.,TECH
+"Avant que j'oublie et que je parte, la TVA n'est pas bonne sur ce document fais vite s'il te plaît.","Before I forget and leave, the VAT is incorrect on this document please be quick.",ACCOUNTING
+Le renouvellement annuel doit être imputée au marketing.,Annual renewal must be charged to marketing.,ACCOUNTING
+Désolé de te déranger pendant ton repas mais il faut merger la PR maintenant merci d'avance.,Sorry to disturb your meal but we need to merge the PR now thanks in advance.,TECH
+"Les pods gaspillent des ressources, supprime les volumes orphelins.","Pods are wasting resources, delete orphan volumes.",INFRA
+tu rentres à quelle heure ? bébé à toute.,what time are you coming home? baby see you later.,LOVE
+"Juste avant de prendre le train, le déploiement a échoué c'est super urgent.","Just before catching the train, the deployment failed it is super urgent.",TECH
+"Les instances EC2 sont inactifs le week-end, met en place une policy d'arrêt.","EC2 instances are inactive on weekends, set up a stop policy.",INFRA
+Hey trésor appelle-moi quand tu peux.,Hey treasure call me when you can.,LOVE
+appelle-moi quand tu peux. mon amour à toute.,call me when you can. my love see you later.,LOVE
+"Avant que j'oublie et que je parte, il manque le justificatif Uber fais vite s'il te plaît.","Before I forget and leave, the Uber receipt is missing please be quick.",ACCOUNTING
+"Pendant que j'y pense, il faut merger la PR maintenant désolé encore.","While I'm thinking about it, we need to merge the PR now sorry again.",TECH
+"Au fait bébé, tu rentres à quelle heure ? Bisous.","By the way baby, what time are you coming home? Kisses.",LOVE
+Désolé de te déranger pendant ton repas mais peux-tu m'envoyer le RIB pour le virement ? tiens-moi au courant.,Sorry to disturb your meal but can you send me the bank details for the transfer? keep me posted.,ACCOUNTING
+Hello mon chéri bon appétit.,Hello darling enjoy your meal.,LOVE
+"Bonne nuit ma puce, bisous. Bisous.","Good night honey, kisses. Kisses.",LOVE
+"Les lambdas sont surdimensionnés, passe en instances spot.","Lambdas are oversized, switch to spot instances.",INFRA
+Désolé de te déranger pendant ton repas mais l'API renvoie une erreur 500 je compte sur toi.,Sorry to disturb your meal but the API returns a 500 error I'm counting on you.,TECH
+"Avant que j'oublie et que je parte, tu as oublié de signer ma note de frais sinon on verra ça lundi.","Before I forget and leave, you forgot to sign my expense report otherwise we'll see this Monday.",ACCOUNTING
+Yo mon cœur je t'aime fort.,Yo sweetheart I love you so much.,LOVE
+"Avant que j'oublie et que je parte, il faut merger la PR maintenant je compte sur toi.","Before I forget and leave, we need to merge the PR now I'm counting on you.",TECH
+"Coucou trésor, tu rentres à quelle heure ? Bisous.","Hey treasure, what time are you coming home? Kisses.",LOVE
+"Pendant que j'y pense, la facture n'est pas au bon format sinon on verra ça lundi.","While I'm thinking about it, the invoice is in the wrong format otherwise we'll see this Monday.",ACCOUNTING
+"Dis-moi mon ange, bisous. Bisous.","Tell me my angel, kisses. Kisses.",LOVE
+appelle-moi quand tu peux. ma vie à toute.,call me when you can. my life see you later.,LOVE
+"Pendant que j'y pense, la base de données est corrompue je compte sur toi.","While I'm thinking about it, the database is corrupted I'm counting on you.",TECH
+"La base RDS consomment trop de CPU, optimise l'autoscaling.","RDS database consume too much CPU, optimize autoscaling.",INFRA
+Désolé de te déranger pendant ton repas mais tu as oublié de signer ma note de frais je compte sur toi.,Sorry to disturb your meal but you forgot to sign my expense report I'm counting on you.,ACCOUNTING
+on mange quoi ce soir ? mon chéri à toute.,what are we eating tonight? darling see you later.,LOVE
+Je sais que tu es en réunion mais l'API renvoie une erreur 500 c'est super urgent.,I know you are in a meeting but the API returns a 500 error it is super urgent.,TECH
+Hello ma vie je t'aime fort.,Hello my life I love you so much.,LOVE
+Désolé de te déranger pendant ton repas mais la facture n'est pas au bon format merci d'avance.,Sorry to disturb your meal but the invoice is in the wrong format thanks in advance.,ACCOUNTING
+"Coucou trésor, on mange quoi ce soir ? Bisous.","Hey treasure, what are we eating tonight? Kisses.",LOVE
+"Kikou mon amour, bisous. Bisous.","Hiya my love, kisses. Kisses.",LOVE
+"Hey mon tout, fais attention à toi. Bisous.","Hey my everything, take care. Kisses.",LOVE
+Yo bébé tu as bien dormi ?,Yo baby did you sleep well?,LOVE
+Bonne nuit bébé appelle-moi quand tu peux.,Good night baby call me when you can.,LOVE
+"Pendant que j'y pense, le déploiement a échoué fais vite s'il te plaît.","While I'm thinking about it, the deployment failed please be quick.",TECH
+Dis-moi mon ange tu rentres à quelle heure ?,Tell me my angel what time are you coming home?,LOVE
+"Les nœuds du cluster sont inactifs le week-end, met en place une policy d'arrêt.","Cluster nodes are inactive on weekends, set up a stop policy.",INFRA
+Coucou chaton j'ai hâte de te voir.,Hey kitten can't wait to see you.,LOVE
+Au fait mon cœur bisous.,By the way sweetheart kisses.,LOVE
+j'ai fait à manger. ma puce à toute.,I made dinner. honey see you later.,LOVE
+je pense à toi. ma chérie à toute.,I'm thinking of you. darling see you later.,LOVE
+La facture AWS doit être imputée au marketing.,The AWS bill must be charged to marketing.,ACCOUNTING
+Les frais de licence doit être réglée.,License fees must be paid.,ACCOUNTING
+"Pendant que j'y pense, peux-tu m'envoyer le RIB pour le virement ? c'est super urgent.","While I'm thinking about it, can you send me the bank details for the transfer? it is super urgent.",ACCOUNTING
+"La base RDS gaspillent des ressources, il faut réduire la taille.","RDS database are wasting resources, we need to downsize.",INFRA
+"Pendant que j'y pense, tu as oublié de signer ma note de frais je compte sur toi.","While I'm thinking about it, you forgot to sign my expense report I'm counting on you.",ACCOUNTING
+Coucou mon cœur j'ai fait à manger.,Hey sweetheart I made dinner.,LOVE
+Je dois retirer de l'argent pour le resto.,I need to withdraw cash for the restaurant.,MISC
+Yo chaton je pense à toi.,Yo kitten I'm thinking of you.,LOVE
+j'ai hâte de te voir. mon chéri à toute.,can't wait to see you. darling see you later.,LOVE
+"Avant que j'oublie et que je parte, il manque le justificatif Uber tiens-moi au courant.","Before I forget and leave, the Uber receipt is missing keep me posted.",ACCOUNTING
+Salut ma chérie appelle-moi quand tu peux.,Hi darling call me when you can.,LOVE
+"C'est grave, je suis victime de discrimination.","It is serious, I am a victim of discrimination.",HR_COMPLAINT
+"Juste avant de prendre le train, il faut merger la PR maintenant merci d'avance.","Just before catching the train, we need to merge the PR now thanks in advance.",TECH
+"Les nœuds du cluster sont surdimensionnés, met en place une policy d'arrêt.","Cluster nodes are oversized, set up a stop policy.",INFRA
+"Bonne nuit mon chéri, on mange quoi ce soir ? Bisous.","Good night darling, what are we eating tonight? Kisses.",LOVE
+"La bande passante sont inactifs le week-end, supprime les volumes orphelins.","Bandwidth are inactive on weekends, delete orphan volumes.",INFRA
+"Bonsoir mon ange, tu me manques. Bisous.","Good evening my angel, I miss you. Kisses.",LOVE
+bon appétit. mon tout à toute.,enjoy your meal. my everything see you later.,LOVE
+Re mon tout bisous.,Re my everything kisses.,LOVE
+repose-toi bien. ma vie à toute.,rest well. my life see you later.,LOVE
+Je pars en week-end dans 5 minutes mais l'API renvoie une erreur 500 c'est super urgent.,I'm leaving for the weekend in 5 minutes but the API returns a 500 error it is super urgent.,TECH
+"Entre deux cafés, il faut valider le devis du fournisseur fais vite s'il te plaît.","Between two coffees, we must validate the supplier quote please be quick.",ACCOUNTING
+"Les nœuds du cluster coûtent trop cher, optimise l'autoscaling.","Cluster nodes are too expensive, optimize autoscaling.",INFRA
+"Juste avant de prendre le train, j'ai besoin des logs d'erreur tiens-moi au courant.","Just before catching the train, I need the error logs keep me posted.",TECH
+"Au fait mon tout, bon appétit. Bisous.","By the way my everything, enjoy your meal. Kisses.",LOVE
+"Les lambdas coûtent trop cher, optimise l'autoscaling.","Lambdas are too expensive, optimize autoscaling.",INFRA
+Je sais que tu es en réunion mais je dois absolument commit ce fichier merci d'avance.,I know you are in a meeting but I absolutely must commit this file thanks in advance.,TECH
+Hello mon chéri tu me manques.,Hello darling I miss you.,LOVE
+"Entre deux cafés, il manque le justificatif Uber tiens-moi au courant.","Between two coffees, the Uber receipt is missing keep me posted.",ACCOUNTING
+Hey ma belle tu rentres à quelle heure ?,Hey beautiful what time are you coming home?,LOVE
+Kikou ma vie tu as bien dormi ?,Hiya my life did you sleep well?,LOVE
+"Pendant que j'y pense, la TVA n'est pas bonne sur ce document fais vite s'il te plaît.","While I'm thinking about it, the VAT is incorrect on this document please be quick.",ACCOUNTING
+"Les lambdas tournent dans le vide, met en place une policy d'arrêt.","Lambdas are running mostly idle, set up a stop policy.",INFRA
+Hello ma belle tu me manques.,Hello beautiful I miss you.,LOVE
+Je sais que tu es en réunion mais j'ai besoin des logs d'erreur je compte sur toi.,I know you are in a meeting but I need the error logs I'm counting on you.,TECH
+"Avant que j'oublie et que je parte, l'API renvoie une erreur 500 c'est super urgent.","Before I forget and leave, the API returns a 500 error it is super urgent.",TECH
+Bonsoir mon amour fais attention à toi.,Good evening my love take care.,LOVE
+"Franchement, il est encore bourré.","Honestly, he is drunk again.",GOSSIP
+Hello mon ange j'ai hâte de te voir.,Hello my angel can't wait to see you.,LOVE
+Je pars en week-end dans 5 minutes mais il manque le justificatif Uber tiens-moi au courant.,I'm leaving for the weekend in 5 minutes but the Uber receipt is missing keep me posted.,ACCOUNTING
+Yo mon amour on mange quoi ce soir ?,Yo my love what are we eating tonight?,LOVE
+fais attention à toi. trésor à toute.,take care. treasure see you later.,LOVE
+Salut mon tout fais attention à toi.,Hi my everything take care.,LOVE
+"La bande passante sont surdimensionnés, supprime les volumes orphelins.","Bandwidth are oversized, delete orphan volumes.",INFRA
+"Bonne nuit ma chérie, j'ai hâte de te voir. Bisous.","Good night darling, can't wait to see you. Kisses.",LOVE
+"Juste avant de prendre le train, je n'ai pas reçu le bon de commande sinon on verra ça lundi.","Just before catching the train, I didn't receive the purchase order otherwise we'll see this Monday.",ACCOUNTING
+"Le cluster Kubernetes sont inactifs le week-end, il faut réduire la taille.","The Kubernetes cluster are inactive on weekends, we need to downsize.",INFRA
+"Le cluster Kubernetes sont inactifs le week-end, passe en instances spot.","The Kubernetes cluster are inactive on weekends, switch to spot instances.",INFRA
+"Kikou ma belle, fais attention à toi. Bisous.","Hiya beautiful, take care. Kisses.",LOVE
+bon appétit. ma puce à toute.,enjoy your meal. honey see you later.,LOVE
+Je pars en week-end dans 5 minutes mais le certificat SSL a expiré je compte sur toi.,I'm leaving for the weekend in 5 minutes but the SSL certificate has expired I'm counting on you.,TECH
+"Franchement, elle a couché pour réussir.","Honestly, she slept her way to the top.",GOSSIP
+Yo ma puce on mange quoi ce soir ?,Yo honey what are we eating tonight?,LOVE
+Le renouvellement annuel est bloquée pour impayé.,Annual renewal is blocked for non-payment.,ACCOUNTING
+La note Datadog n'a pas le bon bon de commande.,The Datadog invoice has the wrong PO.,ACCOUNTING
+tu rentres à quelle heure ? mon cœur à toute.,what time are you coming home? sweetheart see you later.,LOVE
+Désolé de te déranger pendant ton repas mais tu as oublié de signer ma note de frais sinon on verra ça lundi.,Sorry to disturb your meal but you forgot to sign my expense report otherwise we'll see this Monday.,ACCOUNTING
+Hello ma puce tu rentres à quelle heure ?,Hello honey what time are you coming home?,LOVE
+"Juste avant de prendre le train, la TVA n'est pas bonne sur ce document tiens-moi au courant.","Just before catching the train, the VAT is incorrect on this document keep me posted.",ACCOUNTING
+Je pars en week-end dans 5 minutes mais tu as oublié de signer ma note de frais c'est super urgent.,I'm leaving for the weekend in 5 minutes but you forgot to sign my expense report it is super urgent.,ACCOUNTING
+"Juste avant de prendre le train, il faut valider le devis du fournisseur fais vite s'il te plaît.","Just before catching the train, we must validate the supplier quote please be quick.",ACCOUNTING
+"Entre nous, elle ne fout rien de ses journées.","Between us, she does nothing all day.",GOSSIP
+Je pars en week-end dans 5 minutes mais il faut valider le devis du fournisseur c'est super urgent.,I'm leaving for the weekend in 5 minutes but we must validate the supplier quote it is super urgent.,ACCOUNTING
+"Juste avant de prendre le train, le serveur de prod a crashé je compte sur toi.","Just before catching the train, the prod server crashed I'm counting on you.",TECH
+"Je demande un RDV, je demande une intervention des RH.","I request a meeting, I request HR intervention.",HR_COMPLAINT
+"Yo trésor, bon appétit. Bisous.","Yo treasure, enjoy your meal. Kisses.",LOVE
+"Hello ma vie, bisous. Bisous.","Hello my life, kisses. Kisses.",LOVE
+"Entre deux cafés, la TVA n'est pas bonne sur ce document fais vite s'il te plaît.","Between two coffees, the VAT is incorrect on this document please be quick.",ACCOUNTING
+"Coucou mon chéri, repose-toi bien. Bisous.","Hey darling, rest well. Kisses.",LOVE
+tu me manques. trésor à toute.,I miss you. treasure see you later.,LOVE
+Je sais que tu es en réunion mais le déploiement a échoué désolé encore.,I know you are in a meeting but the deployment failed sorry again.,TECH
+Tu as vu le dernier iPhone ?,Did you see the latest iPhone?,MISC
+"Hey trésor, je t'aime fort. Bisous.","Hey treasure, I love you so much. Kisses.",LOVE
+Le prélèvement Google Cloud dépasse le budget alloué.,The Google Cloud debit exceeds allocated budget.,ACCOUNTING
+tu as bien dormi ? mon chéri à toute.,did you sleep well? darling see you later.,LOVE
+je pense à toi. bébé à toute.,I'm thinking of you. baby see you later.,LOVE
+Ma souris n'a plus de piles.,My mouse runs out of batteries.,MISC
+"Bonsoir ma belle, je t'aime fort. Bisous.","Good evening beautiful, I love you so much. Kisses.",LOVE
+"Dis-moi mon ange, tu me manques. Bisous.","Tell me my angel, I miss you. Kisses.",LOVE
+"Si tu as deux secondes entre midi et deux, le serveur de prod a crashé sinon on verra ça lundi.","If you have a sec during lunch, the prod server crashed otherwise we'll see this Monday.",TECH
+"Les volumes EBS sont surdimensionnés, on doit éteindre la nuit.","EBS volumes are oversized, we must turn off at night.",INFRA
+"Si tu as deux secondes entre midi et deux, la base de données est corrompue désolé encore.","If you have a sec during lunch, the database is corrupted sorry again.",TECH
+"Entre deux cafés, il faut valider le devis du fournisseur c'est super urgent.","Between two coffees, we must validate the supplier quote it is super urgent.",ACCOUNTING
+"Pendant que j'y pense, le serveur de prod a crashé c'est super urgent.","While I'm thinking about it, the prod server crashed it is super urgent.",TECH
+"Les nœuds du cluster tournent dans le vide, optimise l'autoscaling.","Cluster nodes are running mostly idle, optimize autoscaling.",INFRA
+"Pendant que j'y pense, il faut valider le devis du fournisseur tiens-moi au courant.","While I'm thinking about it, we must validate the supplier quote keep me posted.",ACCOUNTING
+tu as bien dormi ? bébé à toute.,did you sleep well? baby see you later.,LOVE
+"Dis-moi ma puce, j'ai hâte de te voir. Bisous.","Tell me honey, can't wait to see you. Kisses.",LOVE
+"Entre nous, c'est un léche-bottes.","Between us, he is a bootlicker.",GOSSIP
+"Bonne nuit mon tout, tu as bien dormi ? Bisous.","Good night my everything, did you sleep well? Kisses.",LOVE
+"Avant que j'oublie et que je parte, la base de données est corrompue sinon on verra ça lundi.","Before I forget and leave, the database is corrupted otherwise we'll see this Monday.",TECH
+Je pars en week-end dans 5 minutes mais il manque le justificatif Uber merci d'avance.,I'm leaving for the weekend in 5 minutes but the Uber receipt is missing thanks in advance.,ACCOUNTING
+Au fait ma chérie tu rentres à quelle heure ?,By the way darling what time are you coming home?,LOVE
+"Ça va mon cœur, tu me manques. Bisous.","How are you sweetheart, I miss you. Kisses.",LOVE
+"Avant que j'oublie et que je parte, le certificat SSL a expiré désolé encore.","Before I forget and leave, the SSL certificate has expired sorry again.",TECH
+"Ça va ma belle, repose-toi bien. Bisous.","How are you beautiful, rest well. Kisses.",LOVE
+Bonsoir mon tout repose-toi bien.,Good evening my everything rest well.,LOVE
+"Hello ma belle, fais attention à toi. Bisous.","Hello beautiful, take care. Kisses.",LOVE
+"La bande passante gaspillent des ressources, on doit éteindre la nuit.","Bandwidth are wasting resources, we must turn off at night.",INFRA
+"Si tu as deux secondes entre midi et deux, j'ai besoin des logs d'erreur fais vite s'il te plaît.","If you have a sec during lunch, I need the error logs please be quick.",TECH
+Kikou bébé j'ai hâte de te voir.,Hiya baby can't wait to see you.,LOVE
+Hey mon amour tu me manques.,Hey my love I miss you.,LOVE
+"Le cluster Kubernetes sont sous-utilisés, on doit éteindre la nuit.","The Kubernetes cluster are underutilized, we must turn off at night.",INFRA
+Désolé de te déranger pendant ton repas mais l'API renvoie une erreur 500 sinon on verra ça lundi.,Sorry to disturb your meal but the API returns a 500 error otherwise we'll see this Monday.,TECH
+"Quel blaireau, elle s'habille n'importe comment.","What a jerk, she dresses terribly.",GOSSIP
+"Franchement, elle s'habille n'importe comment.","Honestly, she dresses terribly.",GOSSIP
+"Pendant que j'y pense, il faut valider le devis du fournisseur je compte sur toi.","While I'm thinking about it, we must validate the supplier quote I'm counting on you.",ACCOUNTING
+Le prélèvement Google Cloud nécessite la carte corporate.,The Google Cloud debit requires the corporate card.,ACCOUNTING
+"Au fait chaton, j'ai fait à manger. Bisous.","By the way kitten, I made dinner. Kisses.",LOVE
+"Entre deux cafés, l'API renvoie une erreur 500 sinon on verra ça lundi.","Between two coffees, the API returns a 500 error otherwise we'll see this Monday.",TECH
+Kikou mon chéri tu me manques.,Hiya darling I miss you.,LOVE
+"Nos serveurs de dev gaspillent des ressources, optimise l'autoscaling.","Our dev servers are wasting resources, optimize autoscaling.",INFRA
+Bonsoir mon ange fais de beaux rêves.,Good evening my angel sweet dreams.,LOVE
+"Coucou chaton, j'ai fait à manger. Bisous.","Hey kitten, I made dinner. Kisses.",LOVE
+"Dis-moi ma vie, tu rentres à quelle heure ? Bisous.","Tell me my life, what time are you coming home? Kisses.",LOVE
+on mange quoi ce soir ? mon amour à toute.,what are we eating tonight? my love see you later.,LOVE
+"Dis-moi ma puce, fais attention à toi. Bisous.","Tell me honey, take care. Kisses.",LOVE
+"Avant que j'oublie et que je parte, il manque le justificatif Uber désolé encore.","Before I forget and leave, the Uber receipt is missing sorry again.",ACCOUNTING
+La redevance logicielle doit être réglée.,Software fee must be paid.,ACCOUNTING
+"Bonne nuit ma puce, tu me manques. Bisous.","Good night honey, I miss you. Kisses.",LOVE
+Dis-moi ma vie bisous.,Tell me my life kisses.,LOVE
+"Ça va mon ange, j'ai fait à manger. Bisous.","How are you my angel, I made dinner. Kisses.",LOVE
+"Bonne nuit mon amour, bisous. Bisous.","Good night my love, kisses. Kisses.",LOVE
+Je pars en week-end dans 5 minutes mais l'API renvoie une erreur 500 sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but the API returns a 500 error otherwise we'll see this Monday.,TECH
+appelle-moi quand tu peux. ma puce à toute.,call me when you can. honey see you later.,LOVE
+Dis-moi trésor fais attention à toi.,Tell me treasure take care.,LOVE
+"Kikou mon cœur, appelle-moi quand tu peux. Bisous.","Hiya sweetheart, call me when you can. Kisses.",LOVE
+"Les volumes EBS sont sous-utilisés, réduis le provisionning.","EBS volumes are underutilized, reduce provisioning.",INFRA
+Je sais que tu es en réunion mais le certificat SSL a expiré je compte sur toi.,I know you are in a meeting but the SSL certificate has expired I'm counting on you.,TECH
+Le coût du SaaS est arrivée à la compta.,The SaaS cost arrived at accounting.,ACCOUNTING
+fais attention à toi. chaton à toute.,take care. kitten see you later.,LOVE
+Les frais de licence dépasse le budget alloué.,License fees exceeds allocated budget.,ACCOUNTING
+"Si tu as deux secondes entre midi et deux, la facture n'est pas au bon format sinon on verra ça lundi.","If you have a sec during lunch, the invoice is in the wrong format otherwise we'll see this Monday.",ACCOUNTING
+"Re mon chéri, fais attention à toi. Bisous.","Re darling, take care. Kisses.",LOVE
+Le coût du SaaS doit être imputée au marketing.,The SaaS cost must be charged to marketing.,ACCOUNTING
+"Les machines virtuelles gaspillent des ressources, passe en instances spot.","Virtual machines are wasting resources, switch to spot instances.",INFRA
+"Yo mon tout, fais attention à toi. Bisous.","Yo my everything, take care. Kisses.",LOVE
+"Les volumes EBS consomment trop de CPU, on doit éteindre la nuit.","EBS volumes consume too much CPU, we must turn off at night.",INFRA
+Re ma chérie fais attention à toi.,Re darling take care.,LOVE
+"Avant que j'oublie et que je parte, la base de données est corrompue désolé encore.","Before I forget and leave, the database is corrupted sorry again.",TECH
+Je pars en week-end dans 5 minutes mais il faut merger la PR maintenant tiens-moi au courant.,I'm leaving for the weekend in 5 minutes but we need to merge the PR now keep me posted.,TECH
+Les frais de licence est arrivée à la compta.,License fees arrived at accounting.,ACCOUNTING
+"Re ma vie, j'ai fait à manger. Bisous.","Re my life, I made dinner. Kisses.",LOVE
+Je sais que tu es en réunion mais je n'ai pas reçu le bon de commande c'est super urgent.,I know you are in a meeting but I didn't receive the purchase order it is super urgent.,ACCOUNTING
+"Le cluster Kubernetes sont sous-utilisés, met en place une policy d'arrêt.","The Kubernetes cluster are underutilized, set up a stop policy.",INFRA
+"Les instances EC2 gaspillent des ressources, met en place une policy d'arrêt.","EC2 instances are wasting resources, set up a stop policy.",INFRA
+Le chef a ramené des croissants.,The boss brought croissants.,MISC
+La note Datadog a besoin d'une validation du CFO.,The Datadog invoice needs CFO validation.,ACCOUNTING
+"La base RDS gaspillent des ressources, réduis le provisionning.","RDS database are wasting resources, reduce provisioning.",INFRA
+"Juste avant de prendre le train, il manque le justificatif Uber tiens-moi au courant.","Just before catching the train, the Uber receipt is missing keep me posted.",ACCOUNTING
+"Entre deux cafés, peux-tu m'envoyer le RIB pour le virement ? c'est super urgent.","Between two coffees, can you send me the bank details for the transfer? it is super urgent.",ACCOUNTING
+je t'aime fort. ma puce à toute.,I love you so much. honey see you later.,LOVE
+"Si tu as deux secondes entre midi et deux, j'ai besoin des logs d'erreur tiens-moi au courant.","If you have a sec during lunch, I need the error logs keep me posted.",TECH
+fais de beaux rêves. chaton à toute.,sweet dreams. kitten see you later.,LOVE
+"Coucou ma chérie, j'ai hâte de te voir. Bisous.","Hey darling, can't wait to see you. Kisses.",LOVE
+"Entre deux cafés, l'API renvoie une erreur 500 c'est super urgent.","Between two coffees, the API returns a 500 error it is super urgent.",TECH
+"Salut mon tout, tu as bien dormi ? Bisous.","Hi my everything, did you sleep well? Kisses.",LOVE
+"Entre deux cafés, il manque le justificatif Uber je compte sur toi.","Between two coffees, the Uber receipt is missing I'm counting on you.",ACCOUNTING
+Je sais que tu es en réunion mais la facture n'est pas au bon format fais vite s'il te plaît.,I know you are in a meeting but the invoice is in the wrong format please be quick.,ACCOUNTING
+"Les instances EC2 consomment trop de CPU, il faut réduire la taille.","EC2 instances consume too much CPU, we need to downsize.",INFRA
+"Quel blaireau, elle a couché pour réussir.","What a jerk, she slept her way to the top.",GOSSIP
+"Les instances EC2 sont sous-utilisés, il faut réduire la taille.","EC2 instances are underutilized, we need to downsize.",INFRA
+Dis-moi bébé je t'aime fort.,Tell me baby I love you so much.,LOVE
+Au fait mon chéri bon appétit.,By the way darling enjoy your meal.,LOVE
+"Le stockage S3 gaspillent des ressources, supprime les volumes orphelins.","S3 storage are wasting resources, delete orphan volumes.",INFRA
+"Coucou mon chéri, tu rentres à quelle heure ? Bisous.","Hey darling, what time are you coming home? Kisses.",LOVE
+j'ai hâte de te voir. trésor à toute.,can't wait to see you. treasure see you later.,LOVE
+j'ai fait à manger. mon ange à toute.,I made dinner. my angel see you later.,LOVE
+"Juste avant de prendre le train, l'API renvoie une erreur 500 je compte sur toi.","Just before catching the train, the API returns a 500 error I'm counting on you.",TECH
+"Juste avant de prendre le train, le serveur de prod a crashé merci d'avance.","Just before catching the train, the prod server crashed thanks in advance.",TECH
+"Ça va ma puce, j'ai fait à manger. Bisous.","How are you honey, I made dinner. Kisses.",LOVE
+"C'est grave, son alcoolisme met l'équipe en danger.","It is serious, his alcoholism endangers the team.",HR_COMPLAINT
+fais de beaux rêves. ma puce à toute.,sweet dreams. honey see you later.,LOVE
+"La bande passante sont surdimensionnés, il faut réduire la taille.","Bandwidth are oversized, we need to downsize.",INFRA
+appelle-moi quand tu peux. ma belle à toute.,call me when you can. beautiful see you later.,LOVE
+on mange quoi ce soir ? trésor à toute.,what are we eating tonight? treasure see you later.,LOVE
+"Avant que j'oublie et que je parte, il faut valider le devis du fournisseur merci d'avance.","Before I forget and leave, we must validate the supplier quote thanks in advance.",ACCOUNTING
+"Kikou bébé, fais attention à toi. Bisous.","Hiya baby, take care. Kisses.",LOVE
+"Pendant que j'y pense, le serveur de prod a crashé sinon on verra ça lundi.","While I'm thinking about it, the prod server crashed otherwise we'll see this Monday.",TECH
+"Juste avant de prendre le train, peux-tu m'envoyer le RIB pour le virement ? fais vite s'il te plaît.","Just before catching the train, can you send me the bank details for the transfer? please be quick.",ACCOUNTING
+Hey ma belle bisous.,Hey beautiful kisses.,LOVE
+"Les instances EC2 consomment trop de CPU, supprime les volumes orphelins.","EC2 instances consume too much CPU, delete orphan volumes.",INFRA
+tu me manques. ma puce à toute.,I miss you. honey see you later.,LOVE
+"La base RDS sont surdimensionnés, passe en instances spot.","RDS database are oversized, switch to spot instances.",INFRA
+"Les nœuds du cluster sont surdimensionnés, on doit éteindre la nuit.","Cluster nodes are oversized, we must turn off at night.",INFRA
+"Les volumes EBS tournent dans le vide, réduis le provisionning.","EBS volumes are running mostly idle, reduce provisioning.",INFRA
+Je pars en week-end dans 5 minutes mais je dois absolument commit ce fichier je compte sur toi.,I'm leaving for the weekend in 5 minutes but I absolutely must commit this file I'm counting on you.,TECH
+"Nos serveurs de dev consomment trop de CPU, optimise l'autoscaling.","Our dev servers consume too much CPU, optimize autoscaling.",INFRA
+"Les machines virtuelles tournent dans le vide, réduis le provisionning.","Virtual machines are running mostly idle, reduce provisioning.",INFRA
+"Les volumes EBS consomment trop de CPU, passe en instances spot.","EBS volumes consume too much CPU, switch to spot instances.",INFRA
+"Yo ma chérie, tu rentres à quelle heure ? Bisous.","Yo darling, what time are you coming home? Kisses.",LOVE
+Au fait ma chérie je t'aime fort.,By the way darling I love you so much.,LOVE
+Re ma puce tu rentres à quelle heure ?,Re honey what time are you coming home?,LOVE
+Je vais au bureau en vélo aujourd'hui.,I'm biking to the office today.,MISC
+Je pars en week-end dans 5 minutes mais je n'ai pas reçu le bon de commande sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but I didn't receive the purchase order otherwise we'll see this Monday.,ACCOUNTING
+Hey trésor j'ai hâte de te voir.,Hey treasure can't wait to see you.,LOVE
+Je pars en week-end dans 5 minutes mais il faut valider le devis du fournisseur je compte sur toi.,I'm leaving for the weekend in 5 minutes but we must validate the supplier quote I'm counting on you.,ACCOUNTING
+Le prélèvement Google Cloud est bloquée pour impayé.,The Google Cloud debit is blocked for non-payment.,ACCOUNTING
+"Bonne nuit mon amour, on mange quoi ce soir ? Bisous.","Good night my love, what are we eating tonight? Kisses.",LOVE
+repose-toi bien. trésor à toute.,rest well. treasure see you later.,LOVE
+"Je demande un RDV, il a eu des gestes déplacés.","I request a meeting, he made inappropriate gestures.",HR_COMPLAINT
+"Les pods sont sous-utilisés, réduis le provisionning.","Pods are underutilized, reduce provisioning.",INFRA
+repose-toi bien. chaton à toute.,rest well. kitten see you later.,LOVE
+"Coucou ma belle, je t'aime fort. Bisous.","Hey beautiful, I love you so much. Kisses.",LOVE
+Les frais de licence est bloquée pour impayé.,License fees is blocked for non-payment.,ACCOUNTING
+j'ai hâte de te voir. mon cœur à toute.,can't wait to see you. sweetheart see you later.,LOVE
+"Au fait mon ange, je pense à toi. Bisous.","By the way my angel, I'm thinking of you. Kisses.",LOVE
+Hello ma puce fais de beaux rêves.,Hello honey sweet dreams.,LOVE
+Je n'ai plus de batterie sur mon téléphone.,I ran out of battery on my phone.,MISC
+"Bonsoir ma vie, fais de beaux rêves. Bisous.","Good evening my life, sweet dreams. Kisses.",LOVE
+"Les instances EC2 sont sous-utilisés, on doit éteindre la nuit.","EC2 instances are underutilized, we must turn off at night.",INFRA
+fais de beaux rêves. ma chérie à toute.,sweet dreams. darling see you later.,LOVE
+"Je ne me sens pas en sécurité, il y a eu une agression verbale.","I don't feel safe, there was a verbal assault.",HR_COMPLAINT
+Salut chaton repose-toi bien.,Hi kitten rest well.,LOVE
+Salut mon tout j'ai hâte de te voir.,Hi my everything can't wait to see you.,LOVE
+Salut trésor bon appétit.,Hi treasure enjoy your meal.,LOVE
+"Les instances EC2 consomment trop de CPU, passe en instances spot.","EC2 instances consume too much CPU, switch to spot instances.",INFRA
+"Salut ma puce, repose-toi bien. Bisous.","Hi honey, rest well. Kisses.",LOVE
+"Avant que j'oublie et que je parte, l'API renvoie une erreur 500 désolé encore.","Before I forget and leave, the API returns a 500 error sorry again.",TECH
+"Au fait ma puce, on mange quoi ce soir ? Bisous.","By the way honey, what are we eating tonight? Kisses.",LOVE
+Salut bébé j'ai fait à manger.,Hi baby I made dinner.,LOVE
+"Les volumes EBS consomment trop de CPU, met en place une policy d'arrêt.","EBS volumes consume too much CPU, set up a stop policy.",INFRA
+Yo bébé bisous.,Yo baby kisses.,LOVE
+tu as bien dormi ? mon ange à toute.,did you sleep well? my angel see you later.,LOVE
+j'ai fait à manger. mon cœur à toute.,I made dinner. sweetheart see you later.,LOVE
+"Re mon ange, je pense à toi. Bisous.","Re my angel, I'm thinking of you. Kisses.",LOVE
+"Entre deux cafés, tu as oublié de signer ma note de frais tiens-moi au courant.","Between two coffees, you forgot to sign my expense report keep me posted.",ACCOUNTING
+Désolé de te déranger pendant ton repas mais le déploiement a échoué tiens-moi au courant.,Sorry to disturb your meal but the deployment failed keep me posted.,TECH
+"Quel blaireau, elle ne fout rien de ses journées.","What a jerk, she does nothing all day.",GOSSIP
+Ça va mon amour bisous.,How are you my love kisses.,LOVE
+"Entre deux cafés, la base de données est corrompue c'est super urgent.","Between two coffees, the database is corrupted it is super urgent.",TECH
+Kikou bébé fais de beaux rêves.,Hiya baby sweet dreams.,LOVE
+"Pendant que j'y pense, il faut valider le devis du fournisseur c'est super urgent.","While I'm thinking about it, we must validate the supplier quote it is super urgent.",ACCOUNTING
+"Pendant que j'y pense, j'ai besoin des logs d'erreur sinon on verra ça lundi.","While I'm thinking about it, I need the error logs otherwise we'll see this Monday.",TECH
+"Les lambdas sont inactifs le week-end, supprime les volumes orphelins.","Lambdas are inactive on weekends, delete orphan volumes.",INFRA
+Je sais que tu es en réunion mais il faut valider le devis du fournisseur merci d'avance.,I know you are in a meeting but we must validate the supplier quote thanks in advance.,ACCOUNTING
+Le renouvellement annuel nécessite la carte corporate.,Annual renewal requires the corporate card.,ACCOUNTING
+"Nos serveurs de dev sont sous-utilisés, supprime les volumes orphelins.","Our dev servers are underutilized, delete orphan volumes.",INFRA
+"C'est abusé, c'est un léche-bottes.","It's ridiculous, he is a bootlicker.",GOSSIP
+"Le stockage S3 coûtent trop cher, passe en instances spot.","S3 storage are too expensive, switch to spot instances.",INFRA
+"Entre deux cafés, je n'ai pas reçu le bon de commande sinon on verra ça lundi.","Between two coffees, I didn't receive the purchase order otherwise we'll see this Monday.",ACCOUNTING
+"Les machines virtuelles sont sous-utilisés, supprime les volumes orphelins.","Virtual machines are underutilized, delete orphan volumes.",INFRA
+"Avant que j'oublie et que je parte, la TVA n'est pas bonne sur ce document merci d'avance.","Before I forget and leave, the VAT is incorrect on this document thanks in advance.",ACCOUNTING
+Je pars en week-end dans 5 minutes mais je n'ai pas reçu le bon de commande je compte sur toi.,I'm leaving for the weekend in 5 minutes but I didn't receive the purchase order I'm counting on you.,ACCOUNTING
+"Au fait mon amour, appelle-moi quand tu peux. Bisous.","By the way my love, call me when you can. Kisses.",LOVE
+Au fait ma chérie bisous.,By the way darling kisses.,LOVE
+Au fait mon chéri tu as bien dormi ?,By the way darling did you sleep well?,LOVE
+Coucou mon cœur appelle-moi quand tu peux.,Hey sweetheart call me when you can.,LOVE
+j'ai fait à manger. ma vie à toute.,I made dinner. my life see you later.,LOVE
+Hey mon amour je t'aime fort.,Hey my love I love you so much.,LOVE
+"Les volumes EBS sont inactifs le week-end, passe en instances spot.","EBS volumes are inactive on weekends, switch to spot instances.",INFRA
+"Hello ma chérie, fais attention à toi. Bisous.","Hello darling, take care. Kisses.",LOVE
+L'abonnement Azure est arrivée à la compta.,The Azure subscription arrived at accounting.,ACCOUNTING
+Ça va trésor j'ai fait à manger.,How are you treasure I made dinner.,LOVE
+"Kikou ma vie, tu me manques. Bisous.","Hiya my life, I miss you. Kisses.",LOVE
+Tu as vu ? il est encore bourré.,Did you see? he is drunk again.,GOSSIP
+"Les lambdas sont inactifs le week-end, réduis le provisionning.","Lambdas are inactive on weekends, reduce provisioning.",INFRA
+Bonsoir ma vie bisous.,Good evening my life kisses.,LOVE
+Le distributeur de billets est vide.,The ATM is empty.,MISC
+"Bonsoir mon ange, tu as bien dormi ? Bisous.","Good evening my angel, did you sleep well? Kisses.",LOVE
+"Entre nous, il sent vraiment mauvais.","Between us, he smells really bad.",GOSSIP
+"Les volumes EBS coûtent trop cher, on doit éteindre la nuit.","EBS volumes are too expensive, we must turn off at night.",INFRA
+La facture AWS dépasse le budget alloué.,The AWS bill exceeds allocated budget.,ACCOUNTING
+Les frais de licence n'a pas le bon bon de commande.,License fees has the wrong PO.,ACCOUNTING
+Je sais que tu es en réunion mais le certificat SSL a expiré tiens-moi au courant.,I know you are in a meeting but the SSL certificate has expired keep me posted.,TECH
+"Les machines virtuelles gaspillent des ressources, supprime les volumes orphelins.","Virtual machines are wasting resources, delete orphan volumes.",INFRA
+j'ai hâte de te voir. ma belle à toute.,can't wait to see you. beautiful see you later.,LOVE
+Salut mon chéri je pense à toi.,Hi darling I'm thinking of you.,LOVE
+"Re chaton, bon appétit. Bisous.","Re kitten, enjoy your meal. Kisses.",LOVE
+fais de beaux rêves. trésor à toute.,sweet dreams. treasure see you later.,LOVE
+"La bande passante coûtent trop cher, supprime les volumes orphelins.","Bandwidth are too expensive, delete orphan volumes.",INFRA
+La redevance logicielle n'a pas le bon bon de commande.,Software fee has the wrong PO.,ACCOUNTING
+"Hello ma puce, bon appétit. Bisous.","Hello honey, enjoy your meal. Kisses.",LOVE
+Au fait ma belle j'ai fait à manger.,By the way beautiful I made dinner.,LOVE
+"Pendant que j'y pense, la facture n'est pas au bon format merci d'avance.","While I'm thinking about it, the invoice is in the wrong format thanks in advance.",ACCOUNTING
+"Hello mon tout, je pense à toi. Bisous.","Hello my everything, I'm thinking of you. Kisses.",LOVE
+"Avant que j'oublie et que je parte, l'API renvoie une erreur 500 sinon on verra ça lundi.","Before I forget and leave, the API returns a 500 error otherwise we'll see this Monday.",TECH
+Désolé de te déranger pendant ton repas mais le déploiement a échoué désolé encore.,Sorry to disturb your meal but the deployment failed sorry again.,TECH
+Je sais que tu es en réunion mais la facture n'est pas au bon format je compte sur toi.,I know you are in a meeting but the invoice is in the wrong format I'm counting on you.,ACCOUNTING
+Je pars en week-end dans 5 minutes mais j'ai besoin des logs d'erreur merci d'avance.,I'm leaving for the weekend in 5 minutes but I need the error logs thanks in advance.,TECH
+"Le stockage S3 tournent dans le vide, on doit éteindre la nuit.","S3 storage are running mostly idle, we must turn off at night.",INFRA
+"Si tu as deux secondes entre midi et deux, il faut valider le devis du fournisseur sinon on verra ça lundi.","If you have a sec during lunch, we must validate the supplier quote otherwise we'll see this Monday.",ACCOUNTING
+Bonne nuit ma vie j'ai hâte de te voir.,Good night my life can't wait to see you.,LOVE
+"Franchement, elle ne fout rien de ses journées.","Honestly, she does nothing all day.",GOSSIP
+Yo mon ange fais de beaux rêves.,Yo my angel sweet dreams.,LOVE
+"Les pods consomment trop de CPU, met en place une policy d'arrêt.","Pods consume too much CPU, set up a stop policy.",INFRA
+Hey ma vie fais de beaux rêves.,Hey my life sweet dreams.,LOVE
+"Entre deux cafés, le serveur de prod a crashé merci d'avance.","Between two coffees, the prod server crashed thanks in advance.",TECH
+Bonne nuit ma belle fais attention à toi.,Good night beautiful take care.,LOVE
+La facture AWS doit être réglée.,The AWS bill must be paid.,ACCOUNTING
+"Pendant que j'y pense, peux-tu m'envoyer le RIB pour le virement ? fais vite s'il te plaît.","While I'm thinking about it, can you send me the bank details for the transfer? please be quick.",ACCOUNTING
+"Salut ma chérie, tu as bien dormi ? Bisous.","Hi darling, did you sleep well? Kisses.",LOVE
+"Le cluster Kubernetes sont sous-utilisés, passe en instances spot.","The Kubernetes cluster are underutilized, switch to spot instances.",INFRA
+"Coucou bébé, fais de beaux rêves. Bisous.","Hey baby, sweet dreams. Kisses.",LOVE
+"Les machines virtuelles coûtent trop cher, met en place une policy d'arrêt.","Virtual machines are too expensive, set up a stop policy.",INFRA
+"Kikou ma chérie, fais de beaux rêves. Bisous.","Hiya darling, sweet dreams. Kisses.",LOVE
+La redevance logicielle a besoin d'une validation du CFO.,Software fee needs CFO validation.,ACCOUNTING
+"Juste avant de prendre le train, la facture n'est pas au bon format désolé encore.","Just before catching the train, the invoice is in the wrong format sorry again.",ACCOUNTING
+"Si tu as deux secondes entre midi et deux, le déploiement a échoué je compte sur toi.","If you have a sec during lunch, the deployment failed I'm counting on you.",TECH
+"La bande passante sont sous-utilisés, supprime les volumes orphelins.","Bandwidth are underutilized, delete orphan volumes.",INFRA
+Hey ma puce fais attention à toi.,Hey honey take care.,LOVE
+Dis-moi chaton j'ai fait à manger.,Tell me kitten I made dinner.,LOVE
+Je pars en week-end dans 5 minutes mais le déploiement a échoué je compte sur toi.,I'm leaving for the weekend in 5 minutes but the deployment failed I'm counting on you.,TECH
+"La base RDS sont sous-utilisés, optimise l'autoscaling.","RDS database are underutilized, optimize autoscaling.",INFRA
+"Les lambdas consomment trop de CPU, optimise l'autoscaling.","Lambdas consume too much CPU, optimize autoscaling.",INFRA
+"Juste avant de prendre le train, il manque le justificatif Uber c'est super urgent.","Just before catching the train, the Uber receipt is missing it is super urgent.",ACCOUNTING
+"Pendant que j'y pense, la base de données est corrompue sinon on verra ça lundi.","While I'm thinking about it, the database is corrupted otherwise we'll see this Monday.",TECH
+"Dis-moi mon cœur, je pense à toi. Bisous.","Tell me sweetheart, I'm thinking of you. Kisses.",LOVE
+tu me manques. mon amour à toute.,I miss you. my love see you later.,LOVE
+"Salut mon ange, tu as bien dormi ? Bisous.","Hi my angel, did you sleep well? Kisses.",LOVE
+Désolé de te déranger pendant ton repas mais je dois absolument commit ce fichier sinon on verra ça lundi.,Sorry to disturb your meal but I absolutely must commit this file otherwise we'll see this Monday.,TECH
+Désolé de te déranger pendant ton repas mais il faut valider le devis du fournisseur sinon on verra ça lundi.,Sorry to disturb your meal but we must validate the supplier quote otherwise we'll see this Monday.,ACCOUNTING
+Il faut nettoyer l'écran de la télé.,Need to clean the TV screen.,MISC
+Je sais que tu es en réunion mais la base de données est corrompue désolé encore.,I know you are in a meeting but the database is corrupted sorry again.,TECH
+"Entre deux cafés, tu as oublié de signer ma note de frais sinon on verra ça lundi.","Between two coffees, you forgot to sign my expense report otherwise we'll see this Monday.",ACCOUNTING
+"Hello ma vie, tu rentres à quelle heure ? Bisous.","Hello my life, what time are you coming home? Kisses.",LOVE
+repose-toi bien. ma chérie à toute.,rest well. darling see you later.,LOVE
+"Les pods coûtent trop cher, passe en instances spot.","Pods are too expensive, switch to spot instances.",INFRA
+"Yo mon amour, fais attention à toi. Bisous.","Yo my love, take care. Kisses.",LOVE
+"Dis-moi ma belle, tu me manques. Bisous.","Tell me beautiful, I miss you. Kisses.",LOVE
+Coucou trésor j'ai hâte de te voir.,Hey treasure can't wait to see you.,LOVE
+Je pars en week-end dans 5 minutes mais le déploiement a échoué sinon on verra ça lundi.,I'm leaving for the weekend in 5 minutes but the deployment failed otherwise we'll see this Monday.,TECH
+"Kikou ma belle, bon appétit. Bisous.","Hiya beautiful, enjoy your meal. Kisses.",LOVE
+"Hey bébé, j'ai fait à manger. Bisous.","Hey baby, I made dinner. Kisses.",LOVE
+Désolé de te déranger pendant ton repas mais la facture n'est pas au bon format tiens-moi au courant.,Sorry to disturb your meal but the invoice is in the wrong format keep me posted.,ACCOUNTING
+Je pars en week-end dans 5 minutes mais le certificat SSL a expiré désolé encore.,I'm leaving for the weekend in 5 minutes but the SSL certificate has expired sorry again.,TECH
+"La bande passante sont sous-utilisés, on doit éteindre la nuit.","Bandwidth are underutilized, we must turn off at night.",INFRA
+Dis-moi ma chérie on mange quoi ce soir ?,Tell me darling what are we eating tonight?,LOVE
+C'est pas mes oignons mais ça coûte cher.,It's none of my business but it's expensive.,MISC
+"Si tu as deux secondes entre midi et deux, je dois absolument commit ce fichier fais vite s'il te plaît.","If you have a sec during lunch, I absolutely must commit this file please be quick.",TECH
+"Je demande un RDV, il y a eu une agression verbale.","I request a meeting, there was a verbal assault.",HR_COMPLAINT
+Re trésor je pense à toi.,Re treasure I'm thinking of you.,LOVE
+"Juste avant de prendre le train, il faut valider le devis du fournisseur sinon on verra ça lundi.","Just before catching the train, we must validate the supplier quote otherwise we'll see this Monday.",ACCOUNTING
+Yo ma puce tu rentres à quelle heure ?,Yo honey what time are you coming home?,LOVE
+"C'est abusé, il est encore bourré.","It's ridiculous, he is drunk again.",GOSSIP
+Je pars en week-end dans 5 minutes mais la facture n'est pas au bon format c'est super urgent.,I'm leaving for the weekend in 5 minutes but the invoice is in the wrong format it is super urgent.,ACCOUNTING
+Je sais que tu es en réunion mais peux-tu m'envoyer le RIB pour le virement ? je compte sur toi.,I know you are in a meeting but can you send me the bank details for the transfer? I'm counting on you.,ACCOUNTING
+fais attention à toi. mon chéri à toute.,take care. darling see you later.,LOVE
+"Pendant que j'y pense, tu as oublié de signer ma note de frais c'est super urgent.","While I'm thinking about it, you forgot to sign my expense report it is super urgent.",ACCOUNTING
+"Nos serveurs de dev sont sous-utilisés, réduis le provisionning.","Our dev servers are underutilized, reduce provisioning.",INFRA
+Je pars en week-end dans 5 minutes mais il faut valider le devis du fournisseur tiens-moi au courant.,I'm leaving for the weekend in 5 minutes but we must validate the supplier quote keep me posted.,ACCOUNTING
+"Nos serveurs de dev coûtent trop cher, on doit éteindre la nuit.","Our dev servers are too expensive, we must turn off at night.",INFRA
+"Nos serveurs de dev tournent dans le vide, on doit éteindre la nuit.","Our dev servers are running mostly idle, we must turn off at night.",INFRA
+Je n'ai que des pièces rouges.,I only have pennies.,MISC
+Bonne nuit ma puce tu as bien dormi ?,Good night honey did you sleep well?,LOVE
+"Je ne me sens pas en sécurité, je demande une intervention des RH.","I don't feel safe, I request HR intervention.",HR_COMPLAINT
+"Entre deux cafés, le serveur de prod a crashé je compte sur toi.","Between two coffees, the prod server crashed I'm counting on you.",TECH
+Désolé de te déranger pendant ton repas mais il faut valider le devis du fournisseur c'est super urgent.,Sorry to disturb your meal but we must validate the supplier quote it is super urgent.,ACCOUNTING
+Je sais que tu es en réunion mais peux-tu m'envoyer le RIB pour le virement ? sinon on verra ça lundi.,I know you are in a meeting but can you send me the bank details for the transfer? otherwise we'll see this Monday.,ACCOUNTING
+"Pendant que j'y pense, le certificat SSL a expiré fais vite s'il te plaît.","While I'm thinking about it, the SSL certificate has expired please be quick.",TECH
+Désolé de te déranger pendant ton repas mais il faut valider le devis du fournisseur désolé encore.,Sorry to disturb your meal but we must validate the supplier quote sorry again.,ACCOUNTING
+"Si tu as deux secondes entre midi et deux, le serveur de prod a crashé fais vite s'il te plaît.","If you have a sec during lunch, the prod server crashed please be quick.",TECH
+"La bande passante sont sous-utilisés, passe en instances spot.","Bandwidth are underutilized, switch to spot instances.",INFRA
+"Entre nous, elle a couché pour réussir.","Between us, she slept her way to the top.",GOSSIP
+"Les instances EC2 sont sous-utilisés, réduis le provisionning.","EC2 instances are underutilized, reduce provisioning.",INFRA
+bon appétit. mon cœur à toute.,enjoy your meal. sweetheart see you later.,LOVE
+fais de beaux rêves. mon amour à toute.,sweet dreams. my love see you later.,LOVE
+Les frais de licence doit être imputée au marketing.,License fees must be charged to marketing.,ACCOUNTING
+"Hello mon chéri, tu me manques. Bisous.","Hello darling, I miss you. Kisses.",LOVE
+"Les lambdas sont sous-utilisés, réduis le provisionning.","Lambdas are underutilized, reduce provisioning.",INFRA
+"Entre deux cafés, la TVA n'est pas bonne sur ce document c'est super urgent.","Between two coffees, the VAT is incorrect on this document it is super urgent.",ACCOUNTING
+"Avant que j'oublie et que je parte, il faut valider le devis du fournisseur désolé encore.","Before I forget and leave, we must validate the supplier quote sorry again.",ACCOUNTING
+"Si tu as deux secondes entre midi et deux, il manque le justificatif Uber c'est super urgent.","If you have a sec during lunch, the Uber receipt is missing it is super urgent.",ACCOUNTING
+"Avant que j'oublie et que je parte, il faut merger la PR maintenant désolé encore.","Before I forget and leave, we need to merge the PR now sorry again.",TECH
+"Kikou chaton, j'ai fait à manger. Bisous.","Hiya kitten, I made dinner. Kisses.",LOVE
+"Nos serveurs de dev sont surdimensionnés, met en place une policy d'arrêt.","Our dev servers are oversized, set up a stop policy.",INFRA
+Yo ma chérie appelle-moi quand tu peux.,Yo darling call me when you can.,LOVE
+Je sais que tu es en réunion mais je n'ai pas reçu le bon de commande je compte sur toi.,I know you are in a meeting but I didn't receive the purchase order I'm counting on you.,ACCOUNTING
+"Pendant que j'y pense, le serveur de prod a crashé désolé encore.","While I'm thinking about it, the prod server crashed sorry again.",TECH
+Hey mon cœur fais attention à toi.,Hey sweetheart take care.,LOVE
+"Avant que j'oublie et que je parte, la TVA n'est pas bonne sur ce document tiens-moi au courant.","Before I forget and leave, the VAT is incorrect on this document keep me posted.",ACCOUNTING
+fais attention à toi. mon cœur à toute.,take care. sweetheart see you later.,LOVE
+Au fait mon tout on mange quoi ce soir ?,By the way my everything what are we eating tonight?,LOVE
+"Dis-moi trésor, bon appétit. Bisous.","Tell me treasure, enjoy your meal. Kisses.",LOVE
+"Hey trésor, bisous. Bisous.","Hey treasure, kisses. Kisses.",LOVE
+Salut bébé bisous.,Hi baby kisses.,LOVE
+"Les machines virtuelles sont inactifs le week-end, passe en instances spot.","Virtual machines are inactive on weekends, switch to spot instances.",INFRA
+"Salut ma puce, bon appétit. Bisous.","Hi honey, enjoy your meal. Kisses.",LOVE
+Ça va mon cœur fais de beaux rêves.,How are you sweetheart sweet dreams.,LOVE
+j'ai fait à manger. bébé à toute.,I made dinner. baby see you later.,LOVE
+"Si tu as deux secondes entre midi et deux, la facture n'est pas au bon format merci d'avance.","If you have a sec during lunch, the invoice is in the wrong format thanks in advance.",ACCOUNTING
+"Hey bébé, tu rentres à quelle heure ? Bisous.","Hey baby, what time are you coming home? Kisses.",LOVE
+repose-toi bien. mon chéri à toute.,rest well. darling see you later.,LOVE
+Bonsoir chaton bisous.,Good evening kitten kisses.,LOVE
+"Hey mon chéri, tu rentres à quelle heure ? Bisous.","Hey darling, what time are you coming home? Kisses.",LOVE
+Hello ma puce on mange quoi ce soir ?,Hello honey what are we eating tonight?,LOVE
+fais de beaux rêves. ma belle à toute.,sweet dreams. beautiful see you later.,LOVE
+Yo mon amour j'ai hâte de te voir.,Yo my love can't wait to see you.,LOVE
+"Entre deux cafés, j'ai besoin des logs d'erreur fais vite s'il te plaît.","Between two coffees, I need the error logs please be quick.",TECH
+"Salut bébé, bisous. Bisous.","Hi baby, kisses. Kisses.",LOVE
+"Les lambdas sont surdimensionnés, réduis le provisionning.","Lambdas are oversized, reduce provisioning.",INFRA
+La note Datadog dépasse le budget alloué.,The Datadog invoice exceeds allocated budget.,ACCOUNTING
+Je sais que tu es en réunion mais peux-tu m'envoyer le RIB pour le virement ? fais vite s'il te plaît.,I know you are in a meeting but can you send me the bank details for the transfer? please be quick.,ACCOUNTING
+Yo bébé on mange quoi ce soir ?,Yo baby what are we eating tonight?,LOVE
+Au fait mon cœur tu as bien dormi ?,By the way sweetheart did you sleep well?,LOVE
+Je sais que tu es en réunion mais la TVA n'est pas bonne sur ce document désolé encore.,I know you are in a meeting but the VAT is incorrect on this document sorry again.,ACCOUNTING
+"Salut bébé, j'ai hâte de te voir. Bisous.","Hi baby, can't wait to see you. Kisses.",LOVE
+"La bande passante sont sous-utilisés, met en place une policy d'arrêt.","Bandwidth are underutilized, set up a stop policy.",INFRA
+Ça va ma puce appelle-moi quand tu peux.,How are you honey call me when you can.,LOVE
+Tu as vu ? c'est un léche-bottes.,Did you see? he is a bootlicker.,GOSSIP
+Le renouvellement annuel dépasse le budget alloué.,Annual renewal exceeds allocated budget.,ACCOUNTING
+Je pars en week-end dans 5 minutes mais le déploiement a échoué merci d'avance.,I'm leaving for the weekend in 5 minutes but the deployment failed thanks in advance.,TECH
+"Si tu as deux secondes entre midi et deux, peux-tu m'envoyer le RIB pour le virement ? désolé encore.","If you have a sec during lunch, can you send me the bank details for the transfer? sorry again.",ACCOUNTING
+Je sais que tu es en réunion mais tu as oublié de signer ma note de frais fais vite s'il te plaît.,I know you are in a meeting but you forgot to sign my expense report please be quick.,ACCOUNTING
+"Si tu as deux secondes entre midi et deux, le certificat SSL a expiré sinon on verra ça lundi.","If you have a sec during lunch, the SSL certificate has expired otherwise we'll see this Monday.",TECH
+"Hey ma vie, tu as bien dormi ? Bisous.","Hey my life, did you sleep well? Kisses.",LOVE
+"Hello mon tout, bon appétit. Bisous.","Hello my everything, enjoy your meal. Kisses.",LOVE
+"La base RDS coûtent trop cher, on doit éteindre la nuit.","RDS database are too expensive, we must turn off at night.",INFRA
+La redevance logicielle dépasse le budget alloué.,Software fee exceeds allocated budget.,ACCOUNTING
+tu rentres à quelle heure ? mon ange à toute.,what time are you coming home? my angel see you later.,LOVE
+"Je dois signaler un incident, je suis victime de discrimination.","I must report an incident, I am a victim of discrimination.",HR_COMPLAINT
+"Le cluster Kubernetes coûtent trop cher, optimise l'autoscaling.","The Kubernetes cluster are too expensive, optimize autoscaling.",INFRA
+"Le stockage S3 sont surdimensionnés, met en place une policy d'arrêt.","S3 storage are oversized, set up a stop policy.",INFRA
+"Nos serveurs de dev sont surdimensionnés, optimise l'autoscaling.","Our dev servers are oversized, optimize autoscaling.",INFRA
+Je pars en week-end dans 5 minutes mais la facture n'est pas au bon format désolé encore.,I'm leaving for the weekend in 5 minutes but the invoice is in the wrong format sorry again.,ACCOUNTING
+"Les lambdas gaspillent des ressources, met en place une policy d'arrêt.","Lambdas are wasting resources, set up a stop policy.",INFRA
+"Coucou trésor, je t'aime fort. Bisous.","Hey treasure, I love you so much. Kisses.",LOVE
+Désolé de te déranger pendant ton repas mais la base de données est corrompue merci d'avance.,Sorry to disturb your meal but the database is corrupted thanks in advance.,TECH
+"Je demande un RDV, je subis du harcèlement moral.","I request a meeting, I am suffering from moral harassment.",HR_COMPLAINT
+Je pars en week-end dans 5 minutes mais j'ai besoin des logs d'erreur fais vite s'il te plaît.,I'm leaving for the weekend in 5 minutes but I need the error logs please be quick.,TECH
+"Les instances EC2 gaspillent des ressources, on doit éteindre la nuit.","EC2 instances are wasting resources, we must turn off at night.",INFRA
+"La base RDS sont inactifs le week-end, il faut réduire la taille.","RDS database are inactive on weekends, we need to downsize.",INFRA
+"Entre deux cafés, j'ai besoin des logs d'erreur merci d'avance.","Between two coffees, I need the error logs thanks in advance.",TECH
+Dis-moi trésor tu me manques.,Tell me treasure I miss you.,LOVE
+Désolé de te déranger pendant ton repas mais tu as oublié de signer ma note de frais c'est super urgent.,Sorry to disturb your meal but you forgot to sign my expense report it is super urgent.,ACCOUNTING
+Dis-moi mon ange fais attention à toi.,Tell me my angel take care.,LOVE
+"Les machines virtuelles tournent dans le vide, il faut réduire la taille.","Virtual machines are running mostly idle, we need to downsize.",INFRA
+Je sais que tu es en réunion mais la base de données est corrompue sinon on verra ça lundi.,I know you are in a meeting but the database is corrupted otherwise we'll see this Monday.,TECH
+"Entre deux cafés, le serveur de prod a crashé désolé encore.","Between two coffees, the prod server crashed sorry again.",TECH
+"Si tu as deux secondes entre midi et deux, le certificat SSL a expiré c'est super urgent.","If you have a sec during lunch, the SSL certificate has expired it is super urgent.",TECH
+"Avant que j'oublie et que je parte, peux-tu m'envoyer le RIB pour le virement ? je compte sur toi.","Before I forget and leave, can you send me the bank details for the transfer? I'm counting on you.",ACCOUNTING
+Salut mon tout tu rentres à quelle heure ?,Hi my everything what time are you coming home?,LOVE
+on mange quoi ce soir ? mon ange à toute.,what are we eating tonight? my angel see you later.,LOVE
+"Entre deux cafés, il faut valider le devis du fournisseur je compte sur toi.","Between two coffees, we must validate the supplier quote I'm counting on you.",ACCOUNTING
+Hello bébé on mange quoi ce soir ?,Hello baby what are we eating tonight?,LOVE
+"Juste avant de prendre le train, peux-tu m'envoyer le RIB pour le virement ? je compte sur toi.","Just before catching the train, can you send me the bank details for the transfer? I'm counting on you.",ACCOUNTING
+"Hey ma chérie, bon appétit. Bisous.","Hey darling, enjoy your meal. Kisses.",LOVE
+Ça va ma vie tu as bien dormi ?,How are you my life did you sleep well?,LOVE
+Je sais que tu es en réunion mais il faut merger la PR maintenant tiens-moi au courant.,I know you are in a meeting but we need to merge the PR now keep me posted.,TECH
+Salut trésor tu as bien dormi ?,Hi treasure did you sleep well?,LOVE
+"Coucou ma puce, tu me manques. Bisous.","Hey honey, I miss you. Kisses.",LOVE
+"Juste avant de prendre le train, le certificat SSL a expiré je compte sur toi.","Just before catching the train, the SSL certificate has expired I'm counting on you.",TECH
+"Avant que j'oublie et que je parte, le déploiement a échoué sinon on verra ça lundi.","Before I forget and leave, the deployment failed otherwise we'll see this Monday.",TECH
+L'abonnement Azure n'a pas le bon bon de commande.,The Azure subscription has the wrong PO.,ACCOUNTING
