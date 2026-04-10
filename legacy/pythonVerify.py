@@ -1,16 +1,11 @@
-"""
-🔍 MODEL VERIFICATION SCRIPT (FIXED)
-=====================================
-Checks if exported C++ model matches Python model.
-Fixes: Integer class formatting & Label mapping
-"""
-
 import joblib
 import numpy as np
 import glob
 import os
 import string
 import re
+import sys
+import unicodedata
 from pathlib import Path
 
 # ==========================================
@@ -18,43 +13,62 @@ from pathlib import Path
 # Must match optunaModelTrainer.py EXACTLY
 # ==========================================
 
-STOP_WORDS = {}  # Empty as per your latest config
+STOP_WORDS = set()
 _LEGACY_DIR = Path(__file__).resolve().parent
 _PROJECT_ROOT = _LEGACY_DIR.parent
+if str(_PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(_PROJECT_ROOT))
+
+from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_artifacts
+
 _ARTIFACT_DIR = _PROJECT_ROOT / "artifacts" / "legacy"
 
 class CustomAnalyzer:
-    """Picklable analyzer class for text feature extraction"""
+    """Pickle-compatible analyzer matching legacy/optunaModelTrainer.py."""
 
     def __init__(self, params):
         self.params = params
+        self.punct_trans = str.maketrans(string.punctuation, ' ' * len(string.punctuation))
+
+    @staticmethod
+    def normalize_text(text):
+        normalized = unicodedata.normalize('NFD', text)
+        return "".join(c for c in normalized if unicodedata.category(c) != 'Mn')
 
     def __call__(self, text):
-        if not isinstance(text, str): return []
-        # Exact match to trainer logic:
-        text = text.lower().translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
+        if not isinstance(text, str):
+            return []
+
+        text = self.normalize_text(text)
+        text = text.lower().translate(self.punct_trans)
         words = [w for w in text.split()[:25] if w not in STOP_WORDS]
-        if not words: return []
+        if not words:
+            return []
 
         p = self.params
         tokens = []
 
         if p['W_CHAR'] > 0:
             for word in words:
-                if len(word) < p['CHAR_MIN']: continue
                 padded = f"<{word}>"
-                for n in range(p['CHAR_MIN'], p['CHAR_MAX'] + 1):
-                    for i in range(len(padded) - n + 1):
-                        tokens.extend([f"C:{padded[i:i + n]}"] * p['W_CHAR'])
+                padded_len = len(padded)
+                for i in range(padded_len):
+                    for n in range(p['CHAR_MIN'], p['CHAR_MAX'] + 1):
+                        if i + n <= padded_len:
+                            tokens.extend([f"C_{padded[i:i + n]}"] * p['W_CHAR'])
 
-        for i in range(len(words)):
-            tokens.extend([f"W:{words[i]}"] * p['W_WORD'])
-            if p['W_BI'] > 0 and i < len(words) - 1:
-                tokens.extend([f"B:{words[i]}_{words[i + 1]}"] * p['W_BI'])
-            if p['W_TRI'] > 0 and i < len(words) - 2:
-                tokens.extend([f"T:{words[i]}_{words[i + 1]}_{words[i + 2]}"] * p['W_TRI'])
+        if p['W_WORD'] > 0:
+            tokens.extend([f"W_{w}" for w in words] * p['W_WORD'])
 
-        tokens.extend([f"S:{words[0]}", f"E:{words[-1]}"] * p['W_POS'])
+        if p['W_BI'] > 0 and len(words) > 1:
+            tokens.extend([f"B_{words[i]}_{words[i + 1]}" for i in range(len(words) - 1)] * p['W_BI'])
+
+        if p['W_TRI'] > 0 and len(words) > 2:
+            tokens.extend([f"T_{words[i]}_{words[i + 1]}_{words[i + 2]}" for i in range(len(words) - 2)] * p['W_TRI'])
+
+        if p['W_POS'] > 0 and len(words) > 0:
+            tokens.extend([f"POS_START_{words[0]}", f"POS_END_{words[-1]}"] * p['W_POS'])
+
         return tokens
 
 # ==========================================
@@ -62,13 +76,18 @@ class CustomAnalyzer:
 # ==========================================
 
 def load_latest_model():
-    model_files = sorted(glob.glob(str(_ARTIFACT_DIR / "final_model_*.joblib")))
-    if not model_files:
+    try:
+        config, latest, _, artifact_dir = load_latest_artifacts()
+    except FileNotFoundError:
         print("❌ No model files found!")
         return None
-    latest = model_files[-1]
     print(f"📂 Loading: {latest}")
-    return joblib.load(latest), latest
+    print(f"📦 Artifact dir: {artifact_dir}")
+    pipeline = joblib.load(latest)
+    params = config.get("best_params", {})
+    if params:
+        pipeline.named_steps['vectorizer'].analyzer = CustomAnalyzer(params)
+    return pipeline, latest, config.get("categories", [])
 
 def find_latest_header():
     header_files = sorted(glob.glob(str(_ARTIFACT_DIR / "model_teensy_*.h")))
@@ -116,7 +135,7 @@ def verify_with_test_sentence(pipeline, topic_map=None):
 
     # Resolve class name
     pred_class_raw = classes[pred_idx]
-    pred_class_name = str(pred_class_raw)
+    pred_class_name = decode_topic(pred_class_raw, topic_map or [])
 
     # If we have the map from C++, use it
     if topic_map and isinstance(pred_class_raw, (int, np.integer)) and pred_class_raw < len(topic_map):
@@ -132,7 +151,7 @@ def verify_with_test_sentence(pipeline, topic_map=None):
         cls_raw = classes[i]
         prob = probs[i]
 
-        cls_str = str(cls_raw)
+        cls_str = decode_topic(cls_raw, topic_map or [])
         if topic_map and isinstance(cls_raw, (int, np.integer)) and cls_raw < len(topic_map):
             cls_str = f"{cls_raw} ({topic_map[cls_raw]})"
 
@@ -174,12 +193,14 @@ def main():
 
     model_data = load_latest_model()
     if not model_data: return
-    pipeline, _ = model_data
+    pipeline, _, categories = model_data
 
     # Get C++ topic map for readable output
     topic_map = get_cpp_topics()
     if topic_map:
         print(f"ℹ️  Loaded {len(topic_map)} topics from exported header")
+    else:
+        topic_map = categories
 
     # Run verification
     verify_with_test_sentence(pipeline, topic_map)

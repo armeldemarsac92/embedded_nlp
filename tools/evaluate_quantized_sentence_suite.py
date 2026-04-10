@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Evaluate the recreated legacy model against a curated sentence suite and an
+Evaluate the latest legacy Optuna model against a curated sentence suite and an
 INT8-quantized copy of the same classifier.
 
 Outputs:
@@ -12,8 +12,10 @@ from __future__ import annotations
 
 import copy
 import json
+import string
 import sys
-from dataclasses import asdict, dataclass
+import unicodedata
+from dataclasses import dataclass
 from pathlib import Path
 
 import joblib
@@ -29,15 +31,16 @@ if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
 from model_exporter import compute_quantization_error, quantize_symmetric
+from legacy_artifact_loader import load_latest_resources as load_latest_artifacts
 
 
-MODEL_PATH = ROOT / "artifacts" / "recreated_best_commit" / "final_model_recreated_best_20260204_194813.joblib"
-METRICS_PATH = ROOT / "artifacts" / "recreated_best_commit" / "best_results_recreated_best_20260204_194813.json"
 SUITE_PATH = ROOT / "data" / "evaluation_sentence_suite.txt"
 OUT_DIR = ROOT / "artifacts" / "evaluation"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 JSON_OUT = OUT_DIR / "sentence_suite_quantization_results.json"
 MD_OUT = OUT_DIR / "sentence_suite_quantization_report.md"
+
+STOP_WORDS = set()
 
 
 @dataclass(frozen=True)
@@ -45,6 +48,56 @@ class SentenceCase:
     expected: str
     variant: str
     sentence: str
+
+
+class CustomAnalyzer:
+    """Pickle-compatible analyzer matching legacy/optunaModelTrainer.py."""
+
+    def __init__(self, params):
+        self.params = params
+        self.punct_trans = str.maketrans(string.punctuation, " " * len(string.punctuation))
+
+    @staticmethod
+    def normalize_text(text):
+        normalized = unicodedata.normalize("NFD", text)
+        return "".join(c for c in normalized if unicodedata.category(c) != "Mn")
+
+    def __call__(self, text):
+        if not isinstance(text, str):
+            return []
+
+        text = self.normalize_text(text)
+        text = text.lower().translate(self.punct_trans)
+        words = [w for w in text.split()[:25] if w not in STOP_WORDS]
+        if not words:
+            return []
+
+        p = self.params
+        tokens = []
+
+        if p["W_CHAR"] > 0:
+            for word in words:
+                padded = f"<{word}>"
+                padded_len = len(padded)
+                for i in range(padded_len):
+                    for n in range(p["CHAR_MIN"], p["CHAR_MAX"] + 1):
+                        if i + n <= padded_len:
+                            ngram = padded[i:i + n]
+                            tokens.extend([f"C_{ngram}"] * p["W_CHAR"])
+
+        if p["W_WORD"] > 0:
+            tokens.extend([f"W_{w}" for w in words] * p["W_WORD"])
+
+        if p["W_BI"] > 0 and len(words) > 1:
+            tokens.extend([f"B_{words[i]}_{words[i + 1]}" for i in range(len(words) - 1)] * p["W_BI"])
+
+        if p["W_TRI"] > 0 and len(words) > 2:
+            tokens.extend([f"T_{words[i]}_{words[i + 1]}_{words[i + 2]}" for i in range(len(words) - 2)] * p["W_TRI"])
+
+        if p["W_POS"] > 0 and len(words) > 0:
+            tokens.extend([f"POS_START_{words[0]}", f"POS_END_{words[-1]}"] * p["W_POS"])
+
+        return tokens
 
 
 def load_suite(path: Path) -> list[SentenceCase]:
@@ -214,16 +267,13 @@ def build_report(payload: dict) -> str:
 
 
 def main() -> int:
-    if not MODEL_PATH.exists():
-        raise FileNotFoundError(f"Model not found: {MODEL_PATH}")
-    if not METRICS_PATH.exists():
-        raise FileNotFoundError(f"Metrics not found: {METRICS_PATH}")
+    metrics, model_path, metrics_path, _ = load_latest_artifacts()
     suite = load_suite(SUITE_PATH)
 
-    pipeline = joblib.load(MODEL_PATH)
+    pipeline = joblib.load(model_path)
+    pipeline.named_steps["vectorizer"].analyzer = CustomAnalyzer(metrics["best_params"])
     vectorizer = pipeline.named_steps["vectorizer"]
     classifier = pipeline.named_steps["classifier"]
-    metrics = json.loads(METRICS_PATH.read_text(encoding="utf-8"))
     categories = metrics["categories"]
 
     qclf, quant_report = build_quantized_classifier(classifier)
@@ -269,7 +319,8 @@ def main() -> int:
     ]))
 
     payload = {
-        "model_path": str(MODEL_PATH),
+        "model_path": str(model_path),
+        "metrics_path": str(metrics_path),
         "suite_path": str(SUITE_PATH),
         "classes": class_names,
         "memory": memory_stats(classifier),
