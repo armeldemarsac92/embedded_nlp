@@ -13,8 +13,7 @@ _PROJECT_ROOT = _LEGACY_DIR.parent
 if str(_PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(_PROJECT_ROOT))
 
-import legacy_model_recreation  # noqa: F401
-from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_resources_shared
+from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_artifacts
 
 # ==========================================
 # 🚨 CRITICAL: GLOBAL CONFIG
@@ -105,9 +104,9 @@ class CustomAnalyzer:
 # ==========================================
 def load_latest_resources():
     try:
-        return load_latest_resources_shared()
+        return load_latest_artifacts()
     except FileNotFoundError:
-        print("❌ Error: Files (.json or .joblib) not found. Run tools/recreate_best_legacy_model.py first.")
+        print("❌ Error: Files (.json or .joblib) not found. Run legacy/optunaModelTrainer.py first.")
         sys.exit(1)
 
 

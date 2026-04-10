@@ -14,8 +14,7 @@ _PROJECT_ROOT = _LEGACY_DIR.parent
 if str(_PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(_PROJECT_ROOT))
 
-import legacy_model_recreation  # noqa: F401
-from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_resources_shared
+from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_artifacts
 
 # Configuration
 COLORS = {
@@ -37,77 +36,50 @@ class CustomAnalyzer:
 
     def __init__(self, params):
         self.params = params
+        self.punct_trans = str.maketrans(string.punctuation, ' ' * len(string.punctuation))
 
     def __call__(self, text):
-        return self.analyze(text)
+        if not isinstance(text, str):
+            return []
 
-    def normalize_text(self, text):
-        """Normalize exactly as in training"""
-        # NFD normalization (décompose accents)
-        text = unicodedata.normalize('NFD', text)
-        # Remove combining characters (accents)
-        text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
-        # Lowercase
-        text = text.lower()
-        # Replace punctuation with spaces
-        text = text.translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
-        return text
+        text = self.normalize_text(text)
+        text = text.lower().translate(self.punct_trans)
 
-    def analyze(self, text):
-        """Feature extraction - MUST MATCH TRAINING EXACTLY"""
+        words = [w for w in text.split()[:25] if w not in STOP_WORDS]
+        if not words:
+            return []
+
         p = self.params
         tokens = []
 
-        # Normalize
-        text = self.normalize_text(text)
-
-        # Tokenize
-        words = text.split()
-        if not words:
-            return tokens
-
-        # ==========================================
-        # CHARACTER N-GRAMS (POSITION FIRST!)
-        # ==========================================
         if p['W_CHAR'] > 0:
             for word in words:
                 padded = f"<{word}>"
-                # ⚠️ CRITICAL: Loop position FIRST, then n-gram size
-                for i in range(len(padded)):
+                padded_len = len(padded)
+                for i in range(padded_len):
                     for n in range(p['CHAR_MIN'], p['CHAR_MAX'] + 1):
-                        if i + n <= len(padded):
+                        if i + n <= padded_len:
                             ngram = padded[i:i + n]
                             tokens.extend([f"C_{ngram}"] * p['W_CHAR'])
 
-        # ==========================================
-        # WORD UNIGRAMS
-        # ==========================================
         if p['W_WORD'] > 0:
             tokens.extend([f"W_{word}" for word in words] * p['W_WORD'])
 
-        # ==========================================
-        # WORD BIGRAMS
-        # ==========================================
         if p['W_BI'] > 0 and len(words) > 1:
-            bigrams = [f"B_{words[i]}_{words[i + 1]}" for i in range(len(words) - 1)]
-            tokens.extend(bigrams * p['W_BI'])
+            tokens.extend([f"B_{words[i]}_{words[i + 1]}" for i in range(len(words) - 1)] * p['W_BI'])
 
-        # ==========================================
-        # WORD TRIGRAMS
-        # ==========================================
         if p['W_TRI'] > 0 and len(words) > 2:
-            trigrams = [f"T_{words[i]}_{words[i + 1]}_{words[i + 2]}"
-                        for i in range(len(words) - 2)]
-            tokens.extend(trigrams * p['W_TRI'])
+            tokens.extend([f"T_{words[i]}_{words[i + 1]}_{words[i + 2]}" for i in range(len(words) - 2)] * p['W_TRI'])
 
-        # ==========================================
-        # POSITIONAL FEATURES
-        # ==========================================
         if p['W_POS'] > 0 and len(words) > 0:
-            tokens.extend([f"POS_START_{words[0]}"] * p['W_POS'])
-            tokens.extend([f"POS_END_{words[-1]}"] * p['W_POS'])
+            tokens.extend([f"POS_START_{words[0]}", f"POS_END_{words[-1]}"] * p['W_POS'])
 
         return tokens
+
+    @staticmethod
+    def normalize_text(text):
+        normalized = unicodedata.normalize('NFD', text)
+        return ''.join(c for c in normalized if unicodedata.category(c) != 'Mn')
 
 
 # ==========================================
@@ -116,10 +88,10 @@ class CustomAnalyzer:
 def load_preferred_resources():
     """Finds the most recent .json and .joblib files with validation"""
     try:
-        config_data, latest_model, latest_json, artifact_dir = load_latest_resources_shared()
+        config_data, latest_model, latest_json, artifact_dir = load_latest_artifacts()
     except FileNotFoundError:
         print("❌ Erreur : Fichiers (.json ou .joblib) introuvables.")
-        print("💡 Conseil : Lancez d'abord tools/recreate_best_legacy_model.py")
+        print("💡 Conseil : Lancez d'abord legacy/optunaModelTrainer.py")
         sys.exit(1)
 
     # Extract timestamps to verify matching
