@@ -1,0 +1,23 @@
+# expected|variant|sentence
+ACCOUNTING|clean|La liasse fiscale doit etre finalisee avant la cloture trimestrielle.
+ACCOUNTING|typo|la liasse fiscle doit etre finalisee avnat la cloture trimestrielle
+BANKING|clean|Le virement instantane ne passe plus sur mon compte bancaire.
+BANKING|typo|le viremnet instantane ne passe plus sur mon compte banciare
+BUSINESS|clean|Le client veut signer le devis si on baisse un peu le prix.
+BUSINESS|typo|le clinet veut signer le devsi si on baisse un peu le prix
+CYBER|clean|Un attaquant a vole les identifiants VPN et efface les logs.
+CYBER|typo|un attaqunat a vole les identifiants vpn et efface les logs
+GOSSIP|clean|Il parait que le directeur sort avec une collegue du service RH.
+GOSSIP|typo|il parait que le directuer sort avec une collegue du service rh
+HR_COMPLAINT|clean|Mon manager me harcele et je vais saisir les prudhommes.
+HR_COMPLAINT|typo|mon manager me harcele et je vais saisir les prudhomems
+HR_HIRING|clean|Le candidat a reussi l entretien technique et veut une offre.
+HR_HIRING|typo|le candidat a reussi l entrteien technique et veut une offre
+INFRA|clean|Le cluster Kubernetes est sature et plusieurs pods redemarrent.
+INFRA|typo|le cluster kuberntees est sature et plusieurs pods redemarrnet
+LOVE|clean|Tu me manques tellement mon coeur, j ai hate de te revoir.
+LOVE|typo|tu me mnaques tellement mon coeur j ai htae de te revoir
+MISC|clean|On mange ou ce midi apres la reunion ?
+MISC|typo|on mange ou ce midi apres la reuinon
+TECH|clean|La variable d environnement manque et le build casse en CI.
+TECH|typo|la variabel d environnment manque et le build casse en ci
