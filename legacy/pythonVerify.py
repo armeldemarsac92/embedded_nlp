@@ -11,6 +11,7 @@ import glob
 import os
 import string
 import re
+import sys
 from pathlib import Path
 
 # ==========================================
@@ -21,6 +22,12 @@ from pathlib import Path
 STOP_WORDS = {}  # Empty as per your latest config
 _LEGACY_DIR = Path(__file__).resolve().parent
 _PROJECT_ROOT = _LEGACY_DIR.parent
+if str(_PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(_PROJECT_ROOT))
+
+import legacy_model_recreation  # noqa: F401
+from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_resources_shared
+
 _ARTIFACT_DIR = _PROJECT_ROOT / "artifacts" / "legacy"
 
 class CustomAnalyzer:
@@ -62,13 +69,14 @@ class CustomAnalyzer:
 # ==========================================
 
 def load_latest_model():
-    model_files = sorted(glob.glob(str(_ARTIFACT_DIR / "final_model_*.joblib")))
-    if not model_files:
+    try:
+        config, latest, _, artifact_dir = load_latest_resources_shared()
+    except FileNotFoundError:
         print("❌ No model files found!")
         return None
-    latest = model_files[-1]
     print(f"📂 Loading: {latest}")
-    return joblib.load(latest), latest
+    print(f"📦 Artifact dir: {artifact_dir}")
+    return joblib.load(latest), latest, config.get("categories", [])
 
 def find_latest_header():
     header_files = sorted(glob.glob(str(_ARTIFACT_DIR / "model_teensy_*.h")))
@@ -116,7 +124,7 @@ def verify_with_test_sentence(pipeline, topic_map=None):
 
     # Resolve class name
     pred_class_raw = classes[pred_idx]
-    pred_class_name = str(pred_class_raw)
+    pred_class_name = decode_topic(pred_class_raw, topic_map or [])
 
     # If we have the map from C++, use it
     if topic_map and isinstance(pred_class_raw, (int, np.integer)) and pred_class_raw < len(topic_map):
@@ -132,7 +140,7 @@ def verify_with_test_sentence(pipeline, topic_map=None):
         cls_raw = classes[i]
         prob = probs[i]
 
-        cls_str = str(cls_raw)
+        cls_str = decode_topic(cls_raw, topic_map or [])
         if topic_map and isinstance(cls_raw, (int, np.integer)) and cls_raw < len(topic_map):
             cls_str = f"{cls_raw} ({topic_map[cls_raw]})"
 
@@ -174,12 +182,14 @@ def main():
 
     model_data = load_latest_model()
     if not model_data: return
-    pipeline, _ = model_data
+    pipeline, _, categories = model_data
 
     # Get C++ topic map for readable output
     topic_map = get_cpp_topics()
     if topic_map:
         print(f"ℹ️  Loaded {len(topic_map)} topics from exported header")
+    else:
+        topic_map = categories
 
     # Run verification
     verify_with_test_sentence(pipeline, topic_map)

@@ -10,7 +10,11 @@ from pathlib import Path
 
 _LEGACY_DIR = Path(__file__).resolve().parent
 _PROJECT_ROOT = _LEGACY_DIR.parent
-_ARTIFACT_DIR = _PROJECT_ROOT / "artifacts" / "legacy"
+if str(_PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(_PROJECT_ROOT))
+
+import legacy_model_recreation  # noqa: F401
+from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_resources_shared
 
 # ==========================================
 # 🚨 CRITICAL: GLOBAL CONFIG
@@ -100,27 +104,15 @@ class CustomAnalyzer:
 # --- ⚙️ SMART RESOURCE LOADER ---
 # ==========================================
 def load_latest_resources():
-    """Finds the most recent .json and .joblib files."""
-    # Look for files matching the trainer's output format
-    json_files = sorted(glob.glob(str(_ARTIFACT_DIR / "best_results_*.json")))
-    model_files = sorted(glob.glob(str(_ARTIFACT_DIR / "final_model_*.joblib")))
-
-    if not json_files or not model_files:
-        print("❌ Error: Files (.json or .joblib) not found. Run legacy/optunaModelTrainer.py first.")
+    try:
+        return load_latest_resources_shared()
+    except FileNotFoundError:
+        print("❌ Error: Files (.json or .joblib) not found. Run tools/recreate_best_legacy_model.py first.")
         sys.exit(1)
-
-    # Get the absolute last file (highest timestamp)
-    latest_json = json_files[-1]
-    latest_model = model_files[-1]
-
-    with open(latest_json, 'r') as f:
-        config_data = json.load(f)
-
-    return config_data, latest_model
 
 
 def load_resources():
-    config, model_path = load_latest_resources()
+    config, model_path, config_path, artifact_dir = load_latest_resources()
 
     # Extract params and metrics
     params = config["best_params"]
@@ -128,16 +120,12 @@ def load_resources():
     categories = config["categories"]
 
     print(f"📂 Loading Model  : \033[1m{model_path}\033[0m")
-    print(
-        f"📂 Loading Config : \033[1m{os.path.basename(model_path).replace('final_model_', 'best_results_').replace('.joblib', '.json')}\033[0m")
+    print(f"📂 Loading Config : \033[1m{config_path}\033[0m")
+    print(f"📦 Artifact Dir   : \033[1m{artifact_dir}\033[0m")
 
     # Load the binary model
-    # Because CustomAnalyzer is defined identically above, this will work.
     pipeline = joblib.load(model_path)
-
-    # OPTIONAL: Explicitly force the params just in case,
-    # though pickle usually handles state restoration.
-    # pipeline.named_steps['vectorizer'].analyzer.params = params
+    pipeline.named_steps['vectorizer'].analyzer = CustomAnalyzer(params)
 
     return pipeline, categories, params, metrics
 
@@ -178,7 +166,7 @@ def main():
             probs = pipeline.predict_proba([user_input])[0]
             idx = np.argmax(probs)
             conf = probs[idx]
-            topic = classes[idx]
+            topic = decode_topic(classes[idx], classes)
 
             # Visual Confidence
             # Green > 85%, Yellow > 60%, Red < 60%
@@ -191,7 +179,8 @@ def main():
             sorted_indices = np.argsort(probs)
             second_idx = sorted_indices[-2]
             if probs[second_idx] > 0.10:
-                print(f"🤔 Alternative: {classes[second_idx]} ({probs[second_idx]:.1%})")
+                second_topic = decode_topic(classes[second_idx], classes)
+                print(f"🤔 Alternative: {second_topic} ({probs[second_idx]:.1%})")
 
             # Debug: Show activated features (Optional)
             # analyzer = pipeline.named_steps['vectorizer'].analyzer

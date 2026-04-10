@@ -11,7 +11,11 @@ from pathlib import Path
 
 _LEGACY_DIR = Path(__file__).resolve().parent
 _PROJECT_ROOT = _LEGACY_DIR.parent
-_ARTIFACT_DIR = _PROJECT_ROOT / "artifacts" / "legacy"
+if str(_PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(_PROJECT_ROOT))
+
+import legacy_model_recreation  # noqa: F401
+from legacy_artifact_loader import decode_topic, load_latest_resources as load_latest_resources_shared
 
 # Configuration
 COLORS = {
@@ -109,18 +113,14 @@ class CustomAnalyzer:
 # ==========================================
 # --- ⚙️ SMART RESOURCE LOADER ---
 # ==========================================
-def load_latest_resources():
+def load_preferred_resources():
     """Finds the most recent .json and .joblib files with validation"""
-    json_files = sorted(glob.glob(str(_ARTIFACT_DIR / "best_results_*.json")))
-    model_files = sorted(glob.glob(str(_ARTIFACT_DIR / "final_model_*.joblib")))
-
-    if not json_files or not model_files:
+    try:
+        config_data, latest_model, latest_json, artifact_dir = load_latest_resources_shared()
+    except FileNotFoundError:
         print("❌ Erreur : Fichiers (.json ou .joblib) introuvables.")
-        print("💡 Conseil : Lancez d'abord legacy/optunaModelTrainer.py")
+        print("💡 Conseil : Lancez d'abord tools/recreate_best_legacy_model.py")
         sys.exit(1)
-
-    latest_json = json_files[-1]
-    latest_model = model_files[-1]
 
     # Extract timestamps to verify matching
     json_timestamp = latest_json.split('_')[-1].replace('.json', '')
@@ -130,17 +130,11 @@ def load_latest_resources():
     print("=" * 70)
     print(f"📋 Config : {COLORS['BOLD']}{latest_json}{COLORS['RESET']}")
     print(f"🧠 Modèle : {COLORS['BOLD']}{latest_model}{COLORS['RESET']}")
+    print(f"📦 Dossier : {COLORS['BOLD']}{artifact_dir}{COLORS['RESET']}")
 
     if json_timestamp != model_timestamp:
         print(f"{COLORS['DIM']}⚠️  Avertissement : Timestamps différents "
               f"(json: {json_timestamp} vs model: {model_timestamp}){COLORS['RESET']}")
-
-    try:
-        with open(latest_json, 'r') as f:
-            config_data = json.load(f)
-    except json.JSONDecodeError as e:
-        print(f"❌ Erreur lors du chargement de {latest_json}: {e}")
-        sys.exit(1)
 
     # Validation du contenu
     required_keys = ['best_params', 'categories']
@@ -153,7 +147,7 @@ def load_latest_resources():
 
 
 # Global Load
-CONFIG, MODEL_PATH = load_latest_resources()
+CONFIG, MODEL_PATH = load_preferred_resources()
 WINNING_PARAMS = CONFIG["best_params"]
 METRICS = CONFIG.get("test_metrics", {})
 CATEGORIES = CONFIG["categories"]
@@ -248,7 +242,7 @@ def analyze_file(filename, verbose=True):
     for idx, (phrase, probs) in enumerate(zip(phrases, all_probs), 1):
         best_idx = np.argmax(probs)
         best_conf = probs[best_idx]
-        topic = classes[best_idx]
+        topic = decode_topic(classes[best_idx], CATEGORIES)
         stats.append(topic)
 
         color = get_color(topic)
@@ -265,7 +259,7 @@ def analyze_file(filename, verbose=True):
         if best_conf < 0.8:
             second_idx = np.argsort(probs)[-2]
             second_conf = probs[second_idx]
-            second_topic = classes[second_idx]
+            second_topic = decode_topic(classes[second_idx], CATEGORIES)
             extra_info = f" {COLORS['DIM']}(2nd: {second_topic} {second_conf:.0%}){COLORS['RESET']}"
 
         print(f"{idx:3d}. {color}{topic:<15}{COLORS['RESET']} │ "
